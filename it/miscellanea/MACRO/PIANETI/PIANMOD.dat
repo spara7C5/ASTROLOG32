@@ -1,0 +1,26 @@
+@0309
+
+; pianeti moderni
+
+; DEFAULT RESTRICTIONS:
+
+-YR 0 10     0 0 0 0 0 0 0 0 0 0 0      ; Planets
+-YR 11 21    1 1 1 1 1 0 1 0 0 0 1    ; Minor planets
+-YR 22 33    0 1 1 0 1 1 0 1 1 0 1 1  ; House cusps
+-YR 34 42    1 1 1 1 1 1 1 1 1        ; Uranians
+
+; DEFAULT TRANSIT RESTRICTIONS:
+
+-YRT 1 10    0 1 0 0 0 0 0 0 0 0      ; Planets
+-YRT 11 21    1 1 1 1 1 0 1 1 1 1 1    ; Minor planets
+-YRT 22 33    1 1 1 1 1 1 1 1 1 1 1 1  ; House cusps
+-YRT 34 42    1 1 1 1 1 1 1 1 1        ; Uranians
+
+; DEFAULT PROGRESSION RESTRICTIONS (FOR DUAL CHARTS ONLY):
+
+-YRP 1 10    0 0 0 0 0 0 0 0 0 0      ; Planets
+-YRP 11 21    1 1 1 1 1 1 1 1 1 1 1    ; Minor planets
+-YRP 22 33    0 1 1 1 1 1 1 1 1 0 1 1  ; House cusps
+-YRP 34 42    1 1 1 1 1 1 1 1 1        ; Uranians
+
+; PIANMOD.DAT

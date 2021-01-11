@@ -1,0 +1,26 @@
+@0309
+
+; ritorni lunari
+
+; DEFAULT ASPECT ORBS:
+
+-YAo 1 5     2.5 2.5 2.5 2.5 2.5          ; Major aspects
+-YAo 6 11    1.3 1.3 1.3 1.3 1.0 1.0      ; Minor aspects
+-YAo 12 18   1.0 1.0 1.0 1.0 1.0 1.0 1.0  ; Obscure aspects
+
+; DEFAULT PLANET ASPECT ORB ADDITIONS:
+
+-YAd 1 10    0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+-YAd 11 21   0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+-YAd 22 33   0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+-YOc 2.00000 ; Temporary decreasing of orbs in comparison charts.
+             ; Default 2.5 times.
+
+-tn
+_X
+-R0 MOO
+-RT0 MOO
+-W 40230
+
+; RITOR02.DAT

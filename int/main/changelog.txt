@@ -1,0 +1,71 @@
+Version 2.05
+-----------------------
+-Companion to A32 by "The Dodger" for the English version 
+-Guide by Petr Trnka for the Czechoslovakian V1 version
+
+Version 2.04
+------------
+Swiss Ephemeris V1.80
+French and Italian versions updated (language resources and manuals)
+Macros set for English, Italian and Czechoslovakian versions
+Czechoslovakian, English, French and Italian atlases added 
+General internet links updated
+Project reordered for Visual C++ 2008 Express Edition IDE
+
+Version 2.03Beta
+------------
+For test purposes only. Not released
+
+Version 2.02
+------------
+FIX language resources errors
+ADD Italian manual
+CHG updated French manual
+
+Version 2.01
+------------
+FIX chart search bug in localized versions
+CHG harmonic calculation improved
+CHG transits removed from simplified mode
+CHG minor transation changes
+FIX ephemeris installation bug
+CHG French folder creation changed to prevent accented letters encoding conflicts in the file system
+FIX latitude/logitude bug (incorrect seconds input)
+
+Version 2.0
+-----------
+CHG Conversion of function declarations to C++ style (internal design change)
+CHG Conversion of byte types to char types where needed (internal design change)
+ADD Language-pack support
+ADD Closing the program via a shortcut requires confirmation
+ADD Printing of non-white background requires confirmation
+CHG TrueType font used for text output
+ADD New type of "#text" switches (see below)
+ADD #Glyph switch for defining national characters
+ADD MoveTo rendering method of glyphs (improved graphic output of fonts)
+CHG Atlas shows installed countries/states only
+CHG Time in chart files is always stored in 24h mode
+ADD Chart files containing names of months in English or PM/AM suffix can be loaded in all language versions
+FIX Parallel aspects calculation (by SK)
+FIX Nutation correction (by Antonio)
+ADD #SimplifiedMode and #AdvancedMode switch (easy-to-use simplified version for beginners)
+ADD SimplifiedMode and AdvancedMode menu
+ADD #DebugFont (for developers only)
+FIX 11th house was always omitted and 12th incorrectly displayed in the -v view. Partially fixed.
+ADD #CharSet (for details see WinGDI.h in Windows SDK)
+ADD #UseInternationalAtlas switch - prefer international atlas to the American one (for non-US countries)
+ADD language-specific configuration script in the language pack (possibility of more regional settings for language packs)
+CHG default paths are now relative to the exe-file (not C:\ASTROLOG32\ anymore)
+CHG menus slightly restructured to be more systematic 
+ADD Open command file menu item
+ADD advanced/ simplified mode page in the Wizard
+ADD #DegCharacter switch - reassignment of degree chars (for developers of language packs), syntax: DegCharacter [ANSIColorTextMode][TextMode][ANSIColorTextMode2][TextMode2][GraphicsMode]
+ADD #OmitWizard switch (for developers of language packs)
+ADD #OmitRegionalWizard switch (for developers of language packs)
+CHG Swiss Ephemerides 1.70 in use
+CHG Default colors and selections changed
+FIX position of IC is now saved correctly in *_pos files
+ADD default macro file loaded on start from file macro.dat placed in miscellaneous directory (if exists)
+ADD #DisableMacroShortcuts switch (for developers of language packs)
+
+

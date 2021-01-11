@@ -1,0 +1,43 @@
+@0309
+
+; Modern rulers and exaltation
+
+; Attribution de la maîtrise des signes
+-Yr 1 5     ; Bélier  Mars
+-Yr 2 4
+-Yr 3 3
+-Yr 4 2
+-Yr 5 1
+-Yr 6 3
+-Yr 7 4
+-Yr 8 10    ; Scorpion Pluton
+-Yr 9 6
+-Yr 10 7
+-Yr 11 8    ; Verseau  Uranus
+-Yr 12 9    ; Poissons Neptune
+
+;Attribution des domiciliations des planètes <objet> <signe> <cosign>
+-YJ 1 5 0   ; Soleil  Lion       rien
+-YJ 2 4 0   ; Lune    Cancer     rien
+-YJ 3 3 6   ; Mercure Gémeaux    Vierge
+-YJ 4 2 7   ; Venus   Taureau    Balance
+-YJ 5 1 8   ; Mars    Belier     Scorpion
+-YJ 6 9 12  ; Jupiter Sagittaire Poissons
+-YJ 7 10 11 ; Saturne Capricorne Verseau
+-YJ 8 11 0  ; Uranus  Verseau    rien
+-YJ 9 12 0  ; Neptune Poissons   rien
+-YJ 10 8 0  ; Pluton  Scorpion   rien
+
+; Attribution des exaltations des planètes <objet> <signe>
+-YJ0 1 1   ; Soleil Bélier
+-YJ0 2 2   ; Lune Taureau
+-YJ0 3 6   ; Mercure Vierge
+-YJ0 4 12  ; Ven Poi
+-YJ0 5 10  ; Mar Cap
+-YJ0 6 4   ; Jup Can
+-YJ0 7 7   ; Sat Bal
+-YJ0 8 8   ; Ura Sco
+-YJ0 9 5   ; Nep Lion
+-YJ0 10 11 ; Plu Verseau
+
+; MODERNE.DAT

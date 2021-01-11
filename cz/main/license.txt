@@ -1,0 +1,14 @@
+DISCLAIMER ##################
+
+This software is provided freely for non-comercial purposes.
+
+The software is provided "as is", without warranty of any kind, either express or implied. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, arising from the use or performance of this software.
+
+####### TECHNICAL NOTE #######
+
+In the following mask, install the program in the path:
+C:\Astrolog\Astrolog32
+This will permit to activate the integrated macros.
+For their use open the Help file
+
+##########################

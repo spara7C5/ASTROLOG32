@@ -1,0 +1,10 @@
+@0309
+
+; transiti dell'anno in corso
+
+_X
+-tyn
+-R0 1 2 3 4 5 6 7 8 9 10
+-RT0 6 7 8 9 10
+
+; TRANANNO.DAT

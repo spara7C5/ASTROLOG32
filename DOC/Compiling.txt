@@ -1,0 +1,22 @@
+1- Language.dlls compiling
+-----------------------
+Build\Clean solution
+Language property\ C/C++\ Code Generation: RT Libr=Multi-threaded (/MT)
+Configuration: Active(Debug)
+Platform: Active(Winn32)
+Configuration Manager: Act solut conf=Debug, Act solut plat= Win32
+Build\Build Solution
+
+2- astrolog32 compiling
+-----------------------
+Build\Clean solution
+astrolog32_en property\ C/C++\ Code Generation: RT Libr=Multi-threaded Debug(/MT)
+Configuration: Active(Release)
+Platform: Active(Winn32)
+Configuration Manager: Act solut conf=Release, Act solut plat= Win32
+Build\Build Solution
+
+astrolog32 installer
+-----------------------
+In Inno Setup Compiler:
+Menu Build\Compile

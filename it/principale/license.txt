@@ -1,0 +1,14 @@
+DISCLAIMER ##################
+
+Questo software è concesso gratuitamente per scopi non commerciali.
+
+Il software è fornito 'così come è', senza alcuna forma di garanzia, implicita o esplicita. In nessun caso gli autori e/o i detentori del copyright potranno essere ritenuti responsabili per danni o inconvenienti derivanti da qualunque forma d'uso del programma.
+
+####### NOTA TECNICA ########
+
+Nella maschera che segue installare il programma nel percorso:
+C:\Astrolog\Astrolog32
+Questo al fine di garantire il funzionamento dei nenu aggiuntivi.
+Per il loro utilizzo aprire la guida in italiano o il file di Help in inglese
+
+##########################

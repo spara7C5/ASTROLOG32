@@ -1,0 +1,630 @@
+
+#pragma region *** copyright info
+
+/*
+** Astrolog File: extern.h
+**
+** IMPORTANT NOTICE: The graphics database and chart display routines
+** used in this program are Copyright (C) 1991-1998 by Walter D. Pullen
+** (Astara@msn.com, http://www.magitech.com/~cruiser1/astrolog.htm).
+** Permission is granted to freely use and distribute these routines
+** provided one doesn't sell, restrict, or profit from them in any way.
+** Modification is allowed provided these notices remain with any
+** altered or edited versions of the program.
+**
+** The main planetary calculation routines used in this program have
+** been Copyrighted and the core of this program is basically a
+** conversion to C of the routines created by James Neely as listed in
+** Michael Erlewine's 'Manual of Computer Programming for Astrologers',
+** available from Matrix Software. The copyright gives us permission to
+** use the routines for personal use but not to sell them or profit from
+** them in any way.
+**
+** The PostScript code within the core graphics routines are programmed
+** and Copyright (C) 1992-1993 by Brian D. Willoughby
+** (brianw@sounds.wa.com). Conditions are identical to those above.
+**
+** The extended accurate ephemeris databases and formulas are from the
+** calculation routines in the library SWISS EPHEMERIS and are 
+** programmed and copyright 1998 by Astrodienst AG. The use of that 
+** source code is subject to the Swiss Ephemeris Public License, 
+** available at http://www.astro.ch/swisseph. 
+**
+** This copyright notice must not be changed or removed 
+** by any user of this program.
+**
+** Initial programming 8/28,30, 9/10,13,16,20,23, 10/3,6,7, 11/7,10,21/1991.
+** X Window graphics initially programmed 10/23-29/1991.
+** PostScript graphics initially programmed 11/29-30/1992.
+** Modifications from version 5.40 to 5.41 are by Alois Treindl.
+** Modifications from version 5.41 to 5.41g are by Valentin Abramov.
+** Windows 32-bits version by Antonio Ramos.
+**
+** This software is provided "as is", without warranty of any kind, either 
+** express or implied. In no event shall the authors or copyright holders be 
+** liable for any claim, damages or other liability, arising from the use or 
+** performance of this software.
+**
+*/
+
+
+/*
+******************************************************************************
+** Function Declarations.
+******************************************************************************
+*/
+#pragma endregion
+
+// from astrolog.c 
+
+extern void InitColors(void);
+extern void Action(void);
+extern BOOL FProcessCommandLine(char * szLine);
+extern int NParseCommandLine(char *szLine, char **argv);
+
+
+
+// from data.c 
+#pragma region *** data.c
+extern US us;
+extern IS is;
+extern CI ciCore, ciMain, ciTwin, ciThre, ciFour, ciTran, ciSave;
+extern CP cp0, cp1, cp2, cp3;
+extern int fCP3;
+extern double spacex[cLastMoving + 1], spacey[cLastMoving + 1], spacez[cLastMoving + 1], force[NUMBER_OBJECTS];
+extern GridInfo *grid;
+extern int starname[cStar + 1], kObjA[NUMBER_OBJECTS], kObjA1[cLastMoving + 1];
+
+extern byte ignore[NUMBER_OBJECTS], ignore2[NUMBER_OBJECTS], ignore3[NUMBER_OBJECTS];
+extern byte ignoreA[cAspect + 1], ignorez[4], pluszone[cSector + 1];
+extern double rAspAngle[cAspect + 1], rAspOrb[cAspect + 1];
+extern double rObjOrb[cLastMoving + 1], rObjAdd[cLastMoving + 1];
+extern int ruler1[cLastMoving + 1], ruler2[cLastMoving + 1], exalt[cLastMoving + 1],
+	rules[NUMBER_OF_SIGNS + 1], kMainA[9], kRainbowA[8], kElemA[4], kAspA[cAspect + 1];
+extern double rObjInf[cLastMoving + 3], rHouseInf[NUMBER_OF_SIGNS + 3], rAspInf[cAspect + 1], rTransitInf[cLastMoving + 3];
+
+extern const char *szAppName, *szSignAbbrev[NUMBER_OF_SIGNS + 1], *szSignEnglish[NUMBER_OF_SIGNS + 1],
+	*szHouseTradition[NUMBER_OF_SIGNS + 1], *szAspectGlyph[cAspect + 1], *szAspectConfig[cAspConfig + 1], 
+	*szDay[cWeek], *szZon[cZone], *szDir[4], *szSuffix[NUMBER_OF_SIGNS + 1];
+
+extern char *szMode[3], *szElem[4];
+
+extern char *szMonth[NUMBER_OF_SIGNS + 1];
+extern char *szMonthEn[NUMBER_OF_SIGNS + 1];
+extern char *szHouseSystem[NUMBER_OF_HOUSE_SYSTEMS], *szSignName[NUMBER_OF_SIGNS + 1];
+extern char *szMonthEnglish[NUMBER_OF_MONTHS + 1];
+
+extern const double rZon[cZone];
+extern char *szAspectAbbrev[cAspect + 1], *szAspectName[cAspect + 1];
+extern char *szAspectAbbrevCon, *szAspectAbbrevOpp;
+extern char *szObjName[NUMBER_OBJECTS];
+extern char *szObjShortName[NUMBER_OBJECTS];
+extern const char *szCnstlName[cCnstl + 1],
+	*szCnstlAbbrev[cCnstl + 1], *szCnstlMeaning[cCnstl + 1], *szCnstlGenitive[cCnstl + 1];
+extern char *szStarConName[cStar + 1];
+extern double rStarBright[cStar + 1];
+extern const double rStarData[cStar * 6];
+extern char *szMindPart[cLastMoving + 1], *szDesc[NUMBER_OF_SIGNS + 1], *szDesire[NUMBER_OF_SIGNS + 1],
+	*szLifeArea[NUMBER_OF_SIGNS + 1], *szInteract[cAspectInt + 1], *szTherefore[cAspectInt + 1], *szModify[3][cAspectInt];
+
+extern const double rObjDist[oVesta + 1], rObjYear[oVesta + 1], rObjDiam[oVesta + 1],
+	rObjDay[oPlu + 1], rObjMass[oPlu + 1], rObjAxis[oPlu + 1];
+extern const byte cSatellite[oPlu + 1];
+extern const AI ai[cPart];
+
+extern const byte rErrorCount[oPlu - oJup + 1];
+extern const byte rErrorOffset[oPlu - oJup + 1];
+extern const double rErrorData[72 + 51 + 42 * 3];
+extern OE rgoe[oVesta - 1 + cUran];
+extern char *szMacro[NUMBER_OF_MACROS];
+extern char *szColor[cColor];
+extern char *ayanamsha_name[LAST_SIDEREAL_MODE + 1];
+extern char *ayanamsha_short_name[LAST_SIDEREAL_MODE + 1];
+extern byte fEquator;
+extern language_t language;
+
+extern double PowerPar;
+extern int MonthFormat;
+extern byte oscLilith;
+extern BOOL fSortAspectsByOrbs;
+extern int CornerDecorationType;
+extern int CornerDecorationSize;
+extern int CornerDecorationNumberLines;
+extern BOOL fShowSecondChartInfoBar;
+extern CI *LastChartShown;
+
+
+// stars colors
+extern int kStar1;
+extern int kStar2;
+extern int kStar3;
+
+extern int kCornerDecoration;
+
+
+extern CI *ChartList(chart_ops_t operation, int heap_number, CI *ref_chart);
+
+#pragma endregion
+
+// from general.c 
+#pragma region
+extern char *StrCpy(char *dst, const char *src);
+extern int NCompareSz(const char *s1, const char *s2);
+extern void CopyRgb(byte *pbSrc, byte *pbDst, int cb);
+extern double RSgn(double r);
+extern double Angle(double x, double y);
+extern double Mod(double d);
+extern double ModRad(double r);
+extern long Dvd(long x, long y);
+extern int Mod12(int i);
+extern double DegMin2DecDeg(double d);
+extern double DecDeg2DegMin(double d);
+extern double MinDistance(double deg1, double deg2);
+extern double MinDifference(double deg1, double deg2);
+extern double Midpoint(double deg1, double deg2);
+extern char Dignify(int obj, int sign);
+extern int DayInMonth(int month, int year);
+extern int DaysInMonth(int month, int year);
+extern int DayOfWeek(int month, int day, int year);
+extern int AddDay(int month, int day, int year, int delta);
+extern double GetOrb(int obj1, int obj2, int asp);
+extern double GetOrbEx(int obj1, int obj2, int asp);
+
+extern BOOL fSstringsMatch(char *s1, char *s2, int n);
+extern char *StrStr(char *cs, char *ct);
+extern void Terminate(int tc);
+extern void PrintSz(char *sz, ...);
+extern void PrintCh(char ch);
+extern void PrintSzScreen(char * sz);
+extern void PrintWarning(char *error_string, ...);
+extern void PrintError(char *error_string, ...);
+extern void ErrorArgc(char *error_string, ...);
+extern void ErrorValN(char *szOpt, int nVal);
+extern void ErrorArgv(char *szOpt);
+extern void ErrorSwitch(char *szOpt);
+extern void ErrorEphem(char * sz, long l);
+extern void PrintTab(char ch, int cch);
+extern void AnsiColor(int k);
+extern void PrintZodiac(double deg);
+extern char *SzZodiac(double deg);
+extern char *SzAltitude(double deg);
+extern char *SzDegree(double deg);
+extern char *SzDate(int mon, int day, int yea, int nFormat);
+extern char *SzTime(int hr, int min, int sec);
+extern char *SzTim(double tim);
+extern char *SzZone(double zon);
+extern char *SzLocation(double lon, double lat);
+extern void GetTimeNow(int *mon, int *day, int *yea, double *tim, double zon);
+//extern int NFromAltN(int);
+extern char *ProcessProgname(char * szPath);
+extern char *SzPersist(char *string);
+extern void *allocate(long length, char *user);
+extern BOOL CheckFileTypeAndVersion(FILE *file, char *file_name, char *file_type, char *file_version);
+#pragma endregion
+
+// from io.c 
+#pragma region
+extern FILE *FileOpen(char *szFile, char *szDir, BOOL warn_if_file_not_found);
+extern BOOL FOutputData(void);
+extern int NParseSz(char *szEntry, int pm);
+extern double RParseSz(char *szEntry, int pm);
+extern BOOL FInputData(char *szFile, char *szDir);
+extern BOOL FileFind(char *szFile, char *szDir, char *path_found);
+extern void SetHereAndNow(CI *ci);
+extern void SetToHere(CI *ci);
+extern void SetToNow(CI *ci);
+extern void SetCI(CI *ci, int mon, int day, int yea, double tim, double dst, double zon, double lon, 
+		   double lat, char *loc);
+#pragma endregion
+
+//from houses.c
+#pragma region
+extern int HousePlaceIn(double rDeg);
+extern void ComputeInHouses(void);
+extern void HouseAlcabitius(void);
+extern void HouseEqualMidheaven(void);
+extern void HouseNeoPorphyry(void);
+extern void HouseWhole(void);
+extern void HouseNull(void);
+extern void ComputeHouses(int housesystem);
+
+extern void HousePlacidus(void);
+extern void HouseKoch(void);
+extern void HouseEqual(void);
+extern void HouseCampanus(void);
+extern void HouseMeridian(void);
+extern void HouseRegiomontanus(void);
+extern void HousePorphyry(void);
+extern void HouseShripati(void);
+extern void HouseMorinus(void);
+extern void HouseTopocentric(void);
+#pragma endregion
+
+// from calc.c 
+#pragma region
+extern void ComputeStars(double SD);
+extern double Decan(double deg);
+extern double Navamsa(double deg);
+extern void SphToRec(double r, double azi, double alt, double *rx, double *ry, double *rz);
+extern double CastChart(BOOL fDate);
+extern void CastSectors(void);
+extern BOOL FEnsureGrid(void);
+extern BOOL FAcceptAspect(int obj1, int asp, int obj2);
+extern void GetAspect(double *planet1, double *planet2, double *ret1, double *ret2, int i, int j);
+extern void GetParallel(double *planet1, double *planet2, double *planetalt1, double *planetalt2, double *ret1, double *ret2, double *altret1, double *altret2, int i, int j);
+extern BOOL FCreateGrid(BOOL fFlip);
+extern BOOL FCreateGridRelation(BOOL fMidpoint);
+extern void CreateElemTable(ET *);
+
+extern double CuspMidheaven(void);
+extern double CuspAscendant(void);
+extern double CuspEastPoint(void);
+
+extern double ObjPrime[cLastMoving + 1];
+extern double StarPrime[cStar + 1];
+extern int PrimeRest;
+extern double PrimeOrb1;
+extern double PrimeOrb2;
+extern double StarOrb;
+extern double CoeffComp;
+extern double CoeffPar;
+extern int StarAspects;
+extern int hRevers;
+extern byte StarRest;
+extern byte PolarMCflip;
+extern double SolidAspect;
+#pragma endregion
+
+
+// from matrix.c 
+#pragma region
+extern double MC, Asc, RA, OB;
+extern long MdyToJulian(int mon, int day, int yea);
+extern double MdytszToJulian(int mon, int day, int yea, double tim, double dst, double zon);
+extern void JulianToMdy(double JD, int *mon, int *day, int *yea);
+extern double ProcessInput(BOOL fDate);
+extern void PolToRec(double A, double R, double*X, double *Y);
+extern void RecToPol(double X, double Y, double*A, double *R);
+extern double RecToSph(double B, double L, double O);
+extern void CoorXform(double *azi, double *alt, double tilt);
+extern void ComputeVariables(double *vtx);
+
+extern double ReadThree(double r0, double r1, double r2);
+extern void RecToSph2(double AP, double AN, double INu, double *X, double *Y, double *G);
+extern void ErrorCorrect(int ind, double *x, double *y, double *z);
+extern void ProcessPlanet(int ind, double aber);
+extern void ComputePlanets(void);
+extern void ComputeLunar(double *moonlo, double *moonla, double *nodelo, double *nodela);
+#pragma endregion
+
+// from swe_call.c 
+
+extern BOOL CalculatePlanetSE(int ind, double jd, BOOL heliocentric, double SE_coordinates[6]);
+extern BOOL CalculateStarSE(int ind, double jd, double* longitude, double* latitude);
+extern void SetEphemerisPath(void);
+extern void ComputeWithSwissEphemeris(double t);
+
+
+// from charts0.c 
+#pragma region
+extern void PrintW(char *sz, int col);
+extern void PrintS(char *sz);
+extern void DisplaySwitches(void);
+extern void DisplaySwitchesRare(void);
+extern void PrintObjects(void);
+extern void PrintAspects(void);
+extern void PrintSigns(void);
+
+#ifdef CONSTEL
+extern char *GetSzGenitive(char *szGen, char *szInst);
+extern void GetSzConstel(char *szGen, int i);
+extern void PrintConstellations(void);
+#endif
+
+extern void PrintChartInfoSingle(char *title, CI *ci);
+extern void PrintProgramStatus(void);
+extern void PrintOrbit(void);
+extern int NCompareSzPart(int ap1, int ap2);
+extern void DisplayArabic(void);
+extern void DisplayKeysX(void);
+extern int FPrintTables(void);
+
+extern double PartOrb;		
+extern int PartAspects;		
+extern int PartAspectsShow;	
+#pragma endregion
+
+// from charts1.c 
+#pragma region
+extern void PrintHeader(void);
+extern void ChartListing(void);
+extern void ChartGrid(void);
+extern void PrintGrand(byte ac, int i1, int i2, int i3, int i4);
+extern void DisplayGrands(void);
+extern void PrintHouse(int i, int left);
+extern void PrintWheelCenter(int irow);
+extern void PrintWheelSlot(int obj);
+extern void ChartWheel(void);
+extern void PrintAspectSummary(int *ca, int *co, int count, double rPowSum);
+extern void ChartAspect(void);
+extern void PrintMidpointSummary(int *cs, int count, long lSpanSum);
+extern void ChartMidpoint(void);
+extern void ChartHorizon(void);
+extern void ChartOrbit(void);
+extern void ChartSector(void);
+extern void ChartAstroGraph(void);
+extern void PrintChart(BOOL fProg);
+#pragma endregion
+
+// from charts2.c 
+#pragma region
+extern void ChartGridRelation(void);
+extern void ChartAspectRelation(void);
+extern void ChartMidpointRelation(void);
+extern void CastRelation(void);
+extern void PrintInDay(int source, int aspect, int dest);
+extern void PrintAspect(int obj1, int sign1, int ret1, int asp, int obj2, 
+				int sign2, int ret2, byte chart, int field_length1, int field_length2);
+extern void ChartInDayInfluence(void);
+extern void ChartTransitInfluence(BOOL fProg);
+extern void EclToHorizon(double *azi, double *alt, double obj, double objalt, double lon, double lat, double mc);
+extern void ChartCalendarMonth(void);
+extern void ChartCalendarYear(void);
+extern void DisplayTimeDifference(void);
+extern void DisplayBiorhythm(void);
+
+extern double ppower2[cLastMoving + 1];
+#pragma endregion
+
+// from charts3.c 
+
+extern void ChartInDaySearch(BOOL fProg);
+extern void ChartTransitSearch(BOOL fProg);
+extern void ChartInDayHorizon(void);
+extern void ChartEphemeris(void);
+
+
+// from intrpret.c 
+#pragma region
+extern int RulerPlanet(int i);	
+
+#ifdef INTERPRET
+extern void FieldWord(char *sz);
+extern void InterpretGeneral(void);
+extern void InterpretAspectGeneral(void);
+extern void InterpretLocation(void);
+extern void InterpretAspect(int x, int y);
+extern void InterpretGrid(void);
+extern void InterpretMidpoint(int x, int y);
+extern void InterpretInDay(int source, int aspect, int dest);
+extern void InterpretTransit(int source, int aspect, int dest);
+extern void InterpretSynastry(void);
+extern void InterpretAspectRelation(int x, int y);
+extern void InterpretGridRelation(void);
+extern void InterpretMidpointRelation(int x, int y);
+#endif
+
+extern void SortRank(double *value, int *rank, int size);
+extern void SortRank2(double *value, int *rank, int size);
+extern void ChartInfluence(void);
+extern void PlanetPPower(void);
+
+extern double ppower1[cLastMoving + 1];	
+extern double ppowerTotal[cLastMoving + 1];	
+#pragma endregion
+
+// from xdata.c 
+#pragma region *** xdata.c
+extern GS gs;
+extern GI gi;
+extern int ikPalette[cColor];
+extern const KV rgb[cColor], rgbbmp[cColor];
+extern KI kMainB[9], kRainbowB[8], kElemB[4], kAspB[cAspect + 1], kObjB[NUMBER_OBJECTS];
+extern const char szObjectFont[cLastMoving + 2], szAspectFont[cAspect + 1],
+	*szDrawSign[NUMBER_OF_SIGNS + 2], *szDrawSign2[NUMBER_OF_SIGNS + 2], *szDrawObject[cLastMoving + 5],
+	*szDrawObject2[cLastMoving + 5], *szDrawHouse[NUMBER_OF_SIGNS + 1],
+	*szDrawHouse2[NUMBER_OF_SIGNS + 1], *szDrawAspect[cAspect + 3],
+	*szDrawAspect2[cAspect + 3], *szDrawCh[255 - 32 + 1], *szWorldData[62 * 3], *szDrawConstel[cCnstl + 1];
+
+#pragma endregion
+
+// from xgeneral.c 
+#pragma region
+extern void DrawColor(KI);
+extern void DrawPoint(int x, int y);
+extern void DrawSpot(int x, int y);
+extern void DrawBlock(int x1, int y1, int x2, int y2);
+extern void DrawBox(int x1, int y1, int x2, int y2, int xsiz, int ysiz);
+extern void DrawClearScreen(void);
+extern void DrawDash(int x1, int y1, int x2, int y2, int skip);
+extern void DrawWrap(int x1, int y1, int x2, int y2, int xmin, int xmax);
+extern void ClipLesser(int *x1, int *y1, int *x2, int *y2, int s);
+extern void ClipGreater(int *x1, int *y1, int *x2, int *y2, int s);
+extern void DrawClip(int x1, int y1, int x2, int y2, int xl, int yl, int xh, int yh, int skip);
+extern void DrawEllipse(int x1, int y1, int x2, int y2);
+
+extern void DrawSz(const char *sz, int x, int y, int dt);
+extern void DrawSign(int i, int x, int y);
+extern void DrawHouse(int i, int x, int y);
+extern void DrawObject(int obj, int x, int y);
+extern void DrawAspect(int asp, int x, int y);
+extern int NFromPch(const char ** str);
+extern void DrawTurtle(const char *sz, int x0, int y0);
+#pragma endregion
+
+// from xdevice.c 
+#pragma region
+extern void WriteXBitmap(FILE *file, char *name, byte mode);
+extern void WriteAscii(FILE * file);
+extern void WriteBmp(FILE * file);
+extern void BeginFileX(void);
+extern void EndFileX(void);
+extern void PsStrokeForce(void);
+extern void PsStroke(int n);
+extern void PsLineCap(BOOL fLineCap);
+extern void PsDash(int dashoff);
+extern void PsLineWidth(int linewidth);
+extern void PsFont(int psfont);
+extern void PsBegin(void);
+extern void PsEnd(void);
+extern void MetaWord(word w);
+extern void MetaLong(long l);
+extern void MetaSelect(void);
+extern void MetaInit(void);
+extern void WriteMeta(FILE * file);
+#pragma endregion
+
+// from xcharts0.c 
+
+extern int DrawPrint(char *sz, int m, int n);
+extern void DrawInfo(void);
+extern void DrawWheel(double *xsign, double *xhouse, int cx, int cy, double unitx, double unity, double r1, double r2, double r3, double r4, double r5);
+extern void DrawSymbolRing(double *symbol, double *xplanet, double *dir, int cx, int cy, double unitx, double unity, double r1, double r2, double r3, double r4);
+extern BOOL FReadWorldData(char **nam, char ** loc, char ** lin);
+extern BOOL FGlobeCalc(double x1, double y1, int *u, int *v, int cx, int cy, int rx, int ry, int deg);
+extern void DrawLeyLine(double l1, double f1, double l2, double f2);
+extern void DrawLeyLines(int deg);
+extern void DrawMap(BOOL fSky, BOOL fGlobe, int deg);
+extern void DrawChartX(void);
+
+
+// from xcharts1.c 
+#pragma region
+extern void XChartWheel(void);
+extern void XChartAstroGraph(void);
+extern void XChartGrid(void);
+extern void XDebugFont(void);
+extern void XChartHorizon(void);
+extern void XChartHorizonSky(void);
+extern void XChartOrbit(void);
+extern void XChartSector(void);
+extern void DrawArrow(int x1, int y1, int x2, int y2);
+extern void XChartDispositor(void);
+extern void XChartCalendar(void);
+extern double CoeffTens;			
+extern int TensChart;			
+extern int InfoFlag;
+extern double STension;
+extern double SHarmon;
+extern double SConjunct;
+extern double SSumma;
+extern double SChart;
+#pragma endregion
+
+// from xcharts2.c 
+
+extern BOOL FProper(int i);
+extern void FillSymbolRing(double *symbol, double factor);
+extern void FillSymbolLine(double * symbol);
+extern double PlaceInX(double deg);
+extern double HousePlaceInX(double deg);
+extern void XChartWheelRelation(void);
+extern void XChartWheelThreeFour(void);
+extern void XChartGridRelation(void);
+extern void XChartEphemeris(void);
+extern void XChartBiorhythm(void);
+
+
+// from process_switches.c 
+
+extern BOOL FProcessSwitchesMain(int argc, char **argv);
+
+
+// from houses.c 
+
+extern int AstrologHouse2SeHouse(int astrolog_house);
+
+
+// from xscreen.c 
+
+extern void InitColorsX(void);
+extern void BeginX(void);
+extern void AddTime(CI *ci, int mode, int toadd);
+extern void Animate(int mode, int toadd);
+extern void SquareX(int *x, int *y, int force);
+extern void InteractX(void);
+extern BOOL FActionX(void);
+
+
+// from wdriver.c & wdialog.c 
+#pragma region
+extern WI wi;
+extern OPENFILENAME ofn;
+extern PRINTDLG prd;
+extern char szFileName[MAX_FILE_NAME + 1], szFileTitle[MAX_FILE_NAME + 1];
+extern global_directories_t dirs;
+extern char about_dialog_text[];
+extern char *szFileTemp;
+extern char *command_interpreter;
+
+extern LRESULT CALLBACK WndProc(HWND hwnd, UINT wMsg, WPARAM wParam, LPARAM lParam);
+extern void ResizeWindowToChart(void);
+extern void SetRel(int rc);
+extern void ProcessState(void);
+extern int NWmCommand(WORD wCmd);
+extern void RedoMenu(void);
+extern BOOL  FRedraw(void);
+
+extern void SetEditSz(HWND hdlg, int id, char *sz);
+extern void SetEditR(HWND hdlg, int id, double r, int n);
+extern void SetEditMDYT(HWND hdlg, int idMon, int idDay, int idYea, int idTim, int mon, int day, int yea, double tim);
+extern void SetEditSZOA(HWND hdlg, int idDst, int idZon, int idLon, int idLat, int idLoc, 
+				 double dst, double zon, double lon, double lat, char *loc);
+extern void SetEditColor(HWND hdlg, int id, KI ki);
+extern double GetEditR(HWND hdlg, int id);
+extern void WarnWrongValue(int n, char *string);
+extern BOOL FOutputSettings(void);
+extern BOOL OpenChartDialog(void);
+extern BOOL SaveChartDialog(WORD wCmd);
+extern BOOL PrintDialog(void);
+extern void ProcessDirectorySettings(HWND hdlg);
+
+
+int _stdcall DlgAbortProc(HDC hdc, int nCode);
+
+int CALLBACK DlgAbort(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgCommand(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgColor(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgSearchCharts(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgChartData(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgDefault(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgAspect(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgObject(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgObject2(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgObjSelections(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgStar(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgCalculationSettings(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgMiscellaneousSettings(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+int _stdcall DlgTransit(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgProgress(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgChartSettings(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgArabicPartsSettings(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgGraphics(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgAbout(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgDirectories(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgAtlas(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgInterAtlasAdvSettings(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+extern int CALLBACK DlgAmericanAtlasAdvSettings(HWND hdlg, UINT message, WPARAM wParam, LPARAM lParam);
+
+#pragma endregion
+
+extern BOOL ChooseDirectory(HWND hwnd, LPSTR lpszTitle, BOOL ShowNewFolderButton, LPSTR pszPath);
+
+extern void WelcomeWizard(HINSTANCE hInstance, HWND hwnd);
+
+
+
+#ifdef INTERPRETALT
+extern void NatalInterpret(void);
+extern void TransitInterpret(void);
+extern byte InterpretAlt;
+extern byte NoPrint;
+#endif
+
+extern byte NoPrintHeader;
+extern byte fNESW;
+extern byte fDisp;
+
+//#include "Language.h"
+//extern void LoadLanguage(void);
+/* extern.h */

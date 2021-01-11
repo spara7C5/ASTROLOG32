@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>COMMAND SWITCHES</title>
+  <meta http-equiv="generator" content="The Dodger" />
+  <meta name="created" content="Mon, 01 Jan 2011 15:52:13 GMT" />
+  <meta name="description" content="Switches for Astrolog32" />
+  <meta name="keywords" CONTENT="command switches,obscure switches, advice" />
+</head>
+
+<body bgcolor="#90EE90" text="#003300" link="#FF0080" vlink="#808000" alink="#FF6600">
+<font size="3"><div align="center"><b>Keyboard Switches and Command Switches are case-sensitive!</b></div><p><i>This list gives switches with a leading <b>/</b>, instead of the leading <b>-</b> (hyphen), as seen in <f1>helpfile.txt</f1>. This is only because the forward slash <b>/</b> is at the bottom of the keyboard, rather than a reach over other keys: either <b>/</b> or <b>-</b> serve equally well.</i><p><blockquote>
+<b>Command switches (version 1.30):</b><p>
+
+<b> /H:</b> Display this help list.<br>
+<b> /HC:</b> Display names of zodiac signs and houses.<br>
+<b> /HO:</b> Display available planets and other celestial objects.<br>
+<b> /HA:</b> Display available aspects, their angles, and present orbs.<br>
+<b> /HF:</b> Display names of astronomical constellations.<br>
+<b> /HS:</b> Display information about planets in the solar system.<br>
+<b> /HI:</b> Display meanings of signs, houses, planets, and aspects.<br>
+<b> /He:</b> Display all info tables together (/Hc/H/Y/HX/HC/HO/HA/HF/HS/HI).<br>
+<b> /Q:</b> Prompt for more command switches after display finished.<br>
+<b> /Q0:</b> Like /Q but prompt for additional switches on startup.<br>
+<b> /M &lt;1-100&gt;:</b> Run the specified command switch macro.<br>
+<b> /M0 &lt;1-100&gt; &lt;string&gt;:</b> Define the specified command switch macro.<br>
+<b> /Y:</b> Display help list of less commonly used command switches.<p>
+
+<b>Switches which determine the type of chart to display:</b><p>
+
+<b> /v:</b> Display list of object positions (chosen by default).<br>
+<b> /v0:</b> Like /v but express velocities relative to average speed.<br>
+<b> /w [&lt;rows&gt;]:</b> Display chart in a graphic house wheel format.<br>
+<b> /w0 [..]:</b> Like /w but reverse order of objects in houses 4..9.<br>
+<b> /g:</b> Display aspect and midpoint grid among planets.<br>
+<b> /g0:</b> Like /g but flag aspect configurations (e.g. Yods) too.<br>
+<b> /g0:</b> For comparison charts, show midpoints instead of aspects.<br>
+<b> /ga:</b> Like /g but indicate applying instead of difference orbs.<br>
+<b> /gp:</b> Like /g but generate parallel and contraparallel aspects.<br>
+<b> /a:</b> Display list of all aspects ordered by influence.<br>
+<b> /a0:</b> Like /a but display aspect summary too.<br>
+<b> /a[0]a:</b> Like /a but indicate applying and separating orbs.<br>
+<b> /a[0]p:</b> Like /a but do parallel and contraparallel aspects.<br>
+<b> /m:</b> Display all object midpoints in sorted zodiac order.<br>
+<b> /m0:</b> Like /m but display midpoint summary too.<br>
+<b> /ma:</b> Like /m but show aspects from midpoints to planets as well.<br>
+<b> /Z:</b> Display planet locations with respect to the local horizon.<br>
+<b> /Z0:</b> Like /Z but express coordinates relative to polar center.<br>
+<b> /Zd:</b> Search day for object local rising and setting times.<br>
+<b> /S:</b> Display x,y,z coordinate positions of planets in space.<br>
+<b> /l: </b>Display Gauquelin sectors for each planet in chart.<br>
+<b> /l0:</b> Like /l but approximate sectors using Placidus cusps.<br>
+<b> /j:</b> Display astrological influences of each object in chart.<br>
+<b> /j0:</b> Like /j but include influences of each zodiac sign as well.<br>
+<b> /L [&lt;step&gt;]:</b> Display astro-graph locations of planetary angles.<br>
+<b> /L0 [..]:</b> Like /L but display list of latitude crossings too.<br>
+<b> /K: </b>Display a calendar for given month.<br>
+<b> /Ky: </b>Like /K but display a calendar for the entire year.<br>
+<b> /d [&lt;step&gt;]: </b>Print all aspects and changes occurring in a day.<br>
+<b> /dm: </b>Like /d but print all aspects for the entire month.<br>
+<b> /dy: </b>Like /d but print all aspects for the entire year.<br>
+<b> /dY &lt;years&gt;: </b>Like /d but search within a number of years.<br>
+<b> /dp &lt;month&gt; &lt;year&gt;: </b>Print aspects within progressed chart.<br>
+<b> /dpy &lt;year&gt;:</b> Like /dp but search for aspects within entire year.<br>
+<b> /dpY &lt;year&gt; &lt;years&gt;: </b>Like /dp but search within number of years.<br>
+<b> /dp[y]n: </b>Search for progressed aspects in current month/year.<br>
+<b> /D: </b>Like /d but display aspects by influence instead of time.<br>
+<b> /E: </b>Display planetary ephemeris for given month.<br>
+<b> /Ey: </b>Display planetary ephemeris for the entire year.<br>
+<b> /EY &lt;years&gt;: </b>Display planetary ephemeris for a number of years.<br>
+<b> /e: </b>Print all charts together (i.e. /v/w/g0/a/m/Z/S/l/K/j0/L0/d/D/E).<br>
+<b> /t &lt;month&gt; &lt;year&gt;: </b>Compute all transits to natal planets in month.<br>
+<b> /tp &lt;month&gt; &lt;year&gt;: </b>Compute progressions to natal in month for chart.<br>
+<b> /tr &lt;month&gt; &lt;year&gt;: </b>Compute all returns in month for chart.<br>
+<b> /t[p]y: &lt;year&gt;: </b>Compute transits/progressions for entire year.<br>
+<b> /t[p]Y: &lt;year&gt; &lt;years&gt;: </b>Compute transits for a number of years.<br>
+<b> /t[py]n: </b>Compute transits to natal planets for current time now.<br>
+<b> /T &lt;month&gt; &lt;day&gt; &lt;year&gt;: </b>Display transits ordered by influence.<br>
+<b> /Tp &lt;month&gt; &lt;day&gt; &lt;year&gt;: </b>Print progressions instead of transits.<br>
+<b> /T[p]n:</b> Display transits ordered by influence for current date.<br>
+<b> /P [&lt;parts&gt;]:</b> Display list of Arabic parts and their positions.<br>
+<b> /P0 [&lt;parts&gt;]:</b> Like /P but display formulas with terms reversed.<br>
+<b> /P[z,n,f]:</b> Order parts by position, name, or formula.<br>
+<b> /I [&lt;columns&gt;]:</b> Print interpretation of selected charts.<p>
+
+<b>Switches which affect how the chart parameters are obtained:</b><p>
+
+<b> /n: </b>Compute chart for this exact moment using current time.<br>
+<b> /n[d,m,y]: </b>Compute chart for start of current day, month, year.<br>
+<b> /z [&lt;zone&gt;]: </b>Change the default time zone (for /d/E/t/q options).<br>
+<b> /z0 [&lt;offset&gt;]: </b>Change the default daylight time setting.<br>
+<b> /zl &lt;long&gt; &lt;lat&gt;: </b>Change the default longitude &amp; latitude.<br>
+<b> /zt &lt;time&gt;: </b>Set only the time of current chart.<br>
+<b> /zd &lt;date&gt;: </b>Set only the day of current chart.<br>
+<b> /zm &lt;month&gt;: </b>Set only the month of current chart.<br>
+<b> /zy &lt;year&gt;: </b>Set only the year of current chart.<br>
+<b> /zi &lt;name&gt; &lt;place&gt;: </b>Set name and place strings of current chart.<br>
+<b> /q &lt;month&gt; &lt;date&gt; &lt;year&gt; &lt;time&gt;: </b>Compute chart with defaults.<br>
+<b> /qd &lt;month&gt; &lt;date&gt; &lt;year&gt;: </b>Compute chart for noon on date.<br>
+<b> /qm &lt;month&gt; &lt;year&gt;: </b>Compute chart for first of month.<br>
+<b> /qy &lt;year&gt;: </b>Compute chart for first day of year.<br>
+<b> /qa &lt;month&gt; &lt;date&gt; &lt;year&gt; &lt;time&gt; &lt;zone&gt; &lt;long&gt; &lt;lat&gt;:
+</b>Compute chart automatically given specified data.<br>
+<b> /qb &lt;month&gt; &lt;date&gt; &lt;year&gt; &lt;time&gt; &lt;daylight&gt; &lt;zone&gt; &lt;long&gt; &lt;lat&gt;:
+</b> Like /qa but takes additional parameter for daylight offset.<br>
+<b> /qj &lt;day&gt;: </b>Compute chart for time of specified Julian day.<br>
+<b> /i &lt;file&gt;: </b>Compute chart based on info in file.<br>
+<b> /i[2,3,4] &lt;file&gt;: </b>Load chart info into chart slots 2, 3, or 4.<br>
+<b> /o &lt;file&gt; [..]: </b>Write parameters of current chart to file.<br>
+<b> /o0 &lt;file&gt; [..]: </b>Like /o but output planet/house positions.<br>
+<b> /os &lt;file&gt;, &lt;file&gt;: </b>Redirect output of text charts to file.<p>
+
+<b>Switches which affect what information is used in a chart:</b><p>
+
+<b> /R [&lt;obj1&gt; [&lt;obj2&gt; ..]]: </b>Restrict specific bodies from displays.<br>
+<b> /R0 [&lt;obj1&gt; ..]: </b>Like /R but restrict everything first.<br>
+<b> /R1 [&lt;obj1&gt; ..]: </b>Like /R0 but unrestrict and show all objects.<br>
+<b> /R[C,u,U]: </b>Restrict all minor cusps, all uranians, or stars.<br>
+<b> /RT[0,1,C,u,U] [..]: </b>Restrict transiting planets in /t lists.<br>
+<b> /RA [&lt;asp1&gt; ..]: </b>Restrict aspects.<br>
+<b> /C: </b>Include angular and non-angular house cusps in charts.<br>
+<b> /u: </b>Include transneptunian/uranian bodies in charts.<br>
+<b> /U: </b>Include locations of fixed background stars in charts.<br>
+<b> /U[z,l,n,b]: </b>Order by azimuth, altitude, name, or brightness.<br>
+<b> /Ao &lt;aspect&gt; &lt;orb&gt;: </b>Specify maximum orb for an aspect.<br>
+<b> /Am &lt;planet&gt; &lt;orb&gt;: </b>Specify maximum orb allowed to a planet.<br>
+<b> /Ad &lt;planet&gt; &lt;orb&gt;: </b>Specify orb addition given to a planet.<br>
+<b> /Aa &lt;aspect&gt; &lt;angle&gt;: </b>Change the actual angle of an aspect.<p>
+
+<b>Switches which affect how a chart is computed:</b><p>
+
+<b> /b: </b>Use ephemeris files for more accurate location computations.<br>
+<b> /b0: </b>Like /b but display locations to the nearest second too.<br>
+<b> /c &lt;value&gt;: </b>Select a different default system of houses.<br>
+     (0 = Placidus, 1 = Koch, 2 = Equal, 3 = Campanus,
+     4 = Meridian,<br> 5 = Regiomontanus, 6 = Porphyry, 7 = Morinus,
+     8 = Topocentric, 9 = Alcabitius,<br> 10 = Equal (MC),
+     11 = Neo-Porphyry, 12 = Whole, 13 = Vedic, 14 = None.)<p>
+<b> /s [..]: </b>Compute a sidereal chart instead of the normal tropical chart.<br>
+<b> /sr: </b>Compute right ascension locations relative to equator.<br>
+<b> /s[z,h,d]: </b>Display locations as in zodiac, hours/minutes, or degrees.<br>
+<b> /h [&lt;objnum&gt;]: </b>Compute positions centered on specified object.<br>
+<b> /p &lt;month&gt; &lt;day&gt; &lt;year&gt;: </b>Cast 2ndary progressed chart for date.<br>
+<b> /p0 &lt;month&gt; &lt;day&gt; &lt;year&gt;: </b>Cast solar arc chart for date.<br>
+<b> /p[0]n: </b>Cast progressed chart based on current date now.<br>
+<b> /pd &lt;days&gt;: </b>Set no. of days to progress / day (default 365.25).<br>
+<b> /x &lt;value&gt;: </b>Cast harmonic chart based on specified factor.<br>
+<b> /1 [&lt;objnum&gt;]: </b>Cast chart with specified object on Ascendant.<br>
+<b> /2 [&lt;objnum&gt;]: </b>Cast chart with specified object on Midheaven.<br>
+<b> /3: </b>Display objects in their zodiac decan positions.<br>
+<b> /f: </b>Display houses as sign positions (flip them).<br>
+<b> /G: </b>Compute houses based on geographic location only.<br>
+<b> /J: </b>Display wheel charts in Vedic format.<br>
+<b> /9: </b>Display objects in their zodiac navamsa positions.<br>
+<b> /F &lt;objnum&gt; &lt;sign&gt; &lt;deg&gt;: </b>Force object's position to be value.<br>
+<b> /+ [&lt;days&gt;]: </b>Cast chart for specified no. of days in the future.<br>
+<b> /- [&lt;days&gt;]: </b>Cast chart for specified no. of days in the past.<br>
+<b> /+[m,y] [&lt;value&gt;]: </b>Cast chart for no. of months/years in future.<p>
+
+<b>Switches for relationship and comparison charts:</b><p>
+
+<b> /r &lt;file1&gt; &lt;file2&gt;: </b>Compute a relationship synastry chart.<br>
+<b> /rc &lt;file1&gt; &lt;file2&gt;: </b>Compute a composite chart.<br>
+<b> /rm &lt;file1&gt; &lt;file2&gt;: </b>Compute a time space midpoint chart.<br>
+<b> /r[c,m]0 &lt;file1&gt; &lt;file2&gt; &lt;ratio1&gt; &lt;ratio2&gt;: </b>Weighted chart.<br>
+<b> /rd &lt;file1&gt; &lt;file2&gt;: </b>Print time span between files' dates.<br>
+<b> /rb &lt;file1&gt; &lt;file2&gt;: </b>Display biorhythm for file1 at time file2.<br>
+<b> /r0 &lt;file1&gt; &lt;file2&gt;: </b>Keep the charts separate in comparison.<br>
+<b> /rp[0] &lt;file1&gt; &lt;file2&gt;: </b>Like /r0 but do file1 progressed to file2.<br>
+<b> /rt &lt;file1&gt; &lt;file2&gt;: </b>Like /r0 but treat file2 as transiting.<br>
+<b> /r[3,4]: </b>Make graphics wheel chart tri-wheel or quad-wheel.<br>
+<b> /y &lt;file&gt;: </b>Display current house transits for particular chart.<br>
+<b> /y[b,d,p,t] &lt;file&gt;: </b>Like /r0 but compare to current time now.<p>
+
+<b>Switches to access graphics options:</b><p>
+
+<b> /k: </b>Display text charts using Ansi characters and color.<br>
+<b> /k0: </b>Like /k but only use special characters, not Ansi color.<br>
+<b> /X: </b>Create a graphics chart instead of displaying it as text.<br>
+<b> /Xb: </b>Create bitmap file instead of putting graphics on screen.<br>
+<b> /Xb[n,c,v,a,b]: </b>Set bitmap file output mode to X11 normal,
+     compacted, very compact, Ascii (bmtoa), or Windows bmp.<br>
+<b> /Xp: </b>Create PostScript stroke graphic instead of bitmap file.<br>
+<b> /Xp0: </b>Like /Xp but create complete instead of encapsulated file.<br>
+<b> /XM[0]: </b>Create Windows metafile stroke graphic instead of bitmap.<br>
+<b> /Xo &lt;file&gt;: </b>Write output bitmap or graphic to specified file.<br>
+<b> /Xm: </b>Create monochrome graphic instead of one in color.<br>
+<b> /Xr: </b>Create chart graphic in reversed colors (white background).<br>
+<b> /Xw &lt;hor&gt; [&lt;ver&gt;]: </b>Change the size of chart graphic.<br>
+<b> /Xs &lt;100,200,300,400&gt;: </b>Change the size of map or characters by .<br>
+<b> /Xi: </b>Create chart graphic in slightly modified fform.<br>
+<b> /Xt: </b>Inhibit display of chart info at bottom of graphic.<br>
+<b> /Xu: </b>Inhibit display of a border around graphic.<br>
+<b> /Xl: </b>Inhibit labeling of object points in chart graphic.<br>
+<b> /Xj: </b>Don't clear screen between chart updates, drawing trails.<br>
+<b> /X1 &lt;object&gt;: </b>Rotate wheel charts so object is at left edge.<br>
+<b> /X2 &lt;object&gt;: </b>Rotate wheel charts so object is at top edge.<br>
+<b> /XW: </b>Simply create an image of the world map.<br>
+<b> /XW0: </b>Like /XW but do a non-rectangular Mollewide projection.<br>
+<b> /XG [&lt;degrees&gt;]: </b>Display the image of the world as a globe.<br>
+<b> /XP: </b>Like /XG but create the globe from a polar projection.<br>
+<b> /XF: </b>Display maps as constellations on the celestial sphere.<br>
+<b> /Xn [&lt;mode&gt;]: </b>Start up chart or globe display in animation mode.<br>
+<b> /HX: </b>Display list of key press options for screen graphics.<br>
+<b> /W &lt;value&gt;: </b>Run given Windows menu command internally.<br>
+<b> /WN &lt;1-32000&gt;: </b>Set animation update delay in milliseconds.<br>
+<b> /WM &lt;1-100&gt; &lt;text&gt;: </b>Set Windows menu text for macro command.<br>
+<b> /Wn: </b>Don't redraw screen until user forces update.<p>
+</blockquote>
+<b>Obscure command switches (version 1.30):<p>
+<blockquote>
+ /Y:</b> Display this help list.<br>
+ <b>/Yn:</b> Compute location of true instead of mean node.<br>
+ <b>/Yd:</b> Display dates in D/M/Y instead of M/D/Y format.<br>
+ <b>/Yt:</b> Display times in 24 hour instead of am/pm format.<br>
+ <b>/YC:</b> Automatically ignore insignificant house cusp aspects.<br>
+ <b>/YQ  &lt;rows &gt;:</b> Pause text scrolling after a page full has printed.<br>
+ <b>/Yo:</b> Output chart info and position files in old style format.<br>
+ <b>/Yc:</b> Angular cusp objects are house positions instead of angles.<br>
+ <b>/Yl  &lt;1-36 &gt;:</b> Toggle plus zone status of sector for sector chart.<br>
+ <b>/YP  &lt;-1,0,1 &gt;:</b> Set how Arabic parts are computed for night charts.<br>
+ <b>/Yb  &lt;days &gt;:</b> Set number of days to span for biorhythm chart.<br>
+ <b>/YE  &lt;obj &gt;  &lt;semi-major axis &gt;  &lt;eccentricity (3) &gt;  &lt;inclination (3) &gt;
+     &lt;perihelion (3)&gt; &lt;ascending node (3)&gt; &lt;time offset (3)&gt;:</b>
+     Change orbit of object to be the given elements.<br>
+ <b>/YR &lt;obj1&gt; &lt;obj2&gt; &lt;flag1&gt;..&lt;flag2&gt;:</b> Set restrictions for object range.<br>
+ <b>/YRT &lt;obj1&gt; &lt;obj2&gt; &lt;flag1&gt;..&lt;flag2&gt;:</b> Transit restrictions for range.<br>
+ <b>/YR0 &lt;flag1&gt; &lt;flag2&gt;:</b> Set restrictions for sign, direction changes.<br>
+ <b>/YRZ &lt;rise&gt; &lt;zenith&gt; &lt;set&gt; &lt;nadir&gt;:</b> Set restrictions for /Zd chart.<br>
+ <b>/YAR &lt;asp1&gt; &lt;asp2&gt; &lt;flag1&gt;..&lt;flag2&gt;:</b> Set aspect restrictions for range.<br>
+ <b>/YAo &lt;asp1&gt; &lt;asp2&gt; &lt;orb1&gt;..&lt;orb2&gt;:</b> Set aspect orbs for range.<br>
+ <b>/YAm &lt;obj1&gt; &lt;obj2&gt; &lt;orb1&gt;..&lt;orb2&gt;:</b> Set max planet orbs for range.<br>
+ <b>/YAd &lt;obj1&gt; &lt;obj2&gt; &lt;orb1&gt;..&lt;orb2&gt;:</b> Set planet orb additions for range.<br>
+ <b>/YAa &lt;asp1&gt; &lt;asp2&gt; &lt;ang1&gt;..&lt;ang2&gt;:</b> Set planet aspect angles for range.<br>
+ <b>/Yj &lt;obj1&gt; &lt;obj2&gt; &lt;inf1&gt;..&lt;inf2&gt;:</b> Set influences for object range.<br>
+ <b>/YjC &lt;cusp1&gt; &lt;cusp2&gt; &lt;inf1&gt;..&lt;inf2&gt;:</b> Set influences for house cusps.<br>
+ <b>/YjA &lt;asp1&gt; &lt;asp2&gt; &lt;inf1&gt;..&lt;inf2&gt;:</b> Set influences for aspect range.<br>
+ <b>/YjT &lt;obj1&gt; &lt;obj2&gt; &lt;inf1&gt;..&lt;inf2&gt;:</b> Set transit influences for range.<br>
+ <b>/Yj0 &lt;inf1&gt; &lt;inf2&gt; &lt;inf3&gt; &lt;inf4&gt;:</b> Set influences given to planets<br>
+     in ruling sign, exalted sign, ruling house, exalted house.<br>
+ <b>/YJ &lt;obj&gt; &lt;sign&gt; &lt;cosign&gt;:</b> Set sign planet rules and co-rules.<br>
+ <b>/YJ0 &lt;obj&gt; &lt;sign&gt;:</b> Set zodiac sign given planet exalts in.<br>
+ <b>/YI &lt;obj&gt; &lt;string&gt;:</b> Customize interpretation for object.<br>
+ <b>/YIa &lt;sign&gt; &lt;string&gt;:</b> Customize interpretation adjective for sign.<br>
+ <b>/YIv &lt;sign&gt; &lt;string&gt;:</b> Customize interpretation verb for sign.<br>
+ <b>/YIC &lt;house&gt; &lt;string&gt;:</b> Customize interpretation for house.<br>
+ <b>/YIA &lt;asp&gt; &lt;string&gt;:</b> Customize interpretation for aspect.<br>
+ <b>/YIA0 &lt;asp&gt; &lt;string&gt;:</b> Customize aspect interpretation statement.<br>
+ <b>/YkC &lt;fir&gt; &lt;ear&gt; &lt;air&gt; &lt;wat&gt;:</b> Customize element colors.<br>
+ <b>/YkA &lt;asp1&gt; &lt;asp2&gt; &lt;col1&gt;..&lt;col2&gt;:</b> Customize aspect colors.<br>
+ <b>/Yk0 &lt;1..7&gt; &lt;1..7&gt; &lt;col1&gt;..&lt;col2&gt;:</b> Customize 'rainbow' colors.<br>
+ <b>/YXC &lt;0 (none) 1 (moire) 2 (web)&gt; &lt;size&gt; &lt;no. lines&gt;:</b> Corner decoration<br>
+ <b>/YXG &lt;0-2&gt;&lt;0-2&gt;&lt;0-2&gt;&lt;0-3&gt;:</b> Select among different graphic glyphs
+     for Capricorn, Uranus, Pluto, and Lilith.<br>
+ <b>/YXg &lt;cells&gt;:</b> Set number of cells for graphic aspect grid.<br>
+ <b>/YXf &lt;val&gt;:</b> Set usage of actual system fonts in graphic file.<br>
+ <b>/YXp &lt;-1,0,1&gt;:</b> Set paper orientation for PostScript files.<br>
+ <b>/YXp0 &lt;hor&gt; &lt;ver&gt;:</b> Set paper size for PostScript files.<br>
+ <b>/0[o,i,q,X]:</b> Disallow file output, input, exiting, and graphics.<br>
+ <b>/;:</b> Ignore rest of command line and treat it as a comment.
+<br></blockquote>
+<p>There are more to be found in the old Helpfile.txt.<p>
+
+<b>Brackets</b> are not to be typed in:<br>e.g. -The specification of the -Xs switch is &quot;-Xs
+< 100,200,300,400 >&quot;, this means it can be used as either &quot;-Xs 100&quot;, &quot;-Xs
+200&quot;, &quot;-Xs 300&quot;, or &quot;-Xs 400&quot;.<br>An ellipsis ('..') generally refers to
+a variable length list of values.<p>
+</body></html>

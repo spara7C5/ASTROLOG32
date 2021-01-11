@@ -1,0 +1,20 @@
+-z0 0             ; Default Daylight time setting   [0 standard, 1 daylight]
+-z +0:00          ; Default time zone               [hours before GMT      ]
+-zl 0:10W 51:30N  ; Default longitude and latitude
+-zn "London, UK"  ; Default location name
+
+;European settings expected:
+
+-Yd		; Display dates in D/M/Y instead of M/D/Y format.
+-Yt		; Display times in 24 hour instead of am/pm format. 
+:YXG 2223	; European glyphs
+
+
+;Degree sign patch:
+
+-#Glyph 0 124 "BR2FGHE"
+-#DegCharacter "°:° |"
+;
+;
+
+;END - DO NOT REMOVE THIS LINE OR ADD ANYTHING BELLOW

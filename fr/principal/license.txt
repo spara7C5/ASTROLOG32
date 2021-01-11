@@ -1,0 +1,6 @@
+Avertissement
+
+Ce logiciel est donné librement uniquement à des fins non commerciales.
+
+
+Ce logiciel est fourni "tel quel", sans aucune sorte de garantie, explicite ou implicite. En aucun cas, les auteurs ou détenteurs de droits ne pourront être tenus pour responsables des dommages directs ou indirects pouvant résulter de l'utilisation ou de l'exécution de ce logiciel et n'assument aucune garantie de performance, de conformité ou d'adéquation à un usage spécifique.

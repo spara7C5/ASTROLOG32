@@ -1,0 +1,32 @@
+@0309
+
+; progressioni secondarie
+
+; orbe delle progressioni
+
+; DEFAULT ASPECT ORBS:
+
+-YAo 1 5     2.0 2.0 2.0 2.0 2.0          ; Major aspects
+-YAo 6 11    1.0 1.0 1.0 1.0 1.0 1.0      ; Minor aspects
+-YAo 12 18   1.0 1.0 1.0 1.0 1.0 1.0 1.0  ; Obscure aspects
+
+; DEFAULT PLANET ASPECT ORB ADDITIONS:
+
+-YAd 1 10    0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+-YAd 11 21   0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+-YAd 22 33   0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+; DEFAULT ASPECT RESTRICTIONS:
+
+;-YAR 1 5    0 0 0 0 0       ; Major aspects
+;-YAR 6 11   0 0 1 1 1 1     ; Minor aspects
+;-YAR 12 18  1 1 1 1 1 1 1   ; Obscure aspects
+
+-YOc 2.00000 ; Temporary decreasing of orbs in comparison charts.
+             ; Default 2.5 times.
+
+-pd 365.25636
+-pn
+_1
+
+; PROGSEC.DAT

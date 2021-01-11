@@ -1,0 +1,9 @@
+@0309
+
+-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PERSONALE\default.dat
+
+-i C:\Astrolog\Astrolog32\main\astrolog32.dat
+
+-i C:\Astrolog\Astrolog32\miscellaneous\MACRO_default.dat
+
+;RESETDEF.DAT

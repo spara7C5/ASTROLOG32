@@ -1,0 +1,30 @@
+@0309
+
+; ASTROLOG32 DEFAULT SETTINGS
+
+; Astrolog32 Version: 2.04
+; File Name: default.dat
+
+; NOTE: Everything from a semicolon (;) until the end of the same line
+;       is considered a comment, and is disregarded by the program.
+
+; ***********************************************************************
+;RESET MULTIPLE CHARTS BY ROBERTO LUPORINI
+; ***********************************************************************
+
+_d		;aspects
+_dm		;monthly aspects
+_dy		;annual aspects
+_tn		;transits
+_r		;comparison
+_Zd		;rising and setting times
+_pn		;progressions
+-X		;graphic mode
+_g0		;aspets summary
+;-Xr		;inverted colours
+–x 1
+–1 22
+–c 0
+
+
+; astrolog32.dat

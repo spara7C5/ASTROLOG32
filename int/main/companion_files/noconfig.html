@@ -1,0 +1,69 @@
+<head>
+<title>Lost or No Config.file</title>
+
+<style type="text/css">
+<!--
+ body
+{font-size:16px; color:#D2B48C; background-color:#000000; margin:6px;
+overflow:auto; }
+
+body,p,h1,h2,h3,h4,table,td,th,ul,ol,textarea,input
+{font-family:"trebuchet ms","tahoma", sans-serif }
+
+f1 {color:#7FFFD4 ; A32 files & folders}
+f2 {color:#7FFF00 ; discrete categories in Atlases }
+f3 {color:#FF00FF; part headings - purple, lines in A.dat}
+f4 {color:#BDB76B; font-style:italic; font-weight:bold; command switches, f.a.q bronze. done=Zomertijd link only}
+f5 {color:#FF0080 ; config file}
+f6 {color:#9ACD32 ; switches}
+f7 {font-size:80%; }
+f8 {color:#FFFFFF ;}
+
+h1 {font-size:200%;margin-top:0px;font-weight:normal}
+h2 {font-size:160%;margin-top:10px;margin-bottom:10px;font-weight:normal}
+h3 {font-size:110%;font-weight:bold;color:#FFFFFF }
+h4 {font-size:100%;}
+h5 {font-size:90%;margin-bottom:10px;font-weight:normal}
+h6 {font-size:80%;}
+
+p1 {margin-left: 40px; }
+
+a:link {color:#FF8C00 ;}
+a:visited {color:#DAA520 ;}
+ -->
+</style>
+</head>
+<body><font="Trebuchet MS"><font size=4><div align="center"><b>This is advice that something needs to be fixed.</b> - this page is to tell you what to check &amp; then what to do.</div><blockquote><i>Meanwhile, Astrolog32 will function, after a fashion, without access to the Atlases nor Swiss Ephemeris files  -  making charts with data you put in manually, within the limitation of only accessing the backup ephemeris; you can't call any charts, interpretations nor atlas, nor is there a way of altering the program's size and functioning.<br>Astrolog32 has an ultimate default location of Greenwich, UK, and that timezone, UT.<br>But the program's on life-support: you must let it create an <font color="#0000FF">astrolog32.dat</font>, or import one,  ..and proceed from there (there may be more issues: later this page will answer any queries about directory-paths if you get "Cannot find Ephemeris/American/.. , and such.."- see further on how to deal with this situation).</i><p></blockquote>
+<span style="background-color: red;">So I can recall three possible reasons why installers of Astrolog32 see this</span> - to narrow down:<ul><li>
+At the end of the "Welcome to Astrolog32" dialog, you were invited to create a configuration file (<font color="#0000FF">astrolog32.dat</font>). If you declined, this warning may appear.</li>
+<li>Someone deleted the Config.file (<font color="#0000FF">astrolog32.dat</font>), and this may appear - it's like a baby, it has to generate a control interface with you</li>
+<li>a freak of circumstance</li>
+</ul></blockquote><BR><div align="center">
+Even where you actually have an <font color="#0000FF">astrolog32.dat</font>, you may still get: <f2>Cannot find ephemeris files</f2>, ...<f2>cannot find states.atl</f2> & the like, and these will arise when you have browsed away from the default targets of Astrolog32 (pre-V2.0x) folders when they unzipped; - its folders' re-integration is covered, together with an absence of the Config.file, below.</div>
+<p>
+<div align="center">------------------------------</div>
+<p>
+<blockquote><i>If you have installed version 1.3x or before, default unzips go to <span style="background-color: green; /><font color="#DDDDDD">C:\Astrolog32</font></span><br><p><b>
+If you have installed version 2.0x, 'offered' install paths go to <span style="background-color: green;><font color="#DDDDDD">C:\Program Files\Astrolog32</font></span><br></i></blockquote><div align="center">------------------------------</div><p>
+The fix may be quick, or a long chore, and so the first thing is to snoop the situation:<br>
+<ul><li>1. Be sure you know where your <font color="#0000FF">Astrolog32 folder</font> is: if not, go "My Computer", and go 'Search'; or, navigate to the folder; note its holding folder...
+ - <i># with older versions of Astrolog32 you may find two Astrolog32 folders! - one at the root, but one where you installed it <u>elsewhere</u></i></li>
+<br><li>2. Open the folder that you unzipped your astrolog32.zip to, and find and open <b><font color="#0000FF">\main</font></b> folder; is <font color="#0000FF">astrolog32.dat</font> there? If so, open it, using Notepad</li><br><li>3. If it's not there, then if you haven't already, launch Astrolog32 by double-clicking <b><font color="#0000FF">astrolog32.exe</font></b>...  then in Astrolog32's window, go <b>[Edit] > [Edit configuration file]</b>: certainly now you have a Config.file!</li><br>
+<li>4. <font color="#0000FF">astrolog32.dat</font> is the Config. file: with this file open, go "Save As", and snoop what folder is offered to you. Is it the <b><font color="#0000FF">\main</font></b> folder in the Astrolog32 folder you put the program in? use the "Save as" dialog box to confirm this.</li></ul><p>
+<div align="center"><span style="background-color: red;">One job of this file is to tell the program where <font color="#0000FF">\miscellaneous, \charts, &amp; \atlas</font> &amp; other folders are.</i></span></div><p><ul><li>5. Save <font color="#0000FF">astrolog32.dat</font>.</li></ul>
+<p>&nbsp;NOTE: When saving, in the next field under 'filename', ('file as type'), keep as <font color="#0000FF">astrolog32.<b>dat</b></font>.
+<p><blockquote>&nbsp;(NOTE: Older versions of Astrolog32 would generate new folders at <font color="#0000FF">C:\</font>, and these arise when the program panics on not initially finding its auxiliary folders.)</blockquote></div></b><p><div align="center">------------------------------</div><p>Where you found the <b>/main</b> folder, were there also the other folders there?<br>If not, make a note of their location.<p>If found, were they populated with any files you may have downloaded?
+<p><div align="center">------------------------------</div><p><font="Trebuchet MS"><font size=4>
+<span style="background-color: red;"><b>Testing</b>: Keep the Config.file open and now test, using the open program 'Astrolog32'</span>:<p>
+<blockquote>1. In Astrolog32's charting window, go <b>[Edit] > [Edit Mainchart]</b>, and click 'Search Atlases' - do you get:<br>
+"file 'states.list.atl' not found in Directory 'C:\astrolog32\atlas\american'"? - or, <br>"file 'states.list.atl' not found in Directory  'C:\Program Files\astrolog32\atlas\american'"?<br>If so, close these dialogs: the the folders are found, but the contents are mislaid.<p>
+2. In Astrolog32's charting window, go <b>[File] > [Save Mainchart data..]</b>: <font color="#0000FF">\charts</font> folder should appear; go 'up a folder'; there you should find, at the very least, <font color="#0000FF">\main, \ephemeris, \charts, \atlas</font> folders.<p>
+3. Open <font color="#0000FF">\main</font>: change the 'file as type' field to 'All files': there should be the following visible:<br>
+seorbel.txt, four <font color="#0000FF">astrolog.ico's, astrolog32.dat, Helpfile.txt, history texts, watlas</font>, and others.<p>4.Go 'up a folder':<br>
+Open '<font color="#0000FF">\atlas</font>': open '<font color="#0000FF">\american</font>': retain the 'file as type' field as 'All files'. If you have installed the atlases, Can you see over 60 <font color="#0000FF">*.atl</font> files? Or, even just one or two <f1>.atl</f1> files?<p>
+<p>5. Go up a folder:<br>
+Open '<font color="#0000FF">\international</font>': retain the 'file as type' field as 'All files'.  If you have installed the atlases, Can you see over 245 <font color="#0000FF">*.atl</font> files? Or, even just one or two <f1>.atl</f1> files?<p>6. If you installed extra Swiss Ephemeris files, go 'up two folders';<br>double-click to open <font color="#0000FF"> \ephemeris</font>: are there just three *<font color="#0000FF">.se1</font> files? More?</blockquote><br>
+<div align="center">------------------------------</div><p>
+If the atlas files were installed, but can't be seen: - if there is no *<font color="#0000FF">.se1</font> files in ephemeris although you installed them, the Config.file is steering the program to the wrong place: it looks like there's other folders holding your files.<p>Find the <font color="#0000FF">Astrolog32</font> (or other) folder which <b>actually is</b> populated with these files, and copy down the full address path of <b>one</b> file from each folder.<p>Now, either you shift the files to where Astrolog32 expects them, or leave them, and <b>correct the DIRECTORIES</b> to finish the job, by inserting edits into the Config.file's DIRECTORIES.<br> See the 'Customizing Defaults in the Config.file', section of the Companion, in the last part called YOUR DIRECTORIES.<p><div align="center">
+>>>>>>>> If all files are present, and your <font color="#0000FF">astrolog32.dat</font> steers the program to them, your Astrolog should work fine now. <<<<<<<<</div>
+</font></body></html>

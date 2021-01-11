@@ -1,0 +1,190 @@
+@0309
+
+; ASTROLOG32 PERSONAL SETTINGS
+
+; Astrolog32 Version: 2.04
+; File Name: personal.dat
+
+; NOTE: Everything from a semicolon (;) until the end of the same line
+;       is considered a comment, and is disregarded by the program.
+
+; ***********************************************************************
+;RESET MULTIPLE CHARTS BY ROBERTO LUPORINI
+; ***********************************************************************
+
+_d		;aspects
+_dm		;monthly aspects
+_dy		;annual aspects
+_tn		;transits
+_r		;comparison
+_Zd		;rising and setting times
+_pn		;progressions
+-X		;graphic mode
+_g0		;aspets summary
+-Xr		;inverted colours
+–x 1
+–1 22
+–c 0
+
+; ***********************************************************************
+; ORIGINAL CONFIGURATION
+; ***********************************************************************
+
+_s      ; Zodiac selection          ["_s" is tropical, "=s" is sidereal]
+:sm 0   ; Sidereal Mode             [Change "0" to desired mode        ]
+:s 0    ; Sidereal Correction value [Change "0" to desired offset      ]
+-c 0    ; House system              [Use number, or name with minimum 3 letters (ex. Koch)]
+=k      ; ANSI color text           ["=k" is color, "_k" is normal     ]
+:d 48   ; Searching divisions       [Change "48" to desired divisions  ]
+_b0     ; Print zodiac seconds      ["_b0" to minute, "=b0" to second  ]
+:w 4    ; Wheel chart text rows     [Change "4" to desired wheel rows  ]
+:I 110  ; Text screen columns       [Change "80" to desired columns    ]
+-YQ 24  ; Text screen scroll limit  [Change "24" or set to "0" for none]
+=Yd     ; European date format      ["_Yd" is MDY, "=Yd" is DMY        ]
+=Yt     ; European time format      ["_Yt" is AM/PM, "=Yt" is 24 hour  ]
+_YC     ; Aspects display           ["=YC" smart, "_YC" show all       ]
+_Y8     ; Clip text to end of line  ["=Y8" clips, "_Y8" doesn't clip   ]
+-YP 0   ; Arabic Parts in night charts. (see Helpfile)
+
+
+; SWITCHES NOT SUPPORTED BY ORIGINAL ASTROLOG:
+
+=#AdvancedMode  ; Full mode
+_YU       	; Stars alternative restriction. "=YU" alternative, "_YU" original.
+-YUo 1.2  	; Orbs of fixed stars. Default 1.2 degrees
+-YUa 1    	; Number of star aspects taken into account. Default 1.
+-YUb1 9   	; Stars colors (magnitude less than 1.0). Default 9 (red).
+-YUb2 3   	; Stars colors (magnitude between 1.0 and 2.0). Default 3 (orange).
+-YUb3 1   	; Stars colors (magnitude over .02). Default 1 (maroon).
+-YPo 1.0  	; Orbs of Arabic Parts. Default 1.0 degree
+-YPa 1    	; Number of Arabic Parts aspects taken into account. Default 1.
+-YPs 5    	; Number of Arabic Parts aspects showed. Default 5.
+=YSa      	; Aspects display: applying-separating "=YSa", difference "_YSa".
+_YSj      	; Influence text chart shows by default more info.
+_YSs     	; Aspect listing shows by default also aspect summary.
+-YOc 2.500000 	; Temporary decreasing of orbs in comparison charts.
+          	; Default 2.5 times.
+-YOp 5.999999 	; Temporary decreasing of orbs with parallel aspects.
+          	; Default 6.0 times.
+-YOP 0.25 	; Power of parallels relatively to conjunctions.
+          	; Default 0.25
+_YH       	; Circumpolar flip of MC. "=YH" flips, "_YH" doesn't.
+_Ym       	; Month alternative format. "=Ym" alternative, "_Ym" original.
+_YZ       	; NESW local horizon. "_YZ" original ENWS.
+=YD       	; Dispositor's glyphs on the wheel: "=YD" on, "_YD" off.
+_Yn	   	; Moon Nodes: True "=Yn", Mean "_Yn"
+_YL	      	; Lilith: Osculating "=YL", Mean "_YL"
+_YSo      	; Aspects sorting: by orbs "=YSo", by power "_YSo"
+
+
+; DEFAULT RESTRICTIONS:
+
+-YR 0 10     0 0 0 0 0 0 0 0 0 0 0     ; Planets
+-YR 11 21    1 1 1 1 1 0 1 0 0 0 1     ; Minor planets
+-YR 22 33    0 1 1 0 1 1 0 1 1 0 1 1   ; House cusps
+-YR 34 42    1 1 1 1 1 1 1 1 1         ; Uranians
+
+; DEFAULT TRANSIT RESTRICTIONS:
+
+-YRT 0 10    0 0 0 0 0 0 0 0 0 0 0     ; Planets
+-YRT 11 21    1 1 1 1 1 0 0 1 1 1 1    ; Minor planets
+-YRT 22 33    1 1 1 1 1 1 1 1 1 1 1 1  ; House cusps
+-YRT 34 42    1 1 1 1 1 1 1 1 1        ; Uranians
+
+; DEFAULT PROGRESSION RESTRICTIONS (FOR DUAL CHARTS ONLY):
+
+-YRP 0 10    0 0 0 0 0 0 0 0 1 1 1     ; Planets
+-YRP 11 21    1 1 1 1 1 1 1 1 1 1 1    ; Minor planets
+-YRP 22 33    0 0 0 0 0 0 0 0 0 0 0 0  ; House cusps
+-YRP 34 42    1 1 1 1 1 1 1 1 1        ; Uranians
+
+-YR0 0 0  ; Restrict sign, direction changes
+
+; DEFAULT ASPECT RESTRICTIONS:
+
+-YAR 1 5    0 0 0 0 0       ; Major aspects
+-YAR 6 11   0 0 1 1 1 1     ; Minor aspects
+-YAR 12 18  1 1 1 1 1 1 1   ; Obscure aspects
+
+; DEFAULT ASPECT ORBS:
+
+-YAo 1 5     5.0 5.0 3.0 4.0 2.0          ; Major aspects
+-YAo 6 11    1.0 1.0 0.1 0.1 0.1 0.1      ; Minor aspects
+-YAo 12 18   0.1 0.1 0.1 0.1 0.1 0.1 0.1  ; Obscure aspects
+
+; DEFAULT MAX PLANET ASPECT ORBS:
+
+-YAm 1 10    360 360 360 360 360 360 360 360 360 360
+-YAm 11 21   360 360 360 360 360 360 360 360 360 360 360
+-YAm 22 33   360 360 360 360 360 360 360 360 360 360 360 360
+-YAm 34 42   360 360 360 360 360 360 360 360 360
+
+; DEFAULT PLANET ASPECT ORB ADDITIONS:
+
+-YAd 1 10    2.0 2.0 1.0 1.0 1.0 0.5 0.5 0.0 0.0 0.0
+-YAd 11 21   0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+-YAd 22 33   0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+; DEFAULT INFLUENCES:
+
+-Yj 1 10    30 25 10 10 10 10 10 5 5 5        		; Planets
+-Yj 11 21   2 2 2 2 2 5 5 5 5 5 5                  	; Minor planets
+-Yj 22 33   20 10 10 10 10 10 10 10 10 15 10 10  	; Cusp objects
+-Yj 34 42   3 3 3 3 3 3 3 3 3                    	; Uranians
+
+-YjC 1 12   20 0 0 10 0 0 5 0 0 15 0 0  ; Houses
+
+-YjA 1 5    1.000 0.800 0.800 0.600 0.600              	; Major aspects
+-YjA 6 11   0.400 0.400 0.200 0.200 0.200 0.200       	; Minor aspects
+-YjA 12 18  0.100 0.100 0.100 0.100 0.100 0.100 0.100  	; Obscure aspects
+
+; DEFAULT TRANSIT INFLUENCES:
+
+-YjT 1 10    10 4 8 9 20 30 35 40 45 50  		; Planets
+-YjT 11 21   30 15 15 15 15 30 30 1 1 1 1   		; Minor planets
+-YjT 34 42   50 50 50 50 50 50 50 50 50  		; Uranians
+
+-Yj0 20 10 15 5 ; In ruling sign, exalted sign, ruling house, exalted house.
+
+
+; DEFAULT COLORS:
+
+-YkC 9 11 10 14                 			; Element colors
+-YkA 1 18  15 1 1 6 6 3 3 8 8 8 8 8 8 8 8 8 8 8  	; Aspect colors
+-Yk0 1 7   9 3 11 10 14 12 5    			; Rainbow colors
+-Yk  0 8   0 15 7 8 1 2 6 4 13  			; Main colors
+-Ykc 4                         				; Corner decoration color
+
+; GRAPHICS DEFAULTS:
+
+=X              ; Graphics chart flag ["_X" is text, "=X" is graphics]
+;:Xw 736 736    ; Default X and Y resolution
+:Xbb            ; Bitmap file type
+:YXG 2223       ; Glyph selections
+:YXg 21         ; Aspect grid cells
+:YXf 0          ; Use actual fonts
+:YXp 0          ; PostScript paper orientation
+:YXp0 8.5 11.0  ; PostScript paper X and Y inch sizes
+:YXC 0 60 60    ; Corner Decoration <0 = none, 1 = moire, 2 = web> <size> <no. lines>
+
+; DIRECTORIES:
+
+;:DIM "C:\Astrolog\Astrolog32\main"               	; Main
+;:DIE "C:\Astrolog\Astrolog32\ephemeris"           	; Ephemeris
+;:DIC "C:\Astrolog\Astrolog32\charts"              	; Charts
+;:DIN "C:\Astrolog\Astrolog32\interpretations"      	; Interpretations
+;:DIL "C:\Astrolog\Astrolog32\miscellaneous"       	; Miscellanneous
+;:DIA "C:\Astrolog\Astrolog32\atlas\american"      	; American Atlas
+;:DII "C:\Astrolog\Astrolog32\atlas\international"	; International Atlas
+
+; ***********************************************************************
+;SPECIAL CHARACTERS BY TOMAS (Already in the instal file)
+; ***********************************************************************
+
+;-#CharSet 1			;Latin CharSet
+;-#DegCharacter °:°°o		;" o " at the bottom for degree symbol
+
+;-#Glyph 0 124 "BR2FGHE"	;Better. Re-defined the font and the assigment
+;-#DegCharacter "°:° |"		;Unused character
+
+; PERSONAL.dat

@@ -1,0 +1,425 @@
+
+#include "..\res_strings.h"
+
+#pragma code_page(1250)
+
+
+STRINGTABLE 
+BEGIN
+	// Languahe pack ID and version
+	0						"ASTRLG32\x01\x01"
+
+
+//---------------------------------------------------------
+//						Tables
+//---------------------------------------------------------
+
+	tSignName				"|Beran|Býk|Blíženci|Rak|Lev|Panna|Váhy|Štír|Støelec|\
+							Kozoroh|Vodnáø|Ryby"
+
+	tSignAbbrev				"|Be|Bý|Bl|Ra|Le|Pa|Vá|Št|St|Ko|Vo|Ry"
+
+	// ObjNames
+	// Star names should not be translated, because they may be overwritten
+	// by names from the fixed stars catalogue, that are in English.
+
+	// the extra space after IC is necessary for house wheels in text
+	// mode to be correctly displayed
+
+	tObjName				"Zemì|Slunce|Luna|Merkur|Venuše|Mars|\
+							Jupiter|Saturn|Uran|Neptun|Pluto|\
+							Chiron|Ceres|Pallas Athena|Juno|Vesta|\
+							Severní uzel|Jižní uzel|Lilith|Bod štìstí|Vertex|Východní bod|\
+							Ascendent|2. dùm|3. dùm|IC |\
+							5. dùm|6. dùm|Descendent|8. dùm|\
+							9. dùm|MC |11. dùm|12. dùm|\
+							Cupido|Hades|Zeus|Kronos|\
+							Apollon|Admetos|Vulkanus|Poseidon|Proserpina|\
+							Achernar|Polaris|Zeta Retic.|Alcyone|\
+							Aldebaran|Capella|Rigel|Bellatrix|\
+							Elnath|Alnilam|Betelgeuse|Menkalinan|\
+							Mirzam|Canopus|Alhena|Sirius|\
+							Adhara|Wezen|Castor|Procyon|\
+							Pollux|Suhail|Avior|Miaplacidus|\
+							Alphard|Regulus|Dubhe|Acrux|\
+							Gacrux|Mimosa|Alioth|Spica|\
+							Alkaid|Agena|Arcturus|Toliman|\
+							Antares|Shaula|Sargas|Kaus Austr.|\
+							Vega|Altair|Peacock|Deneb|\
+							Alnair|Fomalhaut|Andromeda|Alpheratz|\
+							Algenib|Schedar|Mirach|Alrischa|\
+							Almac|Algol|Mintaka|Wasat|\
+							Acubens|Merak|Vindemiatrix|Mizar|\
+							Kochab|Zuben Elgen.|Zuben Escha.|Alphecca|\
+							Unuk Alhai|Ras Alhague|Albireo|Alderamin|\
+							Nashira|Skat|Scheat|Markab|\
+							Gal.Center|Apex|Sadalmelik"
+							
+	// The object abbreviation is used in the info bar and other places where only 
+	// three or four letters are printed. Make sure that these 3-4 letters are 
+	// meaningful and unique. 
+
+    tObjShortName			"Zemì|Slunce|Luna|Merkur|Venuše|Mars|\
+							Jupiter|Saturn|Uran|Neptun|Pluto|\
+							Chiron|Ceres|Athena|Juno|Vesta|\
+							SevUzel|JižUzel|Lilith|BodŠtìstí|Vertex|VýchBod|\
+							Ascendent|2. dùm|3. dùm|IC |\
+							5. dùm|6. dùm|Descendent|8. dùm|\
+							9. dùm|MC |11. dùm|12. dùm|\
+							Cupido|Hades|Zeus|Kronos|Apollon|Admetos|Vulkanus|Poseidon|Proserpina|\
+							Achernar|Polaris|Zeta Retic.|Alcyone|\
+							Aldebaran|Capella|Rigel|Bellatrix|\
+							Elnath|Alnilam|Betelgeuse|Menkalinan|\
+							Mirzam|Canopus|Alhena|Sirius|\
+							Adhara|Wezen|Castor|Procyon|\
+							Pollux|Suhail|Avior|Miaplacidus|\
+							Alphard|Regulus|Dubhe|Acrux|\
+							Gacrux|Mimosa|Alioth|Spica|\
+							Alkaid|Agena|Arcturus|Toliman|\
+							Antares|Shaula|Sargas|Kaus Austr.|\
+							Vega|Altair|Peacock|Deneb|\
+							Alnair|Fomalhaut|Andromeda|Alpheratz|\
+							Algenib|Schedar|Mirach|Alrischa|\
+							Almac|Algol|Mintaka|Wasat|\
+							Acubens|Merak|Vindemiatrix|Mizar|\
+							Kochab|Zuben Elgen.|Zuben Escha.|Alphecca|\
+							Unuk Alhai|Ras Alhague|Albireo|Alderamin|\
+							Nashira|Skat|Scheat|Markab|\
+							Gal.Center|Apex|Sadalmelik"
+
+	tAspectName				"|Konjunkce|Opozice|Kvadrant|Trigon|Sextil|\
+							Inconjunct|Semisextile|Semisquare|Sesquiquadrate|\
+							Quintile|Biquintile|Semiquintile|Septile|Novile|\
+							Binovile|Biseptile|Triseptile|Quatronovile"
+
+	tAspectAbbrev			"|Kon|Opo|Kva|Tri|Sex|Inc|SSx|SSq|Ses|Qui|BQn|\
+							SQn|Sep|Nov|BNv|BSp|TSp|QNv"
+
+	tAspectConfig		"|Stellium|Velký trigon|T-kvadratura|Yod|Velký køíž|\
+						Kolébka|Mystic Rect|Drak"
+
+	tHouseSystem			"Placidus|Koch|Equal(Asc)|Campanus|Meridian|\
+							Regiomontanus|Porphyry|Morinus|Topocentric|Alcabitius|\
+							Ekvální (MC)|Neo-Porphyry|Whole|Vedický|Žádný|Shripati"
+
+	tElement				"Oheò|Zemì|Vzduch|Voda"
+
+	tMode					"Kardinální|Fixní|Promìnlivý";
+
+	tAyanamshaAbbrev		"Fagan/Bradley|Lahiri|De Luce|Raman|Ushashashi|Krishnamurti|Djwhal Khul|\
+							Yukteshwar|J. N. Bhasin|Babyl. (Kugler 1)|Babyl. (Kugler 2)|\
+							Babyl. (Kugler 3)|Babyl. (Huber)|Babyl. (Eta Piscium)|Babyl. (Ald. 15 Tau)|\
+							Hipparchos|Sassanian|Galac. Center 0 Sag"
+
+	tAyanamshaName			"Fagan/Bradley|Lahiri|De Luce|Raman|Ushashashi|Krishnamurti|Djwhal Khul|\
+							Yukteshwar|J. N. Bhasin|Babylonian (Kugler 1)|Babylonian (Kugler 2)|\
+							Babylonian (Kugler 3)|Babylonian (Huber)|Babylonian (Eta Piscium)|\
+							Babylonian (Aldebaran at 15° Taurus)|Hipparchos|Sassanian|\
+							Galactic Center at 0° Sagittarius"
+
+	tMonth					"|Leden|Únor|Bøezen|Duben|Kvìten|Èerven|\
+							Èervenec|Srpen|Záøí|Øíjen|Listopad|Prosinec"
+
+	tDay					"Nedìle|Pondìlí|Úterý|Støeda|Ètvrtek|Pátek|Sobota"
+
+
+	tSuffix					"|.|.|.|.|.|.|.|.|.|.|.|."
+
+// colour names must be unambiguous to the extent of the length 
+// of the shorter colour name
+
+	tColor					"Black|Maroon|DkGreen|Orange|DkBlue|Purple|DkCyan|LtGray|\
+							Gray|Red|Green|Yellow|Blue|Magenta|Cyan|White"
+
+// Help strings
+
+	tSignMeaning			"|Ram|Bull|Twins|Crab|Lion|Virgin|Scales|Scorpion|Archer|Sea Goat|\
+							Water Bearer|Fishes"
+
+	tHouseMeaning			"|House of Personality|House of Money|House of Communication|\
+							House of Home|House of Children|House of Servants|House of Marriage|\
+							House of Death|House of Long Journeys Over Water|House of Career|\
+							House of Friends|House of Troubles"
+
+
+	tAspectGlyph			"|Circle with extending line|Two circles joined by line|\
+							Quadrilateral|Triangle|Six pointed asterisk|\
+							'K' rotated right|'K' rotated left|Acute angle|\
+							Square with extending lines|Letter 'Q'|'+' over '-'|\
+							'-' over '+'|Number '7'|Number '9'|'9' under Roman 'II'|\
+							'7' under Roman 'II'|'7' under Roman 'III'|'9' under Roman 'IV'"
+
+// end of helps
+
+	tDir					"Sever|Východ|Jih|Západ"
+
+	tArabicPart				"Fortune|Spirit|Victory|Valor & Bravery|Mind & Administrators|\
+							Property & Goods|Siblings|Death of Siblings|Deeath of Parents|\
+							Grandparents|Real Estate|Children & Life|Expected Birth|\
+							Disease & Defects (1)|Disease & Defects (2)|Captivity|Servants|\
+							Partners|Death|Sickness & Murder|Danger, Violence & Debt|\
+							Journeys|Travel by Water|Faith, Trust & Belief|Deep Reflection|\
+							Understanding & Wisdom|Fame & Recognition|Rulers & Disassociation|\
+							Father, Fate & Karma|Sudden Advancement|Celebrity of Rank|\
+							Surgery & Accident|Merchants & Their Work|Merchandise (Exchange)|\
+							Mother|Glory & Constancy|Honorable Acquaintances|Success|\
+							Worldliness|Acquaintances|Violence|Liberty of Person|\
+							Praise & Acceptance|Enmity|Bad Luck|Debilitated Bodies|\
+							Boldness & Violence|Trickery & Deceit|Necessities|\
+							Realization of Needs|Retribution|Children (Male)|\
+							Children (Female)|Play & Variety|Stability|Speculation|Art|\
+							Sexual Attraction|Sex Drive & Stimulation|Passion|Emotion & Affection|\
+							Most Perilous Year|Peril|Occultism|Commerce|Marriage Contracts|\
+							Travel by Land|Travel by Air|Destiny|Vocation & Status|\
+							Honor, Nobility (Day)|Honor, Nobility (Night)|Organization|Divorce|\
+							Ostracism & Loss|Friends|Tragedy & Brethren|Race (Consciousness)|\
+							Bondage & Slavery|Imprisonment & Sorrow|erversion|Self-Undoing|\
+							Treachery & Entrapment|Bereavement|Suicide (Yang)|Suicide (Yin)|\
+							Depression|Assassination (Yang)|Assassination (Yin)|\
+							Cancer (Disease)|Catastrophe|Foolhardiness|Release & Luck|\
+							Benevolence & Assurance|ope & Sensitivity|Aptness & Aloofness|\
+							Charm & Personality|Faith & Good Manners|Temperament|\
+							Security & Treasure|Originality|Eccentricity, Astrology|Divination|\
+							Intrusion|Negotiation|Discord & Controversy|Coincidence|\
+							Unpreparedness|Popularity|Misunderstanding|Sentiment & Marriage|\
+							Loneliness|Success in Investment|Frugality & Labor|Wastefulness|\
+							Vanity|Corruptness|Initiative|Memory|Love, Beauty & Peace|\
+							Disinterest & Boredom|Accomplishment|Influence|\
+							Increase & Impression|Caution|Timidity|Entertainment|Bequest|\
+							Genius|Revelation|Delusion|Misinterpretation|tellectuality|Earth|\
+							Water|Air & Wind|Fire|Clouds|Rains|Cold|Wheat|Barley & Meats|\
+							Rice & Millet|Corn|Lentils, Iron, Pungents|Beans & Onions|\
+							Chick Peas|Sesame & Grapes|Sugar & Legumes|Honey|Oils|\
+							Nuts & Flax|Olives|Apricots & Peaches|Melons|Salt|Sweets|\
+							Astrigents & Purgatives|Silk & Cotton|urgatives (Bitter)|\
+							Purgatives (Acid)|Secrets|Information True/False|\
+							Injury to Business|Freedmen & Servants|Employers|Marriage|\
+							Time for Action/Success|Time Occupied in Action|\
+							Dismissal & Resignation|Life/Death of Absentee|\
+							Lost Animal (Light)|Lost Animal (Dark)|Lawsuit|Decapitation|\
+							Torture|Lost Objects"
+
+	tDirNames				"Hlavní|Ephemeridy|Horoskopy|Výklad|Rùzné|Americký atlas|Svìtový atlas"
+	tDirPaths				"main|ephemeris|charts|interpretations|miscellaneous|atlas\\american|atlas\\international"
+
+
+
+
+
+//
+
+//---------------------------------------------------------
+//						Strings
+//---------------------------------------------------------
+
+	sYES								"Ano"
+	sNO									"Ne"
+	sAM									"dop."
+	sPM									"odp."
+	sST									"SÈ"
+	sDT									"LÈ"
+	sDegSign							"°:° \370"
+	
+	// DrawInfo() strings
+
+	sHOUSE1								"dùm"
+	sHOUSES1							"%s domy."
+	sHouseCusp							"Hrot domu "	//must be 10 chars
+	sTROPICAL							"Tropický"
+	sSIDEREAL							"Sidereálný"
+	sSIDEREAL_TIME						"Sider. èas: %s"
+	sHELIOCENTRIC						"Heliocentrický"
+	sGEOCENTRIC							"Geocentrický"
+	sJULIAN_DAY							"Jul. den: "
+	sHARMONIC							"Harmonic"
+	sOBLIQUITY							"Obliquita"
+	sBONUS_MODE							"Bonus Mode"
+	sINNER_RING							"Vnitøní kruh:"
+	sOUTER_RING							"Vnìjší kruh:"
+	sNO_TIME_OR_SPACE					"Nedefinovaný èas a prostor"
+	sTIME_SPACE_MIDPOINT				"Midpunkt"
+	sCOMPOSITE_CHART					"Kompositní horoskop"
+	sSYNASTRY_HOUSES					"Synastrické  Domy:"
+	sOUTER_RING_TRANSIT					"Vnìjší kruh - Transit:"
+
+	sDEGREE_PER_YEAR_MONTH				"Stupeò za rok/mìsíc -"
+	sSOLAR_ARC							"Solární Arc -"
+
+	// the following two lines continue the two lines above 
+
+	sOUTER_RING_DIRECTED_TO				"vnìjší kruh = direkce do:"	
+	sCHART_DIRECTED_TO					"direkce do:"
+
+	sOUTER_RING_PROGRESSED_TO			"Vnìjší kruh - progrese do:"
+	sSECOND_RING						"Druhý kruh:"
+	sCHART_PROGRESSED_TO				"Progrese do:"
+	sPLANETS							"Planety:"
+	sBRUSSELS							"Brusel, Belgie"
+
+	// aspect info
+	sHARM								"Harm = "
+	sCONJ								"Konj = "
+	sTENS								"Napj = "
+	sTOTAL								"Total = "
+	sSUMM								"Summ = "
+	sAspectAbbrevCon					"Kon"
+	sAspectAbbrevOpp					"Opo"
+
+	sHouseDispositorWheel				"House dispositor wheel."
+	sHouseDispositorHierarchy			"House dispositor hierarchy."
+	sSignDispositorWheel				"Sign dispositor wheel."
+	sSignDispositorHierarchy			"Sign dispositor hierarchy."
+
+	sFIRE_EARTH							"Oheò: %d, Zemì : %d,"
+	sAIR_WATER							"Vzdu: %d, Voda : %d"
+	sCAR_FIX_MUT						"Kar: %d, Fix: %d, Pro: %d"
+	sYANG_YIN							"Yang: %d, Yin: %d"
+	sM_N_A_D							"M: %d, N: %d, A: %d, D: %d"
+	sANG_SUC_CAD						"Ang: %d, Suk: %d, Kad: %d"
+	sLEARN_SHARE						"Uèení: %d, Sdíle: %d"
+
+// Common dialogs
+	sOPEN_MAIN_CHART					"Otevøít hlavní horoskop"
+	sOPEN_CHART							"Otevøít horoskop #%d"
+	sSAVE_MAIN_CHART_DATA				"Uložit data hl. horoskopu"
+	sSAVE_CHART_POSITIONS				"Uložit pozice"
+	sSAVE_CHART_AS_TEXT_FILE			"Uložit jako text"
+	sSAVE_CHART_AS_BITMAP				"Uložit jako Bitmap"
+	sSAVE_CHART_AS_WMF					"Uložit jako WMF"
+	sSAVE_CHART_AS_POSTSCRIPT			"Uložit jako PostScript"
+	sSAVE_CURRENT_SETTINGS				"Uložit nastavení "
+	sOPEN_COMMAND_FILE				"Otevøít soubor pøíkazù"
+	sDAT_MASK					"Data Files (*.dat)\000*.dat\000All Files (*.*)\000*.*\000\001"
+	sTXT_MASK					"Text Files (*.txt)\000*.txt\000All Files (*.*)\000*.*\000\001"
+	sBMP_MASK					"Windows Bitmap Files (*.bmp)\000*.bmp\000All Files (*.*)\000*.*\000\001"
+	sWMF_MASK					"WMF Files (*.wmf)\000*.wmf\000All Files (*.*)\000*.*\000\001"
+	sPS_MASK					"PostScript Files (*.ps)\000*.ps\000All Files (*.*)\000*.*\000\001"
+
+// Various windows
+
+	sTRANSIT_OBJECT_RESTRICTIONS		"Transit Object Selections"
+	sPROGRESSED_OBJECT_RESTRICTIONS		"Progressed Object Selections"
+	sENTER_CHART_INFO					"Enter Chart #%d Data" 
+	sWINDOW_NAME						"%s verze %s pro MS Windows (32 bits) se švýcarskými efemeridami v. %s"
+	sAPP_VER							"%s verze %s"
+	sRFED								"RFed"
+	sABOUT
+"By Walter D. Pullen (Astara@msn.com)\r\n\
+Astrolog Homepage: http://www.magitech.com/~cruiser1/astrolog.htm\r\n\
+Astrolog Homepage #2: http://www.astrolog.org/astrolog.htm\r\n\
+\r\n\
+Main planetary calculation formulas were converted from routines by \
+James Neely, as listed in 'Manual of Computer Programming for \
+Astrologers' by Michael Erlewine, available from Matrix Software.\r\n\
+\r\n\
+PostScript graphics routines by Brian D. Willoughby.\r\n\
+\r\n\
+Extended ephemeris calculation and formulas are by Astrodienst AG, as \
+in the library SWISS EPHEMERIS, available from Astrodienst AG.\r\n\
+\r\n\
+IMPORTANT: Astrolog is freeware, but is copyrighted and not in \
+public domain. Permission is granted to freely use and distribute these \
+routines provided one does not sell, restrict, or profit from the program \
+or its output in any way. Modification is allowed provided these exact \
+notices remain with any altered or edited versions of the program. \
+These conditions are true of both the program in whole and of all \
+parts by any individual author. Violators are subject to copyright law \
+penalties, and negative karmic debts to aforementioned contributors.\r\n\
+\r\n\
+Special thanks to all those unmentioned, seen and unseen, who have \
+pointed out problems, suggested features, && sent many positive vibes! :)\r\n\
+\r\n\
+   ______________________________________________________\r\n\
+\r\n\
+Walter Pullen finished development of Astrolog 5.40 for Windows 16-bits \
+on 20th December 1998.\r\n\
+\r\n\
+Alois Treindl added support for Swiss Ephemeris to version 5.41.\r\n\
+\r\n\
+Valentin Abramov made many improvements to Windows 16-bits versions \
+from 5.30a through 5.31g and 5.41a through 5.41g, up to 26th April 2002.\r\n\
+\r\n\
+António Ramos created Astrolog32 (Windows 32-bits version) based on \
+5.41g. Version 1.0 was released on 5th March 2004. Later versions \
+included improvements to user interface, language support, atlas, etc.\r\n\r\n\
+Versions 2.00-2.02 were developed by Tomas Kubec\r\n\
+Versions 2.03 and later are developed and maintained by Roberto Luporini\r\n\
+\r\n\
+Built on %s by Roberto Luporini\r\n\
+\r\n\
+   ______________________________________________________\r\n\
+\r\n\
+Astrolog32 Home Page: http://www.orionsoft.cz/astrolog32/\r\n\
+\r\n\
+This software is provided 'as is', without warranty of any kind, either \
+express or implied. In no event shall the authors or copyright holders be \
+liable for any claim, damages or other liability, arising from the use \
+or performance of this software."
+	
+
+// Warnings and messages
+	sINCOMPATIBLE_CONFIG_FILE			"Incompatible configuration file:\nfile is v. %d, but v. %d is required."
+	sINCOMPATIBLE_FILE					"Incompatible file '%s' (version '%s' required)"
+	sINVALID_FILE						"Invalid file '%s' (does not start with '@%s')"
+	sFILE_NOT_FOUND						"File '%s' not found in directory '%s'"
+	sDIRECTORIES_NOT_FOUND_OR_CREATED	"The following directories could not be found or created:\n\n%s"
+	sCONFIGURATION_FILE_NOT_FOUND		"The configuration file could not be found.\nWould you like to configure the program now?"
+	sINT_VALUE_NOT_VALID_SETTING		"Value %d is not a valid setting for %s"
+	sFLOAT_VALUE_NOT_VALID_SETTING		"Value %f is not a valid setting for %s"
+	sEXIT								"Ukonèit program?"
+	sPRINT_BACKROUND					"Podloží není bílé, pøesto vytisknout?"
+
+	sHelpForumInternationalUrl			"http://groups.yahoo.com/group/Astrolog_List/"
+	sHelpForumUrl						"http://groups.yahoo.com/group/Astrolog_List/"
+	sReadMe								"companion.html"
+	sHelp								"helpfile.txt"
+	sUsersGuide							"Manual_Astrolog_32.pdf"
+	sWAtlas								"watlas.url"
+
+// Headings
+	sChart								"\n%s horoskop "
+	sDualChart							"\n%s duální horoskop "
+	sSynastryChart						"\n%s synastrický horoskop, domy: "
+	sComposite							"(Kompozitní)\n"
+	sTimeSpaceMidpoint					"(Midpunkt)\n"
+	sFor								"pro %s:\n"
+	sTransits							"\nTranzity pro:\n"
+
+	sChartHdr							"Tìleso       Místo     Ret. %s Vlá. Dùm   Vlá.  Rychlost\n"							
+	sChartHdrSeconds					"Tìleso      Místo  Ret. %s. Vlá. Dùm    Vlá. Rychl.    %s Domy   \n"
+	sCFMT								"     Kar Fix Pro TOT"
+	sHorizonHdr							"Tìleso %s%sAmplituda%s %s%sPrm-Vrt%s%s  Azi. Vector%s    "
+	sHorizonHdr2						"Tìleso  %s%sAltituda%s %s%sAzimut %s%s  Azi. Vector%s    "
+	sArabicHdr							"ARABIC PARTS LISTING\n\nNum.                    Name Position"
+	sArabicHdr2							"House Formula              Flip Type\n\n"
+
+	sAspectHdr							"  Orbis       Síla \n\n"
+	sInfluenceHdr						"     Planeta:   Pozice        Aspekty     Paralelí    Total Hodn.  Procent\n"
+
+	// Wizard
+	sWELCOME_WIZ_TITLE1					"Regional Choices"
+	sWELCOME_WIZ_SUBTITLE1				"Choosing a region here just sets a few parameters in one go for your convenience. You can later modify your choices in the Settings menu."
+	sWELCOME_WIZ_TITLE2					"Default Location and Timezone"
+	sWELCOME_WIZ_SUBTITLE2				"Choose now a reference place and time zone. We suggest you choose the town where you live. WARNING: for towns having Greenwich timezone (for ex. England, Ireland, ...) set the related field to 0:00 or select GMT."
+	sWELCOME_WIZ_TITLE3					"Directories"
+	sWELCOME_WIZ_SUBTITLE3				"Astrolog32 has many files. Directories are used to keep them tidy. We suggest you keep the default directories for now, and you can change them later if necessary."
+	sWELCOME_WIZ_TITLE4					"Mode"
+	sWELCOME_WIZ_SUBTITLE4				"Astrolog32 can work either in a simplified mode for beginners or in a feature-rich advanced mode."
+
+//Atlas
+	sWARNING_NOT_ALL_PLACES_SHOWN		">> WARNING: NOT ALL PLACES WERE SHOWN. WE SUGGEST YOU NARROW YOUR CHOICE. <<" 
+	sNO_PLACE_MATCHING_REQUIREMENTS		">> No place was found matching your requirements. <<"
+	sNEED_CHOOSE_ATLAS_BEFORE_SEARCH	"You need to choose an atlas before searching"
+	sCOUNTRY_LIST						"country_list.atl"
+	sSTATE_LIST							"states_list.atl"
+//Search
+	sIN_FILE							" in file %s"
+	sCHOOSE_DIRECTORY					"Choose directory for chart files"
+	sANY_ASPECT							"Any aspect"
+	sANY_OBJECT							"Any object"
+	sANY_SIGN							"Any sign"
+	sSPEED_ABBREVIATION					"Speed"
+	sGAUQUELIN_SECTOR					"Gauq. Sec."
+
+END
+

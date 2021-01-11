@@ -1,0 +1,22 @@
+@0500
+
+; Astrolog32 country file for Monaco
+
+; This file was created by Antonio Ramos on 27 July 2004 using source data
+; provided by NGA GEOnet Names Server at http://earth-info.nga.mil/gns/html.
+; It can be copied without restriction.
+
+; This file is provided "as is", without warranty of any kind, either express
+; or implied. In no event shall the authors or data providers be liable for
+; any claim, damages or other liability, arising from the use of this file.
+
+
+%%
+
+VX- - 7e25 43n44 0 00 Condamine
+NX- - 7e25 43n44 0 00 Fontvieille
+NX- - 7e25 43n44 0 00 La Condamine
+NC- - 7e25 43n44 0 00 Monaco
+VC- - 7e25 43n44 0 00 Monaco-Ville
+NX- - 7e24.55 43n44.15 0 00 Moneghetti
+NX- - 7e25 43n44 0 00 Monte-Carlo

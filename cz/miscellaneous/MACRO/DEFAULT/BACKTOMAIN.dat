@@ -1,0 +1,72 @@
+@0309
+
+;BACK FROM MULTIPLE AND TRANSITS
+
+_d
+_dm
+_dy
+_tn
+_r
+_Zd
+_pn
+_g0
+_sr
+-YR0 0 0
+-x 1
+-1 22
+-c 0
+
+; DEFAULT RESTRICTIONS:
+
+-YR 0 10     0 0 0 0 0 0 0 0 0 0 0      ; Planets
+-YR 11 21    1 1 1 1 1 0 1 0 0 0 1     ; Minor planets
+-YR 22 33    0 1 1 0 1 1 0 1 1 0 1 1  ; House cusps
+-YR 34 42    1 1 1 1 1 1 1 1 1          ; Uranians
+
+; DEFAULT TRANSIT RESTRICTIONS:
+
+-YRT 0 10    0 0 0 0 0 0 0 0 0 0 0      ; Planets
+-YRT 11 21    1 1 1 1 1 0 0 1 1 1 1    ; Minor planets
+-YRT 22 33    1 1 1 1 1 1 1 1 1 1 1 1  ; House cusps
+-YRT 34 42    1 1 1 1 1 1 1 1 1          ; Uranians
+
+; DEFAULT PROGRESSION RESTRICTIONS (FOR DUAL CHARTS ONLY):
+
+-YRP 0 10    0 0 0 0 0 0 0 0 1 1 1      ; Planets
+-YRP 11 21    1 1 1 1 1 1 1 1 1 1 1    ; Minor planets
+-YRP 22 33    0 0 0 0 0 0 0 0 0 0 0 0  ; House cusps
+-YRP 34 42    1 1 1 1 1 1 1 1 1        ; Uranians
+
+-YR0 0 0  ; Restrict sign, direction changes
+
+; DEFAULT ASPECT RESTRICTIONS:
+
+-YAR 1 5    0 0 0 0 0       ; Major aspects
+-YAR 6 11   0 0 1 1 1 1     ; Minor aspects
+-YAR 12 18  1 1 1 1 1 1 1   ; Obscure aspects
+
+; DEFAULT ASPECT ORBS:
+
+-YAo 1 5     5.0 5.0 3.0 4.0 2.0          ; Major aspects
+-YAo 6 11    1.0 1.0 0.1 0.1 0.1 0.1      ; Minor aspects
+-YAo 12 18   0.1 0.1 0.1 0.1 0.1 0.1 0.1  ; Obscure aspects
+
+
+; DEFAULT MAX PLANET ASPECT ORBS:
+
+-YAm 1 10    360 360 360 360 360 360 360 360 360 360
+-YAm 11 21   360 360 360 360 360 360 360 360 360 360 360
+-YAm 22 33   360 360 360 360 360 360 360 360 360 360 360 360
+-YAm 34 42   360 360 360 360 360 360 360 360 360
+
+; DEFAULT PLANET ASPECT ORB ADDITIONS:
+
+-YAd 1 10    2.0 2.0 1.0 1.0 1.0 0.5 0.5 0.0 0.0 0.0
+-YAd 11 21   0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+-YAd 22 33   0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+-YOc 2.500000 ; Temporary decreasing of orbs in comparison charts.
+
+-X
+
+; BACKTOMAIN.DAT

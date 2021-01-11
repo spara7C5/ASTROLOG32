@@ -1,0 +1,2799 @@
+@0500
+
+; Astrolog32 country file for New Zealand
+
+; This file was created by Antonio Ramos on 27 July 2004 using source data
+; provided by NGA GEOnet Names Server at http://earth-info.nga.mil/gns/html.
+; It can be copied without restriction.
+
+; This file is provided "as is", without warranty of any kind, either express
+; or implied. In no event shall the authors or data providers be liable for
+; any claim, damages or other liability, arising from the use of this file.
+
+01 Akaroa
+03 Amuri
+04 Ashburton
+07 Bay of Islands
+08 Bruce
+09 Buller
+10 Chatham Islands
+11 Cheviot
+12 Clifton
+13 Clutha
+14 Cook
+16 Dannevirke
+17 Egmont
+18 Eketahuna
+19 Ellesmere
+20 Eltham
+21 Eyre
+22 Featherston
+24 Franklin
+26 Golden Bay
+27 Great Barrier Island
+28 Grey
+29 Hauraki Plains
+30 Hawera
+31 Hawke's Bay
+32 Heathcote
+33 Hobson
+34 Hokianga
+35 Horowhenua
+36 Hutt
+37 Inangahua
+38 Inglewood
+39 Kaikoura
+40 Kairanga
+41 Kiwitea
+43 Lake
+45 Mackenzie
+46 Malvern
+47 Manawatu
+48 Mangonui
+49 Maniototo
+50 Marlborough
+51 Masterton
+52 Matamata
+53 Mount Herbert
+54 Ohinemuri
+55 Opotiki
+56 Oroua
+57 Otamatea
+58 Otorohanga
+59 Oxford
+60 Pahiatua
+61 Paparua
+63 Patea
+65 Piako
+66 Pohangina
+67 Raglan
+68 Rangiora
+69 Rangitikei
+70 Rodney
+71 Rotorua
+72 Southland
+73 Stewart Island
+74 Stratford
+76 Taranaki
+77 Taumarunui
+78 Taupo
+79 Tauranga
+81 Tuapeka
+82 Vincent
+83 Waiapu
+84 Waihemo
+85 Waikato
+86 Waikohu
+88 Waimairi
+89 Waimarino
+90 Waimate
+91 Waimate West
+92 Waimea
+93 Waipa
+95 Waipawa
+96 Waipukurau
+97 Wairarapa South
+98 Wairewa
+99 Wairoa
+A1 Whangarei
+A2 Whangaroa
+A3 Woodville
+A4 Waitaki
+A6 Waitomo
+A8 Waitotara
+B2 Wanganui
+B3 Westland
+B4 Whakatane
+D4 Hurunui
+D5 Silverpeaks
+D6 Strathallan
+D8 Waiheke
+D9 Hikurangi
+E1 Manaia
+E2 Runanga
+E3 Saint Kilda
+E4 Thames-Coromandel
+E5 Waverley
+E6 Wallace
+
+%%
+
+N-- - 170e25 45s53 0 00 Abbotsford
+N-- - 169e50 46s07 0 00 Adams Flat
+NX- - 172e37 43s33 0 00 Addington
+N-- - 173e55 40s57 0 00 Admiralty Bay
+N-- - 171e32 42s21 0 00 Ahaura
+N-- - 173e44 35s47 0 00 Ahikiwi
+N-- - 175e29 36s51 0 00 Ahimia
+N-- - 173e10 35s10 0 00 Ahipara
+N-- - 174e36 38s52 0 00 Ahititi
+N-- - 178e03 38s26 0 00 Ahititi
+N-- - 175e00 39s38 0 00 Ahuiti
+N-- - 175e07 39s42 0 00 Ahurangi
+NX- - 176e54 39s29 0 00 Ahuriri
+D-- - 177e51.43 39s14.56 0 00 Ahuriri Village
+N-- - 174e34 36s29 0 00 Ahuroa
+N-- - 171e37 42s47 0 00 Aickens
+N-- - 174e46 37s18 0 00 Aka Aka
+N-- - 170e07 46s09 0 00 Akatore
+N-- - 174e10 35s29 0 00 Akerama
+N-- - 176e25 40s36 0 00 Akitio
+N-- - 174e42 36s43 0 00 Albany
+N-- - 174e08 39s10 0 00 Albert Road
+N-- - 169e12 44s41 0 00 Albert Town
+N-- - 170e52 44s14 0 00 Albury
+N-- - 171e30 43s37 0 00 Alford Forest
+N-- - 175e51 40s41 0 00 Alfredton
+N-- - 174e44.25 36s26.07 0 00 Algies Bay
+N-- - 172e39 43s39 0 00 Allandale
+N-- - 170e16 45s55 0 00 Allanton
+V-- - 176e49.27 39s40.28 0 00 Allerton
+N-- - 170e55 45s07 0 00 Alma
+V-- - 173e52 41s44 0 00 Altimarloch
+N-- - 173e52 41s44 0 00 Altimarlock
+N-- - 174e27 39s40 0 00 Alton
+N-- - 172e44 43s10 0 00 Amberley
+V-- - 175e26 36s40 0 00 Amodeo
+N-- - 175e26 36s40 0 00 Amodeo Bay
+N-- - 171e26 43s45 0 00 Anama
+N-- - 172e00 43s23 0 00 Annat
+N-- - 176e21.04 40s40.37 0 00 Aohanga
+N-- - 175e40 40s22 0 00 Aokautere
+N-- - 175e57 37s37 0 00 Aongatete
+N-- - 172e36 40s43 0 00 Aorere
+V-- - 174e48 37s55 0 00 Aotea
+N-- - 174e49 39s15 0 00 Aotuhia
+N-- - 168e03 46s05 0 00 Aparima
+N-- - 176e00 37s39 0 00 Apata
+N-- - 175e53 39s58 0 00 Apiti
+N-- - 173e07 41s18 0 00 Appleby
+N-- - 171e02 42s40 0 00 Arahura
+V-- - 174e37 36s10 0 00 Arai Point
+N-- - 175e03 37s53 0 00 Aramiro
+N-- - 170e42 45s47 0 00 Aramoana
+N-- - 175e03 39s55 0 00 Aramoho
+N-- - 173e37 35s44 0 00 Aranga
+N-- - 172e42 43s31 0 00 Aranui
+N-- - 175e05 38s25 0 00 Arapae
+N-- - 172e10 41s16 0 00 Arapito
+N-- - 173e58 35s59 0 00 Arapohue
+N-- - 175e39 38s04 0 00 Arapuni
+N-- - 174e22 39s31 0 00 Ararata
+N-- - 175e02 37s09 0 00 Ararimu
+N-- - 173e54 36s01 0 00 Aratapu
+N-- - 168e22 44s44 0 00 Arcadia
+N-- - 168e39 45s49 0 00 Ardlussa
+V-- - 175e00 37s02 0 00 Ardmore
+N-- - 175e00 37s02 0 00 Ardmore College
+N-- - 176e32 39s52 0 00 Argyll East
+N-- - 174e59 38s33 0 00 Aria
+N-- - 172e13 41s48 0 00 Ariki
+V-- - 167e44 46s17 0 00 Aropaki
+N-- - 171e34 42s57 0 00 Arthur Pass
+V-- - 171e34 42s57 0 00 Arthur's Pass
+N-- - 168e40 44s59 0 00 Arthurs Point
+N-- - 169e10 46s07 0 00 Arthurton
+N-- - 171e17 43s59 0 00 Arundel
+N-- - 175e45 40s18 0 00 Ashhurst
+N-- - 172e36 43s17 0 00 Ashley
+V-- - 172e36 43s17 0 00 Ashley Bank
+N-- - 176e15 39s57 0 00 Ashley Clinton
+N-- - 171e46 44s02 0 00 Ashton
+N-- - 170e50 44s00 0 00 Ashwick Flat
+N-- - 172e39 43s47 0 00 Ataahua
+N-- - 172e47 41s37 0 00 Atapo
+N-- - 171e29 42s20 0 00 Atarau
+N-- - 173e19 41s14 0 00 Atawhai
+N-- - 175e09 39s44 0 00 Atene
+N-- - 175e55 37s28 0 00 Athenree
+N-- - 168e35 45s31 0 00 Athol
+N-- - 176e01 38s23 0 00 Atiamuri
+V-- - 176e01 38s23 0 00 Atiamuri Bridge
+N-- - 174e46 36s52 0 00 Auckland
+N-- - 175e10 38s54 0 00 Aukopae
+N-- - 174e03 39s29 0 00 Auroa
+N-- - 174e28 39s13 0 00 Autawa
+N-- - 173e38 41s41 0 00 Avondale
+N-- - 174e42 36s53 0 00 Avondale
+N-- - 177e27 37s58 0 00 Awaawakino
+N-- - 175e31 40s16 0 00 Awahuri
+N-- - 173e00 40s52 0 00 Awa-iti
+N-- - 176e46 37s56 0 00 Awakaponga
+N-- - 176e54 38s00 0 00 Awakeri
+N-- - 174e38 38s39 0 00 Awakino
+N-- - 169e39 46s06 0 00 Awamangu
+N-- - 174e48 38s16 0 00 Awamarino
+N-- - 170e53 44s56 0 00 Awamoko
+V-- - 169e39 46s06 0 00 Awamunga
+N-- - 173e15 35s03 0 00 Awanui
+V-- - 178e27 37s50 0 00 Awanui
+N-- - 173e44 41s50 0 00 Awapiri
+N-- - 175e07 36s49 0 00 Awaroa
+N-- - 173e51 35s35 0 00 Awarua
+N-- - 168e23 46s29 0 00 Awarua Plains
+N-- - 169e32 46s22 0 00 Awatea
+N-- - 176e54 39s33 0 00 Awatoto
+N-- - 174e03 39s27 0 00 Awatuna
+N-- - 171e04 42s38 0 00 Awatuna
+N-- - 174e39 37s05 0 00 Awhitu
+N-- - 174e35 37s05 0 00 Awhitu Central
+N-- - 172e16 43s32 0 00 Aylesbury
+N-- - 173e49 35s54 0 00 Babylon
+N-- - 175e23 40s25 0 00 Bainesse
+N-- - 172e33 40s46 0 00 Bainham
+N-- - 172e42 43s12 0 00 Balcairn
+N-- - 169e45 46s14.02 0 00 Balclutha
+N-- - 168e35 45s50 0 00 Balfour
+N-- - 175e48 40s24 0 00 Ballance
+N-- - 172e05 43s42 0 00 Bankside
+N-- - 169e10 45s05 0 00 Bannockburn
+N-- - 169e43 46s14 0 00 Barnego
+V-- - 169e43 46s14 0 00 Barnego Flat
+N-- - 171e51 43s40 0 00 Barrhill
+N-- - 172e54 43s46 0 00 Barrys Bay
+N-- - 171e20 42s15 0 00 Barrytown
+N-- - 177e53 38s51 0 00 Bartlett
+V-- - 177e53 38s51 0 00 Bartlett's
+V-- - 169e28 45s47 0 00 Bastings
+N-- - 174e19 36s13 0 00 Batley
+N-- - 172e43 41s19 0 00 Baton
+V-- - 173e44 35s57 0 00 Bayleys Beach
+N-- - 173e44 35s57 0 00 Baylys Beach
+N-- - 174e46.24 36s48.56 0 00 Bayswater
+N-- - 176e53 39s25 0 00 Bay View
+N-- - 175e00 36s53 0 00 Beachlands
+N-- - 171e36 43s02 0 00 Bealey
+N-- - 169e32 45s49 0 00 Beaumont
+N-- - 171e00 44s07 0 00 Beautiful Valley
+N-- - 169e44 45s00 0 00 Becks
+N-- - 172e38 43s27 0 00 Belfast
+N-- - 172e57 41s27 0 00 Belgrove
+N-- - 174e09 39s02 0 00 Bell Block
+N-- - 171e36 42s33 0 00 Bell Hill
+N-- - 172e35 43s18 0 00 Bells
+N-- - 174e47.11 36s48.27 0 00 Belmont
+N-- - 174e56 41s11 0 00 Belmont
+N-- - 169e21 44s55 0 00 Bendigo
+N-- - 169e48 46s14 0 00 Benhar
+N-- - 168e21 45s57 0 00 Benmore
+V-- - 170e00 44s21 0 00 Benmore Stream
+V-- - 172e18 43s18 0 00 Bennets
+N-- - 172e18 43s18 0 00 Bennetts
+N-- - 174e47 41s19 0 00 Berhampore
+N-- - 171e50 41s52 0 00 Berlins
+N-- - 169e52 44s32 0 00 Berwen
+N-- - 170e06 45s57 0 00 Berwick
+N-- - 176e07 37s42 0 00 Bethlehem
+N-- - 172e04 43s21 0 00 Bexley
+N-- - 175e52 40s52 0 00 Bideford
+N-- - 174e44 36s20 0 00 Big Omaha
+N-- - 171e48 41s41 0 00 Birchfield
+V-- - 167e44 46s07 0 00 Birch Grove
+N-- - 173e17 41s39 0 00 Birch Hill
+N-- - 167e52 45s56 0 00 Birchwood
+N-- - 171e25 42s22 0 00 Blackball
+N-- - 176e17 39s52 0 00 Blackburn
+N-- - 175e00.52 36s47.20 0 00 Blackpool
+N-- - 171e53 42s08 0 00 Blacks Point
+N-- - 169e55 44s57 0 00 Blackstone Hill
+N-- - 171e46 42s15 0 00 Blackwater
+N-- - 174e07 41s41 0 00 Blind River
+V-- - 170e34 45s45 0 00 Blueskin
+V-- - 171e02 42s43 0 00 Blue Spur
+N-- - 169e41 45s53 0 00 Bluespur
+N-- - 168e20 46s36 0 00 Bluff
+N-- - 170e06 44s34 0 00 Bog Roy
+N-- - 174e59 37s10 0 00 Bombay
+N-- - 170e46 44s53 0 00 Bortons
+N-- - 173e00 41s11 0 00 Braeburn
+N-- - 174e36 36s47 0 00 Brighams Creek
+N-- - 170e20 45s57 0 00 Brighton
+V-- - 171e23 42s02 0 00 Brighton
+N-- - 173e07 41s23 0 00 Brightwater
+N-- - 170e37 45s51 0 00 Broad Bay
+N-- - 173e23 35s16 0 00 Broadwood
+N-- - 172e42 43s33 0 00 Bromley
+N-- - 174e45 41s19 0 00 Brooklyn
+N-- - 172e18 43s42 0 00 Brookside
+N-- - 173e56 41s13 0 00 Broughton Bay
+N-- - 168e25 46s09 0 00 Browns
+N-- - 174e45 36s43 0 00 Browns Bay
+N-- - 169e41 43s35 0 00 Bruce Bay
+N-- - 171e19 42s26 0 00 Brunnerton
+N-- - 175e01 39s51 0 00 Brunswick
+N-- - 175e26 37s51 0 00 Bruntwood
+N-- - 168e48 46s15 0 00 Brydone
+N-- - 174e55 37s14 0 00 Buckland
+N-- - 170e08 46s11 0 00 Bull Creek
+N-- - 175e23 40s10 0 00 Bulls
+V-- - 175e23 40s10 0 00 Bulls Town District
+N-- - 175e38 40s17 0 00 Bunnythorpe
+N-- - 176e22 38s13 0 00 Buried Village
+N-- - 170e39 44s05 0 00 Burkes Pass
+N-- - 172e19 43s37 0 00 Burnham
+NX- - 170e27 45s54 0 00 Burnside
+N-- - 172e42 43s30 0 00 Burwood
+N-- - 175e39 41s19 0 00 Bush Gully
+N-- - 169e29 46s31 0 00 Caberfeidh
+N-- - 173e25 41s10 0 00 Cable Bay
+N-- - 171e41 43s40 0 00 Cairnbrae
+N-- - 169e45 44s54 0 00 Cambrian
+N-- - 173e41 41s51 0 00 Camden
+N-- - 171e08 42s33 0 00 Camerons
+N-- - 174e46 36s45 0 00 Campbells Bay
+N-- - 173e40 41s18 0 00 Canvastown
+N-- - 178e01 37s34 0 00 Cape Runaway
+N-- - 174e14 39s22 0 00 Cardiff
+N-- - 169e00 44s53 0 00 Cardrona
+V-- - 170e57 44s19 0 00 Care
+N-- - 171e22 43s58 0 00 Carew
+N-- - 175e19 40s17 0 00 Carnarvon
+N-- - 175e55 40s56 0 00 Carswells
+N-- - 171e34 41s45 0 00 Carters Beach
+N-- - 168e51.15 43s58.24 0 00 Carters Mill
+V-- - 172e38 43s35 0 00 Cashmere
+N-- - 172e38 43s35 0 00 Cashmere Hills
+N-- - 171e45 43s02 0 00 Cass
+N-- - 174e59 39s57 0 00 Castlecliff
+N-- - 171e43 43s14 0 00 Castle Hill
+N-- - 176e13 40s54 0 00 Castlepoint
+N-- - 170e57 44s19 0 00 Cave
+N-- - 170e29 45s54 0 00 Caversham
+N-- - 168e20 46s03 0 00 Centre Bush
+N-- - 172e39 43s26 0 00 Chaneys
+N-- - 172e09 43s33 0 00 Charing Cross
+N-- - 171e26 41s54 0 00 Charleston
+N-- - 168e55 46s09 0 00 Charlton
+N-- - 173e22 42s25 0 00 Charwell Forks
+N-- - 169e20 46s35 0 00 Chaslands
+N-- - 169e31 45s08 0 00 Chatto Creek
+N-- - 168e55 45s59 0 00 Chatton
+N-- - 174e42 36s49 0 00 Chelsea
+N-- - 175e40 40s09 0 00 Cheltenham
+N-- - 171e56 43s48 0 00 Chertsey
+N-- - 171e05 42s37 0 00 Chesterfield
+N-- - 173e16 42s49 0 00 Cheviot
+N-- - 173e02 43s43 0 00 Chorlton
+N-- - 172e38 43s32 0 00 Christchurch
+N-- - 175e04 37s25 0 00 Churchill
+N-- - 171e23 44s13 0 00 Clandeboye
+N-- - 171e05 44s24 0 00 Claremont
+N-- - 173e56 42s10 0 00 Clarence
+N-- - 170e02 46s03 0 00 Clarendon
+N-- - 175e33 41s01 0 00 Clareville
+V-- - 170e03 45s44 0 00 Clarke's
+N-- - 170e03 45s44 0 00 Clarks
+V-- - 170e03 45s44 0 00 Clarks Junction
+N-- - 169e55 46s08 0 00 Clarksville
+N-- - 172e37 43s25 0 00 Clarkville
+N-- - 175e17 37s47 0 00 Claudelands
+N-- - 170e00 44s21 0 00 Clearburn
+N-- - 175e03 37s00 0 00 Clevedon
+N-- - 167e43 46s02 0 00 Clifden
+N-- - 175e25 40s04 0 00 Cliff Road
+N-- - 172e45 43s33.30 0 00 Clifton
+N-- - 169e22 46s12 0 00 Clinton
+N-- - 176e55 39s35 0 00 Clive
+N-- - 168e28 45s05 0 00 Closeburn
+N-- - 169e19 45s11 0 00 Clyde
+N-- - 169e32 46s06 0 00 Clydevale
+V-- - 169e18 45s29 0 00 Coal Creek
+N-- - 169e18 45s29 0 00 Coal Creek Flat
+N-- - 171e58 43s29 0 00 Coalgate
+N-- - 174e39 36s43 0 00 Coatesville
+N-- - 171e13 42s26 0 00 Cobden
+V-- - 167e53 46s22 0 00 Colac
+N-- - 167e53 46s22 0 00 Colac Bay
+N-- - 172e41 40s40 0 00 Collingwood
+N-- - 175e28 36s38 0 00 Colville
+N-- - 175e39 40s14 0 00 Colyton
+V-- - 169e14 46s04 0 00 Conical Hill
+N-- - 169e14 46s04 0 00 Conical Hills
+N-- - 172e06 43s17 0 00 Coopers Creek
+N-- - 172e03 41s30 0 00 Corbyvale
+V-- - 175e10 39s40 0 00 Corinth
+N-- - 170e54 45s05 0 00 Cormacks
+N-- - 175e42 36s55 0 00 Coroglen
+N-- - 175e30 36s46 0 00 Coromandel
+N-- - 172e12 43s27 0 00 Courtenay
+N-- - 172e37 43s26 0 00 Coutts Island
+N-- - 175e09 36s47 0 00 Cowes
+N-- - 171e52 43s06 0 00 Craigieburn
+N-- - 173e58 41s09 0 00 Crail Bay
+N-- - 168e26 45s00 0 00 Creighton
+N-- - 170e52 44s11 0 00 Cricklewood
+N-- - 175e23 40s06 0 00 Crofton
+N-- - 171e52 42s02 0 00 Cronadun
+N-- - 175e13 41s10 0 00 Cross Creek
+N-- - 171e54 42s09 0 00 Crushington
+N-- - 172e51 42s46 0 00 Culverden
+N-- - 175e39 40s05 0 00 Cunninghams
+N-- - 172e22 43s19 0 00 Cust
+N-- - 168e38 46s19 0 00 Dacre
+N-- - 174e39 36s40 0 00 Dairy Flat
+N-- - 175e29 41s03 0 00 Dalefield
+N-- - 172e07 43s29 0 00 Darfield
+N-- - 173e53 35s56 0 00 Dargaville
+N-- - 174e04 41s38 0 00 Dashwood
+N-- - 174e06 39s20 0 00 Dawson Falls
+N-- - 174e09 39s22 0 00 Dawson Gate
+N-- - 174e55 41s16 0 00 Days Bay
+N-- - 170e56 45s07 0 00 Deborah
+N-- - 173e38 41s21 0 00 Deep Creek
+N-- - 171e48 41s44 0 00 Denniston
+N-- - 174e47.58 36s49.47 0 00 Devenport
+N-- - 168e22 45s54 0 00 Dipton
+N-- - 171e18 42s27 0 00 Dobson
+N-- - 173e13 42s51 0 00 Domett
+N-- - 173e37 35s43 0 00 Donnellys Crossing
+N-- - 172e09 43s53 0 00 Dorie
+N-- - 174e28 39s18 0 00 Douglas
+N-- - 172e56 41s20 0 00 Dovedale
+N-- - 172e18 43s45 0 00 Doyleston
+N-- - 175e30 36s44 0 00 Driving Creek
+N-- - 171e51 43s51 0 00 Dromore
+N-- - 168e09 46s09 0 00 Drummond
+N-- - 174e57 37s06 0 00 Drury
+N-- - 169e37 44s59 0 00 Drybread
+N-- - 169e19 45s36 0 00 Dumbarton
+N-- - 170e38 45s23 0 00 Dunback
+N-- - 170e30 45s52 0 00 Dunedin
+N-- - 169e19 45s48 0 00 Dunrobin
+N-- - 172e11 43s40 0 00 Dunsandel
+N-- - 170e41 44s52 0 00 Duntroon
+N-- - 172e56 43s45 0 00 Duvauchelle
+V-- - 172e56 43s45 0 00 Duvauchelles
+N-- - 171e25 44s03 0 00 Ealing
+N-- - 169e19 45s13 0 00 Earnscleugh
+V-- - 169e19 45s13 0 00 Earnscleugh Settlement
+N-- - 174e54 41s18 0 00 Eastbourne
+N-- - 178e33 37s42 0 00 East Cape
+N-- - 168e58 45s59 0 00 East Chatton
+NX- - 168e20.50 46s36.15 0 00 East End
+N-- - 167e46 45s59 0 00 Eastern Bush
+N-- - 170e20 45s54 0 00 East Taieri
+N-- - 172e50 40s55 0 00 East Takaka
+N-- - 174e54 36s57 0 00 East Tamaki
+N-- - 168e47 46s19 0 00 Edendale
+V-- - 168e47 46s19 0 00 Edendale Town District
+N-- - 176e50 37s59 0 00 Edgecumbe
+N-- - 169e22 45s48 0 00 Edievale
+N-- - 174e09 39s09 0 00 Egmont Village
+N-- - 171e41 44s02 0 00 Eiffelton
+N-- - 171e49 43s57 0 00 Elgin
+N-- - 172e22 43s41 0 00 Ellesmere
+N-- - 176e49 39s55 0 00 Elsthorpe
+N-- - 174e18 39s25.45 0 00 Eltham
+N-- - 174e11 41s05 0 00 Endeavour Inlet
+N-- - 170e47 44s58 0 00 Enfield
+N-- - 170e52 45s03 0 00 Enfield
+N-- - 175e58 39s31 0 00 Erehwon
+N-- - 173e36 41s33 0 00 Erina
+N-- - 175e24 39s14 0 00 Erua
+N-- - 176e50 39s24 0 00 Eskdale
+N-- - 171e05 44s32 0 00 Esk Valley
+N-- - 173e05 42s53 0 00 Ethelton
+N-- - 175e25 37s44 0 00 Eureka
+N-- - 170e34 45s43 0 00 Evansdale
+N-- - 169e38 45s54 0 00 Evans Flat
+N-- - 168e28 45s35 0 00 Eyre Creek
+N-- - 173e35 41s30 0 00 Fabians Valley
+N-- - 173e24 35s06 0 00 Fairburn
+N-- - 171e42 41s44 0 00 Fairdown
+N-- - 168e03 46s12 0 00 Fairfax
+N-- - 170e24 45s54 0 00 Fairfield
+N-- - 170e50 44s06 0 00 Fairlie
+N-- - 171e48 43s52 0 00 Fairton
+N-- - 171e10 44s25 0 00 Fairview
+N-- - 174e48 36s56 0 00 Favona
+N-- - 172e36 43s31 0 00 Fendalton
+N-- - 170e44 42s58 0 00 Fergusons
+N-- - 172e15 41s47 0 00 Fern Flat
+N-- - 176e46 39s35 0 00 Fernhill
+N-- - 174e45 37s15 0 00 Fernleigh
+N-- - 172e32 43s19 0 00 Fernside
+N-- - 175e22 41s05 0 00 Fernside
+N-- - 174e06 39s03 0 00 Fitzroy
+N-- - 168e27 45s37 0 00 Five Rivers
+N-- - 170e29 45s50 0 00 Flagstaff
+N-- - 172e38 43s21 0 00 Flaxton
+N-- - 171e44 44s01 0 00 Flemington
+N-- - 168e09 46s18 0 00 Flints Bush
+N-- - 175e12 39s58 0 00 Fordell
+N-- - 170e14 43s15 0 00 The Forks
+N-- - 169e44 45s57 0 00 Forsyth
+N-- - 176e44 38s24 0 00 Fort Galatea
+N-- - 168e48 46s34 0 00 Fortrose
+N-- - 172e59 41s26 0 00 Foxhill
+N-- - 175e18 40s28 0 00 Foxton
+N-- - 175e13 40s28 0 00 Foxton Beach
+N-- - 168e43 45s01 0 00 Frankton
+NX- - 175e16 37s48 0 00 Frankton Junction
+V-- - 168e43 45s01 0 00 Frankton Wharf
+V-- - 170e11 43s24 0 00 Franz Josef
+N-- - 170e11 43s24 0 00 Franz Josef Glacier
+N-- - 177e24.02 38s58.07 0 00 Frasertown
+N-- - 172e54 43s47 0 00 French Farm
+N-- - 168e47 45s47 0 00 Freshford
+N-- - 169e18 45s21 0 00 Fruitlands
+N-- - 169e27 45s13 0 00 Galloway
+N-- - 168e41 45s28 0 00 Garston
+V-- - 176e08 37s43 0 00 Gate Pa
+N-- - 170e51 44s55 0 00 Georgetown
+N-- - 168e58 45s02 0 00 Gibbston
+N-- - 170e00 45s10 0 00 Gimmerburn
+N-- - 178e00.15 38s39.12 0 00 Gisborne
+N-- - 175e39 41s05 0 00 Gladstone
+N-- - 175e04 37s41 0 00 Massey Glen
+N-- - 175e02 37s37 0 00 Glen Afton
+N-- - 171e06 44s55 0 00 Glenavy
+N-- - 174e47 37s13 0 00 Glenbrook
+N-- - 168e41 46s11 0 00 Glencoe
+N-- - 169e01 44s40 0 00 Glendhu
+N-- - 173e21.54 41s11.10 0 00 Glenduan
+N-- - 174e39 36s55 0 00 Glen Eden
+V-- - 174e39 36s55 0 00 Glen Eden Town District
+N-- - 174e44 36s46 0 00 Glenfield
+N-- - 172e14 41s50 0 00 Glengarry
+N-- - 168e51 46s24 0 00 Glenham
+N-- - 172e39 41s39 0 00 Glenhope
+N-- - 171e12 44s23 0 00 Gleniti
+N-- - 169e14 45s58 0 00 Glenkenich
+N-- - 170e05 46s11 0 00 Glenledi
+N-- - 173e36 41s53 0 00 Glenlee
+N-- - 174e58 37s27 0 00 Glen Murray
+N-- - 169e41 46s23 0 00 Glenomaru
+N-- - 168e23 44s51 0 00 Glenorchy
+N-- - 169e52 46s06 0 00 Glenore
+N-- - 175e24 40s20 0 00 Glen Oroua
+V-- - 175e24 40s20 0 00 Glenorve
+N-- - 170e40 45s26 0 00 Glenpark
+N-- - 171e50 43s31 0 00 Glenroy
+N-- - 170e07 43s54 0 00 Glentanner
+N-- - 171e56 43s29 0 00 Glentunnel
+N-- - 173e52 36s05 0 00 Glinkes Gully
+V-- - 173e52 36s05 0 00 Glinks Gully
+N-- - 174e27 36s29 0 00 Glorit
+N-- - 172e53 41s35 0 00 Golden Downs
+V-- - 171e07 42s40 0 00 Goldsboro
+N-- - 171e07 42s40 0 00 Goldsborough
+N-- - 170e43 45s33 0 00 Goodwood
+N-- - 173e32 42s29 0 00 Goose Bay
+N-- - 175e50 37s42 0 00 Gordon
+N-- - 175e18 37s40 0 00 Gordonton
+N-- - 168e42 46s29 0 00 Gorge Road
+N-- - 172e34 41s43 0 00 Gowanbridge
+N-- - 174e55 41s14 0 00 Gracefield
+N-- - 174e38 37s04 0 00 Grahams Beach
+N-- - 171e51 41s38 0 00 Granity
+N-- - 175e25 40s08 0 00 Greatford
+N-- - 169e35 46s06 0 00 Greenfield
+N-- - 168e18 46s33 0 00 Greenhills
+N-- - 174e41 36s46 0 00 Greenhithe
+N-- - 176e52 39s32 0 00 Greenmeadows
+N-- - 172e30 43s41 0 00 Greenpark
+N-- - 171e16 42s38 0 00 Greenstone
+N-- - 169e03 45s53 0 00 Greenvale
+N-- - 170e31 45s17 0 00 Green Valley
+N-- - 176e08 37s43 0 00 Greerton
+N-- - 173e48 40s49 0 00 Greville Harbour
+N-- - 171e12 42s28 0 00 Greymouth
+N-- - 173e55 41s17 0 00 Grove
+N-- - 168e29 46s18 0 00 Grove Bush
+N-- - 173e58 41s29 0 00 Grovetown
+N-- - 168e01 46s17 0 00 Gummies Bush
+N-- - 176e09 38s18 0 00 Guthrie
+N-- - 169e03 43s53 0 00 Haast
+N-- - 171e34 43s49 0 00 Hackthorne
+N-- - 176e10 37s44 0 00 Hairini
+N-- - 174e07 41s18 0 00 Hakahaka
+N-- - 174e31 36s08 0 00 Hakaru
+N-- - 170e29 44s44 0 00 Hakataramea
+N-- - 171e48 44s03 0 00 Hakatere
+N-- - 175e30 40s09 0 00 Halcombe
+N-- - 169e00 46s38 0 00 Haldane
+N-- - 168e08 46s54 0 00 Half-moon Bay
+NX- - 170e28 45s51 0 00 Halfway Bush
+N-- - 172e18 43s29 0 00 Halkett
+V-- - 172e18 43s29 0 00 Halkett Town
+N-- - 172e34 43s35 0 00 Halswell
+N-- - 175e17 37s47 0 00 Hamilton
+N-- - 173e51 40s59 0 00 Hamilton Bay
+V-- - 175e17 37s47 0 00 Hamilton City
+V-- - 172e20 41s48 0 00 Hampden
+N-- - 176e16 38s02 0 00 Hamurana
+V-- - 176e16 38s02 0 00 Hamurana Springs
+N-- - 175e10 38s15 0 00 Hangatiki
+V-- - 172e49 42s31 0 00 Hanmer
+N-- - 172e49 42s31 0 00 Hanmer Springs
+N-- - 173e44 42s20 0 00 Hapuku
+N-- - 175e08 37s56 0 00 Harapepe
+N-- - 172e35 43s29 0 00 Harewood
+V-- - 172e35 43s29 0 00 Harewood Settlement
+N-- - 170e33 43s09 0 00 Harihari
+N-- - 174e03 35s16 0 00 Haruru
+NX- - 176e50 39s39 0 00 Hastings
+V-- - 175e42 40s43 0 00 Hastwell
+N-- - 175e42 40s43 0 00 Hastwells
+N-- - 174e48 41s18 0 00 Hataitai
+N-- - 171e58 43s46 0 00 Hatfield
+N-- - 176e30 40s02 0 00 Hatuma
+N-- - 176e57 39s37 0 00 Haumoana
+N-- - 176e03 40s36 0 00 Haunui
+N-- - 175e27 37s52 0 00 Hautapu
+N-- - 174e56 38s06 0 00 Hauturu
+N-- - 174e09 41s45 0 00 Hauwai
+V-- - 169e46 45s59 0 00 Havelock
+N-- - 173e46 41s17 0 00 Havelock
+N-- - 176e53 39s40 0 00 Havelock North
+V-- - 176e53 39s40 0 00 Havelock North Town District
+N-- - 173e46 41s22 0 00 Havelock Suburban
+V-- - 173e46 41s17 0 00 Havelock Town District
+N-- - 172e38 42s56 0 00 Hawarden
+N-- - 169e18 44s39 0 00 Hawea Flat
+N-- - 174e17 39s35.30 0 00 Hawera
+N-- - 173e20 42s39 0 00 Hawkeswood
+N-- - 172e02 43s29 0 00 Hawkins
+V-- - 173e20 42s39 0 00 Hawkswood
+N-- - 174e59 41s09 0 00 Haywards
+N-- - 170e59 44s12 0 00 Hazelburn
+N-- - 168e05 46s16 0 00 Hazletts
+V-- - 172e43 43s35 0 00 Heathcote
+N-- - 172e43 43s35 0 00 Heathcote Valley
+N-- - 171e53 41s36 0 00 Hector
+N-- - 168e09 46s05 0 00 Heddon Bush
+N-- - 168e32 46s12 0 00 Hedgehope
+N-- - 174e21 35s26 0 00 Helena Bay
+N-- - 174e52 37s11 0 00 Helvetia
+N-- - 170e10 45s59 0 00 Henley
+N-- - 170e47 45s14 0 00 Herbert
+N-- - 176e32.45 40s29.58 0 00 Herbertville
+N-- - 173e13 35s15 0 00 Herekino
+N-- - 170e33 43s07 0 00 Herepo
+N-- - 175e02 41s09 0 00 Heretaunga
+N-- - 169e16 45s50 0 00 Heriot
+N-- - 174e43.45 36s50.46 0 00 Herne Bay
+V-- - 169e16 45s50 0 00 Herriot
+N-- - 178e18 37s36 0 00 Hicks Bay
+N-- - 171e45 43s37 0 00 Highbank
+V-- - 170e35 45s53 0 00 Highcliff
+N-- - 170e35 45s53 0 00 Highcliffe
+N-- - 175e42 39s34 0 00 Hihitahi
+N-- - 175e47 37s05 0 00 Hikuai
+N-- - 175e17 38s57 0 00 Hikumutu
+N-- - 174e18 35s36 0 00 Hikurangi
+V-- - 174e18 35s36 0 00 Hikurangi Town District
+N-- - 175e39 37s17 0 00 Hikutaia
+N-- - 171e04 44s59 0 00 Hilderthorpe
+N-- - 169e45 46s08 0 00 Hillend
+N-- - 173e26 41s36 0 00 Hillersden
+N-- - 170e50 45s22 0 00 Hillgrove
+N-- - 174e09 39s06 0 00 Hillsborough
+N-- - 171e10 44s09 0 00 Hilton
+N-- - 175e19 40s24 0 00 Himatangi
+N-- - 169e40 46s29 0 00 Hinahina
+N-- - 175e38 41s18 0 00 Hinakura
+N-- - 170e18 45s44 0 00 Hindon
+N-- - 170e20 45s43 0 00 Hindon Railway
+N-- - 171e34 44s00 0 00 Hinds
+N-- - 176e14 39s51 0 00 Hinerua
+N-- - 175e46 37s53 0 00 Hinuera
+N-- - 173e23.46 41s12.55 0 00 Hira
+V-- - 167e44 46s17 0 00 Hirstfield
+V-- - 175e04 39s33 0 00 Hiruharama
+N-- - 172e56 41s31 0 00 Hiwipango
+N-- - 174e40 36s48 0 00 Hobsonville
+N-- - 171e02 42s43 0 00 Ho Ho
+N-- - 171e16 42s41 0 00 Hohonu
+N-- - 175e11 40s35 0 00 Hokio
+N-- - 170e58 42s43 0 00 Hokitika
+N-- - 168e29 46s07 0 00 Hokonui
+N-- - 174e53 37s01 0 00 Homai
+V-- - 174e57 41s16 0 00 Homedale
+N-- - 173e57 41s06 0 00 Homewood
+D-- - 175e57.29 41s11.01 0 00 Homewood
+N-- - 175e06 38s09 0 00 Honikiwi
+N-- - 171e08 44s41 0 00 Hook
+N-- - 173e09 41s22 0 00 Hope
+N-- - 175e58 40s21 0 00 Hopelands
+N-- - 173e36 35s21 0 00 Horeke
+N-- - 172e32 43s33 0 00 Hornby
+V-- - 172e07 43s29 0 00 Horndon
+V-- - 173e36 35s21 0 00 Horoeke
+N-- - 178e29 37s39 0 00 Horoera
+N-- - 175e23 39s21 0 00 Horopito
+N-- - 171e57 43s32 0 00 Hororata
+N-- - 175e12 37s43 0 00 Horotiu
+N-- - 172e20 43s20 0 00 Horrelville
+V-- - 169e28 45s45 0 00 Horseshoe Bend
+N-- - 174e32 36s23 0 00 Hoteo
+N-- - 173e06 34s47 0 00 Houhora
+N-- - 169e34 46s29 0 00 Houipapa
+N-- - 177e35 37s53 0 00 Houpoto
+N-- - 173e59 35s45 0 00 Houto
+N-- - 172e40 41s46 0 00 Howard
+N-- - 172e40 41s42 0 00 Howard Junction
+N-- - 174e56 36s53 0 00 Howick
+V-- - 174e56 36s53 0 00 Howick Town District
+N-- - 174e33 36s46 0 00 Huapai
+N-- - 174e18 36s06 0 00 Huarau
+N-- - 174e03 39s08 0 00 Huatoki
+N-- - 168e55 43s58 0 00 Huhuka
+N-- - 174e35 37s00 0 00 Huia
+N-- - 174e25 39s21 0 00 Huinga
+N-- - 174e16 39s03 0 00 Huirangi
+N-- - 174e28 39s15 0 00 Huiroa
+N-- - 175e42 40s34 0 00 Hukanui
+N-- - 175e23 39s03 0 00 Hukapapa
+N-- - 171e42 42s15 0 00 Hukarere
+N-- - 174e11 35s31 0 00 Hukerenui
+N-- - 171e07 42s44 0 00 Humphreys
+N-- - 175e44 40s34 0 00 Humua
+N-- - 173e26 42s34 0 00 Hundalee
+N-- - 171e03 44s37 0 00 Hunter
+N-- - 175e34 39s56 0 00 Hunterville
+V-- - 175e34 39s56 0 00 Hunterville Town District
+N-- - 169e40 46s25 0 00 Hunts Road
+N-- - 175e04 37s05 0 00 Hunua
+N-- - 174e30 39s38 0 00 Hurleyville
+N-- - 174e19 35s28 0 00 Huruiki
+N-- - 170e15 45s18 0 00 Hyde
+V-- - 169e50 45s02 0 00 Idaburn Valley
+N-- - 169e50 45s02 0 00 Ida Valley
+N-- - 171e41 42s16 0 00 Ikamatua
+N-- - 170e51 44s52 0 00 Ikawai
+N-- - 174e10 39s34 0 00 Inaha
+V-- - 171e57 41s51 0 00 Inangahua
+N-- - 171e56 41s51 0 00 Inangahua Camp
+N-- - 171e57 41s51 0 00 Inangahua Junction
+N-- - 171e53 41s55 0 00 Inangahua Landing
+N-- - 171e28 42s44 0 00 Inchbonnie
+N-- - 168e21 46s24 0 00 Invercargill
+N-- - 172e20 43s43 0 00 Irwell
+N-- - 168e08 46s12 0 00 Isla Bank
+N-- - 174e47 41s20 0 00 Island Bay
+N-- - 169e28 45s45 0 00 Island Block
+N-- - 170e40 44s57 0 00 Island Cliff
+V-- - 171e31 42s45 0 00 Jackson
+N-- - 171e31 42s45 0 00 Jacksons
+N-- - 168e03 44s24 0 00 Jamestown
+N-- - 175e04 39s33 0 00 Jerusalem
+N-- - 174e47 41s14 0 00 Johnsonville
+V-- - 174e47 41s14 0 00 Johnsonville Town District
+N-- - 169e46 46s01 0 00 Johnstone
+V-- - 169e46 46s01 0 00 Johnstone's
+N-- - 173e46 41s49 0 00 Jordan
+N-- - 174e56 41s07 0 00 Judgeford
+N-- - 174e50 37s30 0 00 Kaawa
+N-- - 175e04 38s23 0 00 Kaeaea
+N-- - 173e47 35s06 0 00 Kaeo
+N-- - 176e13 38s01 0 00 Kaharoa
+N-- - 169e28 46s31 0 00 Kahuika
+N-- - 175e20 41s14 0 00 Kahutara
+N-- - 173e25 35s06 0 00 Kaiaka
+N-- - 171e15 42s28 0 00 Kaiata
+N-- - 175e17 37s08 0 00 Kaiaua
+N-- - 175e26 37s22 0 00 Kaihere
+N-- - 169e33 46s14 0 00 Kaihiku
+N-- - 171e01 42s41 0 00 Kaihinu
+N-- - 173e42 35s46 0 00 Kaihu
+N-- - 174e56 39s51 0 00 Kai Iwi
+V-- - 174e54 39s52 0 00 Kai Iwi Beach
+N-- - 175e36 39s54 0 00 Kaikarangi
+D-- - 176e35.57 39s53.35 0 00 Kaikora
+N-- - 173e57 35s33 0 00 Kaikou
+N-- - 173e41 42s25 0 00 Kaikoura
+N-- - 173e39 42s23 0 00 Kaikoura Suburban
+N-- - 175e58 37s50 0 00 Kaimai
+N-- - 174e18 39s10 0 00 Kaimata
+N-- - 171e24 42s31 0 00 Kaimata
+N-- - 173e16 34s55 0 00 Kaimaumau
+N-- - 174e09 39s12 0 00 Kaimiro
+N-- - 170e34 44s36 0 00 Kaingapai
+V-- - 170e34 44s36 0 00 Kaingapai Hakataramea Station
+N-- - 173e20 35s02 0 00 Kaingaroa
+N-- - 175e22 37s56 0 00 Kaipaki
+V-- - 174e33 36s25 0 00 Kaipara Flat
+N-- - 174e33 36s25 0 00 Kaipara Flats
+N-- - 175e32 40s21 0 00 Kairanga
+N-- - 173e49 35s48 0 00 Kairara
+N-- - 176e17 37s43 0 00 Kairua
+N-- - 172e56 41s02 0 00 Kairuru
+N-- - 169e51 46s16.30 0 00 Kaitangata
+N-- - 177e55 38s32 0 00 Kaitaratahi
+N-- - 175e53 40s30 0 00 Kaitawa
+N-- - 175e16 39s06 0 00 Kaitieke
+N-- - 175e10 41s05 0 00 Kaitoke
+N-- - 173e48 41s28 0 00 Kaituna
+N-- - 173e46 41s14 0 00 Kaiuma
+N-- - 174e27 36s10 0 00 Kaiwaka
+V-- - 174e47 41s16 0 00 Kaiwarawara
+V-- - 174e47 41s16 0 00 Kaiwarra
+V-- - 174e47 41s16 0 00 Kaiwhara
+N-- - 174e47 41s16 0 00 Kaiwharawhara
+N-- - 175e23 38s55 0 00 Kakahi
+N-- - 171e07 44s09 0 00 Kakahu Bush
+N-- - 170e54 45s11 0 00 Kakanui
+N-- - 174e07 41s20 0 00 Kakapo Bay
+N-- - 169e47 46s23 0 00 Kaka Point
+N-- - 170e42 42s59 0 00 Kakapotahi
+N-- - 169e43 46s16 0 00 Kakapuaka
+N-- - 174e27 39s43 0 00 Kakaramea
+N-- - 175e20 39s41 0 00 Kakatahi
+N-- - 168e43 46s20 0 00 Kamahi
+N-- - 171e23 42s26 0 00 Kamaka
+N-- - 174e19 35s41 0 00 Kamo
+V-- - 174e19 35s41 0 00 Kamo Town District
+N-- - 171e00 42s45 0 00 Kaniere
+V-- - 171e00 42s45 0 00 Kanieri
+N-- - 174e31 36s35 0 00 Kanohi
+N-- - 174e45 39s32 0 00 Kapara
+N-- - 174e09 39s26 0 00 Kaponga
+V-- - 174e09 39s26 0 00 Kaponga Town District
+N-- - 173e50 40s54 0 00 Kapowai
+N-- - 168e38 46s28 0 00 Kapuka
+N-- - 174e08 39s29 0 00 Kapuni
+N-- - 172e07 41s15 0 00 Karamea
+N-- - 175e08 37s53 0 00 Karamu
+N-- - 175e43 37s26 0 00 Karangahake
+N-- - 169e49 43s32 0 00 Karangarua
+N-- - 174e29 36s59 0 00 Karekare
+N-- - 174e09 35s22 0 00 Karetu
+N-- - 176w28 43s48 0 00 Karewa
+N-- - 175e57 39s52 0 00 Karewarewa
+N-- - 175e31 39s27 0 00 Karioi
+N-- - 170e40 45s39 0 00 Karitane
+N-- - 174e44 41s17 0 00 Karori
+V-- - 170e50 45s24 0 00 Kartigi
+N-- - 169e38 46s25 0 00 Katea
+N-- - 175e55 37s33 0 00 Katikati
+N-- - 170e50 45s24 0 00 Katiki
+N-- - 175e35 37s10 0 00 Kauaeranga
+N-- - 175e18 39s55 0 00 Kauangaroa
+N-- - 168e40 45s44 0 00 Kauhoe
+N-- - 174e30 36s37 0 00 Kaukapakapa
+N-- - 174e04 39s33 0 00 Kaupokonui
+N-- - 174e18 35s38 0 00 Kauri
+N-- - 174e56 37s50 0 00 Kauroa
+N-- - 170e45 45s06 0 00 Kauru Hill
+N-- - 175e32 40s18 0 00 Kauwhata
+V-- - 175e09 37s24 0 00 Kauwhata
+N-- - 174e04 35s23 0 00 Kawakawa
+V-- - 174e04 35s23 0 00 Kawakawa Town District
+N-- - 172e36 41s42 0 00 Kawatiri
+N-- - 174e51 36s25 0 00 Kawau Island
+N-- - 168e42 45s56 0 00 Kaweku
+N-- - 176e42 38s06 0 00 Kawerau
+N-- - 174e49 38s04 0 00 Kawhia
+V-- - 174e49 38s04 0 00 Kawhia Town District
+N-- - 173e57 35s25 0 00 Kawiti
+V-- - 174e01 42s00 0 00 Kekerangu
+N-- - 174e01 42s00 0 00 Kekerengu
+NX- - 174e46 41s17 0 00 Kelburn
+N-- - 170e51 44s47 0 00 Kelchers
+N-- - 169e14 45s54 0 00 Kelso
+N-- - 175e38 40s20 0 00 Kelvin Grove
+N-- - 173e34 35s03 0 00 Kenana
+N-- - 174e07 41s10 0 00 Kenepuru Head
+N-- - 175e33 36s41 0 00 Kennedys Bay
+N-- - 168e27 46s24 0 00 Kennington
+N-- - 174e07 39s08 0 00 Kent Road
+V-- - 175e32 37s18 0 00 Kerepeehi
+N-- - 175e32 37s18 0 00 Kerepehi
+N-- - 175e25 36s52 0 00 Kereta
+N-- - 173e58 35s13 0 00 Kerikeri
+N-- - 174e02 35s12 0 00 Kerikeri Inlet
+N-- - 171e12 44s17 0 00 Kerrytown
+N-- - 174e47 41s15 0 00 Khandallah
+N-- - 175e21 38s02 0 00 Kihikihi
+V-- - 175e21 38s02 0 00 Kihikihi Town District
+N-- - 172e52 41s39 0 00 Kikiwa
+N-- - 174e48 41s19 0 00 Kilbirnie
+N-- - 172e15 43s44 0 00 Killinchy
+N-- - 170e45 44s03 0 00 Kimbell
+N-- - 175e47 40s03 0 00 Kimbolton
+N-- - 175e10 37s31 0 00 Kimihia
+N-- - 171e13 44s28 0 00 Kingsdown
+N-- - 168e42 45s20 0 00 Kingston
+D-- - 177e50.07 39s09.07 0 00 Kinikini
+N-- - 175e54 38s17 0 00 Kinleith
+N-- - 168e20 44s51 0 00 Kinloch
+N-- - 174e50 38s09 0 00 Kinohaku
+N-- - 174e21 35s44 0 00 Kioreroa
+N-- - 175e08 39s01 0 00 Kirikau
+N-- - 174e01 35s49 0 00 Kirikopuni
+V-- - 174e01 35s49 0 00 Kirikopunui
+N-- - 174e26 35s38 0 00 Kiripaka
+N-- - 175e59 40s14 0 00 Kiritaki
+N-- - 174e44 38s20 0 00 Kiritehere
+N-- - 172e13 43s30 0 00 Kirwee
+N-- - 170e15 45s42 0 00 Kiteroa
+N-- - 172e45 41s30 0 00 Kiwi
+N-- - 175e36 37s42 0 00 Kiwitahi
+N-- - 175e44 40s07 0 00 Kiwitea
+N-- - 168e55 46s01 0 00 Knapdale
+N-- - 174e39 37s11 0 00 Kohekohe
+N-- - 173e32 35s21 0 00 Kohukohu
+V-- - 173e32 35s21 0 00 Kohukohu Town District
+N-- - 173e32 35s04 0 00 Kohumaru
+N-- - 174e46 39s06 0 00 Kohuratahi
+V-- - 171e01 42s52 0 00 Koiterangi
+N-- - 175e07 39s02 0 00 Kokakoriki
+N-- - 174e28 36s17 0 00 Kokapo
+V-- - 171e02 42s50 0 00 Kokatahi
+N-- - 171e23 42s30 0 00 Kokiri
+N-- - 170e15 45s13 0 00 Kokonga
+N-- - 174e08 35s42 0 00 Kokopu
+V-- - 170e10 45s11 0 00 Komako
+N-- - 175e16 37s38 0 00 Komakorau
+N-- - 175e44 37s22 0 00 Komata
+N-- - 175e40 37s20 0 00 Komata North
+N-- - 173e30 35s03 0 00 Komiti
+N-- - 172e06 41s18 0 00 Kongahu
+N-- - 175e47 40s30 0 00 Konini
+N-- - 169e32 45s58 0 00 Kononi
+N-- - 175e16 38s28 0 00 Kopaki
+N-- - 175e34 37s11 0 00 Kopu
+N-- - 176e18 40s05 0 00 Kopua
+N-- - 175e40 40s50 0 00 Kopuaranga
+N-- - 177e54 38s58 0 00 Kopuawhara
+N-- - 175e10 37s17 0 00 Kopuku
+N-- - 176e47 38s20 0 00 Kopuriki
+N-- - 175e20 40s35 0 00 Koputaroa
+N-- - 176e51 39s17 0 00 Koraki
+N-- - 175e26 38s10 0 00 Korakonui
+N-- - 172e48 41s32 0 00 Korere
+N-- - 172e48 41s31 0 00 Korere Valley
+N-- - 175e10 39s40 0 00 Koriniti
+N-- - 174e06 39s10 0 00 Korito
+N-- - 174e52 41s13 0 00 Korokoro
+N-- - 173e57 41s21 0 00 Koromiko
+V-- - 174e07 35s16 0 00 Kororareka
+N-- - 177e02 39s04 0 00 Kotemaori
+N-- - 171e28 42s33 0 00 Kotuku
+N-- - 173e25 35s28 0 00 Koutu
+N-- - 176e14 38s08 0 00 Koutu
+N-- - 171e55 43s18 0 00 Kowai Bush
+N-- - 170e40 44s34 0 00 Kowhatu
+N-- - 171e01 42s52 0 00 Kowhitirangi
+N-- - 175e44 36s43 0 00 Kuaotunu
+N-- - 175e59 40s20 0 00 Kumeroa
+N-- - 174e34 36s46 0 00 Kumeu
+N-- - 170e14 46s02 0 00 Kuri Bush
+N-- - 170e28 44s44 0 00 Kurow
+N-- - 170e15 45s09 0 00 Kyeburn
+N-- - 170e17 45s00 0 00 Kyeburn Diggings
+N-- - 172e06 43s55 0 00 Kyle
+N-- - 172e32 43s37 0 00 Ladbrooks
+V-- - 168e20 46s06 0 00 Lady Barkley
+N-- - 168e20 46s06 0 00 Lady Barkly
+V-- - 171e38 43s53 0 00 Laghmor
+N-- - 171e38 43s53 0 00 Lagmhor
+N-- - 171e32 43s22 0 00 Lake Coleridge
+N-- - 171e08 42s48 0 00 Lake Kaniere
+V-- - 171e08 42s48 0 00 Lake Kanieri
+N-- - 173e22 34s59 0 00 Lake Ohia
+N-- - 170e09 44s11 0 00 Lake Pukaki
+V-- - 172e50 41s48 0 00 Lake Rotoiti
+N-- - 172e36 41s48 0 00 Lake Rotoroa
+N-- - 170e30 44s01 0 00 Lake Tekapo
+N-- - 173e25 41s59 0 00 Langridge
+N-- - 169e40 45s03 0 00 Lauder
+N-- - 171e47 43s44 0 00 Lauriston
+N-- - 175e28 37s53 0 00 Leamington
+V-- - 175e28 37s53 0 00 Leamington Town District
+N-- - 173e05 43s45 0 00 Le Bons Bay
+N-- - 172e18 43s46 0 00 Leeston
+V-- - 172e18 43s46 0 00 Leeston Town District
+N-- - 170e07 45s48 0 00 Lee Stream
+N-- - 174e49 36s17 0 00 Leigh
+N-- - 172e44 43s12 0 00 Leithfield
+N-- - 174e13 39s04 0 00 Lepperton
+V-- - 175e13 40s02 0 00 Lethbridge
+N-- - 171e13 44s20 0 00 Levels
+N-- - 175e16.30 40s38 0 00 Levin
+N-- - 168e20 46s04 0 00 Limehills
+N-- - 172e29 43s39 0 00 Lincoln
+N-- - 174e50 41s10 0 00 Linden
+N-- - 169e23 44s53 0 00 Lindis Crossing
+N-- - 169e30 44s42 0 00 Lindis Pass
+V-- - 173e52 41s17 0 00 Linkwater
+N-- - 175e33 40s26 0 00 Linton
+N-- - 172e39 43s32 0 00 Linwood
+N-- - 171e29 43s54 0 00 Lismore
+N-- - 172e59 43s41 0 00 Little Akaloa
+N-- - 172e47 43s46 0 00 Little River
+N-- - 172e04 41s24 0 00 Little Wanganui
+N-- - 170e35 44s58 0 00 Livingstone
+N-- - 172e32 43s15 0 00 Loburn
+N-- - 168e20 46s12 0 00 Lochiel
+N-- - 171e42 44s06 0 00 Longbeach
+N-- - 175e33 40s23 0 00 Longburn
+N-- - 168e30 46s23 0 00 Longbush
+N-- - 172e22 41s47 0 00 Longford
+N-- - 168e41 44s55 0 00 Long Gully
+N-- - 168e39 45s52 0 00 Longridge
+N-- - 174e31.45 36s02.26 0 00 Longs Beach
+N-- - 167e56 46s20 0 00 Longwood
+V-- - 168e21 46s21 0 00 Lorne
+N-- - 168e21 46s21 0 00 Lorneville
+N-- - 169e50 46s10 0 00 Lovells Flat
+V-- - 169e13 45s01 0 00 Lowburn
+V-- - 169e13 45s01 0 00 Lowburn Bridge
+N-- - 169e13 45s01 0 00 Lowburn Ferry
+V-- - 171e35 44s07 0 00 Lowcliff
+N-- - 171e35 44s07 0 00 Lowcliffe
+N-- - 174e55 41s13 0 00 Lower Hutt
+V-- - 174e55 41s13 0 00 Lower Hutt City
+N-- - 176e02 37s48 0 00 Lower Kaimai
+N-- - 173e33 35s04 0 00 Lower Kohumaru
+N-- - 171e02 42s50 0 00 Lower Kokatahi
+N-- - 173e00 41s09 0 00 Lower Moutere
+V-- - 168e56 45s14 0 00 Lower Nevis
+N-- - 168e46 44s59 0 00 Lower Shotover
+N-- - 177e25 38s01 0 00 Lower Waiawa
+N-- - 174e13 39s23 0 00 Lowgarth
+N-- - 168e26 45s40 0 00 Lowther
+N-- - 169e16 44s45 0 00 Luggate
+N-- - 168e27 45s44 0 00 Lumsden
+V-- - 168e27 45s44 0 00 Lumsden Town District
+N-- - 171e05 44s30 0 00 Lyalldale
+N-- - 172e03 41s48 0 00 Lyell
+N-- - 171e43 43s42 0 00 Lyndhurst
+N-- - 171e36 44s01 0 00 Lynnford
+N-- - 168e32 46s17 0 00 Mabel Bush
+N-- - 168e32 46s18 0 00 Mabel School
+N-- - 170e36 45s52 0 00 Macandrew Bay
+V-- - 170e36 45s52 0 00 Macandrews Bay
+N-- - 168e50 44s52 0 00 Macetown
+N-- - 175e42 37s25 0 00 Mackaytown
+V-- - 173e16 42s49 0 00 Mackenzie
+N-- - 169e29 46s33 0 00 Maclennan
+V-- - 170e26 45s23 0 00 Macraes
+N-- - 170e26 45s23 0 00 Macraes Flat
+N-- - 170e37 44s55 0 00 Maerewhenua
+N-- - 173e52 41s17 0 00 Mahakipawa
+N-- - 173e03 41s16 0 00 Mahana
+V-- - 177e53.06 39s00.31 0 00 Mahanga
+N-- - 177e53.06 39s00.31 0 00 Mahanga Beach
+N-- - 175e58 40s16 0 00 Maharahara
+N-- - 176e27 40s01 0 00 Maharakeke
+N-- - 170e50 45s10 0 00 Maheno
+N-- - 171e20 42s11 0 00 Mahers Creek
+N-- - 177e55 39s05 0 00 Mahia
+N-- - 177e52 39s05 0 00 Mahia Beach
+N-- - 169e36 43s39 0 00 Mahitahi
+N-- - 174e10 39s23 0 00 Mahoe
+N-- - 174e51 38s34 0 00 Mahoenui
+N-- - 173e26 42s23 0 00 Mahunga
+N-- - 174e44 36s29 0 00 Mahurangi
+N-- - 175e05 37s35 0 00 Mahuta
+N-- - 175e23 38s14 0 00 Maihiihi
+N-- - 171e45 42s09 0 00 Maimai
+V-- - 176e22 38s13 0 00 Maina
+N-- - 174e46 36s44 0 00 Mairangi Bay
+N-- - 174e59 38s22 0 00 Mairoa
+V-- - 169e36 43s39 0 00 Maitahi
+N-- - 173e46 35s51 0 00 Maitahi
+N-- - 169e01 45s59 0 00 Maitland
+N-- - 177e58 38s39 0 00 Makaraka
+N-- - 174e30 36s33 0 00 Makarau
+N-- - 176e16 39s55 0 00 Makaretu
+N-- - 168e21 46s20 0 00 Makarewa
+N-- - 168e20 46s18 0 00 Makarewa Junction
+N-- - 169e14 44s14 0 00 Makarora
+N-- - 169e11 44s19 0 00 Makarora Wharf
+N-- - 177e57 38s38 0 00 Makauri
+N-- - 175e08 38s02 0 00 Makeokeo
+N-- - 176e27 37s46 0 00 Maketu
+N-- - 171e09 44s38 0 00 Makikihi
+N-- - 175e07 39s52 0 00 Makirikiri
+N-- - 176e14 40s07 0 00 Makotuku
+N-- - 176e01 40s32 0 00 Makuri
+N-- - 176e05 38s06 0 00 Mamaku
+N-- - 173e45 35s50 0 00 Mamaranui
+N-- - 174e08 39s33 0 00 Manaia
+V-- - 174e08 39s33 0 00 Manaia Town District
+N-- - 175e13 40s43 0 00 Manakau
+N-- - 167e36 45s34 0 00 Manapouri
+N-- - 174e02 41s07 0 00 Manaroa
+N-- - 176e38 38s00 0 00 Manawahe
+N-- - 174e12 35s17 0 00 Manawaora
+V-- - 174e12 35s17 0 00 Manawaroa
+N-- - 175e46 37s38 0 00 Manawaru
+V-- - 175e13 40s28 0 00 Manawatu Heads
+N-- - 168e49 46s00 0 00 Mandeville
+N-- - 172e32 43s23 0 00 Mandeville North
+N-- - 175e41 37s30 0 00 Mangaiti
+N-- - 175e43 40s44 0 00 Mangamahoe
+N-- - 175e22 39s49 0 00 Mangamahu
+N-- - 175e45 40s31 0 00 Mangamaire
+D-- - 175e17.49 41s36.52 0 00 Mangamate
+V-- - 173e45 42s18 0 00 Mangamauna
+N-- - 173e45 42s18 0 00 Mangamaunu
+N-- - 174e26 39s25 0 00 Mangamingi
+N-- - 176e09 39s08 0 00 Mangamingi
+N-- - 173e33 35s13 0 00 Mangamuka
+N-- - 175e48 40s27 0 00 Mangamutu
+N-- - 175e07 39s04 0 00 Mangaohutu
+N-- - 174e52 39s03 0 00 Mangaone
+N-- - 175e39 39s54 0 00 Mangaonoho
+N-- - 174e17 35s51 0 00 Mangapai
+N-- - 174e50 39s45 0 00 Mangapani
+N-- - 175e06 39s13 0 00 Mangapurua
+N-- - 172e24 41s44 0 00 Mangarata
+N-- - 175e07 41s07 0 00 Mangaroa
+N-- - 175e52 40s26 0 00 Mangatainoka
+N-- - 175e13 37s12 0 00 Mangatangi
+N-- - 175e22 37s18 0 00 Mangatarata
+N-- - 175e07 37s13 0 00 Mangatawhiri
+N-- - 176e07 40s33 0 00 Mangatiti
+N-- - 174e13 39s25 0 00 Mangatoki
+N-- - 173e38 35s42 0 00 Mangatu
+V-- - 170e09 45s54 0 00 Mangatua
+V-- - 174e34 36s07 0 00 Mangawai
+N-- - 175e47 39s48 0 00 Mangaweka
+V-- - 175e47 39s48 0 00 Mangaweka Town District
+N-- - 174e34 36s07 0 00 Mangawhai
+N-- - 175e26 40s24 0 00 Mangawhata
+N-- - 174e43 39s43 0 00 Mangawhio
+N-- - 174e48 36s58 0 00 Mangere
+N-- - 173e32 34s59 0 00 Mangonui
+N-- - 174e05 39s09 0 00 Mangorei
+V-- - 175e47 39s48 0 00 Mangweka
+N-- - 176e27 37s49 0 00 Maniatutu
+N-- - 169e49 46s04 0 00 Manuka Creek
+N-- - 173e13 35s14 0 00 Manukau
+N-- - 174e48 36s58 0 00 Manukau City
+N-- - 175e20 38s53 0 00 Manunui
+V-- - 175e20 38s53 0 00 Manunui Town District
+N-- - 174e24 39s40 0 00 Manutahi
+N-- - 177e55 38s41 0 00 Manutuke
+N-- - 168e41 44s52 0 00 Maori Point
+N-- - 175e13 38s35 0 00 Mapiu
+N-- - 173e06 41s15 0 00 Mapua
+N-- - 171e02 42s40 0 00 Maraehoko
+N-- - 176e38 39s39 0 00 Maraekakaho
+N-- - 173e38 35s20 0 00 Maraeroa
+N-- - 175e03 36s53 0 00 Maraetai
+D-- - 176e49.54 39s26.24 0 00 Maraitara
+V-- - 176e27 40s01 0 00 Marakeke
+N-- - 170e45 45s04 0 00 Marakerake
+N-- - 175e14 37s15 0 00 Maramarua
+N-- - 173e43 35s20 0 00 Marangai
+N-- - 172e50 41s25 0 00 Mararewa
+N-- - 174e16 36s02 0 00 Mareretu
+N-- - 172e08 41s15 0 00 Market Cross
+N-- - 174e06 35s32 0 00 Marlow
+N-- - 174e18 36s11 0 00 Marohemo
+N-- - 174e44 38s18 0 00 Marokopa
+N-- - 174e05 35s29 0 00 Maromaku
+N-- - 173e44 35s48 0 00 Maropiu
+N-- - 175e21 40s29 0 00 Marotiri
+N-- - 171e13 42s34 0 00 Marsden
+N-- - 174e30 35s50 0 00 Marsden Point
+N-- - 172e39 43s29 0 00 Marshland
+N-- - 174e22 35s34 0 00 Marua
+N-- - 172e13 42s11 0 00 Maruia
+N-- - 172e20 42s23 0 00 Maruia Springs
+V-- - 170e37 44s55 0 00 Maruwenua
+V-- - 170e37 44s55 0 00 Maruwhenua
+N-- - 172e33 42s54 0 00 Masons Flat
+N-- - 176e56.06 39s32.48 0 00 Mast
+N-- - 175e39.27 40s57.35 0 00 Masterton
+N-- - 174e22 35s51 0 00 Mata
+N-- - 177e16 38s07 0 00 Matahanea
+N-- - 176e50 38s15 0 00 Matahina
+N-- - 175e09 39s36 0 00 Matahiwi
+N-- - 175e10 39s38 0 00 Matahiwi Landing
+N-- - 176e56 39s10 0 00 Matahorua
+V-- - 175e20 37s26 0 00 Matahura
+N-- - 175e20 37s26 0 00 Matahuru
+N-- - 170e22 43s16 0 00 Matainui
+N-- - 174e43 36s21 0 00 Matakana
+N-- - 169e34 45s01 0 00 Matakanui
+N-- - 172e20 41s58 0 00 Matakitaki
+N-- - 174e11 36s08 0 00 Matakohe
+N-- - 176e10 40s08 0 00 Matamau
+N-- - 175e25 37s49 0 00 Matangi
+N-- - 173e47 35s03 0 00 Matangirau
+N-- - 175e33 38s13 0 00 Matapara
+N-- - 176e11.18 37s41.26 0 00 Matapihi
+N-- - 174e30 35s34 0 00 Matapouri
+N-- - 174e14 39s29 0 00 Matapu
+N-- - 176w21 43s44 0 00 Matarakau
+N-- - 175e27 41s03 0 00 Matarawa
+N-- - 172e44 41s25 0 00 Matariki
+N-- - 175e44 39s39 0 00 Mataroa
+N-- - 176e45 37s53 0 00 Matata
+N-- - 175e37 37s13 0 00 Matatoki
+N-- - 174e34 39s10 0 00 Matau
+N-- - 168e47 46s25 0 00 Mataura Island
+N-- - 173e54 35s02 0 00 Matauri Bay
+V-- - 177e32 38s21 0 00 Matauwai
+N-- - 177e32 38s21 0 00 Matawai
+N-- - 177e58 38s40 0 00 Matawhero
+N-- - 175e06 38s45 0 00 Matiere
+N-- - 174e32 39s41 0 00 Matukuroa
+N-- - 174e49 37s12 0 00 Mauku
+V-- - 170e09 45s54 0 00 Maungaatua
+N-- - 174e13 35s51 0 00 Maungakaramea
+N-- - 177e08 38s35 0 00 Maungapohatu
+N-- - 174e12 35s45 0 00 Maungatapere
+D-- - 177e50.34 39s11 0 00 Maungatea Village
+N-- - 170e37 44s38 0 00 Maungatiro
+N-- - 170e09 45s54 0 00 Maungatua
+N-- - 174e22 36s06 0 00 Maungaturoto
+N-- - 169e12 44s38 0 00 Maungawera
+N-- - 175e42 40s47 0 00 Mauriceville
+V-- - 175e42 40s47 0 00 Mauriceville East
+N-- - 175e41 40s46 0 00 Mauriceville West
+N-- - 170e53 44s18 0 00 Mawaro
+N-- - 171e43 42s11 0 00 Mawheraiti
+N-- - 174e52 39s49 0 00 Maxwell
+N-- - 171e25 43s49 0 00 Mayfield
+V-- - 173e16 42s49 0 00 McKenzie
+N-- - 172e40 42s52 0 00 Medbury
+N-- - 176e54 39s33 0 00 Meeanee
+N-- - 173e17 42s37 0 00 Mendip Hills
+N-- - 168e49 46s21 0 00 Menzies Ferry
+N-- - 175e03 37s16 0 00 Mercer
+V-- - 175e03 37s16 0 00 Mercer Town District
+N-- - 174e23 39s35 0 00 Meremere
+N-- - 171e53 42s12 0 00 Merrijigs
+N-- - 167e50 46s03 0 00 Merrivale
+N-- - 171e39 43s38 0 00 Methven
+N-- - 170e07 45s31 0 00 Middlemarch
+N-- - 174e16 39s18 0 00 Midhirst
+V-- - 174e16 39s18 0 00 Midhurst
+N-- - 170e38 45s48 0 00 Mihiwaka
+N-- - 171e57 41s32 0 00 Miko
+N-- - 170e00 46s05 0 00 Milburn
+N-- - 169e25 45s40 0 00 Millers Flat
+N-- - 171e52 41s38 0 00 Millerton
+N-- - 169e58.10 46s07.15 0 00 Milton
+N-- - 173e14 42s49 0 00 Mina
+D-- - 176e48.42 39s27.39 0 00 Mino
+N-- - 174e49 41s19 0 00 Miramar
+N-- - 175e19 37s12 0 00 Miranda
+N-- - 174e07 41s52 0 00 Mirza
+N-- - 174e49.54 36s51.17 0 00 Mission Bay
+N-- - 171e51 43s45 0 00 Mitcham
+N-- - 173e16 35s25 0 00 Mitimiti
+N-- - 173e56 36s01 0 00 Mititai
+N-- - 169e39 45s12 0 00 Moa Creek
+N-- - 169e21 45s38 0 00 Moa Flat
+N-- - 171e28 42s35 0 00 Moana
+N-- - 170e10 46s07 0 00 Moanapuru
+N-- - 170e08 46s11 0 00 Moanariri
+N-- - 175e52 39s35 0 00 Moawhango
+N-- - 174e46 38s21 0 00 Moeatoa
+N-- - 174e39 39s32 0 00 Moeawatea
+D-- - 177e50.19 39s08.59 0 00 Moemoto
+N-- - 174e03 35s38 0 00 Moengawahine
+N-- - 170e51 45s22 0 00 Moeraki
+N-- - 174e55 37s58 0 00 Moerangi
+N-- - 174e02 35s23 0 00 Moerewa
+N-- - 174e38 39s26 0 00 Moeroa
+N-- - 177e11 39s07 0 00 Mohaka
+N-- - 175e54 38s32 0 00 Mokai
+N-- - 174e37 38s41 0 00 Mokau
+N-- - 175e10 38s35 0 00 Mokauiti
+V-- - 171e56 41s31 0 00 Mokihinui
+N-- - 172e01 41s35 0 00 Mokihinui Mine
+N-- - 174e22 39s38 0 00 Mokoia
+N-- - 169e04 46s26 0 00 Mokoreta
+N-- - 168e35 46s27 0 00 Mokotua
+N-- - 173e15 42s05 0 00 Molesworth
+V-- - 174e41 39s47 0 00 Momahaki
+N-- - 170e13 45s55 0 00 Momona
+N-- - 169e54 46s10 0 00 Moneymore
+N-- - 170e20 45s25 0 00 Moonlight
+N-- - 177e48 38s59 0 00 Morere
+N-- - 175e06 39s34 0 00 Morikau
+N-- - 170e28 45s53 0 00 Mornington
+N-- - 170e29 45s15 0 00 Morrisons
+N-- - 168e39 46s20 0 00 Morton Mains
+N-- - 171e07 44s50 0 00 Morven
+N-- - 170e20.50 45s52.30 0 00 Mosgiel
+N-- - 168e15 45s40 0 00 Mossburn
+N-- - 175e22 36s07 0 00 Motairehe
+V-- - 175e22 36s07 0 00 Motairere
+N-- - 174e02 35s29 0 00 Motatau
+N-- - 176e47 39s30 0 00 Moteo
+N-- - 177e33 38s15 0 00 Motu
+V-- - 177e32 38s17 0 00 Motuhora
+N-- - 173e30 35s22 0 00 Motukaraka
+N-- - 172e35 43s44 0 00 Motukarara
+N-- - 175e27 37s42 0 00 Motumaoho
+N-- - 172e58 42s58 0 00 Motunau
+N-- - 174e18 38s59 0 00 Motunui
+N-- - 172e48 41s27 0 00 Motupiko
+N-- - 172e51 40s51 0 00 Motupipi
+N-- - 174e03 39s04 0 00 Moturoa
+N-- - 174e41 39s47 0 00 Moumahaki
+N-- - 170e34 45s48 0 00 Mount Cargill
+N-- - 167e52 45s56 0 00 Mount Linton
+N-- - 176e11.10 37s38.30 0 00 Mount Maunganui
+N-- - 169e16 44s55 0 00 Mount Pisa
+N-- - 173e58 41s20 0 00 Mount Pleasant
+N-- - 174e27 36s38 0 00 Mount Rex
+N-- - 171e24 43s43 0 00 Mount Somers
+N-- - 170e17 45s36 0 00 Mount Stoker
+N-- - 176e20 38s03 0 00 Mourea
+V-- - 173e00 41s09 0 00 Moutere
+N-- - 175e23 40s30 0 00 Moutoa
+N-- - 177e32 38s17 0 00 Moutohora
+N-- - 174e54 39s52 0 00 Mowhanau
+N-- - 170e05 45s39 0 00 Mowhiti
+N-- - 174e45 36s26 0 00 Mullet Point
+V-- - 175e07 41s07 0 00 Mungaroa
+V-- - 176e42 38s28 0 00 Murapara
+N-- - 172e20 41s48 0 00 Murchison
+N-- - 175e41 39s33 0 00 Murimotu
+V-- - 176e42 38s28 0 00 Muripara
+NX- - 174e53 41s18 0 00 Muritai
+N-- - 177e55 38s46 0 00 Muriwai
+V-- - 174e27 36s49 0 00 Muriwai
+N-- - 174e27 36s49 0 00 Muriwai Beach
+N-- - 175e08 39s16 0 00 Murumuru
+N-- - 176e42 38s28 0 00 Murupara
+N-- - 168e25 46s22 0 00 Myross Bush
+N-- - 176e55 39s29 0 00 Napier
+V-- - 176e55 39s29 0 00 Napier City
+N-- - 174e48.13 36s48.59 0 00 Narrow Neck
+N-- - 175e24 39s11 0 00 National Park
+N-- - 173e59 36s05 0 00 Naumai
+N-- - 173e17 41s17 0 00 Nelson
+V-- - 173e17 41s17 0 00 Nelson City
+N-- - 171e31 42s25 0 00 Nelson Creek
+N-- - 175e37 37s20 0 00 Netherton
+N-- - 175e42 37s10 0 00 Nevesville
+N-- - 168e56 45s14 0 00 Nevis
+N-- - 172e44 43s31 0 00 New Brighton
+V-- - 175e17 37s08 0 00 New Brighton
+V-- - 169e12 44s41 0 00 Newcastle
+N-- - 169e43 46s28 0 00 New Haven
+N-- - 171e51 43s53 0 00 Newland
+N-- - 175e43 40s37 0 00 Newman
+N-- - 174e05 39s04 0 00 New Plymouth
+V-- - 174e05 39s04 0 00 New Plymouth City
+N-- - 175e21 37s47 0 00 Newstead
+NX- - 174e45 36s51 0 00 Newton
+N-- - 172e10 41s47 0 00 Newton Flat
+N-- - 174e18 39s23 0 00 Ngaere
+V-- - 174e49 41s15 0 00 Ngahauranga
+N-- - 171e27 42s24 0 00 Ngahere
+N-- - 174e47 41s15 0 00 Ngaio
+N-- - 171e53 41s37 0 00 Ngakawau
+V-- - 171e53 41s37 0 00 Ngakawhau
+N-- - 176e10 40s03 0 00 Ngamoko
+N-- - 170e45 44s57 0 00 Ngapara
+N-- - 173e54 35s26 0 00 Ngapipito
+N-- - 173e49 35s27 0 00 Ngapuhi
+N-- - 175e28 38s51 0 00 Ngapuke
+N-- - 170e10 45s27 0 00 Ngapuna
+N-- - 167e59 45s54 0 00 Ngaro
+N-- - 175e18 37s59 0 00 Ngaroto
+N-- - 173e03 34s44 0 00 Ngataki
+N-- - 177e48 38s35 0 00 Ngatapa
+N-- - 175e30 37s17 0 00 Ngatea
+N-- - 172e54 41s13 0 00 Ngatimoti
+N-- - 175e54 38s06 0 00 Ngatira
+N-- - 175e55 40s28 0 00 Ngaturi
+N-- - 174e49 41s15 0 00 Ngauranga
+N-- - 176e09 37s56 0 00 Ngawaro
+N-- - 173e52 35s22 0 00 Ngawha
+N-- - 176e12 38s05 0 00 Ngongotaha
+N-- - 174e30 35s37 0 00 Ngunguru
+N-- - 175e08 38s05 0 00 Ngutunui
+N-- - 174e44 39s45 0 00 Ngutuwera
+N-- - 169e08 46s36 0 00 Niagara
+N-- - 168e02 45s58 0 00 Nightcaps
+V-- - 168e02 45s58 0 00 Nightcaps Town District
+N-- - 175e03 38s47 0 00 Nihoniho
+V-- - 174e35 36s56 0 00 Nihotupu
+N-- - 171e56 41s33 0 00 Nikau
+N-- - 175e39 40s37 0 00 Nireaha
+N-- - 168e40 45s30 0 00 Nokomai
+N-- - 171e15 44s28 0 00 Normanby
+N-- - 174e17 39s32 0 00 Normanby
+V-- - 174e17 39s32 0 00 Normanby Town District
+N-- - 176e13 40s04 0 00 Norsewood
+N-- - 174e44.45 36s48.55 0 00 Northcote
+N-- - 170e32 45s51 0 00 North East Valley
+N-- - 174e48.30 36s49.40 0 00 North Head
+NX- - 174e45 41s17 0 00 Northland
+N-- - 172e30 43s13 0 00 North Loburn
+N-- - 174e06 39s17 0 00 North Mount Egmont
+NX- - 174e45 36s48 0 00 North Shore
+N-- - 170e20 45s51 0 00 North Taieri
+N-- - 172e15 43s39 0 00 Norwood
+N-- - 177e45 39s03 0 00 Nuhaka
+N-- - 174e40 39s36 0 00 Nukuhau
+N-- - 174e48 39s50 0 00 Nukumaru
+N-- - 173e53 35s40 0 00 Nukutawhiti
+N-- - 174e19 35s50 0 00 Oakleigh
+N-- - 173e57 39s07 0 00 Oakura
+N-- - 173e49 39s24 0 00 Oaonui
+N-- - 173e30 42s31 0 00 Oaro
+V-- - 168e08 46s54 0 00 Oban
+N-- - 174e06 41s20 0 00 Ocean Bay
+N-- - 168e19 46s35 0 00 Ocean Beach
+N-- - 170e33 45s54 0 00 Ocean Grove
+N-- - 173e59 39s32 0 00 Oeo
+N-- - 173e53 35s21 0 00 Ohaeawai
+N-- - 167e57 45s55 0 00 Ohai
+N-- - 175e24 40s12 0 00 Ohakea
+N-- - 174e20 39s36 0 00 Ohangai
+N-- - 174e46 41s12 0 00 Ohariu
+N-- - 175e15 40s40 0 00 Ohau
+N-- - 175e19 37s55 0 00 Ohaupo
+V-- - 175e19 37s55 0 00 Ohaupo Town District
+N-- - 174e59 37s45 0 00 Ohautira
+V-- - 174e12 39s35 0 00 Ohawe
+N-- - 174e12 39s35 0 00 Ohawe Beach
+N-- - 176e17 38s09 0 00 Ohinemutu
+N-- - 177e19 39s02 0 00 Ohinepaka
+N-- - 176e33 37s51 0 00 Ohinepanea
+N-- - 175e10 37s29 0 00 Ohinewai
+N-- - 175e43 39s52 0 00 Ohingaiti
+N-- - 173e53 41s15 0 00 Ohingaroa
+N-- - 174e27 36s42 0 00 Ohirangi
+N-- - 176e17 39s05 0 00 Ohirehape
+N-- - 172e34 43s22 0 00 Ohoka
+N-- - 177e04 37s58 0 00 Ohope Beach
+N-- - 175e51 39s43 0 00 Ohotu
+N-- - 174e59 38s50 0 00 Ohura
+V-- - 174e59 38s50 0 00 Ohura Town District
+N-- - 175e25 39s03 0 00 Oio
+V-- - 174e39 38s52 0 00 Okahu
+V-- - 175e13 38s47 0 00 Okahukua
+N-- - 175e13 38s47 0 00 Okahukura
+N-- - 174e12 39s32 0 00 Okaiawa
+N-- - 173e47 35s19 0 00 Okaihau
+V-- - 173e02 43s43 0 00 Okains
+N-- - 173e02 43s43 0 00 Okains Bay
+N-- - 173e46 41s25 0 00 Okaramio
+N-- - 170e11 43s14 0 00 Okarito
+N-- - 173e53 39s12 0 00 Okato
+N-- - 174e39 38s52 0 00 Okau
+N-- - 175e51 37s48 0 00 Okauia
+N-- - 176e21 38s01 0 00 Okere Falls
+N-- - 174e56 37s49 0 00 Okete
+N-- - 177e17 38s11 0 00 Okiore
+N-- - 175e25 36s09 0 00 Okiwi
+N-- - 175e08 39s56 0 00 Okoia
+V-- - 174e29 39s01 0 00 Okoke
+N-- - 174e29 39s01 0 00 Okoki
+N-- - 175e48 37s57 0 00 Okoroire
+N-- - 174e18 41s12 0 00 Okukari
+N-- - 175e26 36s16 0 00 Okupu
+N-- - 168e55 43s54 0 00 Okuru
+N-- - 177e15 38s52 0 00 Omahanui
+N-- - 175e40 37s16 0 00 Omahu
+N-- - 177e40 37s49 0 00 Omaio
+N-- - 169e36 45s05 0 00 Omakau
+N-- - 174e05 35s54 0 00 Omana
+N-- - 173e32 35s28 0 00 Omanaia
+N-- - 176e05 37s48 0 00 Omanawa
+N-- - 176e05 37s51 0 00 Omanawa Falls
+N-- - 173e23 35s32 0 00 Omapere
+N-- - 169e58 44s29 0 00 Omarama
+N-- - 174e01 39s06 0 00 Omata
+N-- - 175e04 36s49 0 00 Omiha
+N-- - 172e51 43s01 0 00 Omihi
+N-- - 170e36 45s42 0 00 Omimi
+N-- - 174e35 39s25 0 00 Omoana
+N-- - 176e02 37s40 0 00 Omokoroa
+N-- - 176e03 37s38 0 00 Omokoroa Beach
+N-- - 174e21 39s00 0 00 Onaero
+V-- - 174e21 39s00 0 00 Onaeroa
+V-- - 174e21 39s00 0 00 Onairo
+N-- - 173e43 41s27 0 00 Onamalutu
+N-- - 174e11 41s16 0 00 Onapua
+N-- - 174e22 41s07 0 00 Onauku
+N-- - 172e42 40s45 0 00 Onekaka
+N-- - 176e55 39s29 0 00 Onekawa
+N-- - 174e22 35s46 0 00 Onerahi
+V-- - 174e22 35s46 0 00 Onerahi Town District
+V-- - 174e45 36s42 0 00 Oneroa
+N-- - 175e05 36s47 0 00 Onetangi
+N-- - 173e55 35s49 0 00 Onetea
+N-- - 174e55 37s19 0 00 Onewhero
+N-- - 176e25 39s55 0 00 Onga Onga
+N-- - 175e17 38s43 0 00 Ongarue
+N-- - 175e05 38s34 0 00 Oniao
+N-- - 174e58 37s05 0 00 Opaheke
+N-- - 176e41 39s48 0 00 Opapa
+N-- - 172e07 41s13 0 00 Oparara
+N-- - 174e55 38s03 0 00 Oparau
+N-- - 169e36 45s07 0 00 Ophir
+N-- - 168e06 45s57 0 00 Opio
+D-- - 177e29.34 38s53.18 0 00 Opoiti
+N-- - 177e18 38s15 0 00 Oponae
+N-- - 173e24 35s30 0 00 Opononi
+N-- - 177e17 38s05 0 00 Opotiki
+N-- - 177e50 39s04 0 00 Opoutama
+N-- - 175e53 37s07 0 00 Opoutere
+N-- - 174e07 35s19 0 00 Opua
+N-- - 174e59 37s24 0 00 Opuatia
+N-- - 174e21 35s30 0 00 Opuawhanga
+N-- - 173e51.30 39s27.20 0 00 Opunake
+N-- - 176e06.43 37s38.20 0 00 Opunui Marae
+V-- - 167e53 46s22 0 00 Oraka
+NX- - 174e49 36s51 0 00 Orakei
+N-- - 170e08 45s14 0 00 Orangapai
+N-- - 174e52 39s40 0 00 Orangimea
+N-- - 173e36 35s42 0 00 Oranoa
+N-- - 171e18 44s08 0 00 Orari
+N-- - 174e37 36s55 0 00 Oratia
+N-- - 167e49 46s03 0 00 Orawia
+N-- - 167e48 46s03 0 00 Orawia Bridge
+N-- - 167e44 46s17 0 00 Orepuki
+N-- - 175e15 36s58 0 00 Orere Point
+V-- - 168e14 46s08 0 00 Oreti
+N-- - 168e14 46s08 0 00 Oreti Plains
+N-- - 174e42 36s34 0 00 Orewa
+N-- - 175e18 37s34 0 00 Orini
+N-- - 177e55 38s34 0 00 Ormond
+N-- - 176e16 40s07 0 00 Ormondville
+N-- - 176e09 37s50 0 00 Oropi
+N-- - 175e19 40s22 0 00 Oroua Downs
+N-- - 171e26 44s10 0 00 Orton
+N-- - 175e27 38s49 0 00 Oruaiwi
+N-- - 176e02 38s35 0 00 Oruanui
+N-- - 173e30 35s02 0 00 Oruru
+N-- - 168e12 46s15 0 00 Otahuti
+N-- - 171e10 44s35 0 00 Otaio
+N-- - 168e03 46s20 0 00 Otaitai
+N-- - 174e03 39s33 0 00 Otakeho
+N-- - 175e09 40s45.30 0 00 Otaki
+N-- - 175e07 40s45 0 00 Otaki Beach
+N-- - 176e46 37s59 0 00 Otakiri
+N-- - 170e43 45s49 0 00 Otakou
+N-- - 168e52 45s57 0 00 Otama
+N-- - 176e36 37s50 0 00 Otamarakau
+N-- - 168e51 46s01 0 00 Otamita
+N-- - 176e38 39s53 0 00 Otane
+N-- - 174e20 41s11 0 00 Otanerau
+N-- - 173e38 35s05 0 00 Otangaroa
+N-- - 177e00 38s02 0 00 Otangihaku
+N-- - 169e45 46s18 0 00 Otanomomo
+N-- - 168e27 46s03 0 00 Otapiri Gorge
+N-- - 168e53 46s38 0 00 Otara
+N-- - 173e41 41s03 0 00 Otarawao
+N-- - 168e18 46s26 0 00 Otatara
+D-- - 176e50.19 39s33.21 0 00 Otatara
+N-- - 174e45 37s18 0 00 Otaua
+N-- - 168e00 46s09 0 00 Otautau
+V-- - 168e00 46s09 0 00 Otautau Town District
+N-- - 170e34 44s50 0 00 Otekaieke
+V-- - 170e34 44s50 0 00 Otekaike
+N-- - 169e46 46s26 0 00 Otekura
+N-- - 170e16 44s37 0 00 Otematata
+N-- - 171e10 44s26 0 00 Otipua
+N-- - 171e33 42s50 0 00 Otira
+N-- - 174e00 35s24 0 00 Otiria
+N-- - 170e12 45s57 0 00 Otokia
+N-- - 177e40 38s24 0 00 Otoko
+N-- - 174e19 35s32 0 00 Otonga
+N-- - 173e52 35s04 0 00 Otoroa
+N-- - 175e12 38s11 0 00 Otorohanga
+V-- - 175e12 38s11 0 00 Otorohanga Town District
+N-- - 174e09 35s48 0 00 Otuhi
+N-- - 175e39 39s02 0 00 Otukou
+N-- - 176e09 37s40 0 00 Otumoetai
+N-- - 169e55 45s00 0 00 Oturehua
+N-- - 173e29 35s27 0 00 Oue
+N-- - 172e39 43s27 0 00 Ouruhia
+N-- - 170e14 45s52 0 00 Outram
+V-- - 170e14 45s52 0 00 Outram Town District
+N-- - 176w22 44s02 0 00 Ouwenga
+N-- - 171e59 43s47 0 00 Overdale
+N-- - 169e40 46s27 0 00 Owaka
+N-- - 169e35 46s26 0 00 Owaka Valley
+N-- - 172e30 41s42 0 00 Owen Junction
+N-- - 172e27 41s39 0 00 Owen River
+N-- - 172e31 41s38 0 00 Owen Valley
+N-- - 170e57 44s04 0 00 Owersby
+N-- - 175e23 39s00 0 00 Owhango
+N-- - 174e54 38s10 0 00 Owhiro
+N-- - 172e11 43s18 0 00 Oxford
+N-- - 174e57 40s59 0 00 Paekakariki
+N-- - 175e02 38s28 0 00 Paemako
+N-- - 176e25 37s49 0 00 Paengaroa
+N-- - 176e15 39s05 0 00 Paengaroa
+N-- - 174e54 37s10 0 00 Paerata
+N-- - 169e57 45s25 0 00 Paerau
+N-- - 175e40 37s22 0 00 Paeroa
+N-- - 174e27 35s32 0 00 Paetawai
+D-- - 176e38.55 40s15.51 0 00 Pah
+N-- - 171e22 42s03 0 00 Pahautane
+V-- - 174e55 41s06 0 00 Pahautanui
+N-- - 175e23 41s14 0 00 Pahautea
+N-- - 174e13 36s09 0 00 Pahi
+N-- - 167e45 46s20 0 00 Pahia
+N-- - 174e29 36s47 0 00 Pahitoa
+N-- - 176e01 37s39 0 00 Pahoia
+D-- - 176e53.39 39s36.02 0 00 Pahowai
+N-- - 174e09 35s31 0 00 Paiaka
+N-- - 174e05 35s17 0 00 Paihia
+N-- - 173e57 35s21 0 00 Pakaraka
+N-- - 175e12 36s47 0 00 Pakatoa
+N-- - 172e41 40s36 0 00 Pakawau
+N-- - 175e43 39s56 0 00 Pakihikura
+N-- - 178e04 37s51 0 00 Pakihiroa
+N-- - 176e49.27 39s40.28 0 00 Pakipaki
+N-- - 174e44 36s16 0 00 Pakiri
+N-- - 173e54 35s41 0 00 Pakotai
+N-- - 176e52 39s35 0 00 Pakowhai
+N-- - 174e55 36s53 0 00 Pakuranga
+V-- - 174e55 36s53 0 00 Pakurangi
+N-- - 175e37 40s21 0 00 Palmerston North
+V-- - 175e37 40s21 0 00 Palmerston North City
+N-- - 173e21 35s08 0 00 Pamapuria
+N-- - 172e49 34s27 0 00 Pandora
+V-- - 172e49 34s27 0 00 Pandora Bank
+N-- - 172e55 41s10 0 00 Pangatotara
+N-- - 173e23 35s23 0 00 Panguru
+N-- - 174e52 36s53 0 00 Panmure
+N-- - 170e59 44s59 0 00 Papakaio
+N-- - 174e57 37s05 0 00 Papakura
+N-- - 176e18 37s44 0 00 Papamoa
+NX- - 172e37 43s30 0 00 Papanui
+N-- - 174e58 39s42 0 00 Paparangi
+N-- - 175e04 37s09 0 00 Paparata
+N-- - 175e07 37s10 0 00 Paparata Valley
+N-- - 175e07 37s08 0 00 Paparimu
+N-- - 174e14 36s06 0 00 Paparoa
+N-- - 175e56 40s19 0 00 Papatawa
+N-- - 167e38 46s09 0 00 Papatotara
+N-- - 169e28 46s36 0 00 Papatowai
+N-- - 173e57 41s22 0 00 Para
+N-- - 168e22 44s44 0 00 Paradise
+N-- - 174e26 36s39 0 00 Parakai
+N-- - 174e36 36s35 0 00 Parakakau
+N-- - 173e57 35s43 0 00 Parakao
+V-- - 175e09 39s48 0 00 Parakino
+V-- - 175e09 39s48 0 00 Parakino Pa
+N-- - 173e28 35s04 0 00 Paranui
+N-- - 173e37 35s03 0 00 Paraoanui
+N-- - 173e26 35s01 0 00 Parapara
+N-- - 175e01 40s55 0 00 Paraparaumu
+N-- - 174e59 40s54 0 00 Paraparaumu Beach
+N-- - 174e37 36s58 0 00 Parau
+N-- - 168e32 45s33 0 00 Parawa
+N-- - 174e52 41s07 0 00 Paremata
+N-- - 174e40 36s46 0 00 Paremoremo
+V-- - 172e55 34s32 0 00 Parenga
+N-- - 171e12 44s30 0 00 Pareora
+N-- - 171e08 44s26 0 00 Pareora West
+N-- - 169e47 46s20 0 00 Paretai
+V-- - 173e50 39s18 0 00 Parihaka
+N-- - 173e50 39s18 0 00 Parihaka Pa
+N-- - 175e09 39s48 0 00 Parikino
+N-- - 169e13 45s49 0 00 Park Hill
+N-- - 174e24 36s39 0 00 Parkhurst
+N-- - 175e33 41s03 0 00 Parkvale
+N-- - 173e18 42s43 0 00 Parnassus
+NX- - 174e47 36s52 0 00 Parnell
+N-- - 171e10 42s31 0 00 Paroa
+N-- - 173e50 35s55 0 00 Parore
+N-- - 174e28 35s46 0 00 Parua Bay
+N-- - 176e43 39s55 0 00 Patangata
+N-- - 174e29 39s45.30 0 00 Patea
+N-- - 170e03 45s16 0 00 Patearoa
+N-- - 175e28 37s25 0 00 Patetonga
+N-- - 176e37 39s21 0 00 Patoka
+N-- - 173e57 40s44 0 00 Patuki
+N-- - 174e50 37s11 0 00 Patumahoe
+N-- - 175e14 38s58 0 00 Patunga
+N-- - 172e26 40s39 0 00 Paturau River
+N-- - 177e54 38s37 0 00 Patutahi
+V-- - 177e54 38s37 0 00 Patutahi Town District
+N-- - 172e55 34s32 0 00 Paua
+N-- - 175e52 37s01 0 00 Pauanui
+N-- - 174e55 41s06 0 00 Pauatahanui
+N-- - 173e15 35s21 0 00 Pawarenga
+N-- - 170e56 44s58 0 00 Peebles
+N-- - 171e16 43s55 0 00 Peel Forest
+N-- - 177e42 38s38 0 00 Pehiri
+N-- - 174e34 39s03 0 00 Pehu
+N-- - 169e09 44s42 0 00 Pembroke
+NX- - 174e49 36s55 0 00 Penrose
+N-- - 174e57 37s35 0 00 Pepepe
+N-- - 173e30 35s05 0 00 Peria
+N-- - 176e52 39s23 0 00 Petane
+D-- - 176e52.36 39s24.47 0 00 Petane
+N-- - 174e53 41s14 0 00 Petone
+N-- - 173e14 42s46 0 00 Phoebe
+N-- - 175e33 37s39 0 00 Piako
+N-- - 172e53 43s42 0 00 Pigeon Bay
+N-- - 175e16 41s09 0 00 Pigeon Bush
+N-- - 174e28 36s57 0 00 Piha
+N-- - 173e56 39s30 0 00 Pihama
+N-- - 175e13 39s16 0 00 Pikiariki
+N-- - 167e44 46s07 0 00 Piko Piko
+N-- - 176e40 37s51 0 00 Pikowai
+N-- - 168e48 46s28 0 00 Pine Bush
+N-- - 173e32 41s32 0 00 Pine Valley
+N-- - 173e51 41s13 0 00 Pinohia
+N-- - 175e01 38s28 0 00 Piopio
+N-- - 175e03 39s29 0 00 Pipiriki
+N-- - 175e29 37s13 0 00 Pipiroa
+N-- - 175e21 38s55 0 00 Piriaka
+N-- - 175e12 41s21 0 00 Pirinoa
+N-- - 176e08 40s10 0 00 Piripiri
+N-- - 175e12 38s00 0 00 Pirongia
+D-- - 177e49.53 39s09.23 0 00 Piruhi
+N-- - 171e08 44s16 0 00 Pleasant Point
+V-- - 171e08 44s16 0 00 Pleasant Point Town District
+N-- - 171e11 44s05 0 00 Pleasant Valley
+N-- - 174e52 41s05 0 00 Plimmerton
+N-- - 171e30 42s42 0 00 Poerua
+N-- - 175e48 40s10 0 00 Pohangina
+N-- - 174e40 39s10 0 00 Pohokura
+N-- - 174e39 36s27 0 00 Pohuehue
+NX- - 174e42 36s51 0 00 Point Chevalier
+N-- - 174e47.22 36s51.05 0 00 Point Resolution
+N-- - 175e24 39s18 0 00 Pokaka
+N-- - 173e59 35s26 0 00 Pokapu
+N-- - 175e01 37s14 0 00 Pokeno
+N-- - 173e59 35s29 0 00 Pokere
+N-- - 172e50 41s13 0 00 Pokororo
+N-- - 174e37 37s08 0 00 Pollok
+V-- - 174e37 37s08 0 00 Pollok Settlement
+N-- - 169e14 46s01 0 00 Pomahaka
+V-- - 169e30 45s59 0 00 Pongahere
+N-- - 176e29 37s49 0 00 Pongakawa
+N-- - 176e11 40s33 0 00 Pongaroa
+NX- - 174e44 36s51 0 00 Ponsonby
+N-- - 169e40 45s09 0 00 Poolburn
+N-- - 169e23 46s06 0 00 Popotunoa
+N-- - 176e37 40s18 0 00 Porangahau
+N-- - 172e42 43s49 0 00 Poranui
+N-- - 174e51 41s08 0 00 Porirua
+N-- - 174e50 41s08 0 00 Porirua Pa
+V-- - 176e37.42 40s16.44 0 00 Porongahau
+N-- - 175e19 38s33 0 00 Porootarao
+N-- - 176e58 37s59 0 00 Poroporo
+N-- - 174e08 35s44 0 00 Poroti
+VX- - 176e54 39s29 0 00 Port Ahuriri
+N-- - 174e27 36s16 0 00 Port Albert
+N-- - 178e27 37s50 0 00 Port Awanui
+N-- - 170e36.15 45s48.45 0 00 Port Chalmers
+N-- - 175e29 36s32 0 00 Port Charles
+N-- - 167e21 46s13 0 00 Port Craig
+N-- - 175e21 36s10 0 00 Port Fitzroy
+N-- - 173e50 40s44 0 00 Port Hardy
+N-- - 174e19 35s48 0 00 Portland
+N-- - 169e46 46s22 0 00 Port Molyneux
+N-- - 173e01 41s08 0 00 Port Motueka
+N-- - 173e16 41s16 0 00 Port Nelson
+N-- - 170e39 45s51 0 00 Portobello
+N-- - 173e18 42s52 0 00 Port Robinson
+N-- - 174e44 37s23 0 00 Port Waikato
+N-- - 170e13 43s21 0 00 Potters Creek
+N-- - 176e44 39s46 0 00 Poukawa
+N-- - 175e38 39s52 0 00 Poukiore
+V-- - 171e16 42s38 0 00 Pounamu
+N-- - 169e42 46s29 0 00 Pounawea
+N-- - 174e11 36s22 0 00 Pouto
+V-- - 174e11 36s22 0 00 Poutu
+N-- - 175e45 39s04 0 00 Poutu
+N-- - 172e31 43s35 0 00 Prebbleton
+N-- - 172e50 43s45 0 00 Puaha
+V-- - 173e23 35s28 0 00 Puahau
+V-- - 172e50 43s45 0 00 Puaho
+N-- - 169e41 46s19 0 00 Puerua
+V-- - 177e51 38s29 0 00 Puha
+N-- - 173e23 35s28 0 00 Puhau
+N-- - 174e40 36s30 0 00 Puhoi
+N-- - 177e51 38s29 0 00 Puhua
+N-- - 176e51 39s41 0 00 Pukahu
+V-- - 170e09 44s11 0 00 Pukaki
+N-- - 174e41 36s29 0 00 Pukapuka
+N-- - 174e30 38s54 0 00 Pukearuhe
+N-- - 168e21 46s01 0 00 Pukearuhe
+N-- - 175e33 38s04 0 00 Pukeatua
+N-- - 169e37 46s10 0 00 Pukeawa
+N-- - 170e38 45s53 0 00 Pukehiki
+N-- - 176e32 37s49 0 00 Pukehina
+N-- - 176e38 39s50 0 00 Pukehou
+N-- - 174e02 35s52 0 00 Pukehuia
+N-- - 174e53 38s08 0 00 Pukeinoi
+N-- - 175e07 37s32 0 00 Pukekapia
+N-- - 174e57 37s12 0 00 Pukekohe East
+N-- - 174e10 41s09 0 00 Pukekoikoi
+N-- - 169e44 46s05 0 00 Pukekoma
+N-- - 170e40 43s01 0 00 Pukekura
+N-- - 167e48 46s05 0 00 Pukemaori
+N-- - 175e02 37s37 0 00 Pukemiro
+N-- - 175e04 37s36 0 00 Pukemiro Junction
+N-- - 173e07 34s49 0 00 Pukenui
+N-- - 174e45 37s14 0 00 Pukeowhare
+N-- - 169e39 46s10 0 00 Pukepito
+N-- - 170e13 45s38 0 00 Pukerangi
+N-- - 169e06 46s06 0 00 Pukerau
+N-- - 175e30 39s47 0 00 Pukeroa
+N-- - 174e54 41s02 0 00 Pukerua Bay
+N-- - 176e48 39s31 0 00 Puketapu
+N-- - 170e39 45s40 0 00 Puketeraki
+N-- - 169e37 46s03 0 00 Puketi
+N-- - 169e29 46s29 0 00 Puketiro
+N-- - 176e33 39s17 0 00 Puketitiri
+N-- - 173e58 35s18 0 00 Puketona
+N-- - 175e10 38s05 0 00 Puketotara
+N-- - 175e44 37s06 0 00 Puketui
+N-- - 175e14 38s26 0 00 Puketutu
+N-- - 171e02 45s02 0 00 Pukeuri Junction
+N-- - 176e50.39 39s31.24 0 00 Puk-kura
+N-- - 171e20 42s06 0 00 Punakaiki
+N-- - 173e41 35s28 0 00 Punakitere
+N-- - 176e23 38s12 0 00 Punaroma
+V-- - 176e23 38s12 0 00 Punaromia
+N-- - 171e32 43s47 0 00 Punawai
+N-- - 174e29 36s38 0 00 Punganui
+N-- - 173e48 39s17 0 00 Pungarehu
+N-- - 173e50 39s12 0 00 Puniho
+N-- - 174e37 39s20 0 00 Puniwhakau
+N-- - 172e43 40s31 0 00 Puponga
+N-- - 173e43 35s06 0 00 Pupuke
+N-- - 174e31 39s09 0 00 Purangi
+N-- - 169e29 46s21 0 00 Purekireki
+N-- - 174e02 35s09 0 00 Purerua
+N-- - 175e38 37s14 0 00 Puriri
+N-- - 170e55 44s03 0 00 Pusey
+N-- - 169e08 46s33 0 00 Putangahau
+N-- - 175e04 36s48 0 00 Putiki
+N-- - 177e00 39s08 0 00 Putorino
+N-- - 174e17 35s47 0 00 Puwera
+N-- - 168e46 45s56 0 00 Pyramid
+N-- - 169e02 46s33 0 00 Quarry Hills
+V-- - 169e20 44s50 0 00 Queensberry
+N-- - 169e20 44s50 0 00 Queensbury
+N-- - 169e28 45s47 0 00 Raes Junction
+N-- - 174e53 37s48 0 00 Raglan
+N-- - 174e08 39s14 0 00 Rahiri
+N-- - 173e48 39s20 0 00 Rahotu
+N-- - 173e34 41s18 0 00 Rai Falls
+N-- - 173e35 41s14 0 00 Rai Valley
+V-- - 168e29 46s19 0 00 Rakahouka
+N-- - 172e01 43s45 0 00 Rakaia
+N-- - 171e39 43s31 0 00 Rakaia Gorge
+N-- - 172e47 41s25 0 00 Rakau
+N-- - 168e29 46s19 0 00 Rakauhauka
+N-- - 176e08 40s36 0 00 Rakaunui
+N-- - 177e33 38s25 0 00 Rakauroa
+N-- - 176w35 43s49 0 00 Rakautahi
+N-- - 173e51 35s26 0 00 Rakautao
+N-- - 175e35 39s33 0 00 Raketapauma
+N-- - 174e57 37s09 0 00 Ramarama
+N-- - 170e06 45s08 0 00 Ranfurly
+N-- - 174e24 36s09 0 00 Ranganui
+N-- - 175e28 39s26 0 00 Rangataua
+N-- - 173e38 35s18 0 00 Rangiahua
+N-- - 174e33 39s47 0 00 Rangikura
+N-- - 175e26 40s25 0 00 Rangiotu
+N-- - 173e23 35s28 0 00 Rangi Point
+N-- - 173e18 34s53 0 00 Rangiputa
+N-- - 175e10 37s26 0 00 Rangiriri
+N-- - 176e23 38s53 0 00 Rangitaiki
+N-- - 171e22 44s04 0 00 Rangitata
+N-- - 171e28 44s08 0 00 Rangitata Island
+N-- - 174e48 39s46 0 00 Rangitatau
+N-- - 173e20 35s08 0 00 Rangitihi
+N-- - 178e27 37s46 0 00 Rangitukia
+N-- - 176e23 37s47 0 00 Rangiuru
+N-- - 176e07.20 37s38.15 0 00 Rangiwaea Marae
+N-- - 175e55 39s54 0 00 Rangiwahia
+V-- - 171e13 44s28 0 00 Raorao
+N-- - 171e15 42s22 0 00 Rapahoe
+N-- - 172e40 43s37 0 00 Rapaki
+N-- - 174e56 39s53 0 00 Rapanui
+N-- - 173e54 41s28 0 00 Rapaura
+N-- - 171e03 44s10 0 00 Rapuwai
+N-- - 175e31 39s59 0 00 Rata
+N-- - 175e10.30 40s02.45 0 00 Ratana
+N-- - 169e38 46s29 0 00 Ratanui
+N-- - 174e19 39s12 0 00 Ratapiko
+D-- - 175e24.38 41s32.26 0 00 Rat Hill
+N-- - 177e53 37s39 0 00 Raukokore
+N-- - 175e46 40s13 0 00 Raumai
+N-- - 176e09 40s12 0 00 Raumati
+V-- - 174e59 40s55 0 00 Raumati
+N-- - 174e59 40s55 0 00 Raumati Beach
+N-- - 174e59 40s57 0 00 Raumati South
+V-- - 172e40 43s37 0 00 Raupaki
+N-- - 173e59 36s07 0 00 Raupo
+N-- - 171e35 42s19 0 00 Raupo
+N-- - 177e13 39s02 0 00 Raupunga
+N-- - 170e02 46s09 0 00 Raurekau
+N-- - 175e24 39s07 0 00 Raurimu
+V-- - 175e24 39s07 0 00 Raurimu Spiral
+NX- - 170e33 45s52 0 00 Ravensbourne
+V-- - 171e19 42s23 0 00 Rawanui
+N-- - 173e30 35s24 0 00 Rawene
+V-- - 173e30 35s24 0 00 Rawene Town District
+N-- - 174e15 35s14 0 00 Rawhiti
+N-- - 167e53 46s06 0 00 Raymonds Gap
+N-- - 174e42.20 36s36.38 0 00 Red Beach
+N-- - 172e44 43s34 0 00 Redcliffs
+N-- - 173e51 36s02 0 00 Redhill
+N-- - 174e42 36s41 0 00 Red Vale
+N-- - 173e05 41s18 0 00 Redwoods Valley
+N-- - 171e52 42s07 0 00 Reefton
+N-- - 174e02 36s04 0 00 Rehia
+N-- - 170e51 45s09 0 00 Reidston
+N-- - 175e05 40s54 0 00 Reikorangi
+N-- - 175e03 37s34 0 00 Renown
+N-- - 173e50 41s30 0 00 Renwick
+V-- - 173e50 41s30 0 00 Renwicktown
+N-- - 176e21 38s26 0 00 Reporoa
+N-- - 177e37 38s32 0 00 Rere
+N-- - 175e38 39s59 0 00 Rewa
+N-- - 171e19 42s23 0 00 Rewanui
+N-- - 171e03 45s01 0 00 Richmond
+N-- - 175e36 40s09 0 00 Ridgelands
+N-- - 171e00 42s46 0 00 Rimu
+N-- - 168e01 46s10 0 00 Ringway
+N-- - 174e09 35s34 0 00 Riponui
+N-- - 176e43 39s27 0 00 Rissington
+N-- - 176e16 43s44 0 00 Ritchie
+N-- - 174e36 36s45 0 00 Riverhead
+N-- - 174e05 39s26 0 00 Riverlea
+N-- - 168e45 45s54 0 00 Riversdale
+N-- - 171e50 44s01 0 00 Riverside
+N-- - 168e01 46s21 0 00 Riverton
+N-- - 173e00 41s05 0 00 Riwaka
+N-- - 171e23 42s21 0 00 Roa
+N-- - 172e58 43s46 0 00 Robinsons Bay
+N-- - 170e11 45s24 0 00 Rock and Pillar
+N-- - 169e59 45s40 0 00 Rocklands
+N-- - 172e38 40s44 0 00 Rockville
+N-- - 172e23 43s35 0 00 Rolleston
+N-- - 169e44 46s21 0 00 Romahapa
+N-- - 169e30 45s59 0 00 Rongahere
+N-- - 175e25 40s18 0 00 Rongotea
+NX- - 170e29 45s52 0 00 Roslyn
+N-- - 168e27 46s21 0 00 Roslyn Bush
+N-- - 172e57 42s42 0 00 Rotherham
+N-- - 175e02 38s53 0 00 Roto
+N-- - 176e29 38s03 0 00 Rotoiti
+N-- - 176e20 38s07 0 00 Rotokawa
+N-- - 170e22 43s12 0 00 Rotokino
+N-- - 171e54 41s58 0 00 Rotokohu
+N-- - 171e32 42s39 0 00 Rotomanu
+N-- - 175e05 37s31 0 00 Rotongaro
+N-- - 175e05 37s36 0 00 Rotowaro
+N-- - 173e48 35s53 0 00 Rotu
+N-- - 176e15 39s04 0 00 Rouiti Pa
+N-- - 167e49 46s19 0 00 Round Hill
+N-- - 174e07 39s24 0 00 Rowan
+N-- - 174e21 36s06 0 00 Rowsells
+N-- - 175e54 39s50 0 00 Ruahine
+N-- - 167e48 46s21 0 00 Ruahine
+N-- - 174e24 35s53 0 00 Ruakaka
+N-- - 174e48 37s55 0 00 Ruapuke
+N-- - 171e21 43s52 0 00 Ruapuna
+N-- - 176e57 38s33 0 00 Ruatahuna
+V-- - 174e11 35s39 0 00 Ruatangata
+N-- - 174e14 35s39 0 00 Ruatangata East
+N-- - 174e11 35s39 0 00 Ruatangata West
+N-- - 176e30 39s56 0 00 Ruataniwha
+N-- - 170e53 42s48 0 00 Ruatapu
+V-- - 177e03 38s08 0 00 Ruatoki
+N-- - 177e03 38s08 0 00 Ruatoki North
+N-- - 178e20 37s53 0 00 Ruatoria
+N-- - 174e02 36s08 0 00 Ruawai
+N-- - 175e03 37s31 0 00 Ruawaro
+N-- - 175e17 37s52 0 00 Rukuhia
+N-- - 174e28 35s45 0 00 Rukuwai
+N-- - 173e21 35s19 0 00 Runaruna
+N-- - 174e56 37s06 0 00 Runciman
+N-- - 171e30 42s35 0 00 Ruru
+N-- - 174e07 35s16 0 00 Russell
+V-- - 174e07 35s16 0 00 Russell Town District
+N-- - 171e09 42s32 0 00 Rutherglen
+N-- - 168e20 46s16 0 00 Ryal Bush
+N-- - 173e42 35s03 0 00 Saies
+N-- - 172e37 43s31 0 00 Saint Albans
+N-- - 171e11 44s32 0 00 Saint Andrews
+N-- - 172e50 41s48 0 00 Saint Arnaud
+N-- - 169e49 44s52 0 00 Saint Bathans
+N-- - 170e29 45s55 0 00 Saint Clair
+NX- - 174e52 36s51 0 00 Saint Heliers
+N-- - 170e31.10 45s54 0 00 Saint Kilda
+N-- - 173e58 41s11 0 00 Saint Omer
+N-- - 168e30 45s48 0 00 Saint Patricks
+N-- - 171e12 44s26 0 00 Salisbury
+N-- - 172e59 41s01 0 00 Sandy Bay
+N-- - 172e19 43s34 0 00 Sandy Knolls
+N-- - 175e25 40s13 0 00 Sanson
+N-- - 170e36 45s50 0 00 Sawyers Bay
+N-- - 172e57 42s56 0 00 Scargill
+N-- - 167e56 46s04 0 00 Scotts Gap
+N-- - 170e37 45s41 0 00 Seacliff
+N-- - 171e16 44s18 0 00 Seadown
+N-- - 171e54 43s55 0 00 Seafield
+N-- - 174e50 41s19 0 00 Seatoun
+N-- - 168e45 46s23 0 00 Seaward Downs
+N-- - 174e05 41s40 0 00 Seddon
+N-- - 171e59 41s33 0 00 Seddonville
+N-- - 172e20 43s51 0 00 Sedgemere
+V-- - 171e59 41s33 0 00 Sedonville
+N-- - 172e40 43s15 0 00 Sefton
+N-- - 172e13 43s39 0 00 Selwyn
+N-- - 174e12 39s02 0 00 Sentry Hill
+N-- - 171e39 41s46 0 00 Sergeants Hill
+N-- - 170e49 45s28 0 00 Shag Point
+N-- - 172e01 43s23 0 00 Sheffield
+N-- - 172e15 41s52 0 00 Shenandoah
+N-- - 172e44 41s26 0 00 Sherry River
+N-- - 171e49 43s45 0 00 Sherwood
+N-- - 170e52 43s58 0 00 Sherwood Downs
+N-- - 174e40 36s37 0 00 Silverdale
+N-- - 175e32 39s58 0 00 Silverhope
+N-- - 175e00 41s09 0 00 Silverstream
+N-- - 170e17 44s12 0 00 Simons Pass
+N-- - 168e41 44s50 0 00 Skippers
+N-- - 169e00 46s40 0 00 Slope Point
+N-- - 171e55 43s45 0 00 Somerton
+N-- - 172e15 43s49 0 00 Southbridge
+V-- - 172e15 43s49 0 00 Southbridge Town District
+N-- - 172e36 43s20 0 00 Southbrook
+N-- - 171e06 44s27 0 00 Southburn
+N-- - 168e15 46s03 0 00 South Hillend
+N-- - 171e54 43s28 0 00 South Malvern
+V-- - 172e01 43s45 0 00 South Rakaia
+V-- - 171e22 44s04 0 00 South Rangitata
+N-- - 173e16 42s45 0 00 Spotswood
+N-- - 172e37 43s34 0 00 Spreydon
+N-- - 172e26 43s19 0 00 Springbank
+N-- - 171e28 43s40 0 00 Springburn
+N-- - 173e58 41s28 0 00 Spring Creek
+N-- - 171e55 43s20 0 00 Springfield
+N-- - 173e05 41s23 0 00 Spring Grove
+N-- - 168e29 46s11 0 00 Springhills
+N-- - 172e11 42s19 0 00 Springs Junction
+N-- - 172e25 43s39 0 00 Springston
+N-- - 172e26 43s41 0 00 Springston South
+N-- - 171e05 42s40 0 00 Stafford
+N-- - 172e49 41s20 0 00 Stanley Brook
+N-- - 174e43.53 36s37.39 0 00 Stanmore Bay
+N-- - 171e26 43s39 0 00 Staveley
+N-- - 171e21 42s26 0 00 Stillwater
+V-- - 171e21 42s26 0 00 Stillwater Junction
+N-- - 169e47 46s15 0 00 Stirling
+N-- - 171e53 41s38 0 00 Stockton
+N-- - 172e28 43s19 0 00 Stoke
+N-- - 173e14 41s19 0 00 Stoke
+N-- - 170e34 45s26 0 00 Stoneburn
+N-- - 170e30 44s46 0 00 Strachans
+N-- - 174e34 39s17 0 00 Strathmore
+N-- - 170e39 44s35 0 00 Straun
+N-- - 169e27 46s32 0 00 Stuarts
+N-- - 171e08 44s44 0 00 Studholme Junction
+N-- - 172e45 43s35 0 00 Summer
+N-- - 175e12 41s09 0 00 Summit
+N-- - 175e00 36s47 0 00 Surfdale
+V-- - 171e03 44s17 0 00 Sutherland
+N-- - 171e03 44s17 0 00 Sutherlands
+N-- - 170e07 45s34 0 00 Sutton
+N-- - 172e28 43s23 0 00 Swannanoa
+N-- - 174e35 36s52 0 00 Swanson
+N-- - 172e38 43s33 0 00 Sydenham
+N-- - 172e45 41s26 0 00 Tadmor
+N-- - 173e34 34s57 0 00 Taemaro
+N-- - 169e23 46s31 0 00 Tahakopa
+N-- - 176w40 43s45 0 00 Tahatika
+N-- - 169e33 46s25 0 00 Tahatika
+N-- - 175e56 37s31 0 00 Tahawai
+N-- - 173e39 35s27 0 00 Taheke
+N-- - 174e33 36s32 0 00 Tahekeroa
+N-- - 174e26 35s41 0 00 Tahere
+N-- - 174e48 39s02 0 00 Tahora
+V-- - 176e05 40s13 0 00 Tahoraite
+N-- - 176e05 40s13 0 00 Tahoraiti
+N-- - 176e18 38s30 0 00 Tahorakui
+V-- - 176e18 38s30 0 00 Tahorakuri
+N-- - 175e29 37s30 0 00 Tahuna
+N-- - 173e15 41s17 0 00 Tahunanui
+V-- - 170e30 45s52 0 00 Taieri
+N-- - 170e11 46s05 0 00 Taieri Beach
+N-- - 170e11 46s04 0 00 Taieri Mouth
+N-- - 173e32 35s14 0 00 Taikawhana
+N-- - 174e09 41s47 0 00 Taimate
+V-- - 174e01 36s10 0 00 Taingaihe
+N-- - 170e55 42s46 0 00 Tainui
+N-- - 170e19 45s48 0 00 Taioma
+N-- - 173e28 34s59 0 00 Taipa
+N-- - 174e17 36s00 0 00 Taipuha
+N-- - 175e51 37s01 0 00 Tairua
+N-- - 174e57 41s12 0 00 Taita
+N-- - 172e33 43s40 0 00 Tai Tapu
+N-- - 174e40 37s03 0 00 Taitimu
+V-- - 174e55 37s02 0 00 Takaanini
+N-- - 174e25 35s50 0 00 Takahiwai
+N-- - 173e21 35s12 0 00 Takahue
+N-- - 172e48 40s51 0 00 Takaka
+V-- - 172e48 40s51 0 00 Takaka Town District
+V-- - 172e58 43s47 0 00 Takamatua
+N-- - 172e58 43s47 0 00 Takamatua Bay
+N-- - 174e55 37s02 0 00 Takanini
+N-- - 176e21 40s02 0 00 Takapau
+N-- - 174e46.33 36s47.30 0 00 Takapuna
+V-- - 175e30 40s24 0 00 Takitahuna
+N-- - 174e38 39s26 0 00 Takou
+N-- - 170e57 42s44 0 00 Takutai
+N-- - 175e21 37s50 0 00 Tamahere
+D-- - 176e50.52 39s32.25 0 00 Tamihunu
+N-- - 175e50 40s36 0 00 Tane
+N-- - 177e01 38s04 0 00 Taneatua
+N-- - 174e14 35s35 0 00 Tanekaha
+N-- - 174e01 36s10 0 00 Tangaihe
+N-- - 174e51 39s01 0 00 Tangarakau
+N-- - 175e15 40s18 0 00 Tangimoana
+N-- - 174e03 35s49 0 00 Tangiteroria
+N-- - 175e13 38s37 0 00 Tangitu
+N-- - 175e35 39s28 0 00 Tangiwai
+N-- - 176e55 39s20 0 00 Tangoio
+N-- - 173e56 35s52 0 00 Tangowahine
+N-- - 175e18 37s24 0 00 Taniwha
+N-- - 172e49 41s24 0 00 Tapawera
+N-- - 175e30 36s59 0 00 Tapu
+N-- - 174e12 35s28 0 00 Tapuhi
+N-- - 175e20 38s34 0 00 Tapuwae
+N-- - 176e51 39s32 0 00 Taradale
+V-- - 176e51 39s32 0 00 Taradale Town District
+N-- - 172e54 40s49 0 00 Tarakohe
+N-- - 171e15 42s41 0 00 Taramakau
+V-- - 174e28 35s44 0 00 Taranui
+N-- - 169e34 46s31 0 00 Tarara
+N-- - 174e22 39s09 0 00 Tarata
+N-- - 174e28 35s44 0 00 Taraunui
+N-- - 176e35 39s02 0 00 Tarawera
+N-- - 177e48 38s56 0 00 Tarewa
+N-- - 174e15 39s14 0 00 Tariki
+N-- - 175e15 38s50 0 00 Taringamotu
+N-- - 169e25 44s50 0 00 Tarras
+N-- - 176e10 38s05 0 00 Tarukenga
+N-- - 174e11 39s05 0 00 Tarurutangi
+N-- - 173e03 41s12 0 00 Tasman
+N-- - 173e55 39s10 0 00 Tataraimaka
+N-- - 176e09 40s08 0 00 Tataramoa
+N-- - 170e11 43s22 0 00 Tatare
+N-- - 174e57 38s54 0 00 Tatu
+N-- - 175e36 37s37 0 00 Tatuanui
+V-- - 175e48 40s58 0 00 Taueru
+N-- - 174e27 36s23 0 00 Tauhoa
+N-- - 175e46 38s02 0 00 Taumangi
+N-- - 174e05 35s22 0 00 Taumarere
+N-- - 169e28 46s09 0 00 Taumata
+N-- - 174e48 39s33 0 00 Taumatatahi
+N-- - 172e22 43s51 0 00 Taumutu
+V-- - 175e56 39s00 0 00 Taupahi
+N-- - 174e34 36s49 0 00 Taupaki
+N-- - 175e11 37s37 0 00 Taupiri
+N-- - 176e05 38s41 0 00 Taupo
+V-- - 176e05 38s41 0 00 Taupo Town District
+N-- - 176e10 37s41.10 0 00 Tauranga
+N-- - 174e14 35s52 0 00 Tauraroa
+N-- - 174e32 35s49 0 00 Taurikura
+N-- - 173e50 35s28 0 00 Tautoro
+N-- - 169e25 46s35 0 00 Tautuku
+N-- - 175e48 40s58 0 00 Tauweru
+N-- - 175e28 37s46 0 00 Tauwhare
+N-- - 174e51 41s10 0 00 Tawa Flat
+V-- - 174e51 41s10 0 00 Tawa Flat Town District
+N-- - 170e59 44s53 0 00 Tawai
+N-- - 169e32 46s28 0 00 Tawanui
+N-- - 171e48 42s09 0 00 Tawhai
+N-- - 174e48 36s23 0 00 Tawharanui
+N-- - 169e17 45s23 0 00 Tawhiti
+N-- - 174e48 39s38 0 00 Tawhiwhi
+N-- - 174e21 36s11 0 00 Tawiti
+N-- - 171e19 42s26 0 00 Taylorville
+N-- - 173e51 35s20 0 00 Te Ahuahu
+N-- - 175e04 37s39 0 00 Te Akatea
+N-- - 174e52 37s41 0 00 Te Akau
+N-- - 167e43 45s25 0 00 Te Anau
+N-- - 174e51 38s15 0 00 Te Anga
+N-- - 174e37 36s10 0 00 Te Arai
+N-- - 178e22 37s38 0 00 Te Araroa
+N-- - 175e44 37s35 0 00 Te Aroha West
+N-- - 174e39 36s50 0 00 Te Atatu
+NX- - 174e39 36s50 0 00 Te Atatu
+D-- - 176e37.57 39s49.42 0 00 Te Aute
+N-- - 174e17 41s13 0 00 Te Awaiti
+N-- - 176e59 39s38 0 00 Te Awanga
+N-- - 172e40 43s40 0 00 Teddington
+N-- - 174e31 36s16 0 00 Te Hana
+N-- - 172e55 34s30 0 00 Te Hapua
+N-- - 176e36 39s08 0 00 Te Haroto
+N-- - 176e41 39s46 0 00 Te Hauke
+N-- - 175e19 37s31 0 00 Te Hoe
+N-- - 175e06 40s48 0 00 Te Horo
+N-- - 174e46 39s44 0 00 Te Huia
+N-- - 177e41 37s44 0 00 Te Kaha
+V-- - 175e09 37s24 0 00 Te Kaiwhata
+N-- - 172e57 34s39 0 00 Te Kao
+V-- - 170e30 44s01 0 00 Tekapo
+V-- - 177e24.02 38s58.07 0 00 Te Kapu
+N-- - 177e52 38s28 0 00 Te Karaka
+V-- - 177e52 38s28 0 00 Te Karaka Town District
+N-- - 175e09 37s24 0 00 Te Kauwhata
+V-- - 175e09 37s24 0 00 Te Kauwhata Town District
+N-- - 175e17 38s06 0 00 Te Kawa
+N-- - 171e30 42s38 0 00 Te Kinga
+N-- - 174e02 39s26 0 00 Te Kiri
+N-- - 174e50 37s19 0 00 Te Kohanga
+N-- - 173e56 36s02 0 00 Te Kopura
+N-- - 173e33 35s07 0 00 Te Koroa
+N-- - 175e09 37s45 0 00 Te Kowhai
+N-- - 171e39 41s50 0 00 Te Kuha
+N-- - 174e47 38s05 0 00 Te Maika
+N-- - 175e05 38s27 0 00 Te Mapara
+N-- - 174e52 37s53 0 00 Te Mata
+N-- - 175e18 38s03 0 00 Te Mawhai
+N-- - 175e33 37s49 0 00 Te Miro
+N-- - 171e08 44s04 0 00 Te Moana
+V-- - 177e02 39s04 0 00 Te Moari
+N-- - 172e28 43s33 0 00 Templeton
+N-- - 172e05 41s23 0 00 Te Namu
+N-- - 172e49 34s30 0 00 Te Paki
+N-- - 174e14 41s15 0 00 Te Pangu
+N-- - 174e53 37s57 0 00 Te Papatapu
+N-- - 173e55 35s04 0 00 Tepene
+N-- - 171e57 43s40 0 00 Te Pirita
+N-- - 176e41 39s15 0 00 Te Pohue
+N-- - 175e50 37s53 0 00 Te Poi
+N-- - 174e22 39s16 0 00 Te Popo
+N-- - 176e11 37s59 0 00 Te Pu
+N-- - 178e18 38s04 0 00 Te Puia
+V-- - 178e18 38s04 0 00 Te Puia Springs
+N-- - 176e05 37s41 0 00 Te Puna
+N-- - 175e34 37s35 0 00 Te Puninga
+V-- - 171e15 42s41 0 00 Teramakau
+N-- - 175e12 39s18 0 00 Te Ranga
+N-- - 175e13 37s45 0 00 Te Rapa
+V-- - 172e40 43s37 0 00 Te Rapaki-a-Te-Rangiwhakaputa
+N-- - 175e03 38s05 0 00 Te Rauamoa
+N-- - 173e54 41s04 0 00 Te Rawa
+N-- - 176e01 40s13 0 00 Te Rehunga
+N-- - 175e36 36s45 0 00 Te Rerenga
+N-- - 174e16 39s29 0 00 Te Roti
+N-- - 173e28 41s34 0 00 Te Rou
+N-- - 175e37 40s21 0 00 Terrace End
+V-- - 169e25 44s50 0 00 Terras
+N-- - 170e26 43s13 0 00 Te Taho
+N-- - 174e13 39s11 0 00 Te Tawa
+N-- - 167e41 46s10 0 00 Te Tua
+N-- - 167e42 46s15 0 00 Te Tumutu
+N-- - 174e58 37s50 0 00 Te Uku
+N-- - 169e21 45s37 0 00 Teviot
+V-- - 169e21 45s37 0 00 Teviot Settlement
+N-- - 167e40 46s12 0 00 Te Waewae
+V-- - 176e22 38s13 0 00 Te Wairoa
+N-- - 174e50 38s08 0 00 Te Waitere
+N-- - 175e42 38s09 0 00 Te Waotu
+N-- - 174e12 41s15 0 00 Te Weka
+N-- - 174e35 39s14 0 00 Te Wera
+N-- - 176e47 38s35 0 00 Te Whaiti
+N-- - 174e50 36s36 0 00 Te Whanga
+N-- - 175e57 38s10 0 00 Te Whetu
+N-- - 175e32 37s08 0 00 Thames
+N-- - 167e54 45s33 0 00 The Key
+V-- - 167e54 45s33 0 00 The Key of the Lakes
+N-- - 170e15 45s38 0 00 The Reefs
+N-- - 168e06 46s17 0 00 Thornbury
+N-- - 176e52 37s55 0 00 Thornton
+N-- - 172e52 41s17 0 00 Thorpe
+N-- - 175e30 40s24 0 00 Tiakitahuna
+N-- - 167e55 46s21 0 00 Tihaka
+N-- - 173e58 36s08 0 00 Tikinui
+N-- - 176e22 38s04 0 00 Tikitere
+N-- - 176e27 39s49 0 00 Tikokino
+N-- - 174e17 39s02 0 00 Tikorangi
+N-- - 171e15 44s24 0 00 Timaru
+V-- - 171e15 44s24 0 00 Timaru City
+N-- - 177e34 38s46 0 00 Tiniroto
+N-- - 173e30 41s16 0 00 Tinline
+N-- - 174e15 36s15 0 00 Tinopai
+N-- - 176e04 40s53 0 00 Tinui
+N-- - 171e43 43s55 0 00 Tinwald
+V-- - 171e43 43s55 0 00 Tinwald Town District
+N-- - 173e52 41s05 0 00 Tira-ora
+N-- - 175e45 37s59 0 00 Tirau
+N-- - 176e03 40s38 0 00 Tiraumea
+V-- - 169e39 46s16 0 00 Tiro
+N-- - 169e48 46s26 0 00 Tirohanga
+N-- - 175e39 37s26 0 00 Tirohia
+N-- - 168e09 45s51 0 00 Tiromaunga
+N-- - 171e23 42s02 0 00 Tiromoana
+N-- - 171e45 41s50 0 00 Tiroroa
+N-- - 168e24 46s27 0 00 Tisbury
+N-- - 174e50 41s06 0 00 Titahi Bay
+NX- - 174e49 36s56 0 00 Titirangi
+N-- - 174e40 36s56 0 00 Titirangi
+N-- - 168e46 46s29 0 00 Titiroa
+N-- - 174e03 35s44 0 00 Titoki
+N-- - 176e25 40s26 0 00 Ti-tree Point
+N-- - 168e31 46s24 0 00 Toa
+N-- - 177e30 38s08 0 00 Toatoa
+N-- - 169e39 46s16 0 00 Toiro
+N-- - 175e46 38s58 0 00 Tokaanu
+V-- - 175e56 39s00 0 00 Tokaanu Junction
+N-- - 168e56 46s34 0 00 Tokanui
+N-- - 170e39 44s57 0 00 Tokarahi
+N-- - 169e48 46s25 0 00 Tokata
+N-- - 173e58 36s03 0 00 Tokatoka
+N-- - 175e01 38s56 0 00 Tokirima
+N-- - 174e24 39s20 0 00 Toko
+N-- - 170e00 46s08 0 00 Tokoiti
+N-- - 178e18 38s08 0 00 Tokomaru
+N-- - 175e30 40s28 0 00 Tokomaru
+V-- - 178e18 38s08 0 00 Tokomaru Bay
+V-- - 175e01 38s56 0 00 Tokorima
+N-- - 175e52 38s14 0 00 Tokoroa
+N-- - 178e18 38s22 0 00 Tolaga Bay
+V-- - 170e33 45s54 0 00 Tomahawk
+N-- - 176e52 39s38 0 00 Tomoana
+N-- - 174e36 38s48 0 00 Tongaporutu
+N-- - 175e39 39s02 0 00 Tongariro
+V-- - 175e56 39s00 0 00 Tongariro Bridge
+N-- - 174e28 36s13 0 00 Topuni
+N-- - 174e45 36s42 0 00 Torbay
+V-- - 171e51 41s38 0 00 Torea
+N-- - 175e25 37s21 0 00 Torehape
+N-- - 177e30 37s57 0 00 Torere
+N-- - 173e08 42s54 0 00 Tormore
+N-- - 170e52 45s08 0 00 Totara
+N-- - 171e37 42s18 0 00 Totara Flat
+N-- - 173e43 35s02 0 00 Totara North
+N-- - 173e00 40s49 0 00 Totaranui
+V-- - 170e52 45s08 0 00 Totaratahi
+N-- - 174e08 35s29 0 00 Towai
+N-- - 170e09 45s49 0 00 Traquair
+N-- - 175e02 41s08 0 00 Trentham
+N-- - 175e28 36s18 0 00 Tryphena
+N-- - 172e39 43s20 0 00 Tuahiwi
+N-- - 177e10 38s49 0 00 Tuai
+N-- - 174e57 37s16 0 00 Tuakau
+V-- - 174e57 37s16 0 00 Tuakau Town District
+N-- - 173e57 41s26 0 00 Tuamarina
+V-- - 173e57 41s26 0 00 Tuamarino
+V-- - 169e38 45s57 0 00 Tuapeka Flat
+N-- - 169e31 46s01 0 00 Tuapeka Mouth
+N-- - 169e33 45s56 0 00 Tuapeka West
+N-- - 167e41 46s08 0 00 Tuatapere
+N-- - 169e52 46s15 0 00 Tuatara
+N-- - 177e31 39s02 0 00 Tuhara
+N-- - 173e57 35s24 0 00 Tuhipa
+N-- - 175e10 38s45 0 00 Tuhua
+N-- - 172e44 41s32 0 00 Tui
+N-- - 173e55 39s15 0 00 Tumahu
+N-- - 174e18 39s16 0 00 Tuna
+N-- - 178e25 37s56 0 00 Tuparoa
+N-- - 176w48 43s45 0 00 Tupuangi
+N-- - 175e13 40s02 0 00 Turakina
+N-- - 175e13 40s03 0 00 Turakina South
+N-- - 175e56 39s00 0 00 Turangi
+N-- - 174e27 35s46 0 00 Turiapua
+N-- - 177e25 39s01 0 00 Turiroa
+N-- - 171e18 42s44 0 00 Turiwhate
+V-- - 171e18 42s44 0 00 Turiwhati
+N-- - 175e34 37s14 0 00 Turua
+N-- - 168e25 46s15 0 00 Tussock Creek
+N-- - 172e28 41s49 0 00 Tutaki
+N-- - 173e39 35s39 0 00 Tutamoe
+N-- - 173e31 35s16 0 00 Tutekehua
+N-- - 176e52 39s12 0 00 Tutira
+N-- - 174e32 35s36 0 00 Tutukaka
+N-- - 168e50 46s16 0 00 Tuturau
+N-- - 174e32 39s19 0 00 Tututawa
+N-- - 174e14 39s17 0 00 Uia
+N-- - 173e35 35s17 0 00 Umawera
+N-- - 172e58 41s05 0 00 Umukuri
+N-- - 175e58 40s00 0 00 Umutoi
+N-- - 173e35 41s54 0 00 Upcot
+N-- - 175e08 39s52 0 00 Upokongaro
+N-- - 175e13 39s47 0 00 Upokonui
+N-- - 175e09 39s45 0 00 Upokopoito
+N-- - 173e53 39s19 0 00 Upper Kahui
+N-- - 173e00 41s16 0 00 Upper Moutere
+N-- - 176e15 37s46 0 00 Upper Papamoa
+N-- - 171e19 42s22 0 00 Upper Rewanui
+N-- - 175e12 39s12 0 00 Upper Ruatiti
+N-- - 168e43 44s50 0 00 Upper Shotover
+N-- - 172e50 41s02 0 00 Upper Takaka
+D-- - 175e48.40 40s54.25 0 00 Upper Tauheru
+N-- - 177e27 38s03 0 00 Upper Waiawa
+N-- - 174e40 36s33 0 00 Upper Waiwera
+N-- - 174e23 39s00 0 00 Urenui
+N-- - 174e32.13 35s50.29 0 00 Urquharts Bay
+N-- - 171e45 43s43 0 00 Urrall
+N-- - 169e42 46s05 0 00 Ururua
+N-- - 174e32 38s57 0 00 Uruti
+N-- - 172e49 40s59 0 00 Uruwhenua
+N-- - 173e41 35s21 0 00 Utakura
+N-- - 175e51 39s44 0 00 Utiku
+N-- - 175e56 40s01 0 00 Utuwai
+N-- - 170e53 44s55 0 00 Uxbridge
+N-- - 171e29 43s46 0 00 Valetta
+N-- - 169e02 46s18 0 00 Venlaw
+N-- - 173e25 35s09 0 00 Victoria Valley
+N-- - 172e02 43s24 0 00 Waddington
+N-- - 174e46 41s16 0 00 Wadestown
+N-- - 175e14 37s22 0 00 Waerenga
+N-- - 177e56 38s36 0 00 Waerengaahika
+N-- - 177e46 38s41 0 00 Waerengaokuri
+N-- - 175e46 37s46 0 00 Waharoa
+N-- - 170e48 45s16 0 00 Waianakarua
+N-- - 168e16 46s18 0 00 Waianiwa
+N-- - 170e56 45s06 0 00 Waiareka Junction
+N-- - 171e05 44s41 0 00 Waiariari
+N-- - 174e35 36s56 0 00 Waiatarua
+N-- - 168e46 43s59 0 00 Waiatoto
+V-- - 170e11 43s24 0 00 Waiau
+N-- - 173e03 42s39 0 00 Waiau
+N-- - 174e45 37s08 0 00 Waiau Pa
+N-- - 174e14 35s20 0 00 Waihaha
+N-- - 170e55 44s48 0 00 Waihao Downs
+N-- - 170e56 44s48 0 00 Waihao Forks
+N-- - 170e49 44s45 0 00 Waihaorunga
+N-- - 175e04 39s39 0 00 Waihapai
+V-- - 173e13 34s56 0 00 Waiharara
+N-- - 173e13 34s56 0 00 Waiharera
+N-- - 177e55 37s37 0 00 Waihau Bay
+N-- - 170e33 45s19 0 00 Waihemo
+N-- - 175e50 37s23 0 00 Waihi
+N-- - 175e56 37s24 0 00 Waihi Beach
+N-- - 167e42 46s14 0 00 Waihoaka
+V-- - 170e11 43s24 0 00 Waiho Gorge
+N-- - 170e06 46s02 0 00 Waihola
+N-- - 173e44 41s32 0 00 Waihopai
+N-- - 173e05 34s46 0 00 Waihopo
+N-- - 175e40 37s35 0 00 Waihou
+N-- - 173e00 41s26 0 00 Wai-iti
+N-- - 168e51 45s44 0 00 Waikaia
+N-- - 169e01 45s55 0 00 Waikaka
+N-- - 173e54 41s26 0 00 Waikakaho
+N-- - 175e04 40s53 0 00 Waikanae
+N-- - 176w42 43s49 0 00 Waikanai
+N-- - 174e15 35s20 0 00 Waikare
+N-- - 177e07 38s48 0 00 Waikaremoana
+N-- - 172e41 42s58 0 00 Waikari
+N-- - 170e53 44s02 0 00 Waikarua
+N-- - 174e03 41s16 0 00 Waikawa
+N-- - 169e08 46s38 0 00 Waikawa
+N-- - 174e40 38s28 0 00 Waikawau
+N-- - 174e14 35s57 0 00 Waikiekie
+N-- - 175e46 37s25 0 00 Waikino
+N-- - 168e20 46s23 0 00 Waikiwi
+N-- - 177e47 38s24 0 00 Waikohu
+N-- - 169e09 46s01 0 00 Waikoikoi
+N-- - 177e50 39s04 0 00 Waikokopu
+N-- - 174e59 36s55 0 00 Waikopua
+V-- - 174e30 36s45 0 00 Waikoukou
+N-- - 167e59.30 46s06 0 00 Waikouro
+N-- - 169e53 43s27 0 00 Waikowhai
+N-- - 172e41 43s18 0 00 Waikuku
+N-- - 172e43 43s17 0 00 Waikuku Beach
+N-- - 173e35 35s29 0 00 Waima
+N-- - 168e49 46s31 0 00 Waimahaka
+N-- - 173e29 35s33 0 00 Waimamaku
+N-- - 177e05 38s09 0 00 Waimana
+N-- - 171e46 41s43 0 00 Waimangaroa
+N-- - 176e23 38s17 0 00 Waimangu
+N-- - 176e59 39s48 0 00 Waimarama
+N-- - 171e56 41s31 0 00 Waimarie
+N-- - 175e52 37s27 0 00 Waimata
+N-- - 173e53 35s19 0 00 Waimate North
+N-- - 173e43 35s37 0 00 Waimatenui
+N-- - 168e10 46s18 0 00 Waimatuku
+V-- - 174e30 36s45 0 00 Waimauki
+N-- - 174e30 36s45 0 00 Waimauku
+N-- - 171e42 42s14 0 00 Waimaunga
+V-- - 171e07 42s40 0 00 Waimea
+N-- - 173e06 41s20 0 00 Waimea West
+N-- - 175e19 38s37 0 00 Waimiha
+N-- - 176e14 40s27 0 00 Waimiro
+N-- - 168e48 46s07 0 00 Waimumu
+N-- - 175e00 37s41 0 00 Waingaro
+V-- - 174e13 39s06 0 00 Waingona
+N-- - 171e20 42s46 0 00 Wainihinihi
+N-- - 172e54 43s49 0 00 Wainui
+N-- - 178e05 38s41 0 00 Wainui
+V-- - 178e05 38s41 0 00 Wainui Beach
+V-- - 178e05 38s41 0 00 Wainui Farm
+V-- - 176e32.45 40s29.58 0 00 Wainuio
+N-- - 174e57 41s16 0 00 Wainuiomata
+N-- - 176e49 39s34 0 00 Waiohiki
+N-- - 176e17 40s28 0 00 Waione
+V-- - 174e13 39s06 0 00 Waiongana
+N-- - 174e13 39s06 0 00 Waiongona
+V-- - 170e56 45s06 0 00 Waioreka Junction
+N-- - 173e41 42s24 0 00 Waioruarangi
+V-- - 177e13 38s00 0 00 Waiotahe
+N-- - 177e13 38s00 0 00 Waiotahi
+N-- - 176e22 38s21 0 00 Waiotapu
+N-- - 173e26 35s33 0 00 Waiotemarama
+N-- - 174e12 35s56 0 00 Waiotira
+N-- - 174e13 35s31 0 00 Waiotu
+N-- - 175e40 39s29 0 00 Waiouru
+N-- - 169e15 46s07 0 00 Waipahi
+N-- - 176e37 39s06 0 00 Waipai
+N-- - 177e54 38s32 0 00 Waipaoa
+N-- - 173e55 35s12 0 00 Waipapa
+N-- - 173e14 35s02 0 00 Waipapakauri
+N-- - 172e45 43s04 0 00 Waipara
+N-- - 174e28 35s42 0 00 Waiparera
+N-- - 176e17 40s21 0 00 Waipatiki
+D-- - 175e30.55 41s24.44 0 00 Waipawa
+V-- - 172e45 43s04 0 00 Waipera
+N-- - 170e10 45s11 0 00 Waipiata
+N-- - 174e40 37s13 0 00 Waipipi
+N-- - 178e20 38s01 0 00 Waipiro
+V-- - 178e20 38s01 0 00 Waipiro Bay
+N-- - 169e53 45s50 0 00 Waipori
+N-- - 169e59 45s55 0 00 Waipori Falls
+N-- - 168e46 45s51 0 00 Waipounamu
+N-- - 174e27 35s59 0 00 Waipu
+N-- - 174e31 36s02 0 00 Waipu Cove
+N-- - 174e16 39s16 0 00 Waipuku
+N-- - 175e18 37s23 0 00 Waipuna
+D-- - 176e57.09 39s36.12 0 00 Waipureko
+N-- - 176e06 38s38 0 00 Wairakei
+N-- - 173e45 41s02 0 00 Wairangi
+N-- - 177e20 38s18 0 00 Wairata
+N-- - 173e32 41s34 0 00 Wairau Valley
+N-- - 175e01 38s31 0 00 Wairere Falls
+N-- - 168e02 46s00 0 00 Wairio
+N-- - 177e22 39s02 0 00 Wairoa
+N-- - 167e36 45s59 0 00 Wairoto
+N-- - 169e20 46s10 0 00 Wairuna
+N-- - 170e42 45s32 0 00 Wairunga
+N-- - 174e50 38s50 0 00 Waitaanga
+N-- - 176e05 38s47 0 00 Waitahanui
+N-- - 174e57 39s45 0 00 Waitahinga
+N-- - 169e46 45s59 0 00 Waitahuna
+N-- - 169e38 46s01 0 00 Waitahuna West
+N-- - 173e56 40s46 0 00 Waitai
+N-- - 178e16 37s56 0 00 Waitakaro
+N-- - 175e23 37s15 0 00 Waitakaruru
+N-- - 174e33 36s51 0 00 Waitakere
+N-- - 171e06 44s56 0 00 Waitaki
+N-- - 168e42 46s11 0 00 Waitane
+N-- - 174e05 35s15 0 00 Waitangi
+N-- - 176w32 43s57 0 00 Waitangi
+N-- - 176w49 43s47 0 00 Waitangi West
+N-- - 174e52 38s23 0 00 Waitanguru
+D-- - 177e47.56 39s03.33 0 00 Waitaniwha
+N-- - 174e15 38s55.30 0 00 Waitara
+N-- - 175e12 40s33 0 00 Waitarere
+N-- - 170e34 45s45 0 00 Waitati
+N-- - 171e12 44s18 0 00 Waitawa
+N-- - 173e54 39s29 0 00 Waiteika
+N-- - 175e46 37s23 0 00 Waitekauri
+N-- - 169e40 46s17 0 00 Waitepeka
+N-- - 175e18 37s27 0 00 Waiterimu
+N-- - 175e02 37s50 0 00 Waitetuna
+V-- - 174e58 38s42 0 00 Waitewhena
+N-- - 174e58 38s42 0 00 Waitewhenua
+N-- - 175e38 37s37 0 00 Waitoa
+N-- - 171e11 44s13 0 00 Waitohi Flat
+N-- - 174e26 38s59 0 00 Waitoitoi
+V-- - 175e06 38s16 0 00 Waitomo
+N-- - 175e06 38s16 0 00 Waitomo Caves
+N-- - 174e44 39s48 0 00 Waitotara
+N-- - 168e38 46s25 0 00 Waituna
+N-- - 175e37 40s03 0 00 Waituna West
+N-- - 174e45 37s15 0 00 Waiuku
+V-- - 174e45 37s15 0 00 Waiuku Town District
+N-- - 171e49 42s18 0 00 Waiuta
+N-- - 174e43 36s33 0 00 Waiwera
+V-- - 169e30 46s13 0 00 Waiwera
+N-- - 169e30 46s13 0 00 Waiwera South
+V-- - 174e36 36s22 0 00 Waiwhio
+N-- - 174e36 36s22 0 00 Waiwhiu
+V-- - 168e51 45s44 0 00 Wakaia
+N-- - 171e49 43s58 0 00 Wakanui
+N-- - 167e48 46s22 0 00 Wakapatu
+N-- - 173e21.27 41s12.23 0 00 Wakapuaka
+N-- - 176e16 39s47 0 00 Wakarara
+V-- - 177e07 38s48 0 00 Wakaremoana
+N-- - 173e15 41s18 0 00 Wakatu
+N-- - 173e03 41s24 0 00 Wakefield
+N-- - 168e17 46s20 0 00 Wallacetown
+N-- - 175e03 41s08 0 00 Wallaceville
+N-- - 176e36 40s13 0 00 Wallingford
+N-- - 171e18 42s28 0 00 Wallsend
+N-- - 175e41 37s44 0 00 Walton
+V-- - 169e09 44s42 0 00 Wanaka
+V-- - 175e10 40s01 0 00 Wangaehu
+N-- - 169e55 46s17 0 00 Wangaloa
+V-- - 173e32 41s10 0 00 Wangamoa
+N-- - 175e03 39s56 0 00 Wanganui
+V-- - 175e24 36s14 0 00 Wangapara
+N-- - 172e39 41s25 0 00 Wangapeka
+N-- - 172e07 41s21 0 00 Wangapeka Valley
+V-- - 177e57 39s05 0 00 Wangawai
+N-- - 176e32 40s08 0 00 Wanstead
+V-- - 175e42 38s09 0 00 Waotu
+N-- - 174e08 41s50 0 00 Ward
+N-- - 173e49 39s14 0 00 Warea
+N-- - 169e35 46s15 0 00 Warepa
+N-- - 174e40 36s24 0 00 Warkworth
+V-- - 174e40 36s24 0 00 Warkworth Town District
+N-- - 174e18 35s35 0 00 Waro
+V-- - 175e40 39s29 0 00 Warouru
+N-- - 170e35 45s43 0 00 Warrington
+N-- - 172e14 42s08 0 00 Warwick Junction
+N-- - 171e14 44s21 0 00 Washdyke
+V-- - 170e25 43s17 0 00 Wataroa
+N-- - 171e45 44s04 0 00 Waterton
+N-- - 174e38 39s46 0 00 Waverley
+V-- - 174e38 39s46 0 00 Waverley Town District
+N-- - 174e34 36s20 0 00 Wayby
+N-- - 176e19 40s24 0 00 Weber
+N-- - 170e01 45s02 0 00 Wedderburn
+N-- - 172e24 43s35 0 00 Weedons
+N-- - 170e01 43s28 0 00 Weheka
+N-- - 170e11 45s44 0 00 Wehenga
+N-- - 173e33 35s34 0 00 Wekaweka
+N-- - 173e51 41s47 0 00 Welds Hill
+NC- - 174e47 41s18 0 00 Wellington
+N-- - 174e31 36s17 0 00 Wellsford
+V-- - 174e31 36s17 0 00 Welsford
+N-- - 168e49 45s53 0 00 Wendon
+N-- - 168e44 45s45 0 00 Wendonside
+N-- - 168e58 45s53 0 00 Wendon Valley
+NX- - 168e19.45 46s35.50 0 00 West End
+N-- - 171e37 43s50 0 00 Westerfield
+NX- - 174e44 36s52 0 00 Western Springs
+N-- - 172e23 43s21 0 00 West Eyreton
+NX- - 174e51 36s57 0 00 Westfield
+N-- - 172e04 43s56 0 00 West Kyle
+N-- - 174e45.09 36s47.06 0 00 Westlake
+N-- - 172e22 43s31 0 00 West Melton
+N-- - 175e00 39s54 0 00 Westmere
+N-- - 170e55 45s05 0 00 Weston
+N-- - 168e19 46s22 0 00 West Plains
+N-- - 171e34 41s45 0 00 Westport
+N-- - 176e53 39s29 0 00 Westshore
+N-- - 172e35 43s22 0 00 Wetheral
+N-- - 174e52 37s02 0 00 Weymouth
+N-- - 178e18 37s43 0 00 Whakaangiangi
+V-- - 168e51 45s44 0 00 Whakaea
+N-- - 175e04 39s06 0 00 Whakahoro
+N-- - 175e09 39s46 0 00 Whakaihuwaka
+N-- - 177e36 39s02 0 00 Whakaki
+N-- - 174e26 39s38 0 00 Whakamara
+N-- - 176e00 37s44 0 00 Whakamarama
+N-- - 174e17 35s32 0 00 Whakapara
+N-- - 174e15 36s09 0 00 Whakapirau
+N-- - 175e40 40s20 0 00 Whakarongo
+N-- - 174e02 41s01 0 00 Whakatahuri
+N-- - 176e14 40s52 0 00 Whakataki
+N-- - 177e00 37s59 0 00 Whakatane
+N-- - 175e07 36s57 0 00 Whakatiri
+V-- - 173e17 41s17 0 00 Whakatu
+N-- - 176e53 39s36 0 00 Whakatu
+N-- - 176w35 43s42 0 00 Whakekauri
+N-- - 174e27 35s30 0 00 Whananaki
+N-- - 174e27 35s31 0 00 Whananaki South
+N-- - 175e10 40s01 0 00 Whangaehu
+N-- - 174e10 41s17 0 00 Whangakoko
+N-- - 175e07 37s22 0 00 Whangamarino
+N-- - 175e52 37s12 0 00 Whangamata
+N-- - 173e32 41s10 0 00 Whangamoa
+N-- - 174e44 39s09 0 00 Whangamomona
+N-- - 174e18 35s15 0 00 Whangamumu
+N-- - 175e24 36s14 0 00 Whangapara
+N-- - 174e46 36s38 0 00 Whangaparaoa
+N-- - 173e13 35s21 0 00 Whangape
+N-- - 175e37 36s43 0 00 Whangapoua
+N-- - 178e13 38s34 0 00 Whangara
+N-- - 174e58 37s15 0 00 Whangarata
+N-- - 174e30 35s49 0 00 Whangarei Heads
+N-- - 173e45 35s03 0 00 Whangaroa
+V-- - 174e21 35s23 0 00 Whangaruru
+N-- - 174e21 35s21 0 00 Whangaruru North
+N-- - 174e21 35s23 0 00 Whangaruru South
+N-- - 174e46 36s18 0 00 Whangateau
+N-- - 177e57 39s05 0 00 Whangawehi
+N-- - 174e06 41s55 0 00 Wharanui
+N-- - 176e03 40s56 0 00 Whareama
+N-- - 176w29 43s56 0 00 Whareama
+N-- - 174e25 36s19 0 00 Wharehine
+N-- - 168e46 44s57 0 00 Wharehuanui
+N-- - 174e20 39s18 0 00 Wharehuia
+N-- - 177e30 38s33 0 00 Wharekopae
+N-- - 170e26 44s42 0 00 Wharekuri
+N-- - 174e40 38s28 0 00 Whareorino
+N-- - 176e20 38s24 0 00 Wharepaina
+N-- - 174e26 36s43 0 00 Wharepapa
+N-- - 175e38 37s16 0 00 Wharepoa
+N-- - 178e22 37s58 0 00 Whareponga
+N-- - 175e27 38s08 0 00 Wharepuhunga
+N-- - 174e16 39s37 0 00 Whareroa
+N-- - 170e31 44s42 0 00 Wharua
+N-- - 173e51 41s14 0 00 Whatanihi
+N-- - 170e25 43s17 0 00 Whataroa
+N-- - 177e50 38s23 0 00 Whatatutu
+N-- - 175e09 37s48 0 00 Whatawhata
+N-- - 173e41 35s45 0 00 Whatoro
+V-- - 176e30 40s02 0 00 Whatuma
+V-- - 171e45 44s01 0 00 Wheatston
+N-- - 171e45 44s01 0 00 Wheatstone
+N-- - 175e46 36s54 0 00 Whenuakite
+N-- - 169e38 45s57 0 00 Whenuakoa
+N-- - 174e39 36s46 0 00 Whenuapai
+N-- - 168e39 45s43 0 00 Whenuatonga
+N-- - 173e28 35s29 0 00 Whirinaki
+V-- - 175e06 39s58 0 00 Whiritoa
+V-- - 174e33 36s51 0 00 Whitakere
+N-- - 171e54 43s28 0 00 Whitecliffs
+N-- - 175e34 37s53 0 00 Whitehall
+N-- - 174e28 39s45.30 0 00 White Tank
+N-- - 174e58 36s56 0 00 Whitford
+N-- - 175e42 36s50 0 00 Whitianga
+N-- - 170e53 45s04 0 00 Whitstone
+N-- - 172e33 43s33 0 00 Wigram
+N-- - 171e07 44s47 0 00 Willowbridge
+N-- - 171e41 43s59 0 00 Willowby
+N-- - 176e31 40s28 0 00 Wimbledon
+N-- - 171e17 44s12 0 00 Winchester
+N-- - 171e43 43s50 0 00 Winchmore
+N-- - 171e37 43s59 0 00 Windermere
+N-- - 170e48 45s00 0 00 Windsor
+N-- - 171e41 43s30 0 00 Windwhistle
+N-- - 170e23 45s53 0 00 Wingatui
+N-- - 170e50 44s00 0 00 Winscombe
+N-- - 171e39 43s57 0 00 Winslow
+V-- - 168e16 46s20 0 00 Winton
+N-- - 168e20 46s09 0 00 Winton
+N-- - 174e53 36s59 0 00 Wiri
+N-- - 175e06 39s58 0 00 Wiritoa
+N-- - 173e55 41s30 0 00 Woodbourne
+N-- - 171e12 44s02 0 00 Woodbury
+N-- - 174e34 36s27 0 00 Woodcocks
+N-- - 168e23 46s28 0 00 Woodend
+N-- - 172e40 43s19 0 00 Woodend
+N-- - 174e19 35s44 0 00 Woodhill
+N-- - 174e26 36s45 0 00 Woodhill
+N-- - 168e33 46s22 0 00 Woodlands
+N-- - 174e55 37s32 0 00 Woodleigh
+N-- - 170e11 45s52 0 00 Woodside
+N-- - 175e24 41s04 0 00 Woodside
+N-- - 171e00 42s46 0 00 Woodstock
+N-- - 172e41 43s33 0 00 Woolston
+N-- - 168e06 46s01 0 00 Wreys Bush
+N-- - 168e13 46s19 0 00 Wrights Bush
+N-- - 170e19 45s51 0 00 Wylies Crossing
+V-- - 171e43 43s50 0 00 Wynchmore
+N-- - 168e51 46s20 0 00 Wyndham
+V-- - 168e51 46s20 0 00 Wyndham Town District
+N-- - 172e31 43s31 0 00 Yaldhurst

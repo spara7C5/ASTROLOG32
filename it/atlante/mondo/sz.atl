@@ -1,0 +1,3692 @@
+@0500
+
+; Astrolog32 country file for Switzerland
+
+; This file was created by Antonio Ramos on 27 July 2004 using source data
+; provided by NGA GEOnet Names Server at http://earth-info.nga.mil/gns/html.
+; It can be copied without restriction.
+
+; This file is provided "as is", without warranty of any kind, either express
+; or implied. In no event shall the authors or data providers be liable for
+; any claim, damages or other liability, arising from the use of this file.
+
+01 Aargau
+02 Ausserrhoden
+03 Basel-Landschaft
+04 Basel-Stadt
+05 Bern
+06 Fribourg
+07 Geneve
+08 Glarus
+09 Graubunden
+10 Innerrhoden
+11 Luzern
+12 Neuchatel
+13 Nidwalden
+14 Obwalden
+15 Sankt Gallen
+16 Schaffhausen
+17 Schwyz
+18 Solothurn
+19 Thurgau
+20 Ticino
+21 Uri
+22 Valais
+23 Vaud
+24 Zug
+25 Zurich
+26 Jura
+
+%%
+
+N-- - 8e54 47n29 0 00 Aadorf
+NA3 16500 8e03 47n23 0 01 Aarau
+VA3 16500 8e03 47n23 0 01 Aaray
+N-- - 7e17 47n03 0 00 Aarberg
+N-- 5700 7e54 47n19 0 01 Aarburg
+N-- - 7e45 47n14 0 00 Aarwangen
+N-- - 8e46 47n20 0 00 Aathal
+N-- - 7e18 46n34 0 00 Ablandschen
+N-- - 9e19 47n25 0 00 Abtwil
+V-- - 9e19 47n25 0 00 Abtwyl
+N-- - 8e17 47n35 0 00 Acheberg
+N-- - 7e52 46n14 0 00 Ackersand
+N-- - 8e50 46n38 0 00 Acla
+N-- - 9e38 46n42 0 00 Aclas Dafora
+N-- - 8e50 46n32 0 00 Acquacalda
+N-- - 8e57 46n27 0 00 Acquarossa
+N-- - 7e15 46n31 0 00 Adannes
+N-- - 7e34 46n29 0 00 Adelboden
+N-- - 8e22 47n04 0 00 Adligenswil
+N-- - 8e31 47n19 0 00 Adliswil
+N-- - 8e11 46n50 0 00 Aecherli
+N-- - 7e21 46n51 0 00 Aeckenmatt
+N-- - 7e36 47n18 0 00 Aedermannsdorf
+N-- - 7e58 46n46 0 00 Aelgau
+V-- - 7e58 46n46 0 00 Aelgauli
+V-- - 8e14 46n48 0 00 Aelggi Alm
+N-- - 8e14 46n48 0 00 Aelggi Alp
+V-- - 8e09 46n24 0 00 Aernen
+N-- - 7e36 47n28 0 00 Aesch
+N-- - 8e15 47n16 0 00 Aesch
+N-- - 8e48 46n53 0 00 Aesch
+N-- - 7e46 46n54 0 00 Aeschau
+N-- - 9e25 47n17 0 00 Aescher
+N-- - 7e42 46n39 0 00 Aeschi
+N-- - 7e42 46n43 0 00 Aeschlen
+N-- - 7e16 46n47 0 00 Aeschlenberg
+N-- - 8e22 47n11 0 00 Aettenschwil
+N-- - 8e29 47n16 0 00 Aeugst
+N-- - 9e02 47n31 0 00 Affeltrangen
+N-- - 7e44 47n04 0 00 Affoltern
+N-- - 8e27 47n17 0 00 Affoltern
+V-- - 8e27 47n17 0 00 Affoltern am Albis
+N-- - 7e40 46n18 0 00 Agarn
+V-- - 8e35 47n08 0 00 Ageri
+N-- - 7e23 46n12 0 00 Agettes
+N-- - 6e31 46n43 0 00 Agiez
+N-- - 8e51 45n59 0 00 Agno
+N-- - 8e55 45n58 0 00 Agra
+N-- - 6e58 46n19 0 00 Aigle
+V-- - 10e02 46n20 0 00 Aino
+V-- - 10e02 46n20 0 00 Aion
+V-- - 8e36 46n32 0 00 Airlonia
+V-- - 8e36 46n32 0 00 Airola
+N-- - 8e36 46n32 0 00 Airolo
+N-- - 8e00 47n09 0 00 Alberswil
+N-- - 7e04 46n31 0 00 Albeuve
+N-- - 7e38 46n21 0 00 Albinen
+N-- - 7e19 46n51 0 00 Albligen
+N-- - 7e38 47n07 0 00 Alchenstorf
+N-- - 8e28 46n29 0 00 All'Acqua
+V-- - 8e28 46n29 0 00 All'Acqua Ospizio
+N-- - 6e24 46n28 0 00 Allaman
+N-- - 7e08 47n26 0 00 Alle
+N-- - 7e31 46n54 0 00 Allmendingen
+N-- - 7e35 46n44 0 00 Allmendingen
+N-- - 7e32 47n33 0 00 Allschwil
+V-- - 7e57 46n06 0 00 Almagell
+N-- - 10e03 46n18 0 00 Alpe Braita
+V-- - 9e02 46n22 0 00 Alpe Cava
+V-- - 7e23 46n03 0 00 Alpe de la Barma
+N-- - 8e50 46n22 0 00 Alpe della Costa
+V-- - 7e19 46n08 0 00 Alpe de Noveli
+V-- - 7e16 46n04 0 00 Alpe de Peryeire
+V-- - 7e18 46n07 0 00 Alpe de Tortin
+N-- - 9e11 46n21 0 00 Alpe di Boggio
+N-- - 9e02 46n22 0 00 Alpe di Cava
+N-- - 9e13 46n24 0 00 Alpe di Cortas
+N-- - 9e15 46n21 0 00 Alpe di Crastera
+V-- - 9e50 46n39 0 00 Alpe dil Chant
+N-- - 8e41 46n09 0 00 Alpe di Naccio
+N-- - 9e01 46n29 0 00 Alpe di Quarnajo
+N-- - 9e02 46n27 0 00 Alpe di Scieru
+N-- - 9e10 46n24 0 00 Alpe di Trescolmen
+V-- - 7e52 46n12 0 00 Alpe Hannig
+N-- - 8e30 46n15 0 00 Alpe Porcarescio
+N-- - 9e03 46n25 0 00 Alpe Pulgabio
+V-- - 9e01 46n29 0 00 Alpe Quarnaro
+N-- - 8e41 46n33 0 00 Alpe Ritom
+V-- - 9e31 46n33 0 00 Alpe Schmorras
+N-- - 8e30 46n15 0 00 Alpe Sfille
+V-- - 10e02 46n52 0 00 Alpe Silvretta
+V-- - 9e10 46n24 0 00 Alpe Trescolmine
+N-- - 10e02 46n23 0 00 Alp Grum
+N-- - 8e36 46n25 0 00 Al Piano
+V-- - 9e10 46n24 0 00 Alpi di Trescolmine
+N-- - 8e01 46n36 0 00 Alpiglen
+N-- - 7e50 46n44 0 00 Alpiglen
+N-- - 10e13 46n48 0 00 Alp Laret-Dadaint
+N-- - 8e16 46n57 0 00 Alpnach
+N-- - 8e17 46n58 0 00 Alpnachstad
+N-- - 9e31 46n33 0 00 Alp Schmorras
+V-- - 9e50 46n33 0 00 Alp Spinas
+V-- - 8e43 47n05 0 00 Alptal
+N-- - 8e43 47n05 0 00 Alpthal
+V-- - 9e12 46n37 0 00 Alp Vallatsch
+V-- - 9e19 46n58 0 00 Alp Valtnov
+N-- - 8e57 46n09 0 00 Al Sasso
+N-- - 8e41 46n31 0 00 Altanca
+NA4 - 8e39 46n53 0 21 Altdorf
+N-- - 8e39 47n36 0 00 Alten
+N-- - 8e49 47n11 0 00 Altendorf
+N-- - 9e33 47n29 0 00 Altenrhein
+N-- - 7e16 46n48 0 00 Alterswil
+N-- - 9e09 47n37 0 00 Alterswilen
+N-- - 9e29 46n51 0 00 Alt-Felsberg
+V-- - 9e08 46n35 0 00 Alt Guraletsch
+N-- - 7e58 47n12 0 00 Altishofen
+V-- - 8e42 47n08 0 00 Altmatt
+N-- - 9e15 47n37 0 00 Altnau
+V-- - 8e39 47n36 0 00 Alton
+N-- - 9e17 47n11 0 00 Alt Sankt Johann
+N-- - 9e32 47n23 0 00 Altstatten
+N-- - 8e58 47n23 0 00 Alt Toggenburg
+VX- - 8e31 47n22 0 00 Alt-Wiedikon
+N-- - 9e38 46n41 0 00 Alvaneu
+V-- - 9e38 46n41 0 00 Alvaneubad
+V-- - 9e38 46n41 0 00 Alvaneu Dorf
+N-- - 9e33 46n41 0 00 Alvaschein
+N-- - 9e32 46n27 0 00 Am Bach
+N-- - 8e41 46n30 0 00 Ambri
+N-- - 9e08 47n08 0 00 Amden
+N-- - 9e18 47n32 0 00 Amriswil
+N-- - 7e35 46n43 0 00 Amsoldingen
+N-- - 8e40 46n46 0 00 Amsteg
+N-- - 9e26 46n36 0 00 Andeer
+V-- - 8e41 47n36 0 00 Andelfingen
+N-- - 8e36 46n38 0 00 Andermatt
+N-- - 9e07 46n47 0 00 Andest
+N-- - 9e16 47n26 0 00 Andwil
+N-- - 10e04 46n22 0 00 Angeli Custodi
+N-- - 8e52 46n26 0 00 Angone
+N-- - 6e13 46n17 0 00 Anieres
+N-- - 8e54 46n32 0 00 Anveuda
+N-- - 8e53 46n26 0 00 Anzonico
+NA4 - 9e24 47n20 0 10 Appenzell
+N-- - 6e26 46n33 0 00 Apples
+N-- - 7e19 46n12 0 00 Apro
+V-- - 7e19 46n12 0 00 Aproz
+N-- - 8e57 46n30 0 00 Aquila
+N-- - 8e50 46n16 0 00 Aquino
+V-- - 7e23 46n17 0 00 Arbas
+N-- - 7e23 46n17 0 00 Arbaz
+N-- - 9e03 46n12 0 00 Arbedo
+N-- - 9e26 47n31 0 00 Arbon
+N-- - 8e45 46n10 0 00 Arcegno
+N-- - 7e25 47n09 0 00 Arch
+N-- - 7e07 46n45 0 00 Arconciel
+N-- - 8e54 46n29 0 00 Ardet
+N-- - 10e12 46n47 0 00 Ardez
+N-- - 7e15 46n12 0 00 Ardon
+N-- - 8e56 46n54 0 00 Argseeli
+N-- - 7e46 47n31 0 00 Arisdorf
+N-- - 8e22 47n17 0 00 Aristau
+N-- - 7e37 47n29 0 00 Arlesheim
+N-- - 6e31 46n42 0 00 Arnex
+N-- - 7e39 46n56 0 00 Arni
+V-- - 8e15 46n49 0 00 Arni Alm
+N-- - 8e15 46n49 0 00 Arni Alp
+V-- - 8e05 46n48 0 00 Arni Alp
+N-- - 8e58 45n57 0 00 Arogno
+N-- - 7e29 46n02 0 00 Arolla
+N-- - 9e40 46n47 0 00 Arosa
+V-- - 9e40 46n47 0 00 Arosa Bahnhof
+N-- - 8e54 46n03 0 00 Arosio
+N-- - 9e31 46n55 0 00 Artaschiew
+N-- - 8e31 47n04 0 00 Arth
+N-- - 7e04 46n17 0 00 Arveyes
+N-- - 9e07 46n18 0 00 Arvigo
+N-- - 6e12 46n28 0 00 Arzier
+N-- - 8e30 46n27 0 00 Arzo
+N-- - 8e56 45n53 0 00 Arzo
+N-- - 9e48 46n57 0 00 Ascharina
+V-- - 7e16 46n47 0 00 Aschlenberg
+N-- - 8e46 46n09 0 00 Ascona
+N-- - 6e37 46n37 0 00 Assens
+N-- - 8e49 46n01 0 00 Astano
+N-- - 7e12 47n23 0 00 Asuel
+N-- - 6e51 46n31 0 00 Attalens
+N-- - 8e37 46n52 0 00 Attinghausen
+N-- - 7e36 47n14 0 00 Attiswil
+N-- - 7e39 47n33 0 00 Au
+N-- - 8e38 47n14 0 00 Au
+N-- - 8e57 47n23 0 00 Au
+N-- - 9e37 47n26 0 00 Au
+N-- - 6e24 46n29 0 00 Aubonne
+N-- - 8e08 47n25 0 00 Auenstein
+N-- - 8e14 46n43 0 00 Auf dem Stock
+N-- - 9e24 46n55 0 00 Auf der Hohe
+N-- - 9e07 46n22 0 00 Augio
+N-- - 7e43 47n32 0 00 Augst
+N-- - 6e51 46n48 0 00 Aumont
+N-- - 8e41 46n12 0 00 Auressio
+N-- - 8e42 46n14 0 00 Aurigeno
+N-- - 8e09 46n23 0 00 Ausserbinn
+N-- - 8e46 47n33 0 00 Ausserdinhard
+N-- - 8e42 47n08 0 00 Aussere Altmatt
+N-- - 9e26 46n33 0 00 Ausserferrera
+N-- - 9e21 46n41 0 00 Ausserglas
+NX- - 7e24 46n05 0 00 Ausserholligen
+N-- - 7e36 46n40 0 00 Ausser Latterbach
+NX- - 8e33 47n22 0 00 Aussersihl
+N-- - 7e01 46n44 0 00 Autigny
+N-- - 6e52 46n58 0 00 Auvernier
+N-- - 8e22 47n13 0 00 Auw
+VX- - 6e08 46n11 0 00 Aux Acacias
+N-- - 8e44 46n12 0 00 Avegno
+N-- - 7e03 46n53 0 00 Avenches
+N-- - 7e04 46n47 0 00 Avry
+V-- - 7e04 46n47 0 00 Avry-sur-Matran
+N-- - 8e37 46n59 0 00 Axenstein
+N-- - 7e25 46n17 0 00 Ayent
+N-- - 7e36 46n11 0 00 Ayer
+N-- - 8e31 47n12 0 00 Baar
+N-- - 8e44 47n12 0 00 Bach
+N-- - 8e32 47n30 0 00 Bachenbulach
+N-- - 7e34 46n38 0 00 Bachlen
+N-- - 8e26 47n31 0 00 Bachs
+N-- - 7e48 46n17 0 00 Bachtolen
+N-- 15700 8e18 47n28 0 01 Baden
+N-- - 9e30 47n00 0 00 Bad Ragaz
+V-- - 8e10 47n26 0 00 Bad Schinznach
+N-- - 7e17 46n40 0 00 Bad-Schwarzsee
+N-- - 7e13 46n05 0 00 Bagnes
+V-- - 6e25 46n44 0 00 Baillaigues
+V-- - 7e02 46n12 0 00 Bains de Lavey
+VA1 - 7e36 47n34 0 04 Bale
+N-- - 9e29 46n59 0 00 Balen
+N-- - 9e00 45n51 0 00 Balerna
+N-- - 9e36 47n25 0 00 Balgach
+N-- - 6e25 46n44 0 00 Ballaigues
+V-- - 9e42 46n39 0 00 Ballaluna
+N-- - 6e22 46n33 0 00 Ballens
+N-- - 8e19 47n09 0 00 Ballwil
+N-- - 8e05 46n45 0 00 Balm
+N-- - 7e26 47n06 0 00 Balm bei Messen
+N-- - 8e46 46n47 0 00 Balmenegg
+V-- - 7e41 47n19 0 00 Balstal
+N-- - 7e41 47n19 0 00 Balsthal
+N-- - 8e39 47n25 0 00 Baltenswil
+N-- - 7e52 46n18 0 00 Baltschieder
+N-- - 8e51 46n00 0 00 Banco
+N-- - 7e29 47n03 0 00 Bangerten
+N-- - 7e43 47n14 0 00 Bannwil
+N-- - 7e49 46n56 0 00 Barau
+N-- - 7e10 46n52 0 00 Barbereche
+N-- - 6e57 46n03 0 00 Barberine
+N-- - 8e51 47n20 0 00 Baretswil
+N-- - 7e31 47n01 0 00 Bariswil
+N-- - 7e38 46n08 0 00 Barma
+V-- - 6e50 46n09 0 00 Barmaz
+N-- - 6e50 46n09 0 00 Barme
+N-- - 7e28 47n23 0 00 Barschwil
+V-- - 7e28 47n23 0 00 Barschwil-Dorf
+N-- - 8e45 47n40 0 00 Basadingen
+NA1 - 7e36 47n34 0 04 Basel
+V-- - 7e43 47n32 0 00 Baselaugst
+V-- - 9e04 47n24 0 00 Basenheid
+VA1 - 7e36 47n34 0 04 Basilea
+VA1 - 7e36 47n34 0 04 Basle
+N-- - 7e14 47n21 0 00 Bassecourt
+N-- - 7e18 46n11 0 00 Basse-Nendaz
+N-- - 8e37 47n27 0 00 Bassersdorf
+N-- - 9e30 46n54 0 00 Batanja
+N-- - 7e32 47n07 0 00 Batterkinden
+N-- - 8e35 46n56 0 00 Bauen
+N-- - 6e32 46n47 0 00 Baulmes
+N-- - 8e52 47n22 0 00 Bauma
+V-- - 9e35 47n28 0 00 Bauried
+N-- - 9e35 47n28 0 00 Bauriet
+N-- - 6e34 46n41 0 00 Bavois
+N-- - 9e28 46n36 0 00 Bavugls
+N-- - 9e04 47n24 0 00 Bazenheid
+V-- - 7e47 46n42 0 00 Beatenbeig
+N-- - 7e47 46n42 0 00 Beatenberg
+N-- - 8e28 46n58 0 00 Beckenried
+N-- - 9e53 46n48 0 00 Bedra
+N-- - 8e30 46n30 0 00 Bedretto
+N-- - 8e33 47n47 0 00 Beggingen
+N-- - 6e15 46n26 0 00 Begnins
+N-- - 9e50 46n46 0 00 Bei der Sage
+V-- - 9e28 46n27 0 00 Beim Hohenhaus
+V-- - 9e17 46n38 0 00 Beim Thurm
+N-- - 8e12 47n16 0 00 Beinwil
+N-- - 7e35 47n22 0 00 Beinwil
+N-- - 7e58 46n22 0 00 Belalp
+N-- - 7e06 46n49 0 00 Belfaux
+N-- - 9e42 46n39 0 00 Bellaluna
+N-- - 7e06 46n58 0 00 Bellechasse
+N-- - 7e10 47n16 0 00 Bellelay
+N-- - 7e02 46n55 0 00 Bellerive
+N-- - 6e09 46n16 0 00 Bellevue
+NA3 - 9e01 46n12 0 20 Bellinzona
+N-- - 7e14 47n07 0 00 Bellmund
+N-- - 8e09 46n26 0 00 Bellwald
+N-- - 6e42 46n32 0 00 Belmont-sur-Lausanne
+N-- - 7e30 46n53 0 00 Belp
+N-- - 8e23 46n34 0 00 Belvedere
+N-- - 8e39 47n39 0 00 Benken
+N-- - 9e01 47n12 0 00 Benken
+N-- - 6e43 46n42 0 00 Bercher
+N-- - 9e10 47n35 0 00 Berg
+N-- - 9e45 46n37 0 00 Bergun
+N-- 3800 8e23 47n21 0 01 Berikon
+N-- - 8e34 47n42 0 00 Beringen
+N-- - 8e03 46n17 0 00 Berisal
+NC1 - 7e28 46n55 0 05 Bern
+VC1 - 7e28 46n55 0 05 Berna
+VC1 - 7e28 46n55 0 05 Berne
+N-- - 9e36 47n25 0 00 Berneck
+N-- 8600 6e05 46n11 0 07 Bernex
+N-- - 9e58 46n27 0 00 Berninahauser
+V-- - 9e58 46n27 0 00 Bernina Suot
+N-- - 8e11 47n12 0 00 Beromunster
+N-- - 9e21 47n06 0 00 Berschis
+N-- - 8e51 46n13 0 00 Berzona
+V-- - 7e23 46n32 0 00 Betelried
+V-- - 7e23 46n32 0 00 Betelried Blankenburg
+N-- - 9e01 46n57 0 00 Betschwanden
+N-- - 7e23 46n32 0 00 Bettelried
+N-- - 8e04 46n23 0 00 Betten
+N-- - 7e39 47n36 0 00 Bettingen
+N-- - 7e25 47n12 0 00 Bettlach
+N-- - 7e18 46n10 0 00 Beuson
+N-- - 6e49 46n56 0 00 Bevaix
+N-- - 9e53 46n33 0 00 Bevers
+N-- - 7e17 47n14 0 00 Bevilard
+N-- - 7e01 46n15 0 00 Bex
+N-- - 8e15 47n30 0 00 Beznau
+N-- - 8e58 46n21 0 00 Biasca
+N-- - 8e52 46n26 0 00 Biaschina
+V-- - 8e58 46n21 0 00 Biasco
+V-- - 8e41 47n46 0 00 Biber
+N-- - 8e43 47n09 0 00 Biberbrucke
+N-- - 7e13 46n56 0 00 Biberen
+N-- - 7e33 47n11 0 00 Biberist
+N-- - 8e41 47n46 0 00 Bibern
+N-- - 9e03 46n23 0 00 Biborgo
+N-- - 8e56 47n27 0 00 Bichelsee
+N-- - 8e59 46n05 0 00 Bidogno
+N-- - 8e12 46n27 0 00 Biel
+N-2 - 7e15 47n10 0 05 Biel
+V-2 - 7e15 47n10 0 05 Bienne
+N-- - 6e20 46n33 0 00 Biere
+N-- - 7e37 46n57 0 00 Bigenthal
+N-- - 7e37 46n56 0 00 Biglen
+N-- - 8e37 46n21 0 00 Bignasco
+N-- - 8e57 46n04 0 00 Bigorio
+N-- - 9e01 47n09 0 00 Bilten
+N-- - 8e11 46n22 0 00 Binn
+N-- - 7e34 47n32 0 00 Binningen
+N-- - 8e53 46n01 0 00 Bioggio
+N-- - 6e37 46n37 0 00 Bioley-Orjulaz
+N-- - 8e26 47n21 0 00 Birmensdorf
+V-- - 8e26 47n21 0 00 Birmenstorf
+N-- - 8e15 47n27 0 00 Birmenstorf
+N-- - 8e56 46n06 0 00 Bironico
+N-- 3300 8e12 47n26 0 01 Birr
+V-- 3300 8e12 47n26 0 01 Birr-Lufig
+N-- - 8e12 47n17 0 00 Birrwil
+N-- - 7e37 47n33 0 00 Birsfelden
+N-- - 8e39 46n50 0 00 Birtschen
+N-- - 9e03 47n34 0 00 Bissegg
+N-- - 8e58 45n57 0 00 Bissone
+N-- - 7e58 46n21 0 00 Bitsch
+N-- - 9e39 46n28 0 00 Bivio
+V-- - 9e39 46n28 0 00 Bivio Stalla
+V-- - 7e23 46n32 0 00 Blankenburg
+N-- - 9e29 46n57 0 00 Blas
+N-- - 7e44 46n00 0 00 Blatten
+N-- - 7e49 46n25 0 00 Blatten
+N-- - 7e59 46n21 0 00 Blatten
+N-- - 8e15 47n03 0 00 Blatten
+N-- - 7e31 47n27 0 00 Blauen
+N-- - 7e40 46n32 0 00 Blausee
+N-- - 8e11 46n27 0 00 Blitzingen
+N-- - 6e54 46n28 0 00 Blonay
+N-- - 7e32 46n44 0 00 Blumenstein
+N-- - 8e16 46n39 0 00 Boden
+N-- - 8e35 46n52 0 00 Boden
+N-- - 8e54 46n22 0 00 Bodio
+V-- - 9e41 46n28 0 00 Boegia
+V-- - 9e41 46n28 0 00 Boggia
+N-- - 9e41 46n28 0 00 Bogia
+N-- - 6e10 46n21 0 00 Bogis-Bossey
+N-- - 9e04 46n06 0 00 Bogno
+N-- - 8e46 46n18 0 00 Bolastro
+N-- - 9e49 46n47 0 00 Bolgen
+N-- - 7e33 46n57 0 00 Boll
+V-- - 7e29 46n58 0 00 Bollaigues
+N-- - 7e29 46n58 0 00 Bolligen
+V-- - 7e29 46n58 0 00 Bolligen-Dorf
+N-- - 7e23 46n38 0 00 Boltigen
+N-- - 8e35 46n54 0 00 Bolzbach
+N-- - 9e24 46n49 0 00 Bonaduz
+N-- - 7e01 47n30 0 00 Boncourt
+N-- - 7e09 47n29 0 00 Bonfol
+N-- - 7e54 46n41 0 00 Bonigen
+N-- - 8e11 47n19 0 00 Boniswil
+V-- - 6e08 45n22 0 00 Bonmont
+N-- - 7e12 46n44 0 00 Bonnefontaine
+N-- - 8e28 47n19 0 00 Bonstetten
+N-- - 6e40 46n51 0 00 Bonvillars
+N-- - 6e11 46n23 0 00 Borex
+N-- - 8e38 46n10 0 00 Borgnone
+N-- - 9e36 46n21 0 00 Borgonovo
+N-- - 7e51 46n43 0 00 Bort
+N-- - 8e29 46n19 0 00 Bosco Gurin
+N-- - 7e13 46n54 0 00 Bosingen
+V-- - 6e10 46n21 0 00 Bossey
+N-- - 6e39 46n37 0 00 Bottens
+N-- - 8e00 47n17 0 00 Bottenwil
+N-- - 9e13 47n38 0 00 Bottighofen
+N-- - 7e34 47n31 0 00 Bottmingen
+N-- - 8e13 47n33 0 00 Bottstein
+N-- - 6e53 47n02 0 00 Boudevilliers
+N-- - 6e50 46n57 0 00 Boudry
+N-- - 7e13 45n56 0 00 Bourg-Saint-Pierre
+V-- - 7e13 45n56 0 00 Bourg San Pierre
+N-- - 6e51 46n23 0 00 Bouveret
+N-- - 7e05 46n05 0 00 Bovernier
+N-- - 7e41 46n54 0 00 Bowil
+N-- - 8e05 47n29 0 00 Bozen
+N-- - 10e02 46n39 0 00 Brail
+V-- - 7e24 46n14 0 00 Bramis
+N-- - 7e24 46n14 0 00 Bramois
+N-- - 9e10 46n38 0 00 Brand
+N-- - 7e42 46n19 0 00 Bratsch
+N-- - 8e59 46n56 0 00 Braunwald
+N-- - 9e00 46n01 0 00 Bre
+N-- - 7e19 46n02 0 00 Brecholey
+V-- - 8e40 47n28 0 00 Breibe
+N-- - 9e04 46n46 0 00 Breil
+N-- - 8e40 47n28 0 00 Breite
+N-- - 7e33 47n24 0 00 Breitenbach
+N-- - 8e06 46n47 0 00 Breitenfeld
+N-- - 7e27 46n59 0 00 Bremgarten
+N-- 5300 8e20 47n22 0 01 Bremgarten
+V-- - 7e24 46n14 0 00 Bremis
+N-- - 6e52 46n41 0 00 Brenles
+N-- - 8e53 46n02 0 00 Breno
+N-- - 7e37 46n49 0 00 Brenzikofen
+V-- - 9e00 46n01 0 00 Bre sopra Lugano
+N-- - 7e39 47n24 0 00 Bretzwil
+N-- - 9e36 46n40 0 00 Brienz
+N-- - 8e02 46n46 0 00 Brienz
+N-- - 8e06 46n45 0 00 Brienzwiler
+V-- - 8e06 46n45 0 00 Brienzwiler-Dorf
+N-- - 7e59 46n19 0 00 Brig
+V-- - 9e04 46n46 0 00 Brigels
+N-- - 7e56 46n18 0 00 Brigerbad
+N-- - 7e19 46n11 0 00 Brignon
+V-- - 7e59 46n19 0 00 Brigue
+N-- - 8e47 46n17 0 00 Brione
+N-- - 7e32 47n25 0 00 Brislach
+N-- - 8e43 46n07 0 00 Brissago
+N-- - 8e41 46n46 0 00 Bristen
+N-- - 7e57 47n15 0 00 Brittnau
+N-- - 7e06 46n37 0 00 Broc
+N-- - 8e09 46n41 0 00 Broch
+N-- - 8e40 46n23 0 00 Broglio
+N-- - 9e02 47n29 0 00 Bronschhofen
+N-- - 8e38 46n21 0 00 Brontallo
+N-- - 6e45 46n57 0 00 Brot-Dessous
+N-- - 6e45 46n59 0 00 Brot-Plamboz
+V-- - 9e53 49n52 0 00 Brucke
+N-- - 7e17 47n07 0 00 Brugg
+N-- 9500 8e12 47n29 0 01 Brugg
+N-- - 9e20 47n25 0 00 Bruggen
+N-- - 8e08 46n45 0 00 Brunigen
+N-- - 9e07 47n20 0 00 Brunnadern
+N-- - 8e36 46n59 0 00 Brunnen
+N-- - 7e28 47n05 0 00 Brunnenthal
+N-- - 8e56 45n56 0 00 Brusino Arsizio
+N-- - 10e07 46n16 0 00 Brusio
+N-- - 7e13 46n04 0 00 Bruson
+N-- - 7e09 47n01 0 00 Bruttelen
+N-- - 8e40 47n28 0 00 Brutten
+N-- - 8e38 47n26 0 00 Bruttisellen
+N-- - 7e44 47n27 0 00 Bubendorf
+N-- - 8e48 47n16 0 00 Bubikon
+N-- - 8e38 47n33 0 00 Buch
+N-- - 8e34 47n35 0 00 Buchberg
+N-- - 7e54 46n35 0 00 Buchen
+N-- - 9e32 47n28 0 00 Buchen
+N-- - 9e43 46n56 0 00 Buchen
+N-- - 7e40 46n50 0 00 Buchholterberg
+N-- - 9e30 47n25 0 00 Buchler
+N-- - 8e21 47n06 0 00 Buchrain
+N-- - 8e26 47n27 0 00 Buchs
+N-- - 9e28 47n10 0 00 Buchs
+N-- 5900 8e04 47n23 0 01 Buchs
+N-- - 8e39 47n42 0 00 Buchthalen
+N-- - 8e06 46n43 0 00 Buhlen
+N-- - 9e25 47n23 0 00 Buhler
+N-- - 8e31 46n53 0 00 Buhlruti
+N-- - 8e05 47n05 0 00 Buholz
+N-- - 7e02 47n29 0 00 Buix
+N-- - 8e32 47n31 0 00 Bulach
+N-- - 7e04 46n37 0 00 Bulle
+N-- - 6e34 46n49 0 00 Bullet
+N-- - 7e54 46n48 0 00 Bumbach
+N-- - 7e23 46n56 0 00 Bumpliz
+N-- - 7e13 46n52 0 00 Bundtels
+N-- - 8e25 46n58 0 00 Buochs
+N-- - 8e27 47n08 0 00 Buonas
+N-- - 7e49 46n16 0 00 Burchen
+N-- - 7e00 47n27 0 00 Bure
+V-- - 7e22 47n08 0 00 Buren
+V-- - 8e24 46n56 0 00 Buren
+V-- - 9e12 47n27 0 00 Buren
+N-- - 7e22 47n08 0 00 Buren an der Aare
+N-- - 8e24 46n56 0 00 Buren nid dem Bach
+N-- - 7e26 47n27 0 00 Burg
+N-- - 7e37 47n03 0 00 Burgdorf
+V-- - 9e24 46n36 0 00 Burgias
+N-- - 7e29 46n47 0 00 Burgistein
+N-- - 8e10 46n49 0 00 Burglen
+N-- - 8e40 46n53 0 00 Burglen
+N-- - 9e09 47n33 0 00 Burglen
+N-- - 8e06 47n13 0 00 Buron
+N-- - 6e18 46n26 0 00 Bursinel
+N-- - 6e17 46n27 0 00 Bursins
+N-- - 7e17 46n41 0 00 Burstera
+N-- - 9e24 46n36 0 00 Burtgas
+N-- - 6e15 46n28 0 00 Burtigny
+N-- - 9e07 46n16 0 00 Busen
+V-- - 9e07 46n16 0 00 Buseno
+N-- - 7e32 47n23 0 00 Busserach
+V-- - 9e42 46n59 0 00 Busserein
+N-- - 6e34 46n33 0 00 Bussigny
+N-- - 8e50 47n14 0 00 Busskirch
+N-- - 7e20 47n06 0 00 Busswil
+V-- - 7e20 47n06 0 00 Busswil bei Buren an der Aare
+N-- - 9e04 47n21 0 00 Butschwil
+N-- - 6e33 46n53 0 00 Buttes
+N-- - 8e06 47n06 0 00 Buttisholz
+N-- - 8e20 47n16 0 00 Buttwil
+N-- - 7e45 47n13 0 00 Butzberg
+N-- - 7e52 47n31 0 00 Buus
+V-- - 7e45 47n13 0 00 Buzberg
+V-- - 9e12 46n20 0 00 Cabbiola
+N-- - 9e12 46n20 0 00 Cabbiolo
+N-- - 8e54 46n02 0 00 Cadempino
+N-- - 8e57 46n09 0 00 Cadenazzo
+N-- - 8e59 46n03 0 00 Cadro
+N-- - 8e59 46n04 0 00 Cagiallo
+N-- - 8e53 46n23 0 00 Cagnago
+N-- - 8e49 46n25 0 00 Cala
+N-- - 9e19 46n47 0 00 Calortsch
+N-- - 8e48 46n29 0 00 Calpiogna
+N-- - 9e10 46n16 0 00 Cama
+N-- - 9e17 46n39 0 00 Camana
+N-- - 9e00 46n09 0 00 Camorino
+N-- - 10e07 46n15 0 00 Campascio
+N-- - 9e48 46n28 0 00 Campfer
+N-- - 8e59 46n45 0 00 Campliun
+N-- - 8e30 46n17 0 00 Campo
+N-- - 8e31 46n25 0 00 Campo
+V-- - 8e56 46n33 0 00 Campo
+N-- - 8e56 46n33 0 00 Campo Blenio
+N-- - 10e08 46n14 0 00 Campocologno
+V-- - 8e30 46n17 0 00 Campo Valmaggia
+N-- - 9e56 46n34 0 00 Campovasto
+N-- - 9e29 46n29 0 00 Campsut
+N-- - 8e57 46n02 0 00 Canobbio
+N-- - 7e12 45n54 0 00 Cantine-de-Proz
+N-- - 8e59 45n54 0 00 Capolago
+N-- - 9e05 46n10 0 00 Carena
+N-- 15000 6e08 46n11 0 07 Carouge
+N-- - 9e18 46n48 0 00 Carrera
+N-- - 6e01 46n11 0 00 Cartigny
+V-- - 6e01 46n11 0 00 Cartygny
+N-- - 9e40 46n23 0 00 Casaccia
+N-- - 9e02 45n53 0 00 Casima
+N-- - 8e53 45n58 0 00 Caslano
+N-- - 8e53 46n28 0 00 Cassina
+V-- - 8e53 46n28 0 00 Cassino
+N-- - 9e00 46n00 0 00 Castagnola
+N-- - 9e31 46n20 0 00 Castasegna
+V-- - 9e00 45n52 0 00 Castello San Pietro
+N-- - 9e49 46n58 0 00 Castels
+N-- - 9e00 45n52 0 00 Castel San Pietro
+N-- - 9e36 46n51 0 00 Castiel
+N-- - 9e02 46n14 0 00 Castione
+N-- - 8e56 46n29 0 00 Castro
+N-- - 9e07 46n20 0 00 Cauco
+N-- - 6e56 46n26 0 00 Caux
+V-- - 6e56 46n26 0 00 Caux sur Montreux
+N-- - 8e36 46n21 0 00 Cavergno
+N-- - 8e46 46n06 0 00 Caviano
+N-- - 9e26 46n43 0 00 Cazis
+N-- - 9e52 46n31 0 00 Celerina
+N-- - 6e12 46n21 0 00 Celigny
+N-- - 8e33 46n18 0 00 Cerentino
+N-- - 6e03 46n14 0 00 Cern
+N-- - 7e10 46n38 0 00 Cerniat
+N-- - 6e54 47n04 0 00 Cernier
+N-- - 9e04 46n05 0 00 Certara
+N-- - 8e36 46n19 0 00 Cevio
+N-- - 6e59 46n56 0 00 Chabrey
+N-- - 7e31 46n16 0 00 Chalais
+V-- - 6e41 46n34 0 00 Chalet a Gobet
+N-- - 8e28 47n11 0 00 Cham
+N-- - 6e08 46n15 0 00 Chambesy
+N-- - 7e13 46n12 0 00 Chamoson
+N-- - 6e39 46n50 0 00 Champagne
+N-- - 6e52 46n11 0 00 Champery
+N-- - 7e07 46n02 0 00 Champex
+V-- - 9e48 46n28 0 00 Champfer
+N-- - 7e15 46n03 0 00 Champsec
+N-- - 6e34 46n47 0 00 Champvent
+N-- - 5e58 46n09 0 00 Chancy
+N-- - 7e35 46n15 0 00 Chandolin
+N-- - 6e14 46n24 0 00 Changins
+N-- - 9e50 46n39 0 00 Chants
+N-- - 6e44 46n41 0 00 Chapelle
+N-- - 6e49 46n29 0 00 Chardonne
+N-- - 7e10 46n37 0 00 Charmey
+VX- - 6e07 46n12 0 00 Charmilles
+N-- - 7e13 47n26 0 00 Charmoille
+V-- - 7e08 46n07 0 00 Charrat
+N-- - 7e08 46n07 0 00 Charrat-les-Chenes
+N-- - 6e08 45n22 0 00 Chateau de Bonmont
+N-- - 7e08 46n28 0 00 Chateau-d'Oex
+N-- - 7e20 46n13 0 00 Chateauneuf
+N-- - 6e07 46n12 0 00 Chatelaine
+V-- - 6e07 46n12 0 00 Chatelaine-Geneve
+V-- - 6e41 46n30 0 00 Chatelard
+V-- - 6e55 46n27 0 00 Chatelard
+N-- - 6e54 46n32 0 00 Chatel-Saint-Denis
+N-- - 6e56 46n45 0 00 Chatonnaye
+V-- - 6e57 47n01 0 00 Chaumont
+N-- - 6e57 47n01 0 00 Chaumont-de-Pury
+N-- - 6e34 46n32 0 00 Chavannes
+N-- - 6e47 46n47 0 00 Chavannes-le-Chene
+N-- - 6e59 46n44 0 00 Chavannes-sous-Orsonnens
+N-- - 6e34 46n43 0 00 Chavornay
+N-- - 6e50 46n45 0 00 Cheiry
+N-- - 7e06 46n05 0 00 Chemin
+N-- 9100 6e10 46n12 0 07 Chene-Bougeries
+N-- 6200 6e12 46n12 0 07 Chene-Bourg
+N-- - 6e46 46n46 0 00 Chene-Paquier
+V-- - 7e27 46n16 0 00 Chermignon
+N-- - 7e27 46n16 0 00 Chermignon-d'en Bas
+N-- - 7e28 46n17 0 00 Chermignon-d'en Haut
+N-- - 6e36 46n36 0 00 Cheseaux
+N-- - 7e03 46n18 0 00 Chesieres
+N-- - 7e00 47n23 0 00 Chevenez
+N-- - 6e54 46n53 0 00 Chevroux
+N-- - 6e47 46n29 0 00 Chexbres
+V-- - 6e47 46n54 0 00 Chex le Bart
+N-- - 6e47 46n49 0 00 Cheyres
+N-- - 6e56 47n04 0 00 Chezard-Saint-Martin
+N-- - 6e47 46n54 0 00 Chez-le-Bart
+N-- - 9e02 45n50 0 00 Chiasso
+N-- - 9e01 46n26 0 00 Chiavasco
+V-- - 6e53 46n28 0 00 Chiesaz
+N-- - 8e49 46n28 0 00 Chiggiogna
+N-- - 7e32 46n16 0 00 Chippis
+N-- - 8e50 46n25 0 00 Chironico
+N-- - 7e23 47n19 0 00 Choindez
+NA3 - 9e30 46n51 0 09 Chur
+N-- - 9e32 46n47 0 00 Churwalden
+V-- - 9e01 46n26 0 00 Ciavasco
+N-- - 10e20 46n38 0 00 Cierfs
+V-- - 10e20 46n38 0 00 Cierfs-Orasom
+N-- - 7e10 46n30 0 00 Ciernes-Picat
+N-- - 9e03 46n05 0 00 Cimadera
+N-- - 8e30 46n17 0 00 Cimalmotto
+N-- - 10e01 46n38 0 00 Cinuskel
+N-- - 9e02 46n15 0 00 Claro
+N-- - 9e48 46n46 0 00 Clavadel
+N-- - 9e25 46n37 0 00 Clugin
+N-- - 7e06 47n28 0 00 Coeuve
+N-- - 6e07 46n13 0 00 Cointrin
+VA3 - 9e30 46n51 0 09 Coire
+N-- - 6e51 47n03 0 00 Col des Roches
+N-- - 6e57 46n16 0 00 Collombey
+N-- - 7e02 46n10 0 00 Collonges
+N-- - 6e28 46n33 0 00 Colombier
+N-- - 6e52 46n58 0 00 Colombier
+N-- - 6e08 46n15 0 00 Colovrex
+N-- - 9e34 46n21 0 00 Coltura
+N-- - 8e56 46n02 0 00 Comano
+V-- - 6e50 46n45 0 00 Combremont
+N-- - 6e50 46n45 0 00 Combremont-le-Petit
+N-- - 8e35 46n12 0 00 Comologno
+N-- - 8e55 46n44 0 00 Compadials
+N-- - 10e24 46n57 0 00 Compatsch
+N-- - 6e07 46n09 0 00 Compesieres
+N-- - 8e57 46n27 0 00 Comprovasco
+N-- - 6e43 46n51 0 00 Concise
+N-- 2500 6e05 46n11 0 07 Confignon
+N-- - 9e36 46n37 0 00 Conters
+N-- - 9e47 46n54 0 00 Conters
+N-- - 7e18 46n14 0 00 Conthey
+N-- - 8e56 46n09 0 00 Contone
+N-- - 8e50 46n11 0 00 Contra
+N-- - 7e20 46n17 0 00 Coppet
+N-- - 6e12 46n19 0 00 Coppet
+N-- - 6e58 46n21 0 00 Corbeyrier
+N-- - 8e41 46n10 0 00 Corcapolo
+N-- - 6e58 46n50 0 00 Corcelles
+N-- - 7e25 47n17 0 00 Corcelles
+N-- - 7e09 46n52 0 00 Cordast
+N-- - 7e33 46n20 0 00 Cordona
+V-- - 7e33 46n20 0 00 Cordonaz
+N-- - 7e08 47n11 0 00 Corgemont
+N-- - 8e50 46n14 0 00 Corippo
+N-- - 7e06 46n48 0 00 Corminboeuf
+N-- - 7e01 47n05 0 00 Cornaux
+N-- - 7e10 47n24 0 00 Cornol
+N-- - 6e13 46n16 0 00 Corsier
+V-- - 6e12 46n16 0 00 Corsier Port
+N-- - 6e51 46n56 0 00 Cortaillod
+N-- - 8e40 46n07 0 00 Cortascio
+N-- - 8e38 46n28 0 00 Corte
+N-- - 8e30 46n21 0 00 Corte Grande
+N-- - 8e30 46n24 0 00 Corte Grande
+V-- - 6e51 46n56 0 00 Cortuillod
+N-- - 6e31 46n37 0 00 Cossonay
+V-- - 6e31 46n37 0 00 Cossonay-Ville
+V-- - 6e29 46n52 0 00 Cote aux Fees
+N-- - 7e02 46n45 0 00 Cottens
+VX- - 6e08 46n12 0 00 Coulouvreniere
+N-- - 7e17 47n20 0 00 Courfaivre
+N-- - 7e07 47n24 0 00 Courgenay
+N-- - 7e06 46n54 0 00 Courgevaux
+N-- - 7e06 46n53 0 00 Courlevon
+N-- - 7e22 47n20 0 00 Courrendlin
+N-- - 7e22 47n22 0 00 Courroux
+N-- - 7e20 47n14 0 00 Court
+N-- - 7e02 47n24 0 00 Courtedoux
+N-- - 7e04 47n11 0 00 Courtelary
+N-- - 7e03 47n28 0 00 Courtemaiche
+N-- - 7e12 46n51 0 00 Courtepin
+N-- - 7e19 47n21 0 00 Courtetelle
+N-- - 7e04 46n52 0 00 Courtion
+N-- - 7e23 46n08 0 00 Couta
+N-- - 6e38 46n55 0 00 Couvet
+N-- - 9e32 46n36 0 00 Cra digl Lai
+N-- - 8e37 46n13 0 00 Crana
+N-- - 6e12 46n22 0 00 Crans
+N-- - 7e28 46n18 0 00 Crans
+V-- - 7e28 46n18 0 00 Crans-sur-Sierre
+N-- - 6e10 46n22 0 00 Crassier
+N-- - 9e46 46n25 0 00 Crasta
+V-- - 9e32 46n36 0 00 Cre digl Lai
+N-- - 7e26 47n16 0 00 Cremines
+N-- - 9e00 46n16 0 00 Cresciano
+N-- - 7e08 46n54 0 00 Cressier
+N-- - 7e02 47n03 0 00 Cressier
+N-- - 9e31 46n28 0 00 Cresta
+V-- - 7e26 46n10 0 00 Creta
+N-- - 8e54 46n26 0 00 Crich
+V-- - 8e54 46n26 0 00 Crico
+N-- - 6e35 46n33 0 00 Crissier
+N-- - 8e49 46n29 0 00 Croce
+N-- - 10e21 46n49 0 00 Crusch
+N-- - 7e01 46n57 0 00 Cudrefin
+N-- - 8e53 46n10 0 00 Cugnasco
+N-- - 6e38 46n35 0 00 Cugy
+N-- - 6e53 46n49 0 00 Cugy
+N-- - 6e44 46n29 0 00 Cully
+N-- - 9e11 46n43 0 00 Cumbels
+V-- - 9e36 46n37 0 00 Cunter
+N-- - 8e52 46n41 0 00 Curaglia
+N-- - 9e01 46n05 0 00 Curtina
+N-- - 8e38 47n40 0 00 Dachsen
+N-- - 7e59 47n13 0 00 Dagmersellen
+N-- - 6e33 46n37 0 00 Daillens
+V-- - 7e27 46n14 0 00 Daillet
+N-- - 7e27 46n14 0 00 Dailley
+N-- - 7e02 46n12 0 00 Dailly
+N-- - 8e23 46n55 0 00 Dallenwil
+N-- - 8e46 46n28 0 00 Dalpe
+N-- - 6e54 47n22 0 00 Damvant
+N-- - 9e03 46n26 0 00 Dandrio
+N-- - 7e58 47n22 0 00 Daniken
+N-- - 9e03 46n45 0 00 Danis
+N-- - 6e00 46n12 0 00 Dardagny
+N-- - 7e48 46n40 0 00 Darligen
+N-- - 7e29 46n39 0 00 Darstetten
+N-- - 8e17 47n27 0 00 Dattwil
+N-- - 9e50 46n49 0 00 Davos Dorf
+N-- - 9e50 46n49 0 00 Davos Platz
+N-- - 9e12 47n22 0 00 Degersheim
+N-- - 7e31 46n57 0 00 Deisswil
+N-- - 7e37 47n13 0 00 Deitingen
+V-- - 7e26 46n18 0 00 Dele
+NA3 - 7e20 47n22 0 26 Delemont
+VA3 - 7e20 47n22 0 26 Delsberg
+N-- - 8e03 47n27 0 00 Densburen
+N-- - 7e35 47n12 0 00 Derendingen
+N-- - 7e07 46n26 0 00 Devant
+V-- - 7e09 46n21 0 00 Diablerets
+N-- - 8e11 46n50 0 00 Diechtersmatt
+N-- - 7e48 47n25 0 00 Diegten
+N-- - 8e27 47n29 0 00 Dielsdorf
+N-- - 7e34 46n38 0 00 Diemtigen
+N-- - 9e38 47n23 0 00 Diepoldsau
+N-- - 9e03 46n55 0 00 Diesbach
+N-- - 7e22 47n06 0 00 Diessbach
+N-- - 7e07 47n07 0 00 Diesse
+N-- - 8e45 47n42 0 00 Diessenhofen
+N-3 - 8e24 47n25 0 25 Dietikon
+N-- - 8e37 47n26 0 00 Dietlikon
+N-- - 8e24 47n09 0 00 Dietwil
+N-- - 9e21 46n50 0 00 Digg
+N-- - 8e46 47n33 0 00 Dinhard
+N-- - 8e59 46n03 0 00 Dino
+N-- - 8e51 46n42 0 00 Disentis
+N-- - 8e54 46n42 0 00 Disla
+N-- - 7e58 46n01 0 00 Distel
+V-- - 7e58 46n01 0 00 Distel Alp
+N-- - 6e29 46n38 0 00 Dizy
+N-- - 8e10 47n36 0 00 Dogern
+N-- - 9e27 46n50 0 00 Domat
+V-- - 9e27 46n50 0 00 Domat Ems
+N-- - 6e58 47n04 0 00 Dombresson
+N-- - 7e01 46n52 0 00 Domdidier
+N-- - 6e53 46n42 0 00 Dompierre
+N-- - 7e00 46n51 0 00 Dompierre
+N-- - 7e04 46n53 0 00 Donatyre
+N-- - 8e57 46n26 0 00 Dongio
+N-- - 6e43 46n45 0 00 Donneloye
+N-- - 8e03 47n01 0 00 Doppleschwand
+N-- - 7e03 46n09 0 00 Dorenaz
+V-- - 9e45 46n49 0 00 Dorfji
+N-- - 9e45 46n49 0 00 Dorfli
+V-- - 9e52 46n53 0 00 Dorfli
+N-- - 7e37 47n28 0 00 Dornach
+N-- - 7e36 46n48 0 00 Dornhalden
+N-- - 9e02 46n57 0 00 Dornhaus
+N-- 3000 8e14 47n23 0 01 Dottikon
+N-- 3300 8e15 47n34 0 01 Dottingen
+N-- - 7e11 45n59 0 00 Dranse
+N-- - 7e41 46n46 0 00 Dreiligass
+N-- - 7e50 46n46 0 00 Dreischubel
+N-- - 8e37 47n24 0 00 Dubendorf
+N-- - 7e12 46n51 0 00 Dudingen
+N-- - 9e01 46n16 0 00 Duno
+V-- - 9e48 46n52 0 00 Duranna
+N-- - 8e51 47n16 0 00 Durnten
+N-- - 9e55 46n43 0 00 Durrboden
+N-- - 8e09 47n20 0 00 Durrenasch
+N-- - 8e50 46n56 0 00 Durrenboden
+N-- - 7e47 47n05 0 00 Durrenroth
+V-- - 9e16 46n46 0 00 Dutgien
+N-- - 9e16 46n46 0 00 Dutjen
+N-- - 9e13 46n43 0 00 Duvin
+NX- - 6e09 46n12 0 00 Eaux-Vives
+N-- - 8e20 47n05 0 00 Ebikon
+N-- - 7e58 46n45 0 00 Ebligen
+N-- - 9e07 47n15 0 00 Ebnat
+V-- - 9e07 47n15 0 00 Ebnat-Kappel
+N-- - 6e38 46n38 0 00 Echallens
+N-- - 7e04 46n39 0 00 Echarlens
+N-- - 7e12 46n09 0 00 Econe
+N-- - 6e48 46n36 0 00 Ecublens
+N-- - 7e05 46n45 0 00 Ecuvillens
+N-- - 8e07 47n29 0 00 Effingen
+N-- - 8e41 47n26 0 00 Effretikon
+N-- - 7e46 47n19 0 00 Egerkingen
+N-- - 8e41 47n18 0 00 Egg
+N-- - 9e32 46n48 0 00 Egga
+N-- - 7e40 46n29 0 00 Eggenschwand
+N-- - 8e20 47n22 0 00 Eggenwil
+N-- - 7e52 46n19 0 00 Eggerberg
+N-- - 9e28 47n27 0 00 Eggersriet
+N-- - 7e47 46n53 0 00 Eggiwil
+N-- - 8e33 47n34 0 00 Eglisau
+N-- - 8e11 47n21 0 00 Egliswil
+N-- - 9e22 47n32 0 00 Egnach
+V-- - 8e20 47n30 0 00 Ehrendingen
+N-- - 8e10 47n09 0 00 Eich
+N-- - 9e32 47n21 0 00 Eichberg
+N-- - 8e13 47n01 0 00 Eigenthal
+N-- - 7e59 47n32 0 00 Eiken
+N-- - 7e38 46n43 0 00 Einigen
+N-- - 8e45 47n07 0 00 Einsiedeln
+V-- - 7e47 46n17 0 00 Eischol
+N-- - 7e47 46n17 0 00 Eischoll
+N-- - 7e28 46n09 0 00 Eison
+N-- - 7e54 46n12 0 00 Eisten
+N-- - 8e52 47n30 0 00 Elgg
+V-- - 8e37 47n36 0 00 Ellikon
+V-- - 8e49 47n34 0 00 Ellikon
+N-- - 8e37 47n36 0 00 Ellikon am Rhein
+N-- - 8e49 47n34 0 00 Ellikon an der Thur
+N-- - 9e10 46n55 0 00 Elm
+N-- - 8e47 47n31 0 00 Elsau
+N-- - 7e36 46n32 0 00 Elsigbach
+N-- - 7e50 46n13 0 00 Embd
+N-- - 8e36 47n30 0 00 Embrach
+N-- - 8e18 47n05 0 00 Emmen
+N-- - 8e16 47n04 0 00 Emmenbrucke
+N-- - 7e45 46n57 0 00 Emmenmatt
+N-- - 8e31 46n58 0 00 Emmetten
+V-- - 8e31 46n58 0 00 Emmeuen
+N-- - 9e10 47n39 0 00 Emmishofen
+N-- - 6e55 46n04 0 00 Emosson
+V-- - 9e27 46n50 0 00 Ems
+V-- - 8e17 47n32 0 00 Endingen
+NX- - 7e26 46n57 0 00 Engehalde
+N-- - 7e11 47n06 0 00 Engelberg
+N-- - 8e25 46n50 0 00 Engelberg
+N-- - 9e09 46n59 0 00 Engi
+N-- - 7e06 46n42 0 00 En la Gottaz
+N-- - 9e05 47n02 0 00 Ennenda
+N-- - 8e20 46n59 0 00 Ennetburgen
+N-- - 8e01 46n59 0 00 Ennetegg
+N-- - 7e05 46n34 0 00 Enney
+N-- - 7e06 46n20 0 00 Ensex
+N-- - 7e15 46n46 0 00 Entenmoos
+V-- 6700 8e02 47n21 0 01 Entfelden
+N-- - 8e04 46n59 0 00 Entlebuch
+V-- - 6e39 46n33 0 00 En Vennes
+N-- - 6e40 46n33 0 00 Epalinges
+N-- - 6e38 46n44 0 00 Epautheyres
+N-- - 6e37 46n44 0 00 Ependes
+N-- - 7e08 46n45 0 00 Ependes
+N-- - 7e00 46n11 0 00 Epinassey
+N-- - 7e49 47n23 0 00 Eptingen
+N-- - 7e18 46n15 0 00 Erde
+N-- - 7e51 47n05 0 00 Eriswil
+N-- - 7e46 46n47 0 00 Eriz
+N-- - 7e06 47n02 0 00 Erlach
+N-- - 9e14 47n33 0 00 Erlen
+N-- - 8e36 47n18 0 00 Erlenbach
+N-- - 7e33 46n40 0 00 Erlenbach im Simmental
+V-- - 7e33 46n40 0 00 Erlenbach im Simmental
+V-- - 8e00 47n24 0 00 Erlinsbach
+N-- - 9e05 47n40 0 00 Ermatingen
+N-- - 8e09 46n24 0 00 Ernen
+N-- - 7e41 46n19 0 00 Erschmatt
+N-- - 7e32 47n22 0 00 Erschwil
+N-- - 7e35 47n05 0 00 Ersigen
+N-- - 8e38 46n49 0 00 Erstfeld
+N-- - 7e52 46n16 0 00 Esch
+N-- - 8e19 47n08 0 00 Eschenbach
+N-- - 8e55 47n14 0 00 Eschenbach
+N-- - 8e52 47n39 0 00 Eschenz
+V-- - 9e25 47n17 0 00 Escher
+N-- - 9e01 47n35 0 00 Eschikofen
+N-- - 8e58 47n28 0 00 Eschlikon
+V-- - 8e58 47n28 0 00 Eschlikon-Dorf
+N-- - 7e56 46n55 0 00 Escholzmatt
+N-- - 6e19 46n30 0 00 Essertines-sur-Rolle
+V-- - 7e06 46n34 0 00 Estavannens
+N-- - 7e06 46n34 0 00 Estavannens-Dessous
+N-- - 7e06 46n34 0 00 Estavannens-Dessus
+V-- - 6e51 46n51 0 00 Estavayer
+N-- - 6e51 46n51 0 00 Estavayer-le-Lac
+N-- - 6e57 47n03 0 00 etit-Savagnier
+N-- - 7e33 47n29 0 00 Ettingen
+N-- - 8e01 47n09 0 00 Ettiswil
+N-- - 8e48 47n09 0 00 Etzel
+V-- - 8e48 47n09 0 00 Etzel-Kulm
+N-- - 8e06 47n34 0 00 Etzgen
+N-- - 8e49 47n39 0 00 Etzwilen
+N-- - 7e25 46n10 0 00 Euseigne
+V-- - 8e49 47n06 0 00 Eutal
+N-- - 8e49 47n06 0 00 Euthal
+N-- - 7e14 47n09 0 00 Evilard
+N-- - 7e01 46n01 0 00 Evionnaz
+N-- - 7e30 46n07 0 00 Evolene
+N-- - 7e02 46n20 0 00 Exergillod
+N-- - 7e55 46n17 0 00 Eyholz
+N-- - 6e12 46n23 0 00 Eysins
+N-- - 8e33 46n23 0 00 Faedo
+N-- - 7e51 46n26 0 00 Fafleralp
+N-- - 7e40 46n48 0 00 Fahrni
+N-- - 8e14 47n18 0 00 Fahrwangen
+N-- - 6e57 47n25 0 00 Fahy
+N-- - 8e48 46n28 0 00 Faido
+V-- - 8e48 46n28 0 00 Faido-Borgo
+N-- - 7e45 46n23 0 00 Faldum Alp
+N-- - 9e13 46n48 0 00 Falera
+N-- - 8e38 47n22 0 00 Fallanden
+N-- - 9e39 46n59 0 00 Fanas
+N-- - 7e34 46n14 0 00 Fang
+N-- - 7e54 46n58 0 00 Fankhaus
+N-- - 7e05 46n54 0 00 Faoug
+N-- - 9e25 46n38 0 00 Fardun
+N-- - 8e31 46n44 0 00 Farnigen
+N-- - 7e04 46n43 0 00 Farvagny-le-Grand
+N-- - 7e05 46n44 0 00 Farvagny-le-Petit
+N-- - 7e43 46n40 0 00 Faulensee
+N-- - 8e45 47n23 0 00 Fehraltorf
+N-- - 8e56 47n35 0 00 Felben
+N-- - 8e13 46n22 0 00 Feld
+N-- - 8e47 47n15 0 00 Feldbach
+N-- - 8e59 47n40 0 00 Feldbach
+N-- - 7e33 47n13 0 00 Feldbrunnen
+V-- - 7e33 47n13 0 00 Feldbrunner
+N-- - 9e26 46n47 0 00 Feldis
+N-- - 8e37 47n17 0 00 Feldmeilen
+N-- - 8e24 46n44 0 00 Feldmoos
+N-- - 9e35 47n28 0 00 Feldmoos
+V-- - 8e24 46n44 0 00 Feldmos
+V-- - 9e13 46n48 0 00 Fellers
+N-- - 9e29 46n51 0 00 Felsberg
+NX- - 7e26 46n58 0 00 Felsenau
+N-- - 7e45 46n23 0 00 Ferden
+N-- - 7e13 46n57 0 00 Ferenbalm
+N-- - 7e29 46n31 0 00 Fermelberg
+V-- - 7e29 46n31 0 00 Fermellager
+V-- - 8e31 46n44 0 00 Fernigen
+N-- - 7e06 45n55 0 00 Ferret
+V-- - 7e06 45n55 0 00 Ferrex
+N-- - 7e41 46n20 0 00 Feschel
+N-- - 10e14 46n48 0 00 Fetan
+V-- - 10e14 46n48 0 00 Fetan Grand
+N-- - 8e38 47n41 0 00 Feuerthalen
+N-- - 8e44 47n11 0 00 Feusisberg
+N-- - 7e16 46n25 0 00 Feutersoey
+V-- - 9e46 46n25 0 00 Fex-Crasta
+N-- - 7e00 46n20 0 00 Feydey
+N-- - 9e18 46n51 0 00 Fidaz
+N-- - 9e44 46n55 0 00 Fideris
+V-- - 9e44 46n55 0 00 Fideris Dorf
+V-- - 9e48 46n52 0 00 Fideriseralp
+N-- - 9e48 46n52 0 00 Fideriser Alp Duranna
+N-- - 8e08 46n24 0 00 Fiesch
+N-- - 8e09 46n25 0 00 Fiescherthal
+N-- - 8e43 46n29 0 00 Fiesso
+N-- - 6e37 46n50 0 00 Fiez
+N-- - 7e30 46n33 0 00 Filderich
+N-- - 9e41 46n40 0 00 Filisur
+N-- - 9e07 47n07 0 00 Filzbach
+V-- - 7e55 46n12 0 00 Findelen
+V-- - 7e55 46n12 0 00 Findeln
+N-- - 7e55 46n12 0 00 Findeln bei Staldenreid
+N-- - 6e58 46n05 0 00 Finhaut
+V-- - 10e30 46n56 0 00 Finstermunz
+N-- - 7e18 46n02 0 00 Fionnay
+V-- - 8e55 47n20 0 00 Fischental
+N-- - 8e55 47n20 0 00 Fischenthal
+N-- - 8e58 47n25 0 00 Fischingen
+N-- - 8e36 47n35 0 00 Flaach
+N-- - 7e18 46n53 0 00 Flamatt
+N-- - 9e31 47n01 0 00 Flasch
+N-- - 9e11 47n25 0 00 Flawil
+N-- - 9e24 46n42 0 00 Flerden
+N-- - 6e35 46n54 0 00 Fleurier
+N-- - 9e17 46n50 0 00 Flims
+V-- - 9e17 46n50 0 00 Flims Dorf
+V-- - 9e17 46n50 0 00 Flims Waldhaus
+N-- - 9e09 46n46 0 00 Flond
+N-- - 8e16 46n52 0 00 Flueli
+N-- - 8e37 46n54 0 00 Flueln
+N-- - 7e40 46n24 0 00 Fluhalp
+V-- - 8e16 46n52 0 00 Fluhli
+N-- - 8e00 46n53 0 00 Fluhli
+V-- - 8e16 46n52 0 00 Fluhli Ranft
+N-- - 9e21 47n05 0 00 Flums
+N-- - 8e38 47n41 0 00 Flurlingen
+V-- - 7e18 46n15 0 00 Fontaine
+N-- - 6e53 47n03 0 00 Fontainemelon
+N-- - 8e34 46n31 0 00 Fontana
+N-- - 10e16 46n47 0 00 Fontana
+N-- - 7e05 47n24 0 00 Fontenais
+N-- - 6e49 46n33 0 00 Forel
+N-- - 6e49 46n44 0 00 Forel
+N-- - 8e52 46n18 0 00 Forna
+N-- - 8e47 45n58 0 00 Fornasette
+N-- - 8e33 46n22 0 00 Foroglio
+N-- - 6e12 46n20 0 00 Founex
+N-- - 7e13 46n59 0 00 Fraschels
+N-- - 8e48 46n20 0 00 Frasco
+N-- - 7e31 47n05 0 00 Fraubrunnen
+NA3 - 8e54 47n33 0 19 Frauenfeld
+N-- - 7e20 46n57 0 00 Frauenkappelen
+N-- - 9e47 46n45 0 00 Frauenkirch
+VA3 - 7e09 46n48 0 06 Freiburg
+N-- - 8e15 46n23 0 00 Freiche
+N-- - 7e38 47n32 0 00 Freidorf
+N-- - 8e45 47n12 0 00 Freienbach
+N-- - 7e04 46n16 0 00 Frenieres
+N-- - 7e43 47n30 0 00 Frenkendorf
+NA3 - 7e09 46n48 0 06 Fribourg
+VA3 - 7e09 46n48 0 06 Friburgo
+N-- 3600 8e01 47n30 0 01 Frick
+N-- - 7e48 47n20 0 00 Friedau
+N-- - 7e16 46n59 0 00 Frieswil
+N-- - 8e46 46n21 0 00 Froda
+N-- - 8e35 46n27 0 00 Froda
+N-- - 6e41 46n36 0 00 Froideville
+N-- - 6e55 46n31 0 00 Fruence
+N-- - 9e07 46n35 0 00 Frunt
+N-- - 7e39 46n35 0 00 Frutigen
+N-- - 8e16 46n47 0 00 Frutt
+N-- - 7e34 46n29 0 00 Fuhre
+N-- - 10e22 46n37 0 00 Fuldera
+N-- - 7e50 47n16 0 00 Fulenbach
+N-- - 8e12 47n35 0 00 Full
+N-- - 7e45 47n30 0 00 Fullinsdorf
+N-- - 7e06 46n08 0 00 Fully
+V-- - 10e13 46n40 0 00 Fuorn
+N-- - 9e30 46n59 0 00 Furkels
+N-- - 9e40 46n56 0 00 Furna
+V-- - 9e40 46n56 0 00 Furna-Dorf
+N-- - 9e27 46n43 0 00 Furstenaubruck
+N-- - 9e11 46n42 0 00 Furth
+N-- - 8e39 46n26 0 00 Fusio
+N-- - 8e30 47n43 0 00 Gachlingen
+N-- - 8e51 47n32 0 00 Gachnang
+N-- - 8e21 46n44 0 00 Gadmen
+N-- - 9e54 46n45 0 00 Gadmen
+N-- - 9e22 46n59 0 00 Gafarra
+N-- - 9e51 46n58 0 00 Gafien
+N-- - 9e27 47n22 0 00 Gais
+N-- - 7e53 46n11 0 00 Galgern
+N-- - 7e41 46n22 0 00 Galm
+V-- - 7e09 46n57 0 00 Galmis
+N-- - 7e09 46n57 0 00 Galmiz
+N-- - 7e03 47n02 0 00 Gals
+N-- - 7e44 46n19 0 00 Gampel
+N-- - 7e03 47n01 0 00 Gampelen
+N-- - 9e26 47n12 0 00 Gams
+N-- - 7e57 46n18 0 00 Gamsen
+N-- - 9e00 46n00 0 00 Gandria
+N-- - 7e28 47n15 0 00 Gansbrunnen
+N-- - 9e05 47n23 0 00 Ganterschwil
+V-- - 9e05 47n23 0 00 Ganterswil
+N-- 4100 8e14 47n28 0 01 Gebenstorf
+N-- - 8e15 47n10 0 00 Gelfingen
+N-- - 7e51 47n28 0 00 Gelterkinden
+N-- - 7e37 46n24 0 00 Gemmipass
+V-- - 7e37 46n24 0 00 Gemmi Passhohe
+N-- - 7e39 47n28 0 00 Gempen
+N-- - 8e57 45n51 0 00 Genestrerio
+CA1 171000 6e10 46n12 0 07 Geneva
+NA1 171000 6e10 46n12 0 07 Geneve
+VA1 171000 6e10 46n12 0 07 Genf
+N-- - 6e12 46n26 0 00 Genolier
+V-- - 8e17 46n44 0 00 Gentalhutten
+V-- - 8e17 46n44 0 00 Genthalalp
+N-- - 8e17 46n44 0 00 Genthalhutten
+N-- - 7e20 46n53 0 00 Geretsried
+N-- - 7e31 46n59 0 00 Geristein
+N-- - 7e34 47n10 0 00 Gerlafingen
+N-- - 8e52 47n32 0 00 Gerlikon
+N-- - 8e16 47n05 0 00 Gerliswil
+N-- - 8e47 46n07 0 00 Gerra
+N-- - 8e48 46n19 0 00 Gerra
+V-- - 8e48 46n19 0 00 Gerra-Verzasca
+N-- - 8e32 46n59 0 00 Gersau
+N-- - 8e25 46n49 0 00 Gerschnialp
+N-- - 7e33 46n50 0 00 Gerzensee
+N-- - 8e17 46n29 0 00 Geschinen
+N-- - 7e58 47n08 0 00 Gettnau
+N-- - 8e06 47n12 0 00 Geuensee
+N-- - 8e36 46n26 0 00 Gheiba
+N-- - 8e55 47n18 0 00 Gibswil
+N-- - 8e02 46n42 0 00 Gidisdorf
+N-- - 7e26 46n29 0 00 Giebel
+N-- - 8e01 46n44 0 00 Giessbach
+N-- - 7e13 46n46 0 00 Giffers
+N-- - 6e18 46n27 0 00 Gilly
+N-- - 6e18 46n31 0 00 Gimel
+N-- - 7e53 46n33 0 00 Gimmelwald
+VA1 171000 6e10 46n12 0 07 Ginevra
+N-- - 6e11 46n24 0 00 Gingins
+N-- - 8e53 46n23 0 00 Giornico
+N-- - 9e07 46n16 0 00 Giova
+N-- 2100 8e00 47n30 0 01 Gipf-Oberfrick
+N-- - 8e51 47n19 0 00 Girenbad
+N-- - 8e51 47n27 0 00 Girenbad
+V-- - 8e51 47n27 0 00 Girenbad-matten
+V-- - 8e51 47n27 0 00 Girenbad Seelmatten
+N-- - 8e11 46n50 0 00 Giswil
+N-- - 9e00 46n10 0 00 Giubiasco
+N-- - 8e41 46n17 0 00 Giumaglio
+N-- - 6e12 46n25 0 00 Givrins
+N-- - 6e16 46n26 0 00 Gland
+N-- - 9e46 46n44 0 00 Glaris
+NA4 - 9e04 47n02 0 08 Glarus
+N-- - 8e35 47n25 0 00 Glattbrugg
+V-- - 8e35 47n25 0 00 Glattburg
+N-- - 9e11 47n26 0 00 Glattburg
+N-- - 9e22 46n35 0 00 Glattenberg
+N-- - 8e30 47n33 0 00 Glattfelden
+N-- - 8e21 46n33 0 00 Gletsch
+N-- - 6e56 46n25 0 00 Glion
+N-- - 7e58 46n18 0 00 Glis
+N-- - 7e12 47n20 0 00 Glovelier
+N-- - 8e05 46n07 0 00 Gmeinalp
+N-- - 9e01 46n14 0 00 Gnosca
+N-- - 9e28 47n28 0 00 Goldach
+N-- - 8e33 47n03 0 00 Goldau
+N-- - 8e58 47n16 0 00 Goldingen
+N-- - 7e42 46n46 0 00 Goldiwil
+N-- - 7e53 46n42 0 00 Goldswil
+N-- - 6e31 46n35 0 00 Gollion
+N-- - 9e01 47n13 0 00 Gommiswald
+N-- - 7e52 47n08 0 00 Gondiswil
+N-- - 8e08 46n12 0 00 Gondo
+N-- - 9e20 47n20 0 00 Gonten
+N-- 2100 8e08 47n16 0 01 Gontenschwil
+N-- - 7e45 46n22 0 00 Goppenstein
+N-- - 8e03 46n23 0 00 Goppisberg
+N-- - 8e45 46n13 0 00 Gordevio
+N-- - 8e51 46n11 0 00 Gordola
+N-- - 9e01 46n13 0 00 Gorduno
+N-- - 6e46 46n54 0 00 Gorgier
+N-- - 8e35 46n40 0 00 Goschenen
+N-- - 8e29 46n39 0 00 Goschenenalp
+V-- - 7e58 47n22 0 00 Gosgen
+V-- - 8e29 46n39 0 00 Gosheneralp
+N-- - 8e18 47n23 0 00 Goslikon
+N-- - 8e45 47n18 0 00 Gossau
+N-- - 9e15 47n25 0 00 Gossau
+N-- - 7e10 46n09 0 00 Gottefrey
+N-- - 9e08 47n40 0 00 Gottlieben
+N-- - 6e36 46n39 0 00 Goumoens-la-Ville
+V-- - 7e24 46n48 0 00 Graben
+N-- - 9e26 47n12 0 00 Grabs
+N-- - 7e50 46n11 0 00 Grachen
+V-- - 7e50 46n11 0 00 Gracher
+N-- - 8e22 46n52 0 00 Grafenort
+N-- - 6e28 46n36 0 00 Grancy
+N-- - 6e56 46n53 0 00 Grandcour
+N-- - 6e56 47n23 0 00 Grandfontaine
+V-- 6400 6e08 46n14 0 07 Grand-Saconnex
+N-- - 6e58 47n03 0 00 Grand-Savagnier
+N-- - 6e59 46n47 0 00 Grandsivaz
+N-- - 6e38 46n49 0 00 Grandson
+N-- - 7e25 47n17 0 00 Grandval
+N-- - 7e06 46n33 0 00 Grandvillard
+N-- - 6e54 46n46 0 00 Granges
+V-- - 7e28 46n16 0 00 Granges
+N-- - 7e28 46n16 0 00 Granges-pres-Sion
+N-- - 8e06 47n21 0 00 Granichen
+N-- - 7e26 46n08 0 00 Gravelon
+N-- - 8e54 46n03 0 00 Gravesano
+N-- - 8e40 47n22 0 00 Greifensee
+N-- - 7e35 47n26 0 00 Grellingen
+N-- - 7e23 47n11 0 00 Grenchen
+N-- - 8e05 46n22 0 00 Grengiols
+N-- - 8e26 47n03 0 00 Greppen
+N-- - 8e37 46n13 0 00 Gresso
+N-- - 8e49 46n28 0 00 Gribbio
+N-- - 7e45 46n33 0 00 Griesalp
+N-- - 7e35 46n11 0 00 Grimentz
+N-- - 7e23 46n15 0 00 Grimisuat
+N-- - 7e29 46n34 0 00 Grimmialp
+N-- - 8e08 46n42 0 00 Grindelfeld
+N-- - 8e03 46n37 0 00 Grindelwald
+N-- - 10e20 46n53 0 00 Griosch
+V-- - 7e24 46n31 0 00 Grodei
+N-- - 7e24 46n31 0 00 Grodoey
+N-- - 7e05 46n50 0 00 Grolley
+N-- - 7e27 46n15 0 00 Grone
+N-- - 9e09 46n15 0 00 Grono
+N-- - 7e21 47n04 0 00 Grossaffoltern
+N-- - 9e51 46n43 0 00 Grossalpen
+N-- - 8e41 47n36 0 00 Grossandelfingen
+V-- - 7e13 46n54 0 00 Grossbosingen
+N-- - 10e14 46n48 0 00 Gross-Fetan
+N-- - 7e10 46n53 0 00 Gross Gurmels
+N-- - 7e38 46n54 0 00 Gross Hochstetten
+N-- - 8e03 47n08 0 00 Grosswangen
+N-- - 7e42 46n12 0 00 Gruben
+V-- - 7e27 46n15 0 00 Grun
+N-- - 7e16 46n27 0 00 Grund
+N-- - 8e15 46n43 0 00 Grund
+N-- - 7e29 46n46 0 00 Grundbach
+N-- - 8e45 47n17 0 00 Gruningen
+N-- - 9e38 46n58 0 00 Grusch
+N-- - 7e05 46n35 0 00 Gruyeres
+N-- - 7e06 46n16 0 00 Gryon
+N-- - 7e17 46n28 0 00 Gstaad
+N-- - 7e16 46n23 0 00 Gsteig
+N-- - 7e53 46n40 0 00 Gsteig
+N-- - 10e09 46n47 0 00 Guarda
+N-- - 8e34 47n10 0 00 Gubel
+N-- - 7e03 46n56 0 00 Guevaux
+N-- - 7e20 46n46 0 00 Guggisberg
+N-- - 9e15 46n22 0 00 Gumegna
+N-- - 7e30 46n58 0 00 Gumligen
+N-- - 7e24 46n25 0 00 Gummeli
+N-- - 7e15 46n56 0 00 Gummenen
+V-- - 8e08 46n12 0 00 Gunt
+N-- - 7e42 46n43 0 00 Gunten
+V-- - 8e08 46n12 0 00 Gunz
+N-- - 7e49 47n19 0 00 Gunzgen
+N-- - 8e11 47n13 0 00 Gunzwil
+N-- - 9e08 46n35 0 00 Guraletsch
+V-- - 7e27 46n46 0 00 Gurnigel
+N-- - 7e27 46n46 0 00 Gurnigelbad
+N-- - 8e38 46n45 0 00 Gurtnellen
+N-- - 7e27 46n28 0 00 Gutsch
+N-- - 8e17 46n40 0 00 Guttannen
+N-- - 9e17 47n36 0 00 Guttingen
+N-- - 7e37 46n43 0 00 Gwatt
+V-- - 8e02 46n42 0 00 Gydisdorf
+V-- - 8e51 47n19 0 00 Gyrenbad
+V-- - 8e51 47n27 0 00 Gyrenbad
+N-- - 7e51 46n43 0 00 Habkern
+N-- - 8e11 47n28 0 00 Habsburg
+N-- - 8e54 47n31 0 00 Hagenbuch
+N-- - 7e50 47n20 0 00 Hagendorf
+N-- - 9e21 47n29 0 00 Haggenschwil
+N-- - 8e15 47n23 0 00 Hagglingen
+N-- - 7e11 47n04 0 00 Hagneck
+N-- - 9e31 46n53 0 00 Haldenstein
+N-- - 7e28 46n55 0 00 Halen
+N-- - 8e28 47n42 0 00 Hallau
+V-- - 8e11 47n19 0 00 Hallwil
+N-- - 8e10 46n54 0 00 Halten
+N-- - 8e17 47n14 0 00 Hamikon
+V-- - 8e18 46n37 0 00 Handeck
+N-- - 8e18 46n37 0 00 Handegg
+N-- - 7e52 46n12 0 00 Hannigalp
+N-- - 7e38 47n01 0 00 Hasle
+N-- - 8e03 46n58 0 00 Hasle
+N-- - 9e22 47n22 0 00 Haslen
+V-- - 7e38 47n01 0 00 Hasle-Ruegsau
+N-- - 7e39 46n40 0 00 Hasli
+N-- - 9e02 46n57 0 00 Hatzingen
+N-- - 7e31 46n05 0 00 Hauderes
+N-- - 7e52 47n22 0 00 Hauenstein
+N-- - 9e17 47n28 0 00 Hauptwil
+N-- - 8e10 46n44 0 00 Hausen
+N-- - 8e32 47n15 0 00 Hausen
+N-- - 7e06 46n45 0 00 Hauterive
+V-- - 7e06 46n45 0 00 Hauterize
+N-- - 7e07 46n40 0 00 Hauteville
+N-- - 9e38 47n24 0 00 Heerbrugg
+V-- - 9e38 47n24 0 00 Heerbrugge
+NX- - 8e46 47n30 0 00 Hegi
+N-- - 7e48 46n52 0 00 Heidbuhl
+N-- - 9e32 47n26 0 00 Heiden
+N-- - 7e41 46n45 0 00 Heiligenschwendi
+N-- - 7e36 46n48 0 00 Heimberg
+N-- - 7e42 46n49 0 00 Heimenschwand
+N-- - 7e39 47n03 0 00 Heimiswil
+N-- - 7e18 46n50 0 00 Heitenried
+N-- - 8e48 46n52 0 00 Heitmannsegg
+N-- - 8e12 47n04 0 00 Hellbuhl
+N-- - 9e11 47n18 0 00 Hemberg
+N-- - 8e50 47n41 0 00 Hemishofen
+V-- - 8e33 47n44 0 00 Hemmental
+N-- - 8e33 47n44 0 00 Hemmenthal
+N-- - 7e52 47n28 0 00 Hemmiken
+N-- - 9e07 47n27 0 00 Henau
+N-- - 8e13 47n23 0 00 Hendschiken
+V-- - 8e13 47n23 0 00 Hendschikon
+N-- - 8e41 47n33 0 00 Henggart
+N-- - 7e35 47n18 0 00 Herbetswil
+N-- - 8e40 47n43 0 00 Herblingen
+V-- - 7e48 46n09 0 00 Herbrigen
+N-- - 7e48 46n09 0 00 Herbriggen
+V-- - 9e38 47n24 0 00 Herbrug
+N-- - 8e54 47n36 0 00 Herdern
+N-- - 7e24 46n11 0 00 Heremence
+N-- - 8e54 46n53 0 00 Hergersboden
+N-- - 8e19 46n59 0 00 Hergiswil
+N-- - 7e57 47n05 0 00 Hergiswil
+VA3 - 9e16 47n24 0 02 Herisan
+NA3 - 9e16 47n24 0 02 Herisau
+N-- - 6e14 46n18 0 00 Hermance
+N-- - 8e20 47n19 0 00 Hermetschwil
+N-- - 7e28 46n50 0 00 Hermiswil
+N-- - 9e14 47n35 0 00 Herrenhof
+N-- - 8e37 47n17 0 00 Herrliberg
+N-- - 8e24 47n02 0 00 Hertenstein
+N-- - 8e18 47n30 0 00 Hertenstein
+N-- - 8e02 47n26 0 00 Herzberg
+N-- - 7e42 47n11 0 00 Herzogenbuchsee
+N-- - 7e28 47n09 0 00 Hessigkofen
+N-- - 8e42 47n33 0 00 Hettlingen
+N-- - 8e14 47n09 0 00 Hildisrieden
+N-- - 7e39 46n44 0 00 Hilterfingen
+N-- - 7e35 47n25 0 00 Himmelried
+N-- - 7e32 47n02 0 00 Hindelbank
+N-- - 9e10 46n58 0 00 Hinterdorf
+N-- - 7e18 46n24 0 00 Hintere-Windspillen
+N-- - 8e26 46n50 0 00 Hinter Horbis
+N-- - 7e23 46n58 0 00 Hinterkappelen
+N-- - 9e33 47n27 0 00 Hinterlochen
+N-- - 7e46 46n53 0 00 Hinter Netschbuhl
+N-- - 9e12 46n32 0 00 Hinterrhein
+N-- - 7e15 46n24 0 00 Hinter Wallegg
+V-- - 8e30 46n35 0 00 Hint Schweig
+N-- - 8e50 47n18 0 00 Hinwil
+N-- - 7e23 46n46 0 00 Hirschhorn
+N-- - 8e36 47n13 0 00 Hirzel
+N-- - 8e50 47n22 0 00 Hittnau
+N-- - 8e16 47n14 0 00 Hitzkirch
+N-- - 8e17 47n10 0 00 Hochdorf
+N-- - 10e30 46n56 0 00 Hochfinstermunz
+N-- - 7e38 47n27 0 00 Hochwald
+N-- - 9e30 47n28 0 00 Hof
+N-- - 8e40 47n47 0 00 Hofen
+N-- - 7e31 47n28 0 00 Hofstetten
+N-- - 8e51 47n28 0 00 Hofstetten
+N-- - 9e28 46n27 0 00 Hohenhaus
+N-- - 8e19 47n11 0 00 Hohenrain
+N-- - 8e11 46n45 0 00 Hohfluh
+N-- - 7e45 47n20 0 00 Holderbank
+N-- - 7e56 46n09 0 00 Hollerbiel
+V-- - 7e56 46n09 0 00 Hollerbuhl
+N-- - 7e46 47n25 0 00 Holstein
+N-- - 8e26 46n48 0 00 Holzhostatt
+N-- - 8e46 47n15 0 00 Hombrechtikon
+N-- - 9e00 47n38 0 00 Homburg
+N-- - 7e40 46n40 0 00 Hondrich
+NX- - 8e30 47n24 0 00 Hongg
+N-- - 8e35 47n16 0 00 Horgen
+N-- - 8e58 47n38 0 00 Horhausen
+N-- - 9e28 47n29 0 00 Horn
+N-- - 7e19 46n29 0 00 Hornkessel
+N-- - 8e05 47n30 0 00 Hornussen
+N-- - 8e18 47n01 0 00 Horw
+V-- - 8e34 46n37 0 00 Hospental
+N-- - 8e34 46n37 0 00 Hospenthal
+N-- - 7e01 46n17 0 00 Huemoz
+N-- - 8e58 47n22 0 00 Hulftegg
+N-- - 8e32 46n53 0 00 Hundwald
+N-- - 9e19 47n22 0 00 Hundwil
+N-- - 8e25 47n10 0 00 Hunenberg
+N-- - 7e39 46n45 0 00 Hunibach
+N-- - 8e29 47n36 0 00 Huntwangen
+N-- - 7e32 46n53 0 00 Hunzigenbrugg
+V-- - 7e32 46n53 0 00 Hunzikenbrucke
+N-- - 8e48 47n13 0 00 Hurden
+N-- - 8e35 46n43 0 00 Husen
+V-- - 9e18 46n42 0 00 Hutten
+N-- - 6e32 46n56 0 00 Huttenberg
+N-- - 8e59 47n34 0 00 Huttlingen
+N-- - 7e51 47n07 0 00 Huttwil
+N-- - 8e52 47n36 0 00 Huttwilen
+N-- - 8e39 47n01 0 00 Ibach
+N-- - 7e26 46n24 0 00 Iffigen
+V-- - 7e26 46n24 0 00 Iffigenalp
+N-- - 9e35 46n57 0 00 Igis
+V-- - 9e35 46n30 0 00 Igl Plang
+N-- - 9e12 46n46 0 00 Ilanz
+N-- - 10e13 46n40 0 00 Il Fuorn
+N-- - 8e44 46n59 0 00 Illgau
+N-- - 7e20 46n58 0 00 Illiswil
+N-- - 8e43 47n24 0 00 Illnau
+V-- - 7e52 46n16 0 00 Im Esch
+N-- - 7e15 46n36 0 00 Im Fang
+V-- - 8e13 46n22 0 00 Imfeld
+N-- - 7e18 46n43 0 00 Im Kloster
+V-- - 8e19 46n31 0 00 Im Loch
+N-- - 8e28 47n06 0 00 Immensee
+N-- - 8e49 46n06 0 00 Indemini
+N-- - 7e37 46n21 0 00 Inden
+N-- - 8e30 46n35 0 00 In der Schweig
+N-- - 8e37 47n00 0 00 Ingenbohl
+N-- - 9e17 46n40 0 00 Innercamana
+N-- - 9e26 46n31 0 00 Innerferrera
+V-- - 9e26 46n31 0 00 Innerferrera Calantgil
+N-- - 9e22 46n46 0 00 Inner Hof
+NX- - 9e35 46n50 0 00 Inner Praden
+V-- - 8e55 47n06 0 00 Innertal
+N-- - 8e55 47n06 0 00 Innerthal
+N-- - 8e13 46n42 0 00 Innertkirchen
+N-- - 7e06 47n01 0 00 Ins
+N-- - 7e51 46n41 0 00 Interlaken
+N-- - 8e42 46n10 0 00 Intragna
+V-- - 8e40 46n46 0 00 Intsche
+N-- - 8e40 46n46 0 00 Intschi
+N-- - 8e20 47n07 0 00 Inwil
+N-- - 8e58 46n19 0 00 Iragna
+N-- - 8e48 47n22 0 00 Irgenhausen
+V-- - 8e48 47n22 0 00 Irgenhusen
+N-- - 7e57 46n42 0 00 Iseltwald
+N-- - 7e53 46n37 0 00 Isenfluh
+V-- - 8e33 46n55 0 00 Isental
+N-- - 8e33 46n55 0 00 Isenthal
+N-- - 8e52 46n00 0 00 Iseo
+N-- - 7e15 46n09 0 00 Iserables
+N-- - 8e35 46n55 0 00 Isleten
+N-- - 8e51 47n33 0 00 Islikon
+N-- - 9e44 46n25 0 00 Isola
+N-- - 8e59 46n08 0 00 Isone
+N-- - 7e07 46n00 0 00 Issert
+N-- - 7e29 46n15 0 00 Itravers
+V-- - 8e03 47n31 0 00 Ittental
+N-- - 8e03 47n31 0 00 Ittenthal
+N-- - 8e53 47n36 0 00 Ittingen
+N-- - 7e19 46n57 0 00 Jaggisbachau
+N-- - 7e17 46n36 0 00 Jaun
+V-- - 7e03 46n14 0 00 Javernaz
+N-- - 7e03 46n14 0 00 Javerne
+N-- - 7e30 47n03 0 00 Jegenstorf
+N-- - 9e31 46n56 0 00 Jeli
+N-- - 9e42 46n56 0 00 Jenaz
+N-- - 9e34 47n00 0 00 Jenins
+V-- - 7e12 46n57 0 00 Jerisberg
+N-- - 7e12 46n57 0 00 Jerisberghof
+N-- - 7e10 46n54 0 00 Jeuss
+N-- - 8e51 47n15 0 00 Jona
+N-- - 8e24 47n18 0 00 Jonen
+N-- - 9e05 47n26 0 00 Jonschwil
+N-- - 9e35 46n27 0 00 Juf
+N-- - 6e17 46n15 0 00 Jussy
+N-- 3600 7e43 47n32 0 01 Kaiseraugst
+N-- - 8e10 46n49 0 00 Kaiserstuhl
+N-- - 8e25 47n34 0 00 Kaiserstuhl
+N-- - 8e02 47n32 0 00 Kaisten
+N-- - 7e15 46n28 0 00 Kalberhoni
+N-- - 8e55 47n37 0 00 Kalchrain
+N-- - 7e18 46n46 0 00 Kalchstatten
+N-- - 7e14 47n01 0 00 Kallnach
+V-- - 8e28 47n03 0 00 Kaltbad
+N-- - 9e02 47n13 0 00 Kaltbrunn
+N-- - 7e40 46n33 0 00 Kandergrund
+N-- - 7e40 46n29 0 00 Kandersteg
+N-- - 8e31 47n14 0 00 Kappel
+N-- - 9e07 47n16 0 00 Kappel
+V-- - 8e31 47n14 0 00 Kappel am Albis
+N-- - 7e15 47n03 0 00 Kappelen
+N-- - 7e14 46n59 0 00 Kappeli
+N-- - 8e56 47n00 0 00 Kasern
+N-- - 8e10 46n24 0 00 Kaserstatt
+N-- - 8e20 47n01 0 00 Kastanienbaum
+N-- - 9e13 46n47 0 00 Kastris
+N-- - 8e49 47n33 0 00 Kefikon
+N-- - 7e28 46n54 0 00 Kehrsatz
+N-- - 8e22 46n59 0 00 Kehrsiten
+V-- - 7e55 46n48 0 00 Kemmeriboden
+N-- - 7e55 46n48 0 00 Kemmeribodenbad
+V-- - 8e42 47n27 0 00 Kempttal
+N-- - 8e42 47n27 0 00 Kemptthal
+V-- - 7e40 46n33 0 00 Kendergrund
+N-- - 7e33 47n04 0 00 Kernenried
+N-- - 8e17 46n54 0 00 Kerns
+N-- - 7e12 46n58 0 00 Kerzers
+N-- - 9e18 47n35 0 00 Kesswil
+N-- - 7e41 46n37 0 00 Kien
+N-- - 8e03 46n45 0 00 Kienholz
+N-- - 7e44 46n35 0 00 Kiental
+V-- - 7e44 46n35 0 00 Kienthal
+N-- - 7e34 46n49 0 00 Kiesen
+V-- - 7e34 46n49 0 00 Kiessen
+N-- - 8e33 47n19 0 00 Kilchberg
+N-- - 8e21 47n26 0 00 Killwangen
+N-- - 8e44 46n55 0 00 Kinzeralp
+N-- - 7e46 46n24 0 00 Kippel
+N-- - 7e35 47n05 0 00 Kirchberg
+N-- - 9e02 47n25 0 00 Kirchberg
+N-- - 8e47 47n33 0 00 Kirchdinhard
+N-- - 7e33 46n49 0 00 Kirchdorf
+N-- - 7e25 47n00 0 00 Kirchlindach
+NX- - 7e35 47n34 0 00 Klein-Basel
+N-- - 7e47 47n08 0 00 Kleindietwil
+N-- - 7e32 46n54 0 00 Kleinhochstetten
+NX- - 7e35 47n35 0 00 Kleinhuningen
+N-- - 7e25 47n26 0 00 Kleinlutzel
+N-- 2600 8e15 47n35 0 01 Klingnau
+V-- - 7e18 46n43 0 00 Kloster
+V-- - 9e52 46n52 0 00 Klosters
+N-- - 9e53 49n52 0 00 Klosters Brucke
+N-- - 9e52 46n53 0 00 Klosters Dorf
+V-- - 9e52 46n53 0 00 Klosters Dorfli
+N-- - 9e52 46n52 0 00 Klosters Platz
+N-- - 9e50 46n53 0 00 Klosters Serneus
+N-- - 8e35 47n27 0 00 Kloten
+N-- - 7e32 46n40 0 00 Klusi
+N-- - 8e27 47n14 0 00 Knonau
+N-- - 8e04 47n12 0 00 Knutwil
+N-- - 8e14 47n37 0 00 Koblenz
+N-- - 8e47 47n27 0 00 Kollbrunn
+N-- 3600 8e01 47n20 0 01 Kolliken
+N-3 - 7e25 46n55 0 05 Koniz
+N-- - 7e38 46n53 0 00 Konolfingen
+V-- - 7e38 46n54 0 00 Konolfingen
+N-- - 7e38 46n54 0 00 Konolfingen Dorf
+N-- - 7e36 47n08 0 00 Koppigen
+N-- - 9e12 47n32 0 00 Kradolf
+N-- - 7e44 46n39 0 00 Krattigen
+V-- - 7e34 47n01 0 00 Krauchtal
+N-- - 7e34 47n01 0 00 Krauchthal
+N-- - 8e03 46n43 0 00 Krautmettli
+N-- - 7e48 46n57 0 00 Kreuzbrucke
+N-- - 9e11 47n39 0 00 Kreuzlingen
+N-- - 7e14 46n54 0 00 Kriechenwil
+V-- - 9e53 46n47 0 00 Kriegmatte
+N-- - 9e53 46n47 0 00 Kriegsmatte
+N-- - 7e36 47n11 0 00 Kriegstetten
+V-- - 7e36 47n11 0 00 Kriegstten
+N-3 - 8e17 47n02 0 11 Kriens
+V-3 - 8e17 47n02 0 11 Krienz
+N-- - 9e03 47n19 0 00 Krinau
+N-- - 9e23 47n27 0 00 Kronbuhl
+V-- - 9e23 47n27 0 00 Kronbuhl bei Sankt Gallen
+N-- - 7e53 46n54 0 00 Kroschenbrunnen
+N-- - 9e10 47n14 0 00 Krummenau
+N-- - 9e45 46n54 0 00 Kublis
+N-- - 8e34 47n11 0 00 Kuenz
+V-- - 8e07 47n19 0 00 Kulm
+N-- - 8e29 47n03 0 00 Kulm
+N-- - 8e36 46n50 0 00 Kulm
+N-- - 9e47 46n45 0 00 Kumma
+N-- - 8e19 47n23 0 00 Kunten
+V-- - 8e34 47n11 0 00 Kuoni
+V-- - 8e34 47n11 0 00 Kuonz
+V-- - 7e29 46n34 0 00 Kurhaus
+V-- - 7e29 46n34 0 00 Kurhaus Grimmialp
+V-- - 7e29 46n34 0 00 Kurheim-Grimmialp
+N-- - 8e35 47n19 0 00 Kusnacht
+N-- - 8e26 47n05 0 00 Kussnacht
+V-- - 8e26 47n05 0 00 Kussnacht am Rigi
+N-- 4800 8e03 47n25 0 01 Kuttigen
+N-- - 7e30 47n08 0 00 Kuttigkofen
+N-- - 8e45 47n27 0 00 Kyburg
+N-- - 9e15 46n48 0 00 Laax
+V-- - 9e15 46n48 0 00 Laax bei Ilanz
+N-- - 7e02 46n09 0 00 La Balmaz
+N-- - 7e23 46n03 0 00 La Barma
+V-- - 7e38 46n08 0 00 La Barmaz
+V-- - 6e50 46n09 0 00 La Barmaz
+N-- - 6e19 46n39 0 00 L'Abbaye
+N-- - 6e36 46n59 0 00 La Brevine
+N-- - 7e02 47n13 0 00 La Chaux
+V-3 - 6e51 47n08 0 12 La Chaux de Fonda
+N-3 - 6e51 47n08 0 12 La Chaux-de-Fonds
+V-- - 7e02 47n13 0 00 La Chaux-des-Breuleux
+V-- - 7e02 47n13 0 00 La Chaux-sur-Breuleux
+N-- - 8e51 47n11 0 00 Lachen
+N-- - 6e53 46n28 0 00 La Chiesaz
+N-- - 7e04 46n23 0 00 La Comballaz
+V-- - 6e29 46n52 0 00 La Cote
+N-- - 6e29 46n52 0 00 La Cote-aux-Fees
+NX- - 6e08 46n12 0 00 La Coulouvreniere
+N-- - 7e26 46n10 0 00 La Creta
+N-- - 6e05 46n28 0 00 La Cure
+N-- - 6e23 46n42 0 00 La Dernier
+N-- - 7e36 46n32 0 00 Ladholz
+N-- - 9e26 46n56 0 00 Ladils
+N-- - 9e12 46n48 0 00 Ladir
+V-- - 7e51 47n24 0 00 Laeufelfingen
+N-- - 6e53 47n08 0 00 La Ferriere
+N-- - 7e18 46n15 0 00 La Fontaine
+N-- - 7e04 46n21 0 00 La Forclaz
+N-- - 7e05 45n56 0 00 La Fouly
+N-- - 7e26 46n18 0 00 La Giete Dele
+V-- - 7e06 46n42 0 00 La Gottaz
+N-- - 7e29 46n03 0 00 La Gouille
+N-- - 7e13 47n11 0 00 La Heutte
+V-- - 9e33 46n45 0 00 Lai
+N-- - 7e08 47n17 0 00 Lajoux
+N-- - 7e54 46n18 0 00 Lalden
+N-- - 7e07 46n26 0 00 La Lecherette
+N-- - 7e09 47n07 0 00 Lamboing
+N-- - 7e04 46n09 0 00 La Mereune
+N-- - 7e29 46n02 0 00 La Monta
+V-- - 7e29 46n08 0 00 Lana
+N-- - 9e07 46n19 0 00 Landarenca
+N-- - 8e00 46n56 0 00 Landbrugg
+N-- - 7e40 46n57 0 00 Landiswil
+N-- - 9e34 46n57 0 00 Landquart
+N-- - 9e34 46n57 0 00 Landquart Fabriken
+V-- - 7e04 47n03 0 00 Laneron
+V-- - 7e04 47n03 0 00 Laneron-Combes
+N-- - 7e06 47n04 0 00 La Neuveville
+N-- - 7e45 47n21 0 00 Langenbruck
+N-- - 7e41 46n43 0 00 Langenschachen
+V-- - 7e47 47n13 0 00 Langental
+N-- - 7e47 47n13 0 00 Langenthal
+N-- - 7e46 46n57 0 00 Langnau
+N-- - 7e57 47n13 0 00 Langnau
+N-- - 8e32 47n17 0 00 Langnau
+N-- - 9e14 47n35 0 00 Langrickenbach
+N-- - 9e42 46n50 0 00 Langwies
+V-- - 7e29 46n08 0 00 Lanna
+N-- - 7e29 46n08 0 00 Lannaz
+V-- - 9e34 46n41 0 00 Lansch
+V-- - 9e34 46n41 0 00 Lantsch
+V-- - 7e07 46n26 0 00 La Pecherette
+N-- - 7e16 46n04 0 00 La Perreyre
+N-- - 6e00 46n11 0 00 La Plaine
+V-- - 6e00 46n11 0 00 La Pleine
+NX- - 6e07 46n11 0 00 La Praille
+N-- - 6e25 46n40 0 00 La Praz
+V-- - 9e55 46n35 0 00 La Punt
+N-- - 6e14 46n23 0 00 La Redoute
+N-- - 9e36 46n19 0 00 Laret
+N-- - 9e51 46n51 0 00 Laret
+N-- - 7e15 47n11 0 00 La Reuchenette
+N-- - 7e08 46n42 0 00 La Roche
+N-- - 10e04 46n24 0 00 La Rosa
+N-- - 7e36 46n22 0 00 Larsi
+V-- - 8e30 46n27 0 00 l'Arzo
+N-- - 6e48 47n03 0 00 La Sagne
+N-- - 6e31 46n40 0 00 La Sarraz
+V-- - 7e33 47n20 0 00 La Scheulte
+N-- - 7e03 46n28 0 00 La Tine
+N-- - 7e30 46n06 0 00 La Tour
+N-- - 6e52 46n27 0 00 La Tour-de-Peilz
+N-- - 7e04 46n37 0 00 La Tour-de-Treme
+N-- - 9e45 46n38 0 00 Latsch
+N-- - 7e20 46n25 0 00 Lauenen
+N-- - 8e35 47n02 0 00 Lauerz
+N-- - 7e51 47n24 0 00 Laufelfingen
+N-- - 7e30 47n25 0 00 Laufen
+N-- - 8e37 47n41 0 00 Laufen
+N-- 2000 8e03 47n34 0 01 Laufenburg
+N-- - 7e15 46n54 0 00 Laupen
+N-- - 7e39 47n19 0 00 Laupersdorf
+N-- - 7e44 46n57 0 00 Lauperswil
+N-- - 9e06 46n13 0 00 Laura
+NA1 - 6e40 46n32 0 23 Lausanne
+N-- - 7e45 47n28 0 00 Lausen
+N-- - 7e54 46n36 0 00 Lauterbrunnen
+N-- - 8e50 46n15 0 00 Lavertezzo
+N-- - 7e02 46n13 0 00 Lavey
+N-- - 7e02 46n12 0 00 Lavey-les-Bains
+V-- - 7e02 46n13 0 00 Lavey-Village
+N-- - 10e06 46n46 0 00 Lavin
+N-- - 8e50 46n27 0 00 Lavorgo
+N-- - 8e07 46n23 0 00 Lax
+V-- - 6e51 46n23 0 00 Le Bouveret
+N-- - 6e13 46n35 0 00 Le Brassus
+N-- - 7e05 46n42 0 00 Le Bry
+N-- - 7e12 46n05 0 00 Le Chable
+N-- - 6e41 46n34 0 00 Le Chalet-a-Gobet
+N-- - 6e41 46n30 0 00 Le Chatelard
+N-- - 6e55 46n27 0 00 Le Chatelard
+V-- - 6e55 46n27 0 00 Le Chatelard-Montreux
+N-- - 7e01 46n50 0 00 Lechelles
+N-- - 6e14 46n36 0 00 Le Chenit
+V-- - 7e07 46n26 0 00 Lecherette
+V-- - 6e51 47n03 0 00 Le Col-des-Roches
+N-- - 7e09 46n25 0 00 Le Contour
+N-- - 6e56 46n36 0 00 Le Cret
+V-- - 6e56 46n36 0 00 Le Cret-pres-Semsales
+N-- - 7e02 46n04 0 00 Le Fays
+V-- - 7e00 46n20 0 00 Le Feydey
+N-- - 9e10 46n16 0 00 Leggia
+N-- 6400 6e08 46n14 0 07 Le Grand-Saconnex
+N-- - 8e11 47n35 0 00 Leibstadt
+N-- - 9e11 47n34 0 00 Leimbach
+N-- - 9e10 46n37 0 00 Leis
+N-- - 7e46 46n39 0 00 Leissigen
+N-- - 7e04 47n03 0 00 Le Landeron
+N-- - 8e57 46n05 0 00 Lelgio
+N-- - 7e58 46n56 0 00 Lelin
+N-- - 6e45 47n04 0 00 Le Locle
+V-- - 6e38 46n33 0 00 Le Mont
+N-- - 6e38 46n33 0 00 Le Mont-sur-Lausanne
+N-- - 7e22 47n11 0 00 Lengnau
+N-- - 7e26 46n27 0 00 Lenk
+N-- - 6e57 47n13 0 00 Le Noirmont
+N-- - 7e27 46n17 0 00 Lens
+N-- - 9e34 46n41 0 00 Lenz
+N-- 7500 8e11 47n23 0 01 Lenzburg
+N-- - 9e33 46n45 0 00 Lenzerheide
+N-- - 6e59 47n06 0 00 Le Paquier
+N-- - 6e57 47n12 0 00 Le Peuchapatte
+N-- - 6e19 46n40 0 00 Le Pont
+N-- - 10e05 46n18 0 00 Le Prese
+NX- - 6e08 46n11 0 00 Les Acacias
+V-- - 7e15 46n31 0 00 Les Adanes
+N-- - 6e57 46n27 0 00 Les Avants
+N-- - 6e31 46n55 0 00 Les Bayards
+N-- - 6e54 47n10 0 00 Les Bois
+N-- - 6e42 47n04 0 00 Les Brenets
+N-- - 7e00 47n12 0 00 Les Breuleux
+N-- - 6e19 46n40 0 00 Les Charbonnieres
+NX- - 6e07 46n12 0 00 Les Charmilles
+N-- - 6e46 47n01 0 00 Les Coeudres
+N-- - 7e00 46n16 0 00 Les Devens
+N-- - 7e09 46n21 0 00 Les Diablerets
+VX- - 6e09 46n12 0 00 Les Eaux-Vives
+N-- - 6e14 46n37 0 00 Le Sentier
+N-- - 7e03 46n22 0 00 Le Sepey
+N-- - 7e06 46n10 0 00 Les Garettes
+N-- - 6e51 47n02 0 00 Les Geneveys-sur-Coffrane
+N-- - 7e08 47n15 0 00 Les Genevez
+V-- - 7e31 46n05 0 00 Les Hauderes
+N-- - 6e53 47n03 0 00 Les Hauts-Geneveys
+V-- - 6e53 47n03 0 00 Les Hauts-Genveys
+N-- - 7e00 46n07 0 00 Les Marecottes
+N-- - 7e07 46n24 0 00 Les Mosses
+N-- - 7e07 46n28 0 00 Les Moulins
+NX- - 6e10 46n12 0 00 Les Paquis
+V-- - 7e06 46n16 0 00 Les Plans
+N-- - 7e06 46n16 0 00 Les Plans-sur-Bex
+N-- - 6e53 46n29 0 00 Les Pleiades
+N-- - 6e59 47n16 0 00 Les Pommerats
+N-- - 6e44 47n00 0 00 Les Ponts-de-Martel
+V-- - 6e44 47n00 0 00 Les Ponts-Martel
+N-- - 7e05 46n04 0 00 Les Rappes
+V-- - 7e10 46n30 0 00 Les Siernes-Picats
+N-- - 7e04 46n30 0 00 Lessoc
+N-- - 6e47 46n32 0 00 Les Thioleyres
+N-- - 7e04 46n05 0 00 Les Valettes
+N-- - 6e28 46n54 0 00 Les Verrieres
+NX- - 8e32 47n24 0 00 Letten
+N-- - 9e03 46n58 0 00 Leuggelbach
+N-- - 7e38 46n19 0 00 Leuk
+N-- - 7e38 46n23 0 00 Leukerbad
+V-- - 7e38 46n19 0 00 Leuk Stadt
+N-- - 9e03 47n33 0 00 Leutmerken
+N-- - 8e10 47n19 0 00 Leutwil
+N-- - 7e27 47n10 0 00 Leuzigen
+N-- - 6e14 46n29 0 00 Le Vaud
+N-- - 7e38 46n06 0 00 Le Vichiesso
+N-- - 7e01 46n21 0 00 Leysin
+N-- - 7e12 46n11 0 00 Leytron
+N-- - 9e05 47n20 0 00 Lichtensteig
+N-- - 7e11 46n00 0 00 Liddes
+N-- - 7e26 46n56 0 00 Liebefeld
+N-- - 7e12 46n55 0 00 Liebistorf
+N-- - 8e18 47n12 0 00 Lieli
+N-- - 9e32 47n17 0 00 Lienz
+N-- - 7e26 47n24 0 00 Liesberg
+NA3 - 7e44 47n28 0 03 Liestal
+V-- - 7e09 47n05 0 00 Ligers
+N-- - 7e09 47n05 0 00 Ligerz
+N-- - 7e04 47n05 0 00 Lignieres
+N-- - 8e57 45n52 0 00 Ligornetto
+N-- - 8e40 47n27 0 00 Lindau
+N-- - 7e41 46n51 0 00 Linden
+V-- - 7e41 46n51 0 00 Linden bei Oberdiessbach
+N-- - 7e04 46n59 0 00 Lindenhof
+N-- - 7e33 46n59 0 00 Lindenthal
+N-- - 9e00 46n55 0 00 Linthal
+V-- - 9e00 46n55 0 00 Linththal
+V-- - 8e45 46n56 0 00 Liplisbuhl
+N-- - 8e45 46n56 0 00 Lipplisbuhl
+N-- - 6e25 46n37 0 00 L'Isle
+N-- - 8e15 47n03 0 00 Littau
+N-- - 7e35 46n57 0 00 Littewil
+N-- - 9e40 46n23 0 00 Lobbia
+N-4 - 8e48 46n10 0 20 Locarno
+N-- - 8e19 46n31 0 00 Loch
+N-- - 8e36 46n39 0 00 Loch
+N-- - 8e40 46n12 0 00 Loco
+N-- - 8e41 46n15 0 00 Lodano
+N-- - 8e58 46n18 0 00 Lodrino
+N-- - 8e05 46n51 0 00 Lohalp
+N-- - 8e40 47n45 0 00 Lohn
+N-- - 9e25 46n39 0 00 Lohn
+N-- - 8e59 47n31 0 00 Lommis
+N-- - 6e15 46n29 0 00 Longirod
+V-- - 7e36 46n22 0 00 Los
+N-- - 8e45 46n08 0 00 Losone
+N-- - 9e12 46n18 0 00 Lostallo
+N-- - 7e57 47n23 0 00 Lostorf
+N-- - 8e57 46n28 0 00 Lottigna
+N-- - 7e47 47n11 0 00 Lotzwil
+N-- - 7e16 46n03 0 00 Lourtier
+N-- - 8e45 46n22 0 00 Lovald
+V-- - 8e35 47n02 0 00 Lowerz
+N-- - 10e22 46n38 0 00 Lu
+N-- - 6e50 46n43 0 00 Lucens
+VA2 - 8e16 47n05 0 11 Lucerna
+VA2 - 8e16 47n05 0 11 Lucerne
+CA2 - 8e16 47n05 0 11 Lucerne
+N-- - 9e02 46n58 0 00 Luchsingen
+N-- - 8e58 46n25 0 00 Ludiano
+N-3 - 8e58 46n00 0 20 Lugano
+N-- - 6e50 46n51 0 00 Lully
+N-- - 9e08 46n41 0 00 Lumbrein
+V-- - 9e06 46n41 0 00 Lumbreineralp
+N-- - 9e04 46n13 0 00 Lumino
+N-- - 8e10 46n48 0 00 Lungern
+N-- - 9e10 46n40 0 00 Lunschania
+N-- - 7e10 46n55 0 00 Lurtigen
+V-- - 8e45 46n59 0 00 Lustenau
+N-- - 8e27 47n05 0 00 Luterbach
+N-- - 7e35 47n13 0 00 Luterbach
+N-- - 7e55 47n04 0 00 Luthern
+N-- - 9e05 47n24 0 00 Lutisburg
+V-- - 9e05 47n24 0 00 Lutisburg-Dorf
+V-- - 9e03 47n33 0 00 Lutmerken
+N-- - 6e42 46n31 0 00 Lutry
+N-- - 8e02 46n42 0 00 Lutschental
+V-- - 7e56 46n38 0 00 Lutschental
+N-- - 7e56 46n38 0 00 Lutschenthal
+N-- - 7e41 47n01 0 00 Lutzelfluh
+V-- - 9e11 46n46 0 00 Luven
+N-- - 9e11 46n46 0 00 Luvis
+N-- - 9e45 46n55 0 00 Luzein
+NA2 - 8e16 47n05 0 11 Luzern
+N-- - 9e31 47n02 0 00 Luziensteig
+N-- - 7e18 47n04 0 00 Lyss
+N-- - 7e35 47n04 0 00 Lyssach
+V-- - 7e13 47n09 0 00 Macolin
+N-- - 7e47 47n10 0 00 Madiswil
+N-- - 9e03 46n26 0 00 Madra
+V-- - 9e44 46n48 0 00 Madrigen
+N-- - 9e56 46n35 0 00 Madulein
+N-- - 8e52 46n09 0 00 Magadino
+N-- 2700 7e48 47n32 0 01 Magden
+N-- - 9e10 47n24 0 00 Magdenau
+N-- - 8e42 46n15 0 00 Maggia
+N-- - 7e13 47n09 0 00 Magglingen
+N-- - 8e52 45n58 0 00 Magliasina
+V-- - 8e52 45n58 0 00 Magliasina Chiesa
+N-- - 7e16 46n13 0 00 Magnot
+N-- - 9e32 47n01 0 00 Maienfeld
+N-- - 7e50 47n31 0 00 Maisprach
+N-- - 9e33 46n50 0 00 Maladers
+N-- - 9e34 46n58 0 00 Malans
+N-- - 9e32 46n48 0 00 Malix
+N-- - 7e16 47n14 0 00 Malleray
+N-- - 9e34 46n35 0 00 Malmigiuer
+V-- - 9e34 46n35 0 00 Malmigiur
+V-- - 9e34 46n35 0 00 Malmiguier
+V-- - 9e42 46n24 0 00 Maloggia
+N-- - 9e42 46n24 0 00 Maloja
+N-- - 8e11 47n02 0 00 Malters
+N-- - 8e59 46n24 0 00 Malvaglia
+N-- - 8e55 47n39 0 00 Mammern
+N-- - 10e22 46n51 0 00 Manas
+N-- - 8e41 47n15 0 00 Mannedorf
+N-- - 6e58 46n48 0 00 Mannens
+N-- - 8e54 46n02 0 00 Manno
+N-- - 7e23 46n34 0 00 Mannried
+N-- - 6e52 46n33 0 00 Maracon
+N-- - 7e53 46n51 0 00 Marbach
+N-- - 6e14 46n29 0 00 Marchissy
+V-- - 9e46 46n26 0 00 Maria
+N-- - 7e31 47n28 0 00 Mariastein
+N-- - 7e00 47n01 0 00 Marin
+N-- - 7e09 46n46 0 00 Marly-le-Grand
+V-- - 9e39 46n29 0 00 Marmels
+N-- - 9e39 46n29 0 00 Marmorera
+N-- - 8e59 45n55 0 00 Maroggia
+N-- - 7e04 46n39 0 00 Marsens
+N-- - 9e04 47n36 0 00 Marstetten
+V-- - 9e04 47n36 0 00 Marstetten-Dorf
+N-- - 8e39 47n37 0 00 Marthalen
+V-- - 7e05 46n06 0 00 Martigny
+N-- - 7e05 46n05 0 00 Martigny-Bourg
+N-- - 7e05 46n05 0 00 Martigny-Combe
+N-- - 7e06 46n05 0 00 Martigny-Croix
+N-- - 7e05 46n06 0 00 Martigny-Ville
+V-- - 10e28 46n53 0 00 Martina
+N-- - 10e28 46n53 0 00 Martinsbruck
+N-- - 9e05 47n31 0 00 Marwil
+NX- - 7e26 46n57 0 00 Marzili
+N-- - 9e32 46n53 0 00 Masans
+N-- - 9e47 46n41 0 00 Maschenboden
+N-- - 8e25 47n14 0 00 Maschwanden
+N-- - 7e26 46n11 0 00 Mase
+N-- - 8e57 46n01 0 00 Massagno
+N-- - 9e32 46n58 0 00 Mastrils
+N-- - 7e06 46n16 0 00 Matelon
+N-- - 9e24 46n38 0 00 Mathon
+N-- - 9e10 46n58 0 00 Matt
+NX- - 7e27 46n57 0 00 Matte
+N-- - 8e32 46n35 0 00 Matteli
+N-- - 7e25 46n29 0 00 Matten
+N-- - 7e52 46n40 0 00 Matten
+V-- - 7e52 46n40 0 00 Matten bei Interlaken
+NX- - 7e26 46n55 0 00 Mattenhof
+VX- - 7e26 46n55 0 00 Mattenhof-Leist
+N-- - 7e37 47n18 0 00 Matzendorf
+N-- - 7e20 46n55 0 00 Matzenried
+N-- - 8e56 47n31 0 00 Matzingen
+N-- - 6e37 46n52 0 00 Mauborget
+N-- - 8e04 47n10 0 00 Mauensee
+N-- - 8e40 47n20 0 00 Maur
+N-- - 7e48 46n42 0 00 Mauren
+N-- - 7e20 46n00 0 00 Mauvoisin
+V-- - 7e24 46n07 0 00 Mayens de Pralong
+N-- - 7e35 46n13 0 00 Mayoux
+N-- - 8e56 46n07 0 00 Medeglia
+N-- - 8e51 46n40 0 00 Medels
+N-- - 9e17 46n32 0 00 Medels im Rheinwald
+V-- - 9e17 46n32 0 00 Medels Rheinwald
+N-- - 9e44 46n48 0 00 Medergen
+N-- - 8e23 47n03 0 00 Meggen
+N-- - 9e06 46n45 0 00 Meierhof
+N-- - 8e26 47n07 0 00 Meierskappel
+N-- - 8e38 47n17 0 00 Meilen
+N-- 1500 6e14 46n14 0 07 Meinier
+N-- - 7e21 47n10 0 00 Meinisberg
+N-- - 8e11 46n44 0 00 Meiringen
+N-- - 8e14 47n18 0 00 Meisterschwanden
+N-- - 9e00 45n56 0 00 Melano
+N-- - 7e50 47n11 0 00 Melchnau
+N-- - 8e17 46n51 0 00 Melchtal
+V-- - 8e17 46n51 0 00 Melchthal
+N-- - 9e05 46n10 0 00 Melera
+N-- - 8e57 45n57 0 00 Melide
+N-- 3800 8e16 47n25 0 01 Mellingen
+N-- - 9e25 47n03 0 00 Mels
+N-- - 8e59 45n52 0 00 Mendrisio
+N-- 4800 8e11 47n15 0 01 Menziken
+N-- - 8e35 47n11 0 00 Menzingen
+N-- - 8e02 47n05 0 00 Menznau
+V-- - 7e28 46n15 0 00 Merdassonnet
+N-- - 7e28 46n15 0 00 Merdessonnet
+N-- - 8e22 47n15 0 00 Merenschwand
+N-- - 8e51 46n12 0 00 Mergoscia
+N-- - 8e57 45n54 0 00 Meride
+N-- - 8e36 47n45 0 00 Merishausen
+N-- - 7e44 46n42 0 00 Merligen
+N-- - 7e29 47n21 0 00 Mervelier
+V-- - 10e06 46n17 0 00 Meschino
+N-- - 9e14 46n23 0 00 Mesocco
+N-- - 7e27 47n05 0 00 Messen
+N-- - 7e37 46n30 0 00 Metsch
+N-- - 8e58 47n34 0 00 Mettendorf
+N-- - 9e07 47n32 0 00 Mettlen
+N-- - 8e28 47n15 0 00 Mettmenstetten
+N-- - 7e28 47n27 0 00 Metzerlen
+N-- - 6e59 46n10 0 00 Mex
+N-- 19500 6e04 46n13 0 07 Meyrin
+N-- - 6e56 46n41 0 00 Mezieres
+N-- - 8e55 46n05 0 00 Mezzovico
+N-- - 7e11 47n26 0 00 Miecourt
+N-- - 7e33 46n19 0 00 Miege
+N-- - 7e02 46n09 0 00 Mieville
+N-- - 8e51 46n01 0 00 Miglieglia
+N-- - 7e37 46n21 0 00 Miliut
+N-- - 8e49 46n11 0 00 Minusio
+N-- - 10e06 46n17 0 00 Miralago
+V-- - 9e14 46n23 0 00 Misox
+N-- - 7e40 46n31 0 00 Mitholz
+V-- - 7e45 46n20 0 00 Mittal
+N-- - 8e05 46n48 0 00 Mittel Arni
+V-- 2700 8e03 47n20 0 01 Mittel-Muhen
+V-- - 9e50 47n00 0 00 Mittelsass
+N-- - 7e45 46n20 0 00 Mitthal
+V-- - 7e40 46n31 0 00 Mittholz
+N-- - 9e50 47n00 0 00 Mittlersass
+N-- - 9e07 47n22 0 00 Mogelsberg
+N-- - 8e41 46n14 0 00 Moghegno
+N-- - 8e40 46n26 0 00 Mogno
+N-- 7100 7e51 47n33 0 01 Mohlin
+N-- - 8e07 46n50 0 00 Mohrlialp
+N-- - 8e59 46n16 0 00 Moleno
+N-- - 6e22 46n35 0 00 Mollens
+N-- - 7e01 46n38 0 00 Mollettes
+N-- - 9e05 47n05 0 00 Mollis
+N-- - 9e17 47n06 0 00 Mols
+N-- - 8e50 46n41 0 00 Mompetavetsch
+V-- - 8e50 46n41 0 00 Mompe-Tujetsch
+V-- - 9e33 46n39 0 00 Mon
+N-- - 9e55 46n52 0 00 Monbiel
+N-- - 8e43 47n19 0 00 Monchaltorf
+N-- - 9e33 46n39 0 00 Mons
+N-- - 9e46 46n42 0 00 Monstein
+NX- - 6e38 46n32 0 00 Montagibert
+N-- - 8e55 45n59 0 00 Montagnola
+N-- - 7e10 46n11 0 00 Montagnon
+N-- - 6e37 46n47 0 00 Montagny
+N-- - 6e59 46n49 0 00 Montagny-la-Ville
+N-- - 7e28 46n18 0 00 Montana
+V-- - 7e28 46n18 0 00 Montana Vermala
+N-- - 7e30 46n18 0 00 Montana-Village
+N-- - 7e03 46n29 0 00 Montbovon
+N-- - 6e31 46n44 0 00 Montcherand
+N-- - 8e38 46n33 0 00 Monte
+V-- - 8e54 46n29 0 00 Monte Ardet
+N-- - 9e00 46n11 0 00 Monte Carasso
+V-- - 9e00 46n11 0 00 Monte Carasso-Sementina
+N-- - 8e53 46n08 0 00 Monte Ceneri
+V-- - 9e15 46n24 0 00 Monte di Stabbio
+V-- - 9e15 46n22 0 00 Monte Gumegna
+V-- - 9e06 46n13 0 00 Monte Laura
+V-- - 10e07 46n14 0 00 Monte Scala
+N-- - 7e04 47n17 0 00 Montfaucon
+N-- - 6e57 46n15 0 00 Monthey
+V-- - 8e54 46n32 0 00 Monti Anvedua
+V-- - 9e04 46n12 0 00 Monti della-Tagliada
+N-- - 8e47 46n10 0 00 Monti della Trinita
+N-- - 9e05 46n12 0 00 Monti di Co
+N-- - 9e10 46n13 0 00 Monti di Lanes
+V-- - 9e04 46n10 0 00 Monti di Moneda
+N-- - 8e53 46n14 0 00 Monti di Odro
+N-- - 8e57 46n08 0 00 Monti di Pianturino
+V-- - 9e06 46n10 0 00 Monti di Ruscada
+V-- - 9e08 46n13 0 00 Monti di Vif
+N-- - 7e03 47n29 0 00 Montignez
+V-- - 9e06 46n13 0 00 Monti Laura
+N-- - 9e04 46n10 0 00 Monti Moneda
+V-- - 9e09 46n14 0 00 Monti Pertiscio
+N-- - 9e06 46n10 0 00 Monti Ruscada
+N-- - 9e08 46n13 0 00 Monti Viff
+N-- - 6e25 46n38 0 00 Mont-la-Ville
+N-4 - 6e55 46n26 0 23 Montreux
+N-- - 6e23 46n36 0 00 Montricher
+N-- - 6e20 46n28 0 00 Mont-sur-Rolle
+N-- - 8e03 47n16 0 00 Moosleerau
+V-- - 7e07 46n56 0 00 Morat
+V-- - 9e02 45n51 0 00 Morbio
+N-- - 9e02 45n51 0 00 Morbio Inferiore
+N-- - 9e02 45n52 0 00 Morbio Superiore
+N-- - 7e02 46n13 0 00 Morcles
+N-- - 8e55 45n55 0 00 Morcote
+N-- - 8e02 46n22 0 00 Morel
+N-- - 6e54 46n51 0 00 Morens
+N-- - 8e37 47n06 0 00 Morgarten
+N-- - 6e30 46n31 0 00 Morges
+N-- - 7e26 46n41 0 00 Morgeten
+N-- - 6e51 46n14 0 00 Morgins
+N-- - 7e13 47n05 0 00 Morigen
+N-- - 8e11 47n25 0 00 Moriken
+N-- - 9e11 46n44 0 00 Morissen
+N-- - 8e38 46n59 0 00 Morschach
+N-- - 9e25 47n28 0 00 Morschwil
+N-- - 9e56 46n27 0 00 Morteratsch
+N-- - 8e45 46n09 0 00 Moscia
+N-- - 9e02 47n22 0 00 Mosnang
+N-- - 8e38 46n11 0 00 Mosogno
+V-- - 7e24 46n05 0 00 Motet
+N-- - 6e36 46n55 0 00 Motiers
+N-- - 7e24 46n05 0 00 Motot
+N-- - 8e59 46n26 0 00 Motto
+N-- - 6e48 46n40 0 00 Moudon
+N-- - 7e22 47n17 0 00 Moutier
+N-- - 7e18 47n25 0 00 Movelier
+N-- - 8e53 46n03 0 00 Mugena
+N-- - 9e03 45n54 0 00 Muggio
+N-- 2700 8e03 47n20 0 01 Muhen
+N-- - 8e23 47n14 0 00 Muhlau
+N-- - 8e10 46n25 0 00 Muhlebach
+N-- - 7e15 46n57 0 00 Muhleberg
+N-- - 9e10 47n07 0 00 Muhlehorn
+N-- - 9e37 46n31 0 00 Muhlen
+N-- - 7e30 46n49 0 00 Muhlethurnen
+N-- - 8e59 47n22 0 00 Muhlruti
+N-- - 9e31 46n42 0 00 Muldain
+V-- - 9e37 46n31 0 00 Mulegns
+N-- - 9e00 47n36 0 00 Mullheim
+N-- - 7e42 47n21 0 00 Mumliswil
+N-- - 7e55 47n33 0 00 Mumpf
+N-- - 7e27 47n01 0 00 Munchenbuchsee
+N-- - 7e37 47n31 0 00 Munchenstein
+N-- - 9e00 47n27 0 00 Munchwilen
+N-- - 7e56 46n19 0 00 Mund
+N-- - 7e34 46n53 0 00 Munsingen
+V-- - 8e11 47n12 0 00 Munster
+N-- - 8e16 46n29 0 00 Munster
+V-- - 10e26 46n38 0 00 Munster
+N-- - 9e14 47n38 0 00 Munsterlingen
+N-- - 7e08 47n00 0 00 Munstschemier
+N-- - 9e32 46n38 0 00 Munter
+N-- - 9e19 47n31 0 00 Muolen
+V-- - 8e46 46n58 0 00 Muotatal
+N-- - 8e46 46n58 0 00 Muotathal
+N-- - 9e13 47n07 0 00 Murg
+V-- 2700 7e49 47n16 0 01 Murgental
+N-- 2700 7e49 47n16 0 01 Murgenthal
+N-- - 7e29 46n55 0 00 Muri
+N-- 6000 8e20 47n16 0 01 Muri
+V-- - 7e29 46n55 0 00 Muri bei Bern
+N-- - 7e53 46n34 0 00 Murren
+N-- - 7e07 46n56 0 00 Murten
+N-- - 8e05 46n52 0 00 Mussen
+N-- - 10e26 46n38 0 00 Mustair
+N-- - 9e29 46n40 0 00 Mutten
+N-- - 7e39 47n31 0 00 Muttenz
+N-- - 7e43 46n58 0 00 Mutzlenberg
+N-- - 9e04 47n06 0 00 Nafels
+N-- - 8e42 47n22 0 00 Nanikon
+V-- - 9e31 46n39 0 00 Narglesa
+N-- - 9e31 46n39 0 00 Nargliesa
+N-- - 9e36 46n33 0 00 Nascharegnas
+N-- - 7e59 46n20 0 00 Naters
+N-- - 7e26 46n14 0 00 Nax
+N-- - 9e46 46n35 0 00 Naz
+N-- - 7e58 47n11 0 00 Nebikon
+N-- - 9e08 47n21 0 00 Necker
+N-- - 8e40 47n32 0 00 Neftenbach
+N-- - 8e56 46n28 0 00 Negrentino
+V-- - 9e08 47n21 0 00 Neker
+V-- - 7e18 46n11 0 00 Nendaz
+V-- - 8e18 46n43 0 00 Nessental
+N-- - 8e18 46n43 0 00 Nessenthal
+N-- - 9e12 47n13 0 00 Nesslau
+N-- - 9e03 47n03 0 00 Netstal
+NA3 - 6e58 47n00 0 12 Neuchatel
+N-- - 8e12 47n10 0 00 Neudorf
+VA3 - 6e58 47n00 0 12 Neuenburg
+N-- 7700 8e19 47n27 0 01 Neuenhof
+N-- - 8e12 47n06 0 00 Neuenkirch
+N-- - 7e37 47n32 0 00 Neuewelt
+N-- - 9e29 46n51 0 00 Neu-Felsberg
+N-- - 7e49 46n41 0 00 Neuhaus
+N-- - 8e37 47n41 0 00 Neuhausem
+V-- - 8e37 47n41 0 00 Neuhausen am Rheinfall
+N-- - 8e35 47n12 0 00 Neuheim
+V-- - 9e09 46n45 0 00 Neukirch
+N-- - 9e19 46n43 0 00 Neukirch
+N-- - 9e22 47n32 0 00 Neukirch
+N-- - 9e09 46n45 0 00 Neukirch bei Ilanz
+N-- - 7e45 46n58 0 00 Neumuhle
+V-- - 8e47 47n36 0 00 Neunforn
+N-- - 8e30 47n42 0 00 Neunkirch
+N-- - 9e11 47n13 0 00 Neu Sankt Johann
+N-- - 7e04 46n47 0 00 Neyruz
+N-- - 7e14 47n07 0 00 Nidau
+V-- - 7e29 46n33 0 00 Nidegg
+N-- - 9e03 46n59 0 00 Nidfurn
+N-- - 7e41 47n16 0 00 Niederbipp
+N-- - 7e45 47n17 0 00 Niederbuchsiten
+N-- - 9e12 47n27 0 00 Niederburen
+N-- - 8e00 47n24 0 00 Niedererlinsbach
+N-- - 7e43 46n19 0 00 Niedergampel
+V-- - 7e34 47n10 0 00 Niedergerlafingen
+V-- - 7e47 46n19 0 00 Niedergestelen
+N-- - 7e47 46n19 0 00 Niedergesteln
+N-- - 7e58 47n22 0 00 Niedergosgen
+N-- - 8e11 47n19 0 00 Niederhallwil
+N-- - 9e11 47n28 0 00 Niederhelfenschwil
+N-- 3600 8e11 47n24 0 01 Niederlenz
+N-- - 9e11 46n54 0 00 Niedern
+N-- - 9e05 46n58 0 00 Niedern Stafel
+N-- - 8e26 46n55 0 00 Niederrickenbach
+N-- - 7e55 46n43 0 00 Niederried
+N-- 2500 8e18 47n25 0 01 Niederrohrdorf
+N-- - 7e23 46n53 0 00 Niederscherli
+N-- - 8e15 47n16 0 00 Nieder-Schongau
+N-- - 9e17 47n34 0 00 Niedersommeri
+V-- - 8e29 46n47 0 00 Nieder Surenen Alm
+N-- - 8e29 46n47 0 00 Nieder Surenen Alp
+V-- - 8e29 46n47 0 00 Niedersurrenen
+N-- - 9e03 47n07 0 00 Niederurnen
+N-- - 9e07 47n26 0 00 Niederuzwil
+N-- - 8e11 46n26 0 00 Niederwald
+N-- - 8e22 47n31 0 00 Niederweningen
+N-- - 7e35 46n51 0 00 Niederwichtrach
+V-- - 8e05 47n28 0 00 Nieder-Zeihen
+N-- - 7e05 47n07 0 00 Nods
+N-- - 8e36 47n40 0 00 Nohl
+N-- - 6e44 46n57 0 00 Noiraigue
+V-- - 6e57 47n13 0 00 Noirmont
+N-- - 9e36 47n34 0 00 Nonnenhorn
+N-- - 9e10 46n17 0 00 Norantola
+N-- - 7e01 46n48 0 00 Noreaz
+N-- - 8e08 47n08 0 00 Nottwil
+N-- - 8e52 46n01 0 00 Novaggio
+N-- - 6e36 46n50 0 00 Novalles
+N-- - 8e58 45n50 0 00 Novazzano
+N-- - 7e19 46n08 0 00 Noveli
+N-- - 9e15 46n32 0 00 Nufenen
+N-- - 7e36 47n24 0 00 Nunningen
+N-- - 8e39 47n27 0 00 Nurensdorf
+N-- - 8e45 46n59 0 00 Nuschlau
+N-- - 8e49 47n37 0 00 Nussbaumen
+N-- - 7e29 46n33 0 00 Nydegg
+N-- - 6e15 46n23 0 00 Nyon
+N-- - 9e16 47n34 0 00 Oberaach
+V-- - 10e24 46n58 0 00 Ober Alp
+N-- - 9e47 46n43 0 00 Oberalp
+N-- - 7e24 46n52 0 00 Oberbalm
+V-- - 9e04 47n24 0 00 Ober-Basenheid
+N-- - 9e04 47n24 0 00 Ober-Bazenheid
+N-- - 9e01 47n09 0 00 Ober-Bilten
+N-- - 7e40 47n15 0 00 Oberbipp
+N-- - 8e38 47n33 0 00 Ober-Buch
+N-- - 7e45 47n18 0 00 Oberbuchsiten
+V-- - 7e23 47n08 0 00 Oberbure
+N-- - 7e23 47n08 0 00 Oberburen
+N-- - 7e37 47n02 0 00 Oberburg
+N-- - 9e10 46n41 0 00 Obercastels
+N-- - 7e57 46n50 0 00 Oberdiessbach
+N-- - 7e30 47n14 0 00 Oberdorf
+N-- - 7e45 47n24 0 00 Oberdorf
+N-- - 8e28 46n58 0 00 Oberdorf
+N-- - 10e24 46n58 0 00 Obere Alp
+N-- - 9e33 47n25 0 00 Oberegg
+N-- - 8e37 47n29 0 00 Oberembrach
+N-- - 7e42 46n17 0 00 Oberems
+N-- - 8e17 47n32 0 00 Oberendingen
+N-- - 8e27 47n24 0 00 Oberengstringen
+N-- 6700 8e02 47n21 0 01 Oberentfelden
+N-- - 8e00 47n24 0 00 Obererlinsbach
+V-- - 8e48 47n09 0 00 Ober-Etzel
+N-- - 8e05 46n43 0 00 Oberfeld
+N-- - 8e42 46n51 0 00 Oberfeld
+N-- - 7e34 47n10 0 00 Obergerlafingen
+V-- - 8e19 46n31 0 00 Obergestelen
+N-- - 8e19 46n31 0 00 Obergesteln
+N-- - 8e31 47n28 0 00 Oberglatt
+N-- - 7e57 47n21 0 00 Obergosgen
+N-- - 7e32 46n46 0 00 Ober Gurzelen
+N-- - 8e29 47n42 0 00 Oberhallau
+N-- - 8e34 47n25 0 00 Oberhausen
+N-- - 9e22 47n31 0 00 Oberhegi
+N-- - 9e06 47n21 0 00 Oberhelfenschwil
+N-- - 7e40 46n44 0 00 Oberhofen
+N-- - 7e47 46n54 0 00 Oberhofen
+V-- - 8e08 47n33 0 00 Oberhofen
+N-- - 8e08 47n33 0 00 Oberhofen bei Etzgen
+V-- - 8e34 47n25 0 00 Oberhusen
+N-- - 8e47 47n02 0 00 Oberiberg
+N-- - 8e43 47n24 0 00 Ober Illnau
+N-- - 8e07 47n09 0 00 Oberkirch
+N-- - 7e57 46n39 0 00 Ober Lager
+N-- - 8e05 46n40 0 00 Oberlager
+N-- - 9e51 46n51 0 00 Ober-Laret
+N-- - 8e23 47n18 0 00 Oberlunkhofen
+N-- - 8e23 46n51 0 00 Obermatt
+N-- - 8e47 47n36 0 00 Oberneuforn
+V-- - 7e42 47n10 0 00 Ober Oenz
+N-- - 7e42 47n10 0 00 Oberonz
+N-- - 7e28 46n47 0 00 Ober-Plotsch
+N-- - 7e49 46n59 0 00 Ober Ramis
+N-- - 8e25 46n53 0 00 Oberrickenbach
+N-- - 7e28 46n25 0 00 Oberried
+N-- - 7e57 46n44 0 00 Oberried
+V-- - 9e34 47n19 0 00 Oberried
+N-- - 8e34 47n16 0 00 Oberrieden
+N-- - 9e34 47n19 0 00 Oberriet
+N-- - 7e19 46n36 0 00 Ober Rohrmoos
+N-- - 8e23 47n10 0 00 Oberruti
+N-- - 9e06 46n45 0 00 Obersaxen
+N-- - 9e35 46n55 0 00 Ober-Says
+N-- - 8e42 47n40 0 00 Ober-Schlatt
+N-- - 8e51 47n28 0 00 Oberschlatt
+N-- - 8e39 47n00 0 00 Oberschonenbuch
+N-- - 8e15 47n16 0 00 Ober-Schongau
+N-- - 7e16 46n44 0 00 Oberschrot
+N-- - 9e16 46n59 0 00 Ober Siez
+V-- 7400 8e19 47n30 0 01 Ober-Siggental
+N-- 7400 8e19 47n30 0 01 Obersiggenthal
+N-- - 8e09 46n43 0 00 Ober Stafel
+N-- - 9e06 46n54 0 00 Ober Stafel
+N-- - 9e00 46n57 0 00 Ober Staffel
+N-- - 8e47 47n39 0 00 Ober-Stammheim
+N-- - 7e33 46n43 0 00 Oberstocken
+N-- - 9e15 47n05 0 00 Oberterzen
+V-- - 8e23 46n48 0 00 Ober Trubsee Alm
+N-- - 8e23 46n48 0 00 Ober Trubsee Alp
+N-- - 9e22 46n41 0 00 Ober Tschappina
+N-- - 7e26 46n54 0 00 Oberulmiz
+N-- - 8e25 47n23 0 00 Ober Urdorf
+N-- - 9e07 47n26 0 00 Oberuzwil
+N-- - 9e32 46n42 0 00 Obervaz
+N-- - 8e20 46n32 0 00 Oberwald
+N-- - 7e21 46n55 0 00 Ober-Wangen
+N-- - 8e58 47n26 0 00 Oberwangen
+N-- - 8e24 47n30 0 00 Oberweningen
+NX- - 8e47 47n20 0 00 Ober-Wetzikon
+N-- - 7e24 47n07 0 00 Oberwil
+N-- - 7e26 46n39 0 00 Oberwil
+N-- - 7e33 47n31 0 00 Oberwil
+N-- - 8e23 47n20 0 00 Oberwil
+N-- - 8e11 46n52 0 00 Oberwilen
+N-- - 7e21 46n58 0 00 Ober-Wohlen
+N-- - 7e38 46n47 0 00 Oberzelg
+N-- - 8e25 47n16 0 00 Obfelden
+N-- - 9e09 47n07 0 00 Obstalden
+N-- - 7e44 47n09 0 00 Ochlenberg
+N-- - 8e52 47n04 0 00 Ochsenboden
+N-- - 7e05 47n21 0 00 Ocourt
+N-- - 7e44 47n17 0 00 Oensingen
+V-- - 7e42 47n10 0 00 Oenz
+NX- - 8e33 47n25 0 00 Oerlikon
+N-- - 7e37 47n07 0 00 Oeschberg
+N-- - 8e43 47n16 0 00 Oetwil am See
+N-- - 8e24 47n26 0 00 Oetwil an der Limmat
+N-- - 7e35 46n40 0 00 Oey
+N-- 9900 7e55 47n19 0 01 Oftringen
+N-- - 7e57 47n10 0 00 Ohmstal
+N-- - 7e03 47n51 0 00 Oleyres
+N-- - 8e57 46n32 0 00 Olivone
+N-- - 7e00 46n18 0 00 Ollon
+N-- - 7e55 47n21 0 00 Olten
+N-- 15700 6e06 46n11 0 07 Onex
+N-- - 7e03 46n47 0 00 Onnens
+N-- - 6e42 46n51 0 00 Onnens
+V-- - 7e44 47n17 0 00 Onsingen
+N-- - 8e35 47n26 0 00 Opfikon
+N-- - 6e42 46n43 0 00 Oppens
+V-- - 10e20 46n38 0 00 Orasom Cierfs
+N-- - 6e32 46n43 0 00 Orbe
+N-- - 8e39 46n34 0 00 Orello
+N-- - 7e52 47n28 0 00 Ormalingen
+N-- - 6e48 46n34 0 00 Oron-la-ville
+V-- - 7e18 47n08 0 00 Orpond
+N-- - 7e18 47n08 0 00 Orpund
+V-- - 8e36 46n38 0 00 Orsera
+N-- - 7e09 46n02 0 00 Orsieres
+N-- - 6e59 46n43 0 00 Orsonnens
+N-- - 8e57 46n54 0 00 Orthalden
+N-- - 7e12 47n10 0 00 Orvin
+N-- - 8e47 46n29 0 00 Osco
+N-- - 8e59 46n19 0 00 Osogna
+N-- - 8e43 47n37 0 00 Ossingen
+N-- - 8e29 47n40 0 00 Osterfingen
+N-- - 7e29 46n57 0 00 Ostermundigen
+N-- - 8e23 47n28 0 00 Otelfingen
+N-- - 8e13 47n24 0 00 Othmarsingen
+N-- - 8e24 47n17 0 00 Ottenbach
+N-- - 6e38 46n31 0 00 Ouchy
+N-- - 7e10 46n12 0 00 Ovronnaz
+N-- - 6e41 46n42 0 00 Pailly
+N-- - 8e38 46n09 0 00 Palagnedra
+N-- - 6e50 46n33 0 00 Palezieux
+N-- - 6e26 46n35 0 00 Pampigny
+N-- - 7e01 46n18 0 00 Panex
+N-- - 9e07 46n49 0 00 Panix
+N-- - 9e46 46n56 0 00 Pany
+N-- - 7e29 46n58 0 00 Papiermuhle
+N-- - 9e05 46n38 0 00 Pardatsch
+N-- - 8e51 46n39 0 00 Parde
+N-- - 9e33 46n46 0 00 Parpan
+N-- - 9e51 46n59 0 00 Partnun
+N-- - 9e27 46n45 0 00 Paspels
+N-- - 6e40 46n30 0 00 Paudex
+N-- - 6e56 46n49 0 00 Payerne
+N-- - 8e39 46n24 0 00 Peccia
+N-- - 9e01 45n50 0 00 Pedrinate
+N-- - 9e12 46n43 0 00 Peiden Bad
+N-- - 9e40 46n50 0 00 Peist
+N-- - 6e33 46n48 0 00 Peney
+N-- - 6e44 46n37 0 00 Peney-le-Jorat
+N-- - 6e32 46n37 0 00 Penthalaz
+N-- - 8e22 47n07 0 00 Perlen
+N-- - 7e21 47n17 0 00 Perrefitte
+N-- - 6e22 46n28 0 00 Perroy
+N-- - 8e54 46n22 0 00 Personico
+N-- - 9e09 46n14 0 00 Pertise
+N-- - 7e15 47n12 0 00 Pery
+N-- - 6e53 46n59 0 00 Peseux
+N-- - 9e30 46n59 0 00 Pfafers Drof
+N-- - 7e25 46n38 0 00 Pfaffenried
+N-- - 8e36 46n43 0 00 Pfaffensprung
+V-- - 8e37 47n22 0 00 Pfaffhusen
+N-- - 8e46 47n12 0 00 Pfaffikon
+N-- - 8e47 47n22 0 00 Pfaffikon
+N-- - 7e54 47n14 0 00 Pfaffnau
+N-- - 8e11 47n15 0 00 Pfeffikon
+N-- - 7e35 47n27 0 00 Pfeffingen
+N-- - 8e37 47n22 0 00 Pffaffhausen
+N-- - 8e38 47n31 0 00 Pfungen
+N-- - 8e58 47n36 0 00 Pfyn
+N-- - 9e03 46n05 0 00 Piandera
+N-- - 9e02 46n10 0 00 Pianezzo
+N-- - 8e31 46n17 0 00 Piano
+N-- - 9e14 46n25 0 00 Pian San Giacomo
+N-- - 8e34 46n27 0 00 Piatto
+N-- - 8e49 46n08 0 00 Piazzogna
+N-- - 7e20 47n11 0 00 Pieterlen
+V-- - 9e26 46n37 0 00 Pignia
+N-- - 9e26 46n37 0 00 Pignieu
+N-- - 8e41 46n32 0 00 Piora
+N-- - 8e41 46n31 0 00 Piotta
+N-- - 9e13 46n43 0 00 Pitasch
+N-- - 7e17 46n45 0 00 Plaffeien
+N-- - 9e35 46n22 0 00 Planacc
+V-- - 9e35 46n22 0 00 Planacc
+N-- - 7e08 45n54 0 00 Plan-de-la-Chaux
+N-- - 7e16 46n11 0 00 Plan Fey
+N-- - 9e35 46n30 0 00 Plang
+N-- 4900 6e07 46n10 0 07 Plan-les-Ouates
+V-- 4900 6e07 46n10 0 07 Plan-les-Ouattes
+N-- - 7e17 46n02 0 00 Plan Pro
+N-- - 7e15 46n44 0 00 Plasselb
+N-- - 8e51 46n39 0 00 Platta
+V-- - 9e11 46n37 0 00 Platz
+N-- - 8e00 47n00 0 00 Plaun dils Matts
+N-- - 9e38 46n34 0 00 Plaz Beischen
+N-- - 7e17 47n24 0 00 Pleigne
+N-- - 7e07 46n15 0 00 Pont-de-Nant
+N-- - 9e55 46n35 0 00 Ponte
+N-- - 8e45 46n11 0 00 Ponte Brolla
+V-- - 9e55 46n35 0 00 Ponte Campovasto
+V-- - 8e56 46n29 0 00 Ponte Valentino
+N-- - 7e02 46n49 0 00 Ponthaux
+N-- - 9e02 46n23 0 00 Pontirone
+N-- - 8e56 46n29 0 00 Ponto Valentino
+N-- - 9e54 46n29 0 00 Pontresina
+N-- - 7e05 47n25 0 00 Porrentruy
+N-- - 6e52 46n36 0 00 Porsel
+V-- - 6e57 46n55 0 00 Portalban
+N-- - 6e57 46n55 0 00 Portalban- Dessous
+N-- - 6e12 46n16 0 00 Port-de-Corsier
+N-- - 8e44 46n08 0 00 Porto Ronco
+N-- - 6e52 46n22 0 00 Port-Valais
+N-- - 10e03 46n20 0 00 Poschiavo
+V-- - 7e26 46n19 0 00 Pra Combeira
+N-- - 7e26 46n19 0 00 Pra Combera
+N-- - 10e04 46n19 0 00 Prada
+N-- - 10e19 46n48 0 00 Pradella
+N-- - 9e34 46n49 0 00 Praden
+VX- - 9e35 46n50 0 00 Praden bei Chur
+V-- - 9e34 46n49 0 00 Praden bei Chur
+N-- - 7e32 46n04 0 00 Prafloric
+N-- - 9e43 46n56 0 00 Pragmartin
+N-- - 7e24 46n07 0 00 Pralong
+N-- - 7e30 46n05 0 00 Pralovin
+N-- - 9e31 46n54 0 00 Pramieisters
+N-- - 6e15 46n24 0 00 Prangins
+N-- - 7e16 46n09 0 00 Prarion
+N-- - 7e11 46n45 0 00 Praroman
+N-- - 8e45 46n28 0 00 Prato
+N-- - 7e41 47n31 0 00 Pratteln
+N-- - 7e06 46n57 0 00 Praz
+N-- - 9e24 46n44 0 00 Praz
+N-- - 7e08 45n59 0 00 Praz-de-Fort
+V-- - 7e32 46n04 0 00 Prazfleuri
+N-- - 9e46 46n35 0 00 Preda
+N-- - 8e58 46n02 0 00 Pregassona
+N-- - 6e09 46n14 0 00 Pregny
+N-- - 7e15 47n12 0 00 Preles
+N-- - 6e15 46n14 0 00 Presinge
+NX- - 6e10 46n12 0 00 Prieure
+N-- - 6e35 46n32 0 00 Prilly
+N-- - 7e24 46n09 0 00 Prolin
+N-- - 9e34 46n20 0 00 Promontogno
+N-- - 8e59 46n17 0 00 Prosito
+N-- - 6e43 46n53 0 00 Provence
+N-- - 8e55 46n28 0 00 Prugiasco
+V-- - 7e05 47n25 0 00 Pruntrut
+N-- - 6e47 46n30 0 00 Puidoux
+N-- - 6e39 46n31 0 00 Pully
+N-- 2200 6e14 46n12 0 07 Puplinge
+N-- - 8e52 45n58 0 00 Pura
+N-- - 8e55 46n25 0 00 Pusced di Sopra
+N-- - 8e45 46n22 0 00 Puscen Negro
+N-- - 9e42 46n59 0 00 Pusserein
+N-- - 9e15 47n06 0 00 Quarten
+N-- - 8e53 46n09 0 00 Quartino
+N-- - 9e13 47n07 0 00 Quinten
+N-- - 8e43 46n31 0 00 Quinto
+N-- - 8e57 46n42 0 00 Rabius
+N-- - 7e16 47n01 0 00 Radelfingen
+N-- - 9e33 46n34 0 00 Radons
+N-- - 8e32 47n37 0 00 Rafz
+V-- - 9e30 47n00 0 00 Ragaz
+N-- - 8e48 47n27 0 00 Ramismuhle
+N-- - 7e39 47n21 0 00 Ramiswil
+N-- - 8e49 47n42 0 00 Ramsen
+N-- - 6e32 46n46 0 00 Rances
+N-- - 7e48 46n06 0 00 Randa
+N-- - 7e30 46n19 0 00 Randogne
+N-- - 7e45 46n59 0 00 Ranfluh
+N-- - 7e52 46n20 0 00 Ranft
+N-- - 8e16 46n52 0 00 Ranft
+N-- - 9e02 47n38 0 00 Raperswilen
+N-- - 7e24 47n03 0 00 Rapperswil
+N-- - 8e49 47n13 0 00 Rapperswil
+N-- - 7e48 46n18 0 00 Raron
+N-- - 8e20 46n35 0 00 Raterichsboden
+N-- - 8e48 47n30 0 00 Raterschen
+N-- - 7e26 46n51 0 00 Ratzenberg
+N-- - 8e30 46n36 0 00 Realp
+N-- - 9e25 46n45 0 00 Realta
+N-- - 9e35 46n37 0 00 Reams
+N-- - 9e35 47n24 0 00 Rebstein
+N-- - 7e15 46n46 0 00 Rechthalten
+N-- - 8e14 46n28 0 00 Reckingen
+N-- - 7e13 47n14 0 00 Reconvilier
+V-- - 6e14 46n23 0 00 Redoute
+N-- - 8e26 47n29 0 00 Regensberg
+N-- - 8e28 47n26 0 00 Regensdorf
+N-- - 9e29 47n25 0 00 Rehetobel
+N-- - 9e24 46n50 0 00 Reichenau
+N-- - 7e42 46n37 0 00 Reichenbach
+N-- - 8e59 47n10 0 00 Reichenburg
+N-- - 7e58 47n15 0 00 Reiden
+N-- - 7e41 47n24 0 00 Reigoldswil
+N-- 6800 8e11 47n16 0 01 Reinach
+N-- - 9e27 46n38 0 00 Reischen
+N-- - 8e19 47n34 0 00 Rekingen
+N-- - 8e54 47n08 0 00 Rempen
+N-- - 10e23 46n50 0 00 Remus
+N-- - 6e55 47n07 0 00 Renan
+N-- - 6e35 46n32 0 00 Renens
+V-- - 7e15 47n11 0 00 Reuchenette
+N-- - 7e15 46n22 0 00 Reusch
+N-- - 7e37 46n42 0 00 Reutigen
+N-- - 9e24 46n48 0 00 Rhazuns
+N-- - 8e36 47n38 0 00 Rheinau
+N-- - 9e35 47n28 0 00 Rheineck
+N-- 9800 7e47 47n33 0 01 Rheinfelden
+N-- - 7e04 46n38 0 00 Riaz
+N-- - 7e50 47n34 0 00 Riburg
+V-- - 7e56 47n13 0 00 Richental
+N-- - 7e56 47n13 0 00 Richenthal
+N-- - 7e35 46n54 0 00 Richigen
+N-- - 8e54 47n01 0 00 Richisau
+N-- - 8e42 47n13 0 00 Richterswil
+N-- - 9e02 47n16 0 00 Ricken
+N-- - 8e48 47n33 0 00 Rickenbach
+N-- - 9e03 47n27 0 00 Rickenbach
+N-- - 7e14 46n10 0 00 Riddes
+N-- - 7e11 46n57 0 00 Ried
+N-- - 7e45 46n02 0 00 Ried
+N-- - 8e01 46n19 0 00 Ried
+N-- - 8e10 46n26 0 00 Ried
+N-- - 7e20 46n56 0 00 Riedbach
+V-- - 7e44 46n56 0 00 Riedbargli
+V-- - 7e44 46n56 0 00 Riedberg
+N-- - 7e44 46n56 0 00 Riedbergli
+V-- - 7e22 46n57 0 00 Riederen
+N-- - 7e22 46n57 0 00 Riedern
+N-- - 7e34 47n13 0 00 Riedholz
+N-- - 7e31 46n37 0 00 Riedli
+N-- - 8e44 46n54 0 00 Riedlig
+N-- - 7e19 46n47 0 00 Riedstatt
+N-3 - 8e10 52n53 0 04 Riehen
+N-- - 9e14 46n44 0 00 Riein
+N-- - 8e40 46n57 0 00 Riemenstalden
+N-- - 7e21 46n46 0 00 Riffenmatt
+N-- - 7e28 46n48 0 00 Riggisberg
+N-- - 8e28 47n03 0 00 Rigi Kaltbad
+V-- - 8e29 47n03 0 00 Rigi-Kulm
+N-- - 8e47 47n27 0 00 Rikon
+N-- - 7e54 46n42 0 00 Ringgenberg
+N-- - 9e00 46n44 0 00 Ringgenberg
+N-- - 7e31 46n39 0 00 Ringoldingen
+V-- - 9e00 46n44 0 00 Rinkenberg
+V-- - 9e35 46n37 0 00 Riom
+N-- - 7e20 46n25 0 00 Risch
+V-- - 7e52 46n15 0 00 Riti
+V-- - 7e55 46n17 0 00 Riti
+N-- - 7e52 46n15 0 00 Ritti
+N-- - 7e55 46n17 0 00 Ritti
+N-- - 8e14 46n27 0 00 Ritzingen
+V-- - 8e44 46n08 0 00 Riva
+N-- - 8e58 45n54 0 00 Riva San Vitale
+N-- - 7e10 46n00 0 00 Rive Haute
+N-- - 8e38 46n17 0 00 Riveo
+V-- - 8e56 46n06 0 00 Rivera-Bironico
+N-- - 8e55 46n08 0 00 Robasacco
+N-- - 6e55 46n22 0 00 Roche
+N-- - 7e23 47n18 0 00 Roches
+N-- - 9e26 46n44 0 00 Rodels
+N-- - 7e27 47n29 0 00 Rodersdorf
+N-- - 8e44 46n29 0 00 Rodi
+N-- - 9e25 46n35 0 00 Rofflaschlucht
+N-- - 9e37 46n33 0 00 Roffna
+V-- - 9e25 46n35 0 00 Roflaschlucht
+N-- - 7e49 47n14 0 00 Roggwil
+N-- - 9e23 47n30 0 00 Roggwil
+N-- 2400 7e57 47n24 0 01 Rohr
+N-- - 7e48 47n08 0 00 Rohrbach
+V-- 2500 8e18 47n25 0 01 Rohrdorf
+N-- - 8e12 46n43 0 00 Rohrmatten
+N-- - 6e20 46n28 0 00 Rolle
+N-- - 6e28 46n42 0 00 Romainmotier
+N-- - 6e31 46n33 0 00 Romanel
+N-- - 6e36 46n34 0 00 Romanel
+V-- - 6e36 46n34 0 00 Romanel-sur-Lausanne
+N-- - 9e23 47n34 0 00 Romanshorn
+N-- - 7e11 46n47 0 00 Romerswil
+N-- - 8e14 47n10 0 00 Romerswil
+N-- - 6e55 46n42 0 00 Romont
+V-- - 9e37 46n33 0 00 Rona
+N-- - 9e02 45n55 0 00 Roncapiano
+N-- - 8e30 46n30 0 00 Ronco
+N-- - 8e44 46n09 0 00 Ronco
+V-- - 8e44 46n09 0 00 Ronco sopra Ascona
+N-- - 7e15 47n11 0 00 Rondchatel
+N-- - 9e26 46n40 0 00 Rongellen
+N-- - 8e23 47n05 0 00 Root
+N-- - 6e45 46n37 0 00 Ropraz
+N-- - 8e35 47n32 0 00 Rorbas
+N-- - 9e30 47n28 0 00 Roschach
+N-- - 7e27 47n26 0 00 Roschenz
+N-- - 7e31 47n13 0 00 Rosegg
+N-- - 9e08 46n22 0 00 Rossa
+N-- - 7e06 46n43 0 00 Rossens
+N-- - 7e16 46n55 0 00 Rosshausern
+N-- - 7e05 46n28 0 00 Rossiniere
+N-- - 8e50 46n28 0 00 Rossura
+V-- - 9e25 46n46 0 00 Rotenbrunnen
+V-- - 8e41 47n06 0 00 Rotenturm
+N-- - 7e34 46n37 0 00 Rothbad
+N-- - 7e44 46n51 0 00 Rothenbach
+V-- - 9e25 46n46 0 00 Rothenbrummen
+N-- - 9e25 46n46 0 00 Rothenbrunnen
+N-- - 8e41 47n06 0 00 Rothenthurm
+N-- - 8e16 47n06 0 00 Rothernburg
+N-- 6700 7e54 47n18 0 01 Rothrist
+V-- 6700 7e54 47n18 0 01 Rothrist-Dorf
+N-- - 9e38 46n22 0 00 Roticcio
+N-- - 8e26 47n09 0 00 Rotkreuz
+N-- - 8e37 46n17 0 00 Rotonda
+V-- - 9e38 46n22 0 00 Rotticcio
+V-- - 8e37 46n17 0 00 Rotunda
+N-- - 7e13 46n29 0 00 Rougemont
+V-- - 9e08 46n14 0 00 Roverdo
+N-- - 9e08 46n14 0 00 Roveredo
+N-- - 8e59 45n55 0 00 Rovio
+N-- - 6e46 46n47 0 00 Rovray
+N-- - 7e32 46n54 0 00 Rubigen
+V-- - 8e08 46n12 0 00 Ruden
+N-- - 7e44 46n59 0 00 Ruderswil
+N-- - 8e34 47n35 0 00 Rudlingen
+N-- 3800 8e23 47n22 0 01 Rudolfstetten
+N-- - 6e49 46n37 0 00 Rue
+N-- - 7e26 46n49 0 00 Rueggisberg
+N-- - 8e41 46n45 0 00 Rueras
+V-- - 7e24 46n47 0 00 Rueschegg
+N-- - 9e09 46n47 0 00 Rueun
+N-- - 6e57 46n39 0 00 Rueyres
+N-- - 9e03 47n11 0 00 Rufi
+N-- - 9e09 46n46 0 00 Ruis
+N-- - 8e22 47n34 0 00 Rumikon
+N-- - 8e32 47n27 0 00 Rumlang
+N-- - 7e53 47n26 0 00 Runenberg
+N-- - 9e30 47n23 0 00 Ruppen
+N-- 3300 8e08 47n25 0 01 Rupperswil
+N-- - 7e24 46n47 0 00 Ruschegg
+N-- - 7e24 46n48 0 00 Ruschegg-Graben
+N-- - 9e12 46n47 0 00 Ruschein
+N-- - 8e33 47n18 0 00 Ruschlikon
+N-- - 8e46 47n23 0 00 Russikon
+N-- - 6e01 46n11 0 00 Russin
+N-- - 8e22 47n13 0 00 Rustenschwil
+N-- - 8e07 47n05 0 00 Ruswil
+N-- - 9e32 47n18 0 00 Ruthi
+N-- - 7e24 47n09 0 00 Ruti
+N-- - 8e51 47n15 0 00 Ruti
+N-- - 9e01 46n56 0 00 Ruti
+N-- - 8e36 46n58 0 00 Rutli
+N-- - 7e28 46n59 0 00 Rutti
+V-- - 7e50 47n34 0 00 Ryborg
+V-- - 7e50 47n34 0 00 Ryburg
+N-- - 7e15 46n29 0 00 Saanen
+N-- - 7e18 46n31 0 00 Saanenmoser
+N-- - 9e48 46n55 0 00 Saas
+N-- - 7e57 46n06 0 00 Saas-Almagel
+N-- - 7e55 46n09 0 00 Saas-Balen
+N-- - 7e55 46n07 0 00 Saas-Fee
+N-- - 7e56 46n07 0 00 Saas-Grund
+N-- - 8e34 46n22 0 00 Sabbione
+N-- - 8e14 46n52 0 00 Sachseln
+V-- - 7e19 46n10 0 00 Saclens
+N-- - 7e19 46n10 0 00 Saclentse
+V-- 6400 6e08 46n14 0 07 Saconnex
+N-- - 7e59 47n19 0 00 Safenwil
+N-- - 9e18 46n41 0 00 Safien Platz
+N-- - 8e10 46n21 0 00 Saflischmatten
+N-- - 7e33 46n36 0 00 Sage
+N-- - 7e47 46n47 0 00 Sage
+V-- - 9e50 46n46 0 00 Sage
+V-- - 9e15 46n48 0 00 Sagens
+V-- - 9e45 46n37 0 00 Saglia
+N-- - 9e45 46n37 0 00 Sagliaz
+N-- - 9e15 46n48 0 00 Sagogn
+N-- - 7e12 47n15 0 00 Saicourt
+N-- - 7e00 47n15 0 00 Saignelegier
+N-- - 7e11 46n10 0 00 Saillon
+N-- - 6e46 46n53 0 00 Saint-Aubin
+N-- - 6e58 46n54 0 00 Saint-Aubin
+N-- - 6e59 47n01 0 00 Saint-Blaise
+N-- - 7e07 47n18 0 00 Saint-Brais
+N-- - 6e10 46n27 0 00 Saint-Cergue
+V-- - 6e41 46n34 0 00 Saint Chalet a Gobet
+N-- - 6e30 46n49 0 00 Sainte-Croix
+VA2 - 9e24 47n28 0 15 Saint-Gall
+VA2 - 9e24 47n28 0 15 Saint Gallen
+N-- - 7e21 46n15 0 00 Saint-Germain
+V-- - 7e21 46n15 0 00 Saint German
+N-- - 6e48 46n23 0 00 Saint-Gingolph
+V-- - 8e37 46n37 0 00 Saint-Gothard
+V-- - 8e37 46n37 0 00 Saint Gotthard
+N-- - 7e00 47n09 0 00 Saint-Imier
+N-- - 7e35 46n12 0 00 Saint-Jean
+N-- - 7e25 46n15 0 00 Saint-Leonard
+N-- - 6e23 46n31 0 00 Saint-Livres
+N-- - 7e36 46n13 0 00 Saint-Luc
+N-- - 7e26 46n10 0 00 Saint-Martin
+V-- - 6e56 47n04 0 00 Saint-Martin-Chezard
+N-- - 7e00 46n13 0 00 Saint-Maurice
+C-- - 9e50 46n30 0 00 Saint Moritz
+V-- - 9e39 46n50 0 00 Saint Peter
+N-- - 7e14 46n11 0 00 Saint-Pierre-de-Clages
+N-- - 6e28 46n29 0 00 Saint-Prex
+N-- - 7e25 46n17 0 00 Saint-Romain
+N-- - 6e34 46n55 0 00 Saint-Sulpice
+N-- - 6e34 46n31 0 00 Saint-Sulpice
+N-- - 7e09 47n22 0 00 Saint-Ursanne
+N-- - 8e55 46n04 0 00 Sala
+N-- - 8e51 47n23 0 00 Saland
+N-- - 9e39 46n31 0 00 Salategnas
+N-- - 6e58 46n38 0 00 Sales
+N-- - 9e30 47n14 0 00 Salez
+N-- - 7e35 46n19 0 00 Salgesch
+V-- - 7e40 47n32 0 00 Saline
+N-- - 9e22 47n33 0 00 Salmsach
+V-- - 9e35 46n38 0 00 Salouf
+N-- - 9e35 46n38 0 00 Salux
+N-- - 7e01 46n07 0 00 Salvan
+N-- - 9e52 46n32 0 00 Samaden
+V-- - 8e39 46n28 0 00 Sambucco
+V-- - 8e39 46n28 0 00 Sambuco
+N-- - 8e39 46n28 0 00 Sambuco di Fuori
+V-- - 9e52 46n32 0 00 Samedan
+N-- - 10e21 46n56 0 00 Samnaun
+N-- - 8e41 47n12 0 00 Samstagern
+N-- - 9e12 46n27 0 00 San Bernardino
+N-- - 8e32 46n25 0 00 San Carlo
+N-- - 8e38 46n25 0 00 San Carlo
+N-- - 10e02 46n20 0 00 San Carlo
+VA2 - 9e24 47n28 0 15 San Gallo
+N-- - 7e21 46n43 0 00 Sangernboden
+V-- - 9e14 46n25 0 00 San Giacomo
+N-- - 8e50 46n37 0 00 San Gions
+N-- - 9e05 46n39 0 00 San Giusep
+N-- - 8e37 46n37 0 00 San Gottardo
+N-- - 7e16 46n49 0 00 Sankt Antoni
+N-- - 9e48 46n58 0 00 Sankt Antonien
+NX- - 9e23 47n26 0 00 Sankt Fiden
+NA2 - 9e24 47n28 0 15 Sankt Gallen
+N-- - 8e59 47n15 0 00 Sankt Gallenkappel
+N-- - 7e49 46n19 0 00 Sankt German
+V-- - 8e37 46n37 0 00 Sankt Gotthard
+N-- - 8e31 46n54 0 00 Sankt Jakob
+NX- - 7e34 47n37 0 00 Sankt Johann
+N-- - 9e37 47n27 0 00 Sankt Margrethen
+N-- - 9e11 46n40 0 00 Sankt Martin
+N-- - 9e21 46n55 0 00 Sankt Martin
+N-- - 9e50 46n30 0 00 Sankt Moritz
+N-- - 9e50 46n28 0 00 Sankt Moritz-Bad
+V-- - 9e50 46n30 0 00 Sankt Moritz-Dorf
+V-- - 9e50 46n30 0 00 Sankt Murezzan
+N-- - 7e48 46n10 0 00 Sankt Niklaus
+N-- - 7e32 47n14 0 00 Sankt Niklaus
+N-- - 9e39 46n50 0 00 Sankt Peter
+N-- - 9e11 47n19 0 00 Sankt Peterzell
+N-- - 7e24 46n31 0 00 Sankt Stephan
+N-- - 7e13 46n48 0 00 Sankt Ursen
+N-- - 8e48 46n08 0 00 San Nazzaro
+N-- - 9e07 46n21 0 00 Santa Domenica
+N-- - 9e08 46n16 0 00 Santa Maria
+N-- - 10e25 46n36 0 00 Santa Maria
+V-- - 9e08 46n16 0 00 Santa Maria in Cama
+N-- - 9e04 46n10 0 00 Sant'Antonio
+N-- - 9e07 46n14 0 00 San Vittore
+N-- - 7e10 46n08 0 00 Sapinhaut
+N-- - 10e00 46n52 0 00 Sardasca
+N-- - 9e26 47n03 0 00 Sargans
+N-- - 7e20 46n59 0 00 Sariswil
+N-- - 8e15 47n19 0 00 Sarmenstorf
+N-- - 9e24 46n44 0 00 Sarn
+NA4 - 8e14 46n54 0 14 Sarnen
+N-- 2300 6e02 46n13 0 07 Satigny
+N-- - 8e38 47n05 0 00 Sattel
+N-- - 6e46 46n53 0 00 Sauges
+N-- - 7e09 47n18 0 00 Saulcy
+N-- - 7e51 46n35 0 00 Saus Oberberg
+N-- - 7e01 46n13 0 00 Savatan
+N-- - 7e21 46n15 0 00 Saviese
+N-- - 6e44 46n33 0 00 Savigny
+N-- - 9e36 46n36 0 00 Savognin
+N-- - 8e55 46n01 0 00 Savosa Paese
+N-- - 9e27 47n14 0 00 Sax
+N-- - 7e50 46n38 0 00 Saxeten
+N-- - 7e11 46n09 0 00 Saxon
+N-- - 10e07 46n14 0 00 Scala
+N-- - 9e59 46n37 0 00 Scanfs
+N-- - 8e47 46n13 0 00 Sceresio
+N-- - 8e08 47n02 0 00 Schachen
+NA3 - 8e38 47n42 0 16 Schaffhausen
+N-- - 8e08 47n23 0 00 Schafisheim
+N-- - 8e20 46n43 0 00 Schaftelen
+V-- - 9e59 46n37 0 00 S-chanf
+N-- - 7e51 46n50 0 00 Schangnau
+N-- - 9e03 47n09 0 00 Schanis
+N-- - 9e28 46n43 0 00 Scharans
+N-- - 10e20 46n43 0 00 S-charl
+N-- - 7e54 46n53 0 00 Scharlig
+V-- - 7e54 46n53 0 00 Scharligbad
+N-- - 8e21 46n46 0 00 Scharmadlager
+N-- - 8e39 46n52 0 00 Schattdorf
+N-- - 9e49 46n49 0 00 Schatzalp
+N-- - 9e27 46n47 0 00 Scheid
+N-- - 7e33 47n20 0 00 Schelten
+N-- - 8e08 47n10 0 00 Schenkon
+N-- - 7e25 46n51 0 00 Scherliau
+N-- - 9e13 47n38 0 00 Scherzingen
+NX- - 7e38 46n45 0 00 Scherzligen
+N-- - 9e41 46n58 0 00 Schiers
+N-- - 8e06 46n56 0 00 Schimbergbad
+N-- - 8e42 47n10 0 00 Schindellegi
+V-- - 8e08 47n27 0 00 Schinznach
+N-- - 8e10 47n26 0 00 Schinznach Bad
+N-- - 8e08 47n27 0 00 Schinznach Dorf
+N-- - 8e42 47n40 0 00 Schlatt
+V-- - 8e51 47n28 0 00 Schlatt
+N-- - 9e24 47n21 0 00 Schlatt
+N-- - 8e45 47n40 0 00 Schlattingen
+N-- - 10e26 46n52 0 00 Schleins
+N-- - 8e29 47n45 0 00 Schleitheim
+N-- - 9e13 46n47 0 00 Schleuis
+N-- - 8e27 47n24 0 00 Schlieren
+N-- - 8e05 47n17 0 00 Schlossrued
+V-- - 9e33 46n50 0 00 Schlucht
+N-- - 9e33 46n50 0 00 Schluocht
+N-- - 9e45 46n42 0 00 Schmelzboden
+V-- - 9e45 46n42 0 00 Schmelzboden-Monstein
+N-- - 8e56 47n13 0 00 Schmerikon
+N-- - 7e15 46n52 0 00 Schmitten
+N-- - 9e40 46n41 0 00 Schmitten
+N-- - 7e23 47n06 0 00 Schnottwil
+VA3 - 8e38 47n42 0 16 Schofhausen
+N-- - 8e03 47n18 0 00 Schoftland
+N-- - 7e30 47n01 0 00 Schonbuhl
+N-- - 8e31 46n57 0 00 Schoneck
+V-- - 8e31 46n57 0 00 Schonegg
+N-- - 8e38 47n12 0 00 Schonenberg
+N-- - 9e11 47n31 0 00 Schonenberg
+N-- - 7e29 47n32 0 00 Schonenbuch
+N-- - 9e14 47n19 0 00 Schonengrund
+N-- - 8e00 47n22 0 00 Schonenwerd
+N-- - 8e15 47n16 0 00 Schongau
+N-- - 9e08 47n31 0 00 Schonholzerswilen
+N-- - 7e17 46n30 0 00 Schonried
+N-- - 7e59 47n10 0 00 Schotz
+N-- - 8e13 46n39 0 00 Schrattern
+V-- - 8e13 46n39 0 00 Schrattern Alpe
+N-- - 7e36 46n29 0 00 Schrickmatten
+N-- - 8e56 47n10 0 00 Schubelbach
+N-- - 9e44 46n59 0 00 Schuders
+N-- - 7e20 46n28 0 00 Schulh
+N-- - 10e18 46n48 0 00 Schuls
+N-- - 7e44 46n56 0 00 Schupbach
+N-- - 7e23 47n02 0 00 Schupfen
+N-- - 8e01 46n57 0 00 Schupfheim
+N-- - 9e54 46n44 0 00 Schurlialp
+N-- - 8e08 47n35 0 00 Schwaderloch
+N-- - 7e43 46n44 0 00 Schwanden
+N-- - 9e04 46n59 0 00 Schwanden
+N-- - 9e10 46n56 0 00 Schwandi
+N-- - 9e04 47n00 0 00 Schwandi
+N-- - 8e10 47n01 0 00 Schwarzenberg
+N-- - 7e20 46n50 0 00 Schwarzenburg
+N-- - 7e43 46n48 0 00 Schwarzenegg
+N-- - 8e19 46n45 0 00 Schwarzenthal
+V-- - 7e17 46n40 0 00 Schwarzseebad
+N-- - 7e25 46n43 0 00 Schwefelbergbad
+N-- - 7e40 47n32 0 00 Schweizerhalle
+N-- - 9e15 47n22 0 00 Schwellbrunn
+N-- - 7e42 46n45 0 00 Schwendi
+N-- - 7e53 46n43 0 00 Schwendi
+V-- - 8e07 46n54 0 00 Schwendibad
+N-- - 8e07 46n54 0 00 Schwendikaltbad
+NA3 - 8e39 47n01 0 17 Schwyz
+N-- - 8e55 46n32 0 00 Scona
+N-- - 10e18 46n48 0 00 Scuol
+NX- - 6e10 46n12 0 00 Secheron
+N-- - 6e56 46n45 0 00 Sedeilles
+N-- - 8e47 46n41 0 00 Sedrun
+NX- - 8e33 47n23 0 00 Seebach
+N-- - 7e40 47n09 0 00 Seeberg
+N-- - 7e18 47n02 0 00 Seedorf
+N-- - 8e36 46n53 0 00 Seedorf
+N-- - 8e46 47n21 0 00 Seegraben
+N-- - 8e35 46n58 0 00 Seelisberg
+N-- - 8e13 47n20 0 00 Seengen
+N-- - 8e38 47n01 0 00 Seewes
+N-- - 9e13 46n46 0 00 Seewis
+V-- - 9e38 46n59 0 00 Seewis Dorf
+V-- - 9e13 46n46 0 00 Seewis im Oberland
+N-- - 9e38 46n59 0 00 Seewis im Pratigau
+V-- - 9e38 46n59 0 00 Seewisi Pratigau
+N-- - 7e32 46n47 0 00 Seftigen
+N-- - 9e46 46n26 0 00 Segl-Maria
+V-- - 8e47 46n13 0 00 Seires
+N-- - 9e53 46n51 0 00 Selfranga
+N-- - 9e07 46n19 0 00 Selma
+N-- - 7e43 47n27 0 00 Seltisberg
+N-- - 7e26 47n12 0 00 Selzach
+N-- - 7e09 46n05 0 00 Sembrancher
+N-- - 8e59 46n11 0 00 Sementina
+N-- - 8e12 47n08 0 00 Sempach
+N-- - 6e56 46n35 0 00 Semsales
+N-- - 7e57 46n42 0 00 Sengg
+N-- - 8e45 47n28 0 00 Sennhof
+N-- - 9e30 47n16 0 00 Sennwald
+N-- - 10e20 46n49 0 00 Sent
+N-- - 8e09 47n21 0 00 Seon
+N-- - 10e25 46n51 0 00 Seraplana
+V-- - 9e50 46n53 0 00 Serneus
+V-- - 9e50 46n53 0 00 Serneus Dorf
+N-- - 6e54 46n58 0 00 Serrieres
+N-- - 9e51 46n44 0 00 Sertig Dofli
+N-- - 8e49 46n00 0 00 Sessa
+N-- - 9e09 46n47 0 00 Seth
+V-- - 7e20 47n03 0 00 Seuberg
+N-- - 8e44 47n32 0 00 Seuzach
+N-- - 9e29 47n07 0 00 Sevelen
+V-- - 9e13 46n46 0 00 Sevgein
+V-- - 9e13 46n46 0 00 Sevgiein
+N-- - 6e01 46n09 0 00 Sezegnin
+N-- - 8e30 47n43 0 00 Siblingen
+N-- - 8e54 47n11 0 00 Siebnen
+N-- - 9e09 47n37 0 00 Siegershausen
+V-- - 7e10 46n30 0 00 Siernes Picats
+N-- - 7e32 46n18 0 00 Sierre
+N-- - 8e55 46n05 0 00 Sigirino
+N-- - 8e22 47n33 0 00 Siglistorf
+N-- - 7e43 46n55 0 00 Signau
+N-- - 9e15 46n44 0 00 Signina
+N-- - 9e03 46n06 0 00 Signora
+N-- - 7e42 46n43 0 00 Sigriswil
+V-- - 8e35 47n11 0 00 Sihlbrucke
+V-- - 8e35 47n11 0 00 Sihlbrugg
+N-- - 8e35 47n11 0 00 Sihlbrugg Dorf
+N-- - 8e40 46n47 0 00 Silenen
+V-- - 9e27 46n42 0 00 Sils
+V-- - 9e46 46n26 0 00 Sils
+N-- - 9e27 46n42 0 00 Sils im Domleschg
+V-- - 9e46 46n26 0 00 Sils-Maria
+V-- - 9e47 46n27 0 00 Silvapiana
+N-- - 9e47 46n27 0 00 Silvaplana
+V-- - 9e47 46n27 0 00 Silvaplauna
+V-- - 10e02 46n52 0 00 Silvrettaegg
+N-- - 10e02 46n52 0 00 Silvrettahaus
+V-- - 10e02 46n52 0 00 Silvretta Hutte
+V-- - 8e03 46n11 0 00 Simpeln
+N-- - 8e03 46n11 0 00 Simplon Dorf
+N-- - 8e23 47n12 0 00 Sins
+NA3 - 7e21 46n14 0 22 Sion
+N-- - 9e00 47n28 0 00 Sirnach
+N-- - 7e11 47n02 0 00 Siselen
+N-- - 8e37 46n57 0 00 Sisikon
+N-- - 7e48 47n28 0 00 Sissach
+VA3 - 7e21 46n14 0 22 Sitten
+N-- - 6e52 46n40 0 00 Siviriez
+N-- - 9e13 46n21 0 00 Soazza
+N-- - 8e55 46n24 0 00 Sobrio
+N-- - 9e32 46n20 0 00 Soglio
+N-- - 8e59 46n30 0 00 Soja
+N-- - 8e47 46n10 0 00 Solduno
+VA3 - 7e31 47n14 0 18 Soleure
+V-- - 9e00 46n24 0 00 Solgone
+NA3 - 7e31 47n14 0 18 Solothurn
+N-- - 8e40 46n17 0 00 Someo
+N-- - 7e08 46n01 0 00 Somlaproz
+N-- - 7e51 47n27 0 00 Sommerau
+V-- - 9e17 47n34 0 00 Sommeri
+N-- - 10e03 46n18 0 00 Somprai
+N-- - 8e57 46n44 0 00 Somvix
+N-- - 7e11 47n12 0 00 Sonceboz
+N-- - 8e47 46n21 0 00 Sonogno
+N-- - 8e59 46n04 0 00 Sonvico
+N-- - 6e57 47n08 0 00 Sonvilier
+N-- - 9e05 46n59 0 00 Sool
+N-- - 6e03 46n08 0 00 Soral
+N-- - 8e01 46n50 0 00 Sorenberg
+N-- - 8e56 46n00 0 00 Sorengo
+N-- - 7e03 46n41 0 00 Sorens
+N-- - 8e53 46n07 0 00 Soresina
+N-- - 7e13 47n16 0 00 Sornetan
+N-- - 8e40 46n23 0 00 Sornico
+N-- - 9e11 46n17 0 00 Sorte
+N-- - 6e44 46n39 0 00 Sottens
+N-- - 7e03 47n18 0 00 Soubey
+N-- - 7e34 46n15 0 00 Soussillon
+N-- - 7e22 47n24 0 00 Soyhieres
+N-- - 7e53 46n46 0 00 Speicher
+N-- - 9e27 47n24 0 00 Speicher
+N-- - 7e41 46n41 0 00 Spiez
+N-- - 7e47 46n34 0 00 Spiggengrund
+N-- - 9e50 46n33 0 00 Spinas
+N-- - 8e44 46n53 0 00 Spiringen
+N-- - 8e53 46n53 0 00 Spitelruti
+N-- - 7e53 46n58 0 00 Spitzenhaus
+V-- - 9e19 46n33 0 00 Spluga
+N-- - 9e19 46n33 0 00 Splugen
+N-- - 9e32 46n43 0 00 Sporz
+N-- - 8e22 47n25 0 00 Spreitenbach
+N-- - 8e34 46n12 0 00 Spruga
+N-- - 9e15 46n24 0 00 Stabbio
+N-- - 8e56 45n51 0 00 Stabio
+N-- - 9e00 46n56 0 00 Stachelberg Bad
+N-- - 8e27 47n32 0 00 Stadel
+N-- - 8e43 47n14 0 00 Stafa
+N-- - 7e41 46n00 0 00 Stafel
+N-- - 9e30 46n40 0 00 Stafel
+N-- - 9e47 46n46 0 00 Stafel Alp
+V-- - 9e09 46n37 0 00 Stafelten
+N-- - 9e09 46n37 0 00 Stafelti
+V-- - 7e41 46n00 0 00 Staffelalp
+N-- - 8e03 47n16 0 00 Staffelbach
+N-- - 7e37 46n52 0 00 Stalden
+N-- - 7e52 46n14 0 00 Stalden
+N-- - 8e14 46n53 0 00 Stalden
+N-- - 7e53 46n13 0 00 Staldenried
+V-- - 9e39 46n28 0 00 Stalla
+N-- - 7e33 47n31 0 00 Stallen
+N-- - 8e29 47n19 0 00 Stallikon
+N-- - 8e47 47n39 0 00 Stammheim
+N-- - 9e34 46n20 0 00 Stampa
+NA4 - 8e21 46n58 0 13 Stans
+N-- - 8e20 46n58 0 00 Stansstad
+N-- - 9e28 46n31 0 00 Starlera
+V-- - 8e55 47n23 0 00 Starnebarg
+N-- - 8e10 47n23 0 00 Staufen
+N-- - 9e06 46n41 0 00 Staviala Vedra
+N-- - 7e54 46n33 0 00 Stechelberg
+N-- - 8e59 47n40 0 00 Steckborn
+N-- - 7e38 46n47 0 00 Steffisburg
+N-- - 8e56 47n21 0 00 Steg
+N-- - 7e57 47n32 0 00 Stein
+N-- - 8e25 46n44 0 00 Stein
+N-- - 9e20 47n23 0 00 Stein
+V-- - 8e25 46n44 0 00 Steinalp
+N-- - 8e51 47n39 0 00 Stein am Rhein
+N-- - 8e36 47n03 0 00 Steinen
+N-- - 7e46 46n33 0 00 Steinenberg
+N-- - 8e35 47n03 0 00 Steinerberg
+N-- - 7e20 46n50 0 00 Steinhaus
+N-- - 8e10 46n25 0 00 Steinhaus
+N-- - 8e28 47n12 0 00 Steinhausen
+N-- - 9e08 46n55 0 00 Steinibach
+N-- - 8e55 47n23 0 00 Sternenberg
+N-- - 8e57 47n32 0 00 Stettfurt
+N-- - 7e32 46n57 0 00 Stettlen
+V-- - 9e32 46n40 0 00 Stierva
+N-- - 8e12 47n31 0 00 Stilli
+N-- - 8e39 46n56 0 00 Stock
+V-- - 9e44 46n38 0 00 Stogl
+N-- - 8e40 46n59 0 00 Stoos
+N-- - 9e30 47n22 0 00 Stoss
+N-- - 7e24 46n47 0 00 Stossen
+N-- - 9e44 46n51 0 00 Strassberg
+N-- - 7e55 47n16 0 00 Strengelbach
+N-- - 7e25 46n58 0 00 Stuckishaus
+V-- - 9e44 46n38 0 00 Stugl
+N-- - 9e44 46n38 0 00 Stuls
+N-- - 9e32 46n40 0 00 Sturvis
+N-- - 7e20 47n03 0 00 Suberg
+N-- - 7e37 47n12 0 00 Subingen
+N-- - 6e36 46n43 0 00 Suchy
+N-- - 7e45 46n49 0 00 Sudern
+N-- - 9e22 46n34 0 00 Sufers
+N-- - 7e06 46n58 0 00 Sugiez
+N-- - 8e05 47n22 0 00 Suhr
+N-- - 9e11 47n32 0 00 Sulgen
+N-- - 9e00 46n24 0 00 Sulgone
+N-- - 9e59 46n38 0 00 Sulsana
+V-- - 9e59 46n38 0 00 Sulsanna
+V-- - 9e59 46n38 0 00 Sulsauna
+N-- - 8e06 47n32 0 00 Sulz
+N-- - 8e30 46n54 0 00 Sulzthal
+N-- - 7e44 47n02 0 00 Sumiswald
+N-- - 7e47 46n41 0 00 Sundlauenen
+N-- - 10e06 46n23 0 00 Suracqua
+N-- - 9e37 46n40 0 00 Surava
+V-- - 9e09 46n45 0 00 Surcuolm
+N-- - 10e10 46n46 0 00 Suren
+N-- - 9e48 46n27 0 00 Surlej
+N-- - 9e06 46n40 0 00 Surrhin
+N-- - 8e06 47n10 0 00 Sursee
+N-- - 10e05 46n45 0 00 Sus
+V-- - 9e59 46n38 0 00 Susauna
+N-- - 7e13 46n48 0 00 Tafers
+N-- - 9e07 47n39 0 00 Tagerwilen
+N-- - 9e04 46n12 0 00 Tagliada
+N-- - 9e24 46n50 0 00 Tamins
+N-- - 6e50 46n21 0 00 Tanay
+V-- - 6e50 46n21 0 00 Taney
+V-- - 8e54 47n29 0 00 Taniken
+N-- - 8e54 47n29 0 00 Tanikon
+N-- - 8e51 47n16 0 00 Tann
+V-- - 6e50 46n21 0 00 Tannay
+N-- - 8e20 46n46 0 00 Tannen
+V-- - 8e20 46n46 0 00 Tannen Alpe
+N-- - 10e15 46n47 0 00 Tarasp
+N-- - 9e25 46n43 0 00 Tartar
+N-- - 9e32 46n57 0 00 Tarviersch
+N-- - 7e46 46n04 0 00 Tasch
+N-- - 7e12 47n04 0 00 Tauffelen
+N-- - 9e03 46n45 0 00 Tavanasa
+N-- - 7e12 47n13 0 00 Tavannes
+N-- - 8e56 46n04 0 00 Taverne
+N-- - 7e07 46n18 0 00 Taveyannaz
+N-- - 7e53 47n27 0 00 Tecknau
+N-- - 8e17 47n34 0 00 Tegerfelden
+N-- - 8e44 46n11 0 00 Tegna
+N-- - 8e51 46n11 0 00 Tenero
+N-- - 8e58 46n41 0 00 Tenigerbad
+N-- - 9e20 46n45 0 00 Tenna
+N-- - 8e01 46n20 0 00 Termen
+N-- - 6e56 46n25 0 00 Territet
+N-- - 8e58 46n04 0 00 Tesserete
+N-- - 9e23 47n23 0 00 Teufen
+N-- - 8e33 47n33 0 00 Teufen
+V-- - 8e07 47n20 0 00 Teufental
+N-- - 8e07 47n20 0 00 Teufenthal
+N-- - 7e42 46n46 0 00 Teuffenthal
+N-- - 9e35 46n31 0 00 Tga
+N-- - 9e32 46n43 0 00 Tgantieni
+N-- - 9e17 46n38 0 00 Thal
+N-- - 8e06 47n26 0 00 Thalheim
+N-- - 8e45 47n34 0 00 Thalheim
+V-- - 9e17 46n38 0 00 Thalkirch
+N-- - 8e34 47n17 0 00 Thalwil
+N-- - 8e42 47n44 0 00 Thayngen
+V-- - 8e01 46n20 0 00 Thermen
+N-- - 7e33 47n30 0 00 Therwil
+N-- - 7e02 47n02 0 00 Thielle
+N-- - 7e34 46n45 0 00 Thierachern
+N-- - 6e45 46n42 0 00 Thierrens
+N-- 10200 6e10 46n11 0 07 Thonex
+N-- - 7e34 47n00 0 00 Thorberg
+N-- - 7e21 46n54 0 00 Thorishaus
+N-3 - 7e37 46n45 0 05 Thun
+N-- - 8e58 47n32 0 00 Thundorf
+N-- - 7e35 47n12 0 00 Thunstetten
+N-- - 9e26 46n41 0 00 Thusis
+N-- - 8e28 46n35 0 00 Tiefenbach
+N-- - 9e35 46n39 0 00 Tiefencastel
+V-- - 7e34 46n45 0 00 Tierachern
+N-- - 7e30 46n35 0 00 Tiermatti
+V-- - 9e37 46n35 0 00 Tinizong
+V-- - 9e37 46n35 0 00 Tinizung
+N-- - 9e37 46n35 0 00 Tinzen
+N-- - 7e43 47n24 0 00 Titterten
+N-- - 9e02 47n31 0 00 Tobel
+N-- - 7e29 46n52 0 00 Toffen
+N-- - 9e27 46n46 0 00 Tomils
+N-- - 7e51 46n15 0 00 Torbel
+N-- - 8e57 46n29 0 00 Torre
+N-- - 7e18 46n07 0 00 Tortin
+NX- - 8e42 47n30 0 00 Toss
+N-- - 8e50 47n26 0 00 Tossegg
+N-- - 8e32 47n34 0 00 Tossriedern
+V-- - 7e04 46n37 0 00 Tour de Treme
+N-- - 7e54 46n31 0 00 Trachsellauenen
+N-- - 7e44 47n01 0 00 Trachselwald
+N-- - 7e06 47n14 0 00 Tramelan
+N-- - 9e27 46n46 0 00 Trans
+N-- - 8e25 47n40 0 00 Trasadingen
+N-- - 6e41 46n56 0 00 Travers
+V-- - 9e12 46n40 0 00 Travesasch
+N-- - 9e12 46n40 0 00 Travisasch
+N-- - 8e35 46n58 0 00 Treib
+N-- - 6e12 46n25 0 00 Trelex
+N-- - 9e33 46n58 0 00 Tretsch
+N-- - 6e55 46n46 0 00 Trey
+N-- - 6e57 46n40 0 00 Treyfayes
+N-- - 7e08 46n44 0 00 Treyvaux
+N-- - 8e20 47n02 0 00 Tribschen
+N-- - 8e05 47n14 0 00 Triengen
+N-- - 7e00 46n03 0 00 Trient
+N-- - 7e54 47n22 0 00 Trimbach
+N-- - 9e33 46n54 0 00 Trimmis
+V-- - 9e33 46n54 0 00 Trimmis Dorf
+N-- - 7e34 46n54 0 00 Trimstein
+N-- - 9e21 46n50 0 00 Trins
+V-- - 9e21 46n50 0 00 Trins Dorf
+N-- - 9e20 46n50 0 00 Trinsermuhle
+N-- - 9e28 47n24 0 00 Trogen
+N-- - 6e55 46n13 0 00 Troistorrents
+N-- - 7e53 46n57 0 00 Trub
+N-- - 9e28 47n04 0 00 Trubbach
+N-- - 7e50 46n55 0 00 Trubschachen
+N-- - 8e41 47n38 0 00 Trullikon
+N-- - 8e59 46n45 0 00 Trun
+V-- - 8e59 46n45 0 00 Truns
+N-- - 8e42 46n39 0 00 Tschamut
+V-- - 9e22 46n41 0 00 Tschappina
+N-- - 7e33 46n30 0 00 Tschenten
+N-- - 9e36 46n49 0 00 Tschiertschen
+N-- - 7e38 46n20 0 00 Tschingeren
+N-- - 9e55 46n47 0 00 Tschuggen
+N-- - 8e56 47n12 0 00 Tuggen
+N-- - 9e48 46n39 0 00 Tuors Davant
+N-- - 9e17 46n38 0 00 Turahus
+V-- - 8e51 47n26 0 00 Turbental
+N-- - 8e51 47n26 0 00 Turbenthal
+N-- - 8e15 47n29 0 00 Turgi
+N-- - 7e42 46n18 0 00 Turtmann
+N-- - 7e09 47n06 0 00 Twann
+V-- - 7e18 46n52 0 00 Uberstorf
+N-- - 8e24 47n06 0 00 Udligenswil
+N-- - 9e37 46n57 0 00 Ueberlandquart
+N-- - 7e18 46n52 0 00 Ueberstorf
+N-- - 8e45 47n14 0 00 Uerikon
+N-- - 8e01 47n18 0 00 Uerkheim
+N-- - 8e49 47n35 0 00 Uesslingen
+N-- - 7e34 46n46 0 00 Uetendorf
+N-- - 8e40 47n16 0 00 Uetikon
+V-- - 8e40 47n16 0 00 Uetikon am See
+N-- - 7e23 46n59 0 00 Uettligen
+N-- - 8e01 47n13 0 00 Uffikon
+N-- - 7e54 47n07 0 00 Ufhusen
+N-- - 8e38 47n40 0 00 Uhwiesen
+N-- - 10e23 46n47 0 00 Uina Dadora
+N-- - 8e28 47n22 0 00 Uitikon
+V-- - 8e28 47n22 0 00 Uitikon am Albis
+N-- - 8e18 46n30 0 00 Ulrichen
+N-- - 7e13 47n18 0 00 Undervelier
+V-- - 8e35 47n08 0 00 Unteraegeri
+N-- - 8e35 47n08 0 00 Unterageri
+N-- - 7e48 46n16 0 00 Unterbach
+N-- - 8e07 46n44 0 00 Unterbach
+N-- - 7e37 46n27 0 00 Unterbachen
+V-- - 9e04 47n24 0 00 Unter-Basenheid
+N-- - 9e04 47n24 0 00 Unter-Bazenheid
+N-- - 9e01 47n09 0 00 Unter-Bilten
+N-- - 8e38 47n33 0 00 Unter-Buch
+N-- - 7e34 46n27 0 00 Unter dem Birg
+N-- - 8e20 47n30 0 00 Unterehrendingen
+N-- - 8e00 46n37 0 00 Unter Eiger
+V-- - 8e36 47n30 0 00 Unter Embrach
+N-- - 8e26 47n25 0 00 Unterengstringen
+N-- - 8e00 47n24 0 00 Untererlinsbach
+N-- - 7e39 46n59 0 00 Unter-Gomerkinden
+N-- - 8e47 47n03 0 00 Unteriberg
+N-- - 8e43 47n24 0 00 Unter Illnau
+N-- - 8e07 47n19 0 00 Unterkulm
+N-- - 9e51 46n51 0 00 Unter-Laret
+N-- - 8e05 46n38 0 00 Unter Lauchbuhl
+N-- - 8e23 47n19 0 00 Unterlunkhofen
+V-- - 9e29 46n40 0 00 Unter-Mutten
+N-- - 8e46 46n52 0 00 Unterschachen
+N-- - 8e42 47n40 0 00 Unter-Schlatt
+N-- - 7e42 46n53 0 00 Unter Schwendimatt
+N-- - 7e51 46n41 0 00 Unterseen
+V-- - 8e19 47n32 0 00 Unter-Siggental
+N-- - 8e15 47n30 0 00 Untersiggenthal
+N-- - 8e19 47n32 0 00 Untersiggenthal
+N-- - 7e49 46n46 0 00 Unter-Sohl
+N-- - 8e50 46n56 0 00 Unter Staffel
+N-- - 8e47 47n39 0 00 Unter-Stammheim
+N-- - 9e15 47n07 0 00 Unterterzen
+N-- - 9e32 46n56 0 00 Untervaz
+N-- - 9e18 47n12 0 00 Unterwasser
+NX- - 8e47 47n19 0 00 Unter-Wetzikon
+N-- - 7e21 46n58 0 00 Unter-Wohlen
+V-- - 9e11 46n42 0 00 Uors
+V-- - 8e25 47n23 0 00 Urdorf
+N-- - 9e24 46n42 0 00 Urmein
+N-- - 9e17 47n19 0 00 Urnasch
+N-- - 8e27 46n53 0 00 Urnerstafel
+N-- - 7e46 47n08 0 00 Ursenbach
+N-- - 7e29 47n02 0 00 Urtenen
+V-- - 7e25 46n10 0 00 Useigne
+N-3 - 8e42 47n20 0 25 Uster
+V-- - 7e34 46n46 0 00 Utendorf
+N-- - 7e34 46n47 0 00 Uttigen
+N-- - 9e20 47n35 0 00 Uttwil
+N-- - 7e33 47n08 0 00 Utzenstorf
+N-- - 8e59 47n13 0 00 Uznach
+N-- - 9e08 47n26 0 00 Uzwil
+N-- - 9e02 45n51 0 00 Vacallo
+N-- - 8e49 46n08 0 00 Vairano
+N-- - 6e54 46n01 0 00 Valangin
+N-- - 10e14 46n47 0 00 Valatscha
+N-- - 9e12 46n37 0 00 Valatschalp
+N-- - 9e08 46n24 0 00 Valbella
+N-- - 10e24 46n36 0 00 Valcava
+V-- - 6e54 46n12 0 00 Val-d'Iliez
+N-- - 6e54 46n12 0 00 Val d'Illiez
+N-- - 9e16 46n47 0 00 Valendas
+N-- - 9e29 46n58 0 00 Valens
+N-- - 6e23 46n43 0 00 Vallorbe
+N-- - 9e11 46n37 0 00 Vals Platz
+N-- - 9e19 46n58 0 00 Valtnovalp
+N-- - 9e36 46n57 0 00 Valzeina
+N-- - 6e12 46n13 0 00 Vandoeuvres
+N-- - 9e04 46n37 0 00 Vanescha
+N-- - 7e37 46n19 0 00 Varen
+N-- - 9e28 46n57 0 00 Vason
+N-- - 9e26 46n55 0 00 Vattis
+V-- - 6e14 46n29 0 00 Vaud
+N-- - 6e51 46n37 0 00 Vauderens
+N-- - 7e17 47n11 0 00 Vauffelin
+N-- - 6e23 46n42 0 00 Vaulion
+N-- - 7e00 46n37 0 00 Vaulruz
+N-- - 7e33 46n57 0 00 Vechigen
+N-- - 8e14 47n26 0 00 Veltheim
+NX- - 8e42 47n32 0 00 Veltheim
+N-- - 7e09 47n27 0 00 Vendlincourt
+N-- - 6e39 46n33 0 00 Vennes
+V-- - 6e39 46n33 0 00 Vennes-sur-Lausanne
+N-- - 7e13 46n06 0 00 Verbier
+N-- - 6e01 46n11 0 00 Verbois
+N-- - 7e31 46n15 0 00 Vercorin
+N-- - 9e09 46n16 0 00 Verdabbio
+N-- - 8e38 46n10 0 00 Verdasio
+N-- - 8e37 46n13 0 00 Vergeletto
+N-- - 7e29 46n19 0 00 Vermala
+N-- - 7e28 47n20 0 00 Vermes
+N-- - 7e26 46n13 0 00 Vernamiege
+N-- - 7e04 46n08 0 00 Vernayaz
+N-- - 7e27 46n07 0 00 Vernec
+N-3 28500 6e05 46n13 0 07 Vernier
+N-- - 9e20 46n48 0 00 Versam
+N-- - 8e44 46n11 0 00 Verscio
+N-- 8600 6e10 46n17 0 07 Versoix
+N-- - 6e12 46n14 0 00 Vesenaz
+N-- - 7e17 46n13 0 00 Vetroz
+N-- - 6e51 46n27 0 00 Vevey
+N-- - 7e24 46n12 0 00 Vex
+N-- 7000 6e12 46n11 0 07 Veyrier
+N-- - 7e20 46n12 0 00 Veysonnaz
+N-- - 6e56 46n25 0 00 Veytaux
+V-- - 6e56 46n25 0 00 Veytaux-Chillon
+V-- - 6e12 46n14 0 00 Vezenaz
+N-- - 10e09 46n15 0 00 Viano
+N-- - 9e37 46n21 0 00 Vicosoprano
+N-- - 7e25 47n21 0 00 Vicques
+V-- - 7e52 46n17 0 00 Viege
+N-- - 8e59 46n01 0 00 Viganello
+N-- - 9e09 46n42 0 00 Vigens
+V-- - 9e09 46n42 0 00 Vignogn
+N-- - 8e31 46n31 0 00 Villa
+N-- - 9e10 46n43 0 00 Villa
+V-- - 7e03 46n18 0 00 Villars
+V-- - 7e01 46n43 0 00 Villarsel
+N-- - 7e01 46n43 0 00 Villarsel-le-Gibloux
+N-- - 7e01 46n42 0 00 Villarsiviriaux
+N-- - 7e00 46n54 0 00 Villars-le-Grand
+N-- - 7e07 46n48 0 00 Villars-sur-Glane
+N-- - 7e11 46n46 0 00 Villars-sur-Marly
+N-- - 7e03 46n18 0 00 Villars-sur-Ollon
+N-- - 7e06 46n39 0 00 Villarvolard
+N-- - 6e58 46n43 0 00 Villaz-Saint-Pierre
+V-- - 7e07 46n00 0 00 Ville d'Issert
+N-- - 6e56 46n24 0 00 Villeneuve
+N-- - 7e02 47n10 0 00 Villeret
+N-- - 7e28 46n08 0 00 Villetta
+V-- - 7e28 46n08 0 00 Villettaz
+N-- - 8e13 47n31 0 00 Villigen
+N-- - 8e15 47n21 0 00 Villmergen
+N-- - 8e10 47n28 0 00 Villnachern
+N-- - 9e27 47n01 0 00 Vilters
+N-- - 6e15 46n27 0 00 Vinzel
+N-- - 6e54 46n18 0 00 Vionnaz
+N-- - 8e50 46n08 0 00 Vira
+V-- - 8e50 46n08 0 00 Vira Gambarogno
+N-- - 8e36 46n18 0 00 Visletto
+N-- - 7e52 46n17 0 00 Visp
+N-- - 7e54 46n15 0 00 Visperterminen
+N-- - 7e20 46n18 0 00 Visse
+N-- - 7e35 46n13 0 00 Vissoie
+V-- - 7e35 46n13 0 00 Vissoye
+V-- - 9e15 46n48 0 00 Vitg Dadens
+V-- - 9e15 46n48 0 00 Vitg Dado
+N-- - 8e29 47n01 0 00 Vitznau
+N-- - 8e42 47n23 0 00 Volketswil
+N-- - 7e53 47n16 0 00 Vordemwald
+N-- - 8e45 46n50 0 00 Vorder Boden
+N-- - 8e37 47n16 0 00 Vorder Feld
+N-- - 7e25 46n50 0 00 Vorderfultigen
+N-- - 8e11 46n46 0 00 Vorder Stafel
+V-- - 8e53 47n07 0 00 Vordertal
+N-- - 8e53 47n07 0 00 Vorderthal
+V-- - 8e53 47n07 0 00 Vorder Waggithal
+N-- - 8e52 46n53 0 00 Vorfrutt
+N-- - 9e18 46n58 0 00 Vor Siez
+N-- - 6e53 46n20 0 00 Vouvry
+N-- - 9e06 46n39 0 00 Vrin
+N-- - 7e02 46n37 0 00 Vuadens
+N-- - 7e03 46n42 0 00 Vuisternens
+N-- - 6e33 46n48 0 00 Vuiteboeuf
+N-- - 6e28 46n34 0 00 Vullierens
+N-- - 10e17 46n47 0 00 Vulpera
+N-- - 7e29 46n56 0 00 Wabern
+N-- - 7e44 46n49 0 00 Wachseldorn
+N-- - 8e40 47n14 0 00 Wadenswil
+N-- - 8e51 47n39 0 00 Wagenhausen
+N-- - 7e30 47n24 0 00 Wahlen
+N-- - 7e34 46n45 0 00 Wahlen
+N-- - 7e21 46n49 0 00 Wahlern
+N-- - 8e31 47n06 0 00 Walchwil
+N-- - 7e51 46n49 0 00 Wald
+N-- - 8e55 47n17 0 00 Wald
+N-- - 7e45 47n23 0 00 Waldenburg
+N-- - 9e17 46n50 0 00 Waldhaus
+N-- - 8e19 46n56 0 00 Waldheim
+N-- - 9e05 47n38 0 00 Waldi
+N-- - 9e17 47n28 0 00 Waldkirch
+N-- - 9e17 47n22 0 00 Waldstatt
+V-- - 7e21 46n49 0 00 Walern
+N-- - 7e37 46n57 0 00 Walkringen
+N-- - 7e13 46n55 0 00 Wallenbuch
+V-- - 9e19 47n07 0 00 Wallendstadt
+N-- - 7e07 46n52 0 00 Wallenried
+N-- - 9e19 47n07 0 00 Wallenstadt
+N-- - 8e35 47n25 0 00 Wallisellen
+N-- - 9e07 46n46 0 00 Waltensburg
+V-- - 9e07 46n46 0 00 Waltensburg Dorf
+N-- - 8e18 47n20 0 00 Waltenschwil
+N-- - 7e46 47n07 0 00 Walterswil
+N-- - 8e37 47n20 0 00 Waltikon
+N-- - 9e36 47n27 0 00 Walzenhausen
+N-- - 7e52 47n21 0 00 Wangen
+N-- - 8e54 47n11 0 00 Wangen
+N-- - 7e39 47n14 0 00 Wangen an der Aare
+N-- - 8e57 47n30 0 00 Wangi
+N-- - 9e26 47n02 0 00 Wangs
+N-- - 7e47 47n02 0 00 Wasen
+N-- - 8e36 46n42 0 00 Wassen
+N-- - 9e26 47n17 0 00 Wasserauen
+N-- - 8e29 47n35 0 00 Wasterkingen
+N-- - 7e31 46n46 0 00 Wattenwil
+N-- - 9e05 47n18 0 00 Wattwil
+N-- - 8e01 47n11 0 00 Wauwil
+N-- - 9e06 47n08 0 00 Weesen
+N-- - 7e56 47n30 0 00 Wegenstetten
+N-- - 8e26 47n02 0 00 Weggis
+VX- - 7e32 46n56 0 00 Weiermannshaus
+N-- - 7e30 46n45 0 00 Weiermoos
+N-- - 9e06 47n34 0 00 Weinfelden
+N-- - 8e26 47n25 0 00 Weiningen
+N-- - 9e26 47n19 0 00 Weissbad
+N-- - 7e23 46n37 0 00 Weissenbach
+N-- - 7e28 46n39 0 00 Weissenburg
+N-- - 8e45 47n26 0 00 Weisslingen
+N-- - 9e20 46n59 0 00 Weisstannen
+N-- - 7e32 47n17 0 00 Welschenrohr
+N-- - 7e55 46n36 0 00 Wengen
+N-- - 7e24 47n05 0 00 Wengi
+N-- - 9e28 47n10 0 00 Werdenberg
+NX- - 8e30 47n24 0 00 Werdholzli
+N-- - 9e24 46n38 0 00 Wergenstein
+VX- - 8e30 47n24 0 00 Werkholzli
+N-- - 8e52 47n18 0 00 Wernetshausen
+N-- - 8e06 47n03 0 00 Werthenstein
+N-- - 8e19 47n28 0 00 Wettingen
+N-- - 8e47 47n19 0 00 Wetzikon
+N-- - 9e00 47n32 0 00 Wetzikon
+NX- - 7e32 46n56 0 00 Weyermannshaus
+V-- - 7e35 46n51 0 00 Wichtrach
+NX- - 8e31 47n22 0 00 Wiedikon
+N-- - 7e39 47n15 0 00 Wiedlisbach
+N-- - 9e42 46n42 0 00 Wiesen
+N-- - 8e47 47n31 0 00 Wiesendangen
+N-- - 9e42 46n43 0 00 Wieseneralp
+V-- - 9e42 46n43 0 00 Wiesner Alp
+N-- - 8e31 46n40 0 00 Wiggen
+N-- - 7e54 46n54 0 00 Wiggen
+N-- - 9e02 47n36 0 00 Wigoltingen
+N-- - 7e58 47n16 0 00 Wikon
+N-- - 8e08 47n34 0 00 Wil
+N-- - 8e30 47n36 0 00 Wil
+N-- - 9e03 47n28 0 00 Wil
+N-- - 8e50 47n25 0 00 Wila
+N-- - 8e28 47n40 0 00 Wilchingen
+N-- - 8e48 47n25 0 00 Wildberg
+N-- - 8e10 47n23 0 00 Wildegg
+N-- - 7e51 46n40 0 00 Wilderswil
+N-- - 9e21 47n12 0 00 Wildhaus
+N-- - 7e33 47n09 0 00 Wiler
+N-- - 7e44 46n43 0 00 Wiler
+N-- - 7e46 46n24 0 00 Wiler
+N-- - 8e39 46n44 0 00 Wiler
+N-- - 8e14 46n53 0 00 Wilerbad
+N-- - 7e14 46n58 0 00 Wileroltigen
+N-- - 8e11 46n44 0 00 Willigen
+N-- - 7e59 47n07 0 00 Willisau
+V-- - 7e59 47n07 0 00 Willisau Stadt
+N-- - 7e38 46n41 0 00 Wimmis
+N-- - 8e14 47n28 0 00 Windisch
+N-- - 8e28 47n32 0 00 Windlach
+N-- - 8e03 47n14 0 00 Winikon
+N-- - 8e19 47n01 0 00 Winkel
+NX- - 9e18 47n24 0 00 Winkeln
+VX- - 9e18 47n24 0 00 Winkeln bei Sankt Gallen
+N-- - 7e39 46n36 0 00 Winklen
+N-2 - 8e45 47n30 0 25 Winterthur
+VX- - 8e42 47n30 0 00 Winterthur Toss
+NX- - 8e35 47n22 0 00 Witikon
+N-- - 9e22 47n28 0 00 Wittenbach
+N-- - 7e59 47n29 0 00 Wittnau
+N-- - 9e50 46n45 0 00 Wity
+N-- - 7e03 46n59 0 00 Witzwil
+N-- - 7e21 46n58 0 00 Wohlen
+N-- - 8e17 47n22 0 00 Wohlen
+N-- - 8e24 46n55 0 00 Wolfenschiessen
+N-- - 9e51 46n50 0 00 Wolfgang
+N-- - 7e59 47n27 0 00 Wolflinswil
+N-- - 7e47 47n16 0 00 Wolfwil
+N-- - 8e04 47n03 0 00 Wolhusen
+N-- - 8e42 47n11 0 00 Wollerau
+N-- - 7e34 46n56 0 00 Worb
+N-- - 7e17 47n06 0 00 Worben
+N-- - 7e28 46n58 0 00 Worblaufen
+V-- - 7e02 46n37 0 00 Wuadingen
+N-- - 7e16 46n53 0 00 Wunnewil
+N-- - 9e06 47n29 0 00 Wuppenau
+V-- - 8e16 47n32 0 00 Wurenling
+N-- - 8e16 47n32 0 00 Wurenlingen
+N-- - 8e22 47n27 0 00 Wurenlos
+N-- - 7e43 47n32 0 00 Wyhlen
+N-- - 7e48 47n16 0 00 Wynau
+N-- - 7e40 47n06 0 00 Wynigen
+N-- - 7e49 47n05 0 00 Wyssachen
+V-- - 9e50 46n45 0 00 Wyte
+V-- - 9e50 46n45 0 00 Wyti
+N-- - 6e25 46n31 0 00 Yens
+V-3 - 6e39 46n47 0 23 Yverden
+V-3 - 6e39 46n47 0 23 Yverdon
+N-3 - 6e39 46n47 0 23 Yverdon-les-Bains
+N-- - 6e45 46n48 0 00 Yvonand
+N-- - 6e58 46n20 0 00 Yvorne
+N-- - 9e18 46n42 0 00 Zaloner Hutten
+N-- - 7e39 46n54 0 00 Zaziwil
+N-- - 7e54 47n25 0 00 Zeglingen
+N-- - 8e05 47n28 0 00 Zeihen
+N-- - 7e28 46n25 0 00 Zelg
+N-- - 7e55 47n08 0 00 Zell
+N-- - 8e49 47n27 0 00 Zell
+N-- - 7e51 46n16 0 00 Zeneggen
+N-- - 7e45 46n01 0 00 Zermatt
+N-- - 7e57 46n05 0 00 Zermeiggern
+V-- - 10e06 46n42 0 00 Zernes
+N-- - 10e06 46n42 0 00 Zernez
+N-- - 9e06 46n34 0 00 Zervreila
+N-- - 9e06 46n34 0 00 Zervreila-Oberboden
+N-- - 9e07 46n35 0 00 Zervreila-Unterboden
+N-- - 9e03 47n07 0 00 Ziegelbrucke
+V-- - 9e00 46n44 0 00 Zignau
+N-- - 9e15 47n31 0 00 Zihlschlacht
+N-- - 9e27 46n38 0 00 Zillis
+N-- - 7e28 46n52 0 00 Zimmerwald
+N-- - 7e38 46n08 0 00 Zinal
+N-- - 9e34 46n56 0 00 Zizers
+N-- - 7e56 47n17 0 00 Zofingen
+N-- - 7e45 46n58 0 00 Zollbruck
+N-- - 7e28 46n59 0 00 Zollikofen
+N-- - 8e35 47n20 0 00 Zollikon
+N-- - 7e34 47n12 0 00 Zuchwil
+N-- - 9e09 47n29 0 00 Zuckenriet
+NA3 - 8e31 47n10 0 24 Zug
+N-- - 8e29 47n07 0 00 Zugersee
+N-- - 7e36 47n23 0 00 Zullwil
+N-- - 8e32 46n36 0 00 Zumdorf
+N-- - 7e18 46n45 0 00 Zumholz
+N-- - 8e37 47n20 0 00 Zumikon
+V-- - 8e19 46n31 0 00 Zum Loch
+N-- - 7e48 47n26 0 00 Zunzgen
+N-- - 9e57 46n36 0 00 Zuoz
+N-- - 9e18 47n20 0 00 Zurchersmuhle
+NA1 - 8e33 47n22 0 25 Zurich
+NX- - 8e33 47n21 0 00 Zurichhorn
+N-- - 8e18 47n36 0 00 Zurzach
+N-- - 7e54 47n32 0 00 Zuzgen
+N-- - 9e07 47n28 0 00 Zuzwil
+N-- - 7e54 46n38 0 00 Zweilutschinen
+N-- - 7e22 46n33 0 00 Zweisimmen
+N-- - 7e31 47n26 0 00 Zwingen
+N-- - 8e07 46n10 0 00 Zwischbergen

@@ -1,0 +1,40 @@
+-#UseInternationalAtlas
+-z0 0              ; Default Daylight time setting   [0 standard, 1 daylight]
+-z -1:00           ; Default time zone               [hours before GMT      ]
+-zl 12:29E 41:54N  ; Default longitude and latitude
+-zn "Roma"         ; Default location name
+
+;European settings expected:
+
+-Yd		; Display dates in D/M/Y instead of M/D/Y format.
+-Yt		; Display times in 24 hour instead of am/pm format. 
+:YXG 2223	; European glyphs
+
+
+;Degree sign patch:
+
+-#Glyph 0 124 "BR2FGHE"
+-#DegCharacter "°:° |"
+
+
+
+-#Glyph 0 224  "BF4G2LHU2ER2FD3BU6BL2H"        ; accented a\
+-#Glyph 0 235  "BD4R4UHL2GD2FR3BU6BLL0BL2L0"   ; accented e:
+-#Glyph 0 249  "BD2D3FRE2ND2U2BU2BL2H"         ; accented u\
+-#Glyph 0 226  "BF4G2LHU2ER2FD3BU6BLHG"        ; accented a^
+-#Glyph 0 251  "BD2D3FRE2ND2U2BU2BLHG"         ; accented u^
+-#Glyph 0 231  "BD6BR2FGBU8BL2BF4BUHL2GD2FR2E" ; accented c,
+-#Glyph 0 238  "BREFBGBDD4"                    ; accented i^
+-#Glyph 0 233  "BD4R4UHL2GD2FR3BU6BL2E"        ; accented e/
+-#Glyph 0 239  "BRR0BR2R0BGBDD4"               ; accented i:
+-#Glyph 0 232  "BD4R4UHL2GD2FR3BU6BL2H"        ; accented e\
+-#Glyph 0 234  "BD4R4UHL2GD2FR3BU6BLHG"        ; accented e^
+-#Glyph 0 244  "BREFBD2FD2GL2HU2ER2"           ; accented o^
+
+
+; Macros withaut shortcuts in it. version:
+
+#DisableMacroShortcuts
+
+
+;

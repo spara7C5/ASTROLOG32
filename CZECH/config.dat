@@ -1,0 +1,68 @@
+@
+#OmitWizard
+#SimplifiedMode
+#Charset 238
+-z0 0              ; Default Daylight time setting   [0 standard, 1 daylight]
+-z -1:00           ; Default time zone               [hours before GMT      ]
+-zl 14:22E 50:05N  ; Default longitude and latitude
+-zn "Praha" 	   ; Default location name
+
+;European settings expected:
+
+-Yd		; Display dates in D/M/Y instead of M/D/Y format.
+-Yt		; Display times in 24 hour instead of am/pm format. 
+:YXG 2223	; European glyphs
+
+
+-#Glyph 0 138  "BU1BR1FEBL3BD1BR3NFL2GDFR2FDGL2H"	        ; ä 8A
+-#Glyph 0 141  "BU1BR1FEBL3BD1R2NR2D6"				; ç 8D
+-#Glyph 0 142  "BU1BR1FEBL3BD1R4DG4DR4"				; é 8E
+-#Glyph 0 153  "BR2D2NL2NR2D4"					; ??ù 99
+-#Glyph 0 154  "BU1BR1FEBL3BD1BD6R3EHL2HER3"			; ö 9A
+
+-#Glyph 0 157  "BR5BUDBL5BR2D2NL2NR2D4"				; ù 9D
+-#Glyph 0 158  "BU1BR1FEBL3BD1BD2R4G4R4"			; û 9E
+-#Glyph 0 193  "BR3BU1GBL2BD6U4E2F2D2NL4D2"			; ¡ C1
+-#Glyph 0 200  "BU1BR1FEBL3BD1BR3NFL2GD4FR2E"			; » C8
+-#Glyph 0 201  "BR3BU1GBL2NR4D3NR3D3R4"				; … C9
+
+-#Glyph 0 204  "BU1BR1FEBL3BD1NR4D3NR3D3R4"			; Ã CC
+-#Glyph 0 205  "BR3BU1GBL2BRRNRD6NLR"				; Õ CD
+-#Glyph 0 207  "BU1BR1FEBL3BD1D6R2E2U2H2L2"			; œ CF
+-#Glyph 0 210  "BU1BR1FEBL3BD1ND6F4ND2U4"			; “ D2
+-#Glyph 0 211  "BR3BU1GBL2BDD4FR2EU4HL2G"			; ” D3
+
+-#Glyph 0 216  "BU1BR1FEBL3BD1ND6R3FDGL2NLF3"			; ÿ D8
+-#Glyph 0 217  "BR2BU1FGHEBL2BD1D5FR2EU5"			; Ÿ D9
+-#Glyph 0 218  "BR3BU1GBL2D5FR2EU5"				; ⁄ DA 
+-#Glyph 0 221  "BR3BU1GBL2D2FRND3REU2"				; › DD
+-#Glyph 0 225  "BR3BU1GBL2BF4G2LHU2ER2FD3"			; · E1
+
+-#Glyph 0 232  "BU1BR1FEBL3BD1BF4BUHL2GD2FR2E"			; Ë E8
+-#Glyph 0 233  "BR3BU1GBL2BD4R4UHL2GD2FR3"			; È E9
+-#Glyph 0 236  "BU1BR1FEBL3BD1BD4R4UHL2GD2FR3"			; Ï EC
+-#Glyph 0 237  "BR3BU1GBL2BR2BD2D4"				; Ì ED
+-#Glyph 0 237  "BR3BU1GBL2BR2BD2D4"				; Ì ED
+-#Glyph 0 239  "BR5BUDBL5BR4D5NDGL2HU2ER2F"			; Ô EF
+ 
+-#Glyph 0 242  "BU1BR1FEBL3BD1BD2DND3ER2FD3"			; Ú F2
+-#Glyph 0 243  "BR3BU1GBL2BD3D2FR2EU2HL2G"			; Û F3
+-#Glyph 0 248  "BU1BR1FEBL3BD1BD2DND3ER2F"			; ¯ F8
+-#Glyph 0 249  "BR2BU1FGHEBL2BD1BD2D3FRE2NU2D2"			; ˘ F9
+-#Glyph 0 250  "BR3BU1GBL2BD2D3FRE2NU2D2"			; ˙ FA
+-#Glyph 0 253  "BR3BU1GBL2BD2D3FR2ENU3D2GL3"			; ˝ FD
+	
+
+	
+
+	
+
+
+;Degree sign patch:
+
+-#Glyph 0 124 "BR2FGHE"
+-#DegCharacter "∞:∞ |"
+;#DebugFont
+
+
+;EOF;

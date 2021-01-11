@@ -1,0 +1,933 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta name="generator"
+ content="HTML Tidy for Windows (vers 1st July 2003), see www.w3.org">
+  <meta http-equiv="content-type" content="text/html; charset=us-ascii">
+  <title>Astrolog32 History of Changes</title>
+  <meta name="author" content="Ant&#243;nio Ramos">
+</head>
+<body style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);"
+ alink="#000099" link="#000099" vlink="#990099">
+<div style="text-align: center;"><big><big><big><big><span
+ style="font-weight: bold; text-decoration: underline;">Astrolog32
+History
+Of Changes</span></big></big></big></big></div>
+<br>
+<br>
+<big><br>
+Astrolog32 is a 32 bits Windows version of Astrolog created by
+Ant&#243;nio Ramos, from version 2.0 maintained by Tomas Kubec. It has its starting point in</big>
+<big>Astrolog</big> <big>version 5.41g created by</big>
+<big>Valentin Abramov</big><big>, which in turn originates in
+Astrolog 5.40, created by Walter Pullen.<br>
+<br>
+</big><big>This file contains only the changes made during
+Astrolog32 development.</big> <big>Changes are in chronological
+order, most recent at the bottom. It only list changes in official
+release versions, changes for test versions are included but do not
+have separate headings.</big><br>
+<big><br>
+Changes from Astrolog version 1.00 through 5.40 by Walter Pullen
+can be found in file "history 540.txt".<br>
+<br>
+Alois Treindl added support for Swiss Ephemeris to Astrolog version
+5.40.<br>
+<br>
+</big><big>Changes from version 5.30a through 5.31g and 5.41a
+through 5.41g by Valentin Abramov</big> <big>can be found in file
+"history 541g.txt"</big><big>.<br>
+<br>
+</big><big><br>
+</big>
+<hr style="width: 100%; height: 2px;"><big><br>
+<big style="font-weight: bold; text-decoration: underline;"><br>
+Astrolog32 version 1.00 (5 March 2004)<br>
+<br>
+</big><br>
+&nbsp;&nbsp; * Ported Astrolog from Win16 to Win32. This port
+involved many changes,<br>
+&nbsp;&nbsp;&nbsp;&nbsp; for example to function prototypes,
+variable types, etc.<br>
+<br>
+&nbsp;&nbsp; * Removed Swiss Ephemeris files from Astrolog package.
+Swiss Ephemeris<br>
+&nbsp;&nbsp;&nbsp;&nbsp; is still used, but it is compiled
+separately and then its library is<br>
+&nbsp;&nbsp;&nbsp;&nbsp; linked to Astrolog. This makes it easier
+to upgrade in the future to<br>
+&nbsp;&nbsp;&nbsp;&nbsp; new versions of Swiss Ephemeris. Also it
+makes the executable smaller<br>
+&nbsp;&nbsp;&nbsp;&nbsp; if static libraries are used.<br>
+<br>
+&nbsp;&nbsp; * Reorganized the menu tree to make it more
+intuitive.<br>
+<br>
+&nbsp;&nbsp; * Changed some defaults for when the configuration
+file is not found:<br>
+&nbsp;&nbsp;&nbsp;&nbsp; a graphics chart of the planets position
+for the current time is shown,<br>
+&nbsp;&nbsp;&nbsp;&nbsp; as opposed to a text listing of the
+planets position on 19/Nov/1971,<br>
+&nbsp;&nbsp;&nbsp;&nbsp; as it used to be. The dispositor's glyph
+is not shown. The default<br>
+&nbsp;&nbsp;&nbsp;&nbsp; latitude and longitude are now zero. This
+is more politically<br>
+&nbsp;&nbsp;&nbsp;&nbsp; correct - it is some place in the Atlantic
+Ocean!<br>
+<br>
+&nbsp;&nbsp; * Changed the configuration file name to
+astrolog32.dat. Changes were<br>
+&nbsp;&nbsp;&nbsp;&nbsp; made to the file itself, typos were
+corrected, some formatting changes<br>
+&nbsp;&nbsp;&nbsp;&nbsp; were done, the switch to start with a
+chart for the present time was<br>
+&nbsp;&nbsp;&nbsp;&nbsp; removed, as it is now redundant.<br>
+<br>
+&nbsp;&nbsp; * Added true node setting to the configuration
+file.<br>
+<br>
+&nbsp;&nbsp; * Added harmonic number to the info bar, if it is
+different from one.<br>
+<br>
+&nbsp;&nbsp; * Reformated all source files with GNU indent, for
+better readability.<br>
+<br>
+&nbsp;&nbsp; * Moved the contents of four files, readme.541,
+helpfile.540,<br>
+&nbsp;&nbsp;&nbsp;&nbsp; changes.txt and power.txt into a new file
+called helpfile.txt.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; This is to make access to information
+easier. Createad a Microsoft<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Word version of the same file, called
+helpfile.doc.<br>
+<br>
+&nbsp;&nbsp; * Cleaned-up headers in all source files, and
+history.txt.<br>
+<br>
+&nbsp;&nbsp; * Changed the graphical calendar function to make it
+less likely that<br>
+&nbsp;&nbsp;&nbsp;&nbsp; text will overlap. Added a menu item for
+month and year. Removed<br>
+&nbsp;&nbsp;&nbsp;&nbsp; calendar configuration item from Charts
+Settings, as it is not useful<br>
+&nbsp;&nbsp;&nbsp;&nbsp; any more. Accelerator key 'K', besides
+drawing the calendar as before,<br>
+&nbsp;&nbsp;&nbsp;&nbsp; also toggles between month and year.
+Switch K does the same thing,<br>
+&nbsp;&nbsp;&nbsp;&nbsp; and the y after the K has no effect
+anymore.<br>
+<br>
+&nbsp;&nbsp; * Added one more option for wall paper (stretch).<br>
+<br>
+&nbsp;&nbsp; * Created new file version.h with version name and
+date, plus name<br>
+&nbsp;&nbsp;&nbsp;&nbsp; of application. This is to make it easier
+to create a new build.<br>
+<br>
+&nbsp;&nbsp; * RTan(r) is now defined as tan(r) also for PCs.<br>
+<br>
+&nbsp;&nbsp; * Fixed bug in SzTim that was causing times to be
+displayed incorrectly<br>
+&nbsp;&nbsp;&nbsp;&nbsp; in some cases. (Michael Rideout)<br>
+<br>
+&nbsp;&nbsp; * Increased variable WHEELCOLS from 15 to 16. This is
+so that house<br>
+&nbsp;&nbsp;&nbsp;&nbsp; wheels in text mode are displayed
+correctly (previously columns where<br>
+&nbsp;&nbsp;&nbsp;&nbsp; not propoerly aligned, in some cases).
+(Michael Rideout)<br>
+<br>
+&nbsp;&nbsp; * Fixed bug in PrintWheelCenter whereby string was
+overflowing its<br>
+&nbsp;&nbsp;&nbsp;&nbsp; boundary. Array szT was too small.<br>
+<br>
+&nbsp;&nbsp; * In the definition of szObjName in data.c, added an
+empty space<br>
+&nbsp;&nbsp;&nbsp;&nbsp; after IC ("IC "). This is so that house
+wheels in text mode are<br>
+&nbsp;&nbsp;&nbsp;&nbsp; displayed correctly for Vedic Houses and
+some other house systems.<br>
+<br>
+&nbsp;&nbsp; * Temporarily removed version number from About dialog
+for ease of<br>
+&nbsp;&nbsp;&nbsp;&nbsp; maintenance.<br>
+<br>
+&nbsp;&nbsp; * Removed Macro 40 so that ALT F4 can perform its
+usual Windows<br>
+&nbsp;&nbsp;&nbsp;&nbsp; function.<br>
+<br>
+&nbsp;&nbsp; * Changed command 'x'. Before it was doing reverse
+video plus graphics<br>
+&nbsp;&nbsp;&nbsp;&nbsp; mode, now only does reverse video.<br>
+<br>
+&nbsp;&nbsp; * Removed hard-coded yellow text from the info bar, as
+it was causing<br>
+&nbsp;&nbsp;&nbsp;&nbsp; problems for some users. Removed also
+green, so now all text in the<br>
+&nbsp;&nbsp;&nbsp;&nbsp; top part of the info bar is the same
+colour, except for the<br>
+&nbsp;&nbsp;&nbsp;&nbsp; application name.<br>
+<br>
+&nbsp;&nbsp; * Fixed a bug whereby text version of Biorhythm chart
+was not being<br>
+&nbsp;&nbsp;&nbsp;&nbsp; shown if a text version of other chart was
+shown previously.<br>
+<br>
+<br>
+<span style="font-weight: bold; text-decoration: underline;">Credits
+for
+Astrolog32 version 1.00:</span><br>
+</big>
+<ul>
+  <li><big>Antonio Ramos: all of the above, except where
+noted.</big></li>
+  <li><big>Chris Mitchell: good deal of testing, created a test plan,
+reported bugs, suggested enhancements, provided comments on design
+issues.</big></li>
+  <li><big>Michael Rideout: suggested the name of this new version
+(Astrolog32). Provided source code for two bug fixes (see above).
+Provided some comments on design issues.</big></li>
+</ul>
+<big><br>
+</big>
+<hr style="width: 100%; height: 2px;"><big><br>
+<br>
+<big style="font-weight: bold; text-decoration: underline;">Astrolog32
+version
+1.05 (2 April 2004)</big><br>
+<br>
+<br>
+&#183;&nbsp;&nbsp; Corrected Astrolog time issue in version 1.00,
+that originated when<br>
+&nbsp;&nbsp;&nbsp; "-n" was removed from the default configuration
+file.<br>
+<br>
+&#183;&nbsp;&nbsp; The NOW chart is now read after the
+configuration file, so the chart<br>
+&nbsp;&nbsp;&nbsp; will refer to the configured location. (In
+version 1.00 the NOW chart<br>
+&nbsp;&nbsp;&nbsp; referred to the default location (0&#186;&nbsp;
+longitude, 0&#186; latitude)).<br>
+<br>
+&#183;&nbsp;&nbsp; The "Time minute addition to be used when NOW
+charts are off" feature<br>
+&nbsp;&nbsp;&nbsp; has been removed, as it is now unnecessary. If
+that setting appears in<br>
+&nbsp;&nbsp;&nbsp; the configuration file it will be ignored.<br>
+<br>
+&#183;&nbsp;&nbsp; Function GetTimeNow was rewritten. It now
+calls GetSystemTime instead<br>
+&nbsp;&nbsp;&nbsp; of the standard C function "time".<br>
+<br>
+&#183;&nbsp;&nbsp; Multi-language support was added. Files that
+are language specific now<br>
+&nbsp;&nbsp;&nbsp; have a two-letter termination, such as "_en" for
+English, or "_fr" for<br>
+&nbsp;&nbsp;&nbsp; French. A resource file and resource include
+file were created for<br>
+&nbsp;&nbsp;&nbsp; French. Data initialisation was moved move from
+files "data.c" and<br>
+&nbsp;&nbsp;&nbsp; "data2.c" into "data_en.c" and "data_fr.c". File
+"data2.c" was deleted.<br>
+<br>
+&#183;&nbsp;&nbsp; A new include file "macro_functions.h" was
+created, to contain<br>
+&nbsp;&nbsp;&nbsp; macro-functions previously defined in astrolog.h
+and extern.h. This<br>
+&nbsp;&nbsp;&nbsp; file is called from "astrolog.h".<br>
+<br>
+&#183;&nbsp;&nbsp; Old switches and unused code for other OSes
+were removed to make<br>
+&nbsp;&nbsp;&nbsp; Astrolog32 easier to maintain. Most of the
+removed code was useless<br>
+&nbsp;&nbsp;&nbsp; as it would not compile or run anyway. Some Unix
+code might be usable,<br>
+&nbsp;&nbsp;&nbsp; but there are already many Unix versions
+available, so there is no<br>
+&nbsp;&nbsp;&nbsp; point in keeping that code in Astrolog32.<br>
+<br>
+&#183;&nbsp;&nbsp; Menus, dialogues and other text were
+translated into French (mainly<br>
+&nbsp;&nbsp;&nbsp; by Philippe Epaud, with some translation done by
+Antonio Ramos and<br>
+&nbsp;&nbsp;&nbsp; Alexandra Lach).<br>
+<br>
+&#183;&nbsp;&nbsp; Corrected old bug in NparseSz. There were
+"break's" missing in<br>
+&nbsp;&nbsp;&nbsp; "switch" statement. Also comparison is done now
+to the length of the<br>
+&nbsp;&nbsp;&nbsp; shorter string, as opposed to only three
+characters as before. This<br>
+&nbsp;&nbsp;&nbsp; is needed to support French, where for example,
+the month names "Juin"<br>
+&nbsp;&nbsp;&nbsp; and "Juillet" have the same three letters at the
+beginning.<br>
+<br>
+&#183;&nbsp;&nbsp; Month of birth in chart file is now saved as a
+number instead of three<br>
+&nbsp;&nbsp;&nbsp; letters as before. This is so that Astrolog
+versions of different<br>
+&nbsp;&nbsp;&nbsp; languages have compatible chart files.<br>
+<br>
+&#183;&nbsp;&nbsp; Added Sadalmalek as star #75.<br>
+<br>
+&#183;&nbsp;&nbsp; Corrected bug whereby Astrolog and Swiss
+Ephemeris were looking for<br>
+&nbsp;&nbsp;&nbsp; fixed star catalogue files of different
+names.<br>
+<br>
+&#183;&nbsp;&nbsp; The tie-in between South Node and Lilith was
+removed. South Node is<br>
+&nbsp;&nbsp;&nbsp; now object 17 (as before) but Lilith is object
+18. As a result all<br>
+&nbsp;&nbsp;&nbsp; other objects that come after Lilith had their
+object numbers<br>
+&nbsp;&nbsp;&nbsp; incremented by one. South Node and Lilith can
+now be displayed<br>
+&nbsp;&nbsp;&nbsp; simultaneously.<br>
+<br>
+&#183;&nbsp;&nbsp; Osculating Lilith is now configurable in menu
+Settings/Calculations,<br>
+&nbsp;&nbsp;&nbsp; and its configuration is saved.<br>
+<br>
+&#183;&nbsp;&nbsp; A second European glyph for Lilith is now
+available and configurable<br>
+&nbsp;&nbsp;&nbsp; in menu Obscure Settings/Calculations, and its
+configuration is saved.<br>
+<br>
+&#183;&nbsp;&nbsp; Modified alternate interpretation files,
+incrementing planet number<br>
+&nbsp;&nbsp;&nbsp; by 1 if equal or greater than 17. File version
+was changed from 00 to 01.<br>
+<br>
+&#183;&nbsp;&nbsp; File version is now checked for configuration
+and interpretation files.<br>
+&nbsp;&nbsp;&nbsp; Files with incompatible version numbers are not
+accepted.<br>
+<br>
+&#183;&nbsp;&nbsp; Added terminating NULL to chLocal in function
+FprocessInterpretFile<br>
+&nbsp;&nbsp;&nbsp; (old bug).<br>
+<br>
+&#183;&nbsp;&nbsp; Modified the layout of some dialog boxes to
+improve readability.<br>
+<br>
+&#183;&nbsp;&nbsp; Changed the default for "Use Real System Fonts
+In Graphic Files"<br>
+&nbsp;&nbsp;&nbsp; from TRUE to FALSE. This is to avoid creating
+files that cannot be read<br>
+&nbsp;&nbsp;&nbsp; properly by those who do not have the necessary
+fonts installed.<br>
+<br>
+&#183;&nbsp;&nbsp; Moved Interpretations from the View menu to
+the Lists menu, as it is<br>
+&nbsp;&nbsp;&nbsp; more logical.<br>
+<br>
+&#183;&nbsp;&nbsp; Corrected an old bug in function FacceptAspect
+in the calculations of<br>
+&nbsp;&nbsp;&nbsp; aspects to the North and South Nodes.<br>
+<br>
+&#183;&nbsp;&nbsp; Added version number and creation date to
+Help\About dialog box.<br>
+<br>
+<br>
+<span style="font-weight: bold; text-decoration: underline;">Credits
+for
+Astrolog32 version 1.05:</span></big><br>
+<ul>
+  <li><big>Antonio Ramos: all of the above, except where
+noted.</big></li>
+  <li><big>Philippe Epaud: Most of French translation,
+testing.</big></li>
+  <li><big>Alexandra Lach: some French translation, some
+testing.</big></li>
+  <li><big>Valentin Abramov: provided glyph for Lilith.</big></li>
+</ul>
+<big><br>
+<br>
+</big>
+<hr style="width: 100%; height: 2px;"><big><br>
+<br>
+<big style="font-weight: bold; text-decoration: underline;">Astrolog32
+version
+1.10 (17 June 2004)</big><br>
+</big>
+<p class="MsoNormal">&nbsp;</p>
+<big>Corrected bug in 1.05 where East Point was shown with
+incorrect colour.<br>
+<br>
+Created abbreviations for object names to be used in the info bar
+and elsewhere. Fixed a few&nbsp;&nbsp; problems related to
+abbreviations.<br>
+<br>
+Made small changes to the layout of the Influence List.<br>
+<br>
+Added disclaimer to About dialogue box and all source files.<br>
+<br>
+Created an array of flags for aspect restrictions. By default only
+the first five aspects are unrestricted.<br>
+<br>
+The -RA switch (restrict aspects by giving them negative orbs) was
+changed. It still restricts aspects, but does so by setting the
+aspect, without touching the orb.<br>
+<br>
+The -A switch (specify the number of aspects to use in charts) was
+disabled, though the program does not complain if it finds it, for
+backward compatibility. The corresponding editing box in the
+Windows interface was removed.<br>
+<br>
+Created new switch:<br>
+-YAR &lt;asp1&gt; &lt;asp2&gt; &lt;flag1&gt;..&lt;flag2&gt;: Aspect
+restrictions for range.<br>
+<br>
+Fixed old bug whereby Vertex was sometimes 180 degrees off for
+tropical latitudes.<br>
+<br>
+True obliquity calculated by Swiss Ephemeris is now used instead of
+mean obliquity calculated by the Matrix routines. Seconds of
+obliquity are now displayed on the info bar with four decimal
+places.<br>
+<br>
+Fixed bug whereby in the Arabic Parts list, a conjunction was shown
+between the Part of Fortune and itself.<br>
+<br>
+Added French User's Guide created by Philippe Epaud. Added a call
+to it in the Help Menu in the French version.<br>
+<br>
+Added a call to the French ReadMe file (lisezmoi.html) to
+Astrolog.<br>
+<br>
+Added configuration for inversion of Arabic parts and dispositor's
+glyph on the zodiac to the Chart Settings dialogue box.<br>
+<br>
+Changed the way true/mean node, and osculating/mean Lilith are
+saved in the configuration file. This change is cosmetic, and has
+no impact on functionality.<br>
+<br>
+Modified Aspects dialogue box: Removed Toggle button as some people
+don't know what toggle means. Positive logic is now used to select
+aspects - if ticked it is selected. Values for orb reductions for
+parallel and comparison charts are now entered in percentage.<br>
+<br>
+Modified Object and Star Restrictions dialogue box: Positive logic
+is now used to select an object - if ticked it is selected. This
+change was made only to the Windows interface, internally and in
+the switches Astrolog still operates with "restrictions".<br>
+<br>
+Removed from the Windows interface and keyboard shortcuts the
+commands Include Minors, Include Uranians and Include Cusps,
+because they were unnecessary and their purpose was not clear. The
+switches '-C' and '-u' to include cusps and Uranians are now
+inactive.<br>
+<br>
+Modified the default restrictions, to make them work with the
+changes above.<br>
+<br>
+Removed Scribble Colour from the Settings menu, and added it to the
+Colour Settings dialogue box.<br>
+<br>
+Previously the Help\Objects function would only show unrestricted
+objects. This was changed, now help is displayed on all objects
+defined in the program. Also corrected alignment problems.<br>
+<br>
+Added a link to French atlas at AstroDienst.<br>
+<br>
+Fixed old bug where Poseidon and Proserpina were swapped in the
+Cusps and Minors dialogue box.<br>
+<br>
+Fixed bug whereby Lilith was being shown for heliocentric charts
+(it shouldn't).<br>
+<br>
+Made several changes to the functions that print an aspect
+list:<br>
+&#183;&nbsp;&nbsp;&nbsp; Fixed old bug whereby, depending on
+configuration settings, the most powerful aspects would not be
+shown.<br>
+&#183;&nbsp;&nbsp;&nbsp; Streamlined the sorting algorithm.<br>
+&#183;&nbsp;&nbsp;&nbsp; Improved precision of power
+calculations.<br>
+&#183;&nbsp;&nbsp;&nbsp; Modified function so that all aspects
+are shown when sorting by power.<br>
+&#183;&nbsp;&nbsp;&nbsp; Improved display of aspects.<br>
+&#183;&nbsp;&nbsp;&nbsp; Added option to sort aspects by orb.
+This option can be configured with switch YSo, and is saved in the
+configuration file.<br>
+<br>
+Created new entries in the View menu to set the type of sort, and a
+new keyboard shortcut (Control-x).<br>
+<br>
+Improved the function that lists transits by influence: returns are
+now flagged as "Return" instead of just an "R", added table header,
+increased field width for planet name displays, abbreviated the
+indication for applying or separating aspects, added sorting by
+orb, added display according to applying/separating switch.<br>
+<br>
+Modified the Charts menu: the setting for Sidereal/Tropical is now
+shown with separate menu items, with a bullet showing the current
+choice.<br>
+<br>
+Replaced the check mark with a bullet in the House System menu.
+Fixed old bug with check mark.<br>
+<br>
+Moved setting for applying/separating aspects from the View menu to
+the Aspects dialogue box. Moved setting for aspect summary from the
+Charts Settings dialogue box to the Aspects dialogue box.<br>
+<br>
+Moved "Chart for now" from Edit menu to Charts menu.<br>
+<br>
+Moved Tropical/Sidereal, House Systems and House Settings from
+Charts menu to Settings menu.<br>
+<br>
+Moved Edit Configuration file from File menu to Edit menu.<br>
+<br>
+Moved all relationships charts to the main Charts menu, as it is
+important to know when or not relationship mode is on (with the
+bullet) - it prevents the display of other charts.<br>
+<br>
+Deleted dialog box to enter charts 3 and 4. Moved setting of tri
+and quad wheel to Charts menu, moved opening of charts 3 and 4 to
+File menu, and created two new entries in Edit menu to edit charts
+3 and 4. Renamed the "Previous" button inside the Edit Chart Data
+dialogue box as "Recall Chart data from memory". The functionality
+is exactly the same, only the label was changed to better represent
+what it actually does.<br>
+<br>
+Moved calendar into Graphics menu. Renamed Graphics menu as Extra.
+Moved Save Chart Info and Recall Chart Info from Animation menu to
+Edit menu. Moved Add Aspect Info from Graphics menu to View
+Menu.<br>
+<br>
+Created in Lists menu an entry for Influence chart. Choosing this
+entry puts Astrolog in text mode. Renamed Influence entry in Charts
+menu as Dispositors. Choosing this entry puts Astrolog in graphics
+mode. Keyboard shortcut 'v' toggles between the two chart types, as
+before.<br>
+<br>
+Modified the Heliocentric command in Charts Menu, so that it does
+exactly what it says, that is, puts Astrolog in heliocentric mode
+if it is not, otherwise, the mode becomes geocentric. The check
+mark also reflects the fact that is heliocentric. Moved
+Heliocentric to Settings menu.<br>
+<br>
+Created two menu entries for setting graphics or text mode in View
+menu. Current state is indicated by a bullet. Moved Parallel
+aspects from View to Settings menu. Moved setting of Mean Node from
+Obscure to Calculations dialogue box. Move Smart aspects, power to
+be solid and parallel power from Obscure to Aspects dialogue box.
+Parallel power is now entered as percentage.<br>
+<br>
+Improved dialogue control to enter data: the full month name is
+shown, instead of just three characters as before, and the choice
+of years goes from 2004-2010 instead of 1990-1999.<br>
+<br>
+Renamed Obscure dialogue box as Miscellaneous. Moved glyph settings
+from Obscure to Graphics dialogue box. Created new dialogue box for
+Arabic Parts Settings. Moved settings for Display format and Text
+columns from Calculations to Chart Settings dialogue box.<br>
+<br>
+Added checkmarks to the majority of commands in Charts and Lists
+menus, so that the current choice can be seen.<br>
+<br>
+Added new function to show the internal program status, to help
+development and debugging, accessible from the Help menu. This
+function is not intended for general users.<br>
+<br>
+The name of the default location can now be chosen in the Default
+Info dialogue box. Added new command "-zn" to set the name of the
+default location, which is saved in the configuration file.<br>
+<br>
+The Now button in the Transits dialogue box was renamed Here and
+Now. It does the same as before, setting the time to now and
+location to default, and in addition, now sets the location name to
+default.&nbsp; The chart name is left unchanged. Exactly the same
+was done in the Progressions and Chart Data dialogue boxes.<br>
+<br>
+Changed the way the switch "-n" is implemented, as well as Here and
+Now in Charts menu, and other related commands. Previously the
+person's name and location name were being erased, now the name
+remains unchanged, and the location is set to the default location.
+The rest of the functionality is unchanged, namely the latitude,
+longitude, time zone and DST are set to default, and time and date
+are set for now.<br>
+<br>
+Changed the longitude and latitude fields in Chart Data and Default
+Info dialogue boxes from combo box to edit field, as it makes more
+sense.<br>
+<br>
+Removed macro SWISS_EPHEMERIS from Astrolog32. It didn't make sense
+anymore since the intent is to use Swiss Ephemeris to a greater
+extent, and eventually remove most of the Matrix functions.<br>
+<br>
+Ayanamsha is now displayed in the info bar as a positive number for
+the current time (previously it was negative). This is in agreement
+with Swiss Ephemeris as well as astrological literature. Also
+ayanamsha is displayed now with three decimal digits for seconds.
+Note that for years before around 210 AC (using Fagan/Bradley),
+Swiss Ephemeris returns a ayanamsha of 359 degrees, while Astrolog
+shows -1. This behaviour has not been changed. Also note that
+included in this ayanamsha as displayed, is the value of the zodiac
+offset. This is the same as before.<br>
+<br>
+Swiss Ephemeris is now used to calculate ayanamsha. A new type of
+sidereal mode was created. It can be set by the switch "-sm mode",
+where mode is a mandatory parameter per Swiss Ephemeris, from 1 for
+Fagan-Bradley through 17 for Galactic Centre at 0 Sagittarius. This
+mode can also be set in the Calculations Settings dialogue box, and
+is saved in the configuration file.<br>
+<br>
+The Zodiac Offset, which before was used in both tropical and
+sidereal charts, will now be used only in sidereal. In the
+calculations dialogue box, this offset is now displayed in a edit
+box (previously it was displayed in a combo box with menu). The
+reason is that the old menu is not necessary anymore.<br>
+<br>
+Removed almost all Windows menu shortcuts (those that appear in the
+menus as an underscore letter), because many of them were not
+working, as they were conflicting with Astrolog own shortcuts. Left
+only the few shortcuts on the top level menu that were still
+working, such as ALT-F for File, etc. Also from a developer's point
+of view it is a nightmare to work with two different sets of
+shortcuts, too much trouble for two little benefit. Astrolog own
+shortcuts have not been touched.<br>
+<br>
+Many changes were done to directories in Astrolog32. Previously,
+when Astrolog32 looked for a file (configuration file, ephemeris
+file, chart files specified with the "-i" command, fixed stars
+catalogue, documentation files, URLs) it searched for it in five to
+seven directories: the current directory, three directories
+specified with environment variables plus version number, and one
+to three directories specified at compile time, which in the
+release version was c:\astrolog (it may search c:\astrolog three
+times).<br>
+<br>
+With the new changes, Astrolog32 will look for files in three
+directories only, in this order:<br>
+1.&nbsp;&nbsp;&nbsp; current drive and directory;<br>
+2.&nbsp;&nbsp;&nbsp; drive and directory where astrolog32.exe is
+(which may or may not be the same as the current drive and
+directory);<br>
+3.&nbsp;&nbsp;&nbsp; a directory that depends on the type of file
+Astrolog32 is looking for, as detailed below;<br>
+<br>
+These are the rules for an automatic search for reading from a
+file,&nbsp; however the default path to write to a file, defined in
+the Windows file selection dialogue box, will be one of the
+directories defined below accordingly to the file type.<br>
+<br>
+The following directories have been defined, and the files stored
+in each directory are shown:<br>
+<br>
+&#183;&nbsp;&nbsp;&nbsp; Main - Astrolog32.exe, astrolog32.dat,
+icons, URLs, documentation files, fixed stars catalogue.<br>
+&#183;&nbsp;&nbsp;&nbsp; Ephemeris - This directory will store
+Swiss Ephemeris files. Note that while a list of search directories
+is passed by Astolog32 to Swiss Ephemeris, Swiss Ephemeris has its
+own file search routine. For example, one of the places it looks
+for is the directory specified by the environment variable
+SE_EPHE_PATH. This is the current behaviour and will not be
+changed, as Astolog32 (currently) uses Swiss Ephemeris in its
+unchanged form.<br>
+&#183;&nbsp;&nbsp;&nbsp; Charts - Charts and planet position
+files.<br>
+&#183;&nbsp;&nbsp;&nbsp; Interpretations - Interpretation files
+(pl01.dat, house10.dat, etc).<br>
+&#183;&nbsp;&nbsp;&nbsp; Miscellaneous - Miscellaneous files,
+such as chart saved as text, bitmap, Windows Meta File, or
+Postscript. Command files also go here.<br>
+&#183;&nbsp;&nbsp;&nbsp; American Atlas, International Atlas -
+Atlas files.<br>
+<br>
+The environment variables ASTR and ASTROLOG are not used anymore
+for searching directories. All the directories defined above are
+configurable, and saved in the configuration file. This also
+implies that the configuration file (astrolog32.dat) will have to
+be in the current directory or in the directory where
+astrolog32.exe is, in order for Astrolog32 to find it.<br>
+<br>
+When the program starts, if the configuration file cannot be found,
+a dialogue box is presented to the user, inviting him or her to do
+some initial configuration of the program. There are three buttons
+that will call the Regional Settings, the Directories and Default
+Location dialogue boxes.<br>
+<br>
+Made other changes to the way files are handled by Astrolog32 to
+enhance usability. Improved filters when selecting a file for
+reading and writing. An initial directory is always initialised
+according to the file type. The file name itself is initialised for
+chart files with the person's name plus extension ".dat" - this
+saves typing. Position files are initialised with the person's name
+plus "_pos.dat".<br>
+<br>
+Created a new command "-ic" to read a generic command file. This is
+the same as "-i", the only difference being that the former looks
+for a file in the miscellaneous directory, while the latter looks
+for it in the charts directory.<br>
+<br>
+Removed from Astrolog32 the capability of reading and writing chart
+files and planet positions in old format, meaning format up to and
+including version 4.10. It is unlikely anybody is still using those
+files.<br>
+<br>
+Removed from Astrolog32 the capability of not choosing Swiss
+Ephemeris in the Calculations Settings dialogue box and through the
+switch "-b", in other words, Swiss Ephemeris is now permanently
+enabled. The reason is that the long term plan is to tie Astrolog32
+tighter to Swiss Ephemeris, and replace Matrix routines by Swiss
+Ephemeris routines.<br>
+<br>
+Added capability of switching between charts 1 and 2. This can be
+accessed from the Edit menu or through the keyboard shortcut
+"X".<br>
+<br>
+Fixed bug whereby in commands -pn and -p0n to do progressions,
+timezone and DST were not being set to default, as they should.<br>
+<br>
+Turned SetCI from a macro to a function, and added an extra
+parameter, location name, so that it does not get lost when the
+rest of the parameters get copied.<br>
+<br>
+Removed "YX" switch from configuration file as it was not being
+used in the program anymore. Removed several functions that were
+not being used, for example, to input data. Created several new
+functions to handle chart information, to improve modularity.<br>
+<br>
+Added macro 40 to Run menu, however no shortcut is defined for it.
+The corresponding shortcut (ALT F4) is used by Windows to close the
+main window. Removed shortcut for macro 42 (ALT F6), because it was
+not working. Added 72 new macros, for a grand total of 120, divided
+in six menus of 20 each. The new macros don't have shortcuts.<br>
+<br>
+Renamed Zodiac Offset as Sidereal Correction, as that better
+reflects how it is now used. In the Calculations menu grouped this
+correction with the sidereal mode. On the info bar the sidereal
+selected mode is now displayed below the indication of sidereal
+chart (if enabled), immediately followed by the ayanamsha.<br>
+<br>
+Fixed old bug whereby the Warnings message box was being displayed
+with the Error icon, and the Error message box was being displayed
+with the Warnings icon.<br>
+<br>
+Moved list of changes from a text file to a HTML
+file.<br>
+</big><br>
+<big><br>
+<span style="text-decoration: underline; font-weight: bold;">Credits
+for
+Astrolog32 version 1.10:</span><br>
+</big>
+<ul>
+  <li><big>Antonio Ramos: all of the above, except where
+noted.</big></li>
+  <li><big>Philippe Epaud: Wrote a User's Guide in French, did most
+of the French translation, suggested improvements, helped with
+testing.</big></li>
+</ul>
+<big><br>
+<br>
+</big>
+<hr style="width: 100%; height: 2px;"><big><br>
+<br>
+</big><big><big style="font-weight: bold; text-decoration: underline;">Astrolog32
+version
+1.20 (23 April 2005)</big><br>
+</big>
+<p class="MsoNormal">&nbsp;</p>
+<big>Fixed old bug whereby edit fields were being used in the
+Aspects and Stars dialogue boxes to show the names of aspects and
+stars. This resulted in a different colour being shown on Windows
+XP.<br>
+<br>
+A double click inside the sidereal mode list box in the
+Calculations Settings dialogue box is now equivalent to selecting
+the clicked mode followed by clicking OK.<br>
+<br>
+Added International Atlas for 246 countries and territories with
+2.86 million places.<br>
+<br>
+Modified function SetEditMDYT used in several dialogue boxes, for
+example Enter Chart Data. The dropdown list for years now goes from
+1920 - 2020, the list for hours goes from 0-23, and the list for
+days of the month from 1-31.<br>
+<br>
+Enter Chart Data dialogue box: improved tab selection order, and
+increased size of dropdown boxes.<br>
+<br>
+Default Info dialogue box: improved tab selection order, increased
+size of dropdown boxes, and in French version replaced combo box
+with edit box for longitude and latitude (English version already
+had edit box).<br>
+<br>
+Calculations Settings dialogue box: the sidereal mode is now
+displayed in alphabetical order, as opposed to the numerical order
+in Swiss Ephemeris definitions, as it used to be.<br>
+<br>
+Added American Atlas with 0.97 million names for 60 states and
+territories. The total atlas (International + American) has now
+3.83 million names.<br>
+<br>
+Added to Graphics Settings dialogue box the capability to configure
+the decoration to the graphics display corners. The configuration
+is saved, and the switch used is YXC &lt;type&gt;&lt;size&gt;
+&lt;no. lines&gt;. Type is 0 (none), 1 (moir&#233;) or 2 (web).
+Size has the range 1-100, and number of lines refers to the lines
+used for the spider web, with range 1-500, and must be used even if
+the type is moir&#233;. The colour of the decoration is set in
+the Colour Settings dialogue box, and is also saved with switch
+Ykc. The corner decoration already existed in 5.40, but was an hack
+that most people did not know about, and was only partly
+configurable.<br>
+<br>
+Moved the first group of 20 macros from a sub-menu to the main Run
+menu, for easier access.<br>
+<br>
+Moved all functions that process switches into a new file,
+&#8220;process_switches.c&#8221;.<br>
+<br>
+Changed the About dialogue box, putting the credits inside a
+scrollable box, as it looks better and is more modern. Eliminated
+function that displayed credits in text mode, as it is redundant in
+a Window software (the same functionality is provided in the About
+box). Improved credits list.<br>
+<br>
+The Display Format radio buttons in the Charts Settings dialogue
+box now control not only the display of longitude as before, but
+also the display of latitude. The same is true to the switches
+&#8220;-s[z,h,d]: Display locations as in zodiac, hours/minutes, or
+degrees.&#8221;. As before the Print Seconds setting impacts the
+precision of the display.<br>
+<br>
+Proserpina is now calculated with Swiss Ephemeris if the file
+&#8220;seorbel.txt&#8221; is found and has correct data. This file
+should be stored in the &#8220;main&#8221; directory (or
+&#8220;principal&#8221; in the French version). If this file is not
+found, the Matrix routines are used as before.<br>
+<br>
+Added a temporary feature, planet positions for a second chart data
+are displayed on the info bar. This is available only for some
+types of relationship charts, such as synastry, transits, etc. This
+feature is not configurable and is disabled by default. To turn it
+on, press the &#8216;=&#8217; key.<br>
+<br>
+The Swiss Ephemeris version 1.67 is used now (it was 1.66).<br>
+<br>
+Fixed a bug when reading chart position files, whereby some planets
+had wrong positions read.<br>
+<br>
+Modified the chart info structure. Name and location are now arrays
+of characters as opposed to pointers to characters. This is to fix
+old memory leaks, plus as a preparation for future additions to
+this structure. Also added &#8220;next&#8221; and
+&#8220;previous&#8221; fields. These have only local significance,
+and can be used in linked lists.<br>
+<br>
+Made some changes in the way planet positions are calculated with
+Swiss Ephemeris. This was necessary to implement chart search
+feature, and also as preparation for future removal of Matrix
+routines.<br>
+<br>
+Added a chart search feature. It can be accessed from the File menu
+or the shortcut ALT-s. Its default search is to find all chart
+files in the charts directory. This search can be restricted in
+three ways: charts with a string in part of the name, with a planet
+in sign (considering the configured sidereal or tropical mode), or
+with two planets in aspect (considering the configured orbs,
+including additions, but excluding special orbs for relationship or
+parallel charts).<br>
+<br>
+Note that the search restrictions are cumulative, that is, if the
+three searches are ticked, the only charts shown are those that
+satisfy all the three requirements. The OK button, as well as
+double-clicking a name on the chart list, opens the selected chart.
+This feature can also be used as an alternative to Open Main Chart
+off the file menu, to more quickly find a chart, especially when
+there are many charts in one file. Also note that searches
+involving planets can be done only in geocentric or heliocentric
+modes.<br>
+<br>
+The feature &#8220;Copy chart as WMF&#8221; was removed from the
+Edit menu. In fact this feature did not work in 5.40, 5.41g or
+Astrolog32. The corresponding function will be left in the code,
+where it has been incomplete for a long time.</big><big><br>
+<br>
+<br>
+<br>
+<span style="text-decoration: underline; font-weight: bold;">Credits
+for
+Astrolog32 version 1.20:</span><br>
+<br>
+</big>
+<ul>
+  <li><big>Antonio Ramos: all of the above.</big></li>
+  <li><big>Philippe Epaud: Updated the User's Guide in French, did
+most of the French translation, suggested improvements, helped with
+testing.</big></li>
+</ul>
+<big><br>
+<br>
+</big>
+<hr style="width: 100%; height: 2px;"><big><br>
+<br>
+</big>
+
+<big><big style="font-weight: bold; text-decoration: underline;"><br>
+Astrolog32 version 2.00 (October 2006)<br></big></big><br>
+<br>
+<ul type="square">
+<li>CHG Conversion of function declarations to C++ style (internal design change)</li>
+<li>CHG Conversion of byte types to char types where needed (internal design change)</li>
+<li>ADD Language-pack support</li>
+<li>ADD Closing the program via a shortcut requires confirmation</li>
+<li>ADD Printing of non-white background requires confirmation</li>
+<li>CHG TrueType font used for text output</li>
+<li>ADD New type of "#text" switches (see below)</li>
+<li>ADD #Glyph switch for defining national characters</li>
+<li>ADD MoveTo rendering method of glyphs (improved graphic output of fonts)</li>
+<li>CHG Atlas shows installed countries/states only</li>
+<li>CHG Time in chart files is always stored in 24h mode</li>
+<li>ADD Chart files containing names of months in English or PM/AM suffix can be loaded in all language versions</li>
+<li>FIX Parallel aspects calculation (by SK)</li>
+<li>FIX Nutation correction (by Antonio)</li>
+<li>ADD #SimplifiedMode and #AdvancedMode switch (easy-to-use simplified version for beginners)</li>
+<li>ADD SimplifiedMode and AdvancedMode menu</li>
+<li>ADD #DebugFont (for developers only)</li>
+<li>FIX 11th house was always omitted and 12th incorrectly displayed in the -v view. Partially fixed.</li>
+<li>ADD #CharSet (for details see WinGDI.h in Windows SDK)</li>
+<li>ADD #UseInternationalAtlas switch - prefer international atlas to the American one (for non-US countries)</li>
+<li>ADD language-specific configuration script in the language pack (possibility of more regional settings for language packs)</li>
+<li>CHG default paths are now relative to the exe-file (not C:\ASTROLOG32\ anymore)</li>
+<li>CHG menus slightly restructured to be more systematic </li>
+<li>ADD Open command file menu item</li>
+<li>ADD advanced/ simplified mode page in the Wizard</li>
+<li>ADD #DegCharacter switch - reassignment of degree chars (for developers of language packs), syntax: DegCharacter [ANSIColorTextMode][TextMode][ANSIColorTextMode2][TextMode2][GraphicsMode]</li>
+<li>ADD #OmitWizard switch (for developers of language packs)</li>
+<li>ADD #OmitRegionalWizard switch (for developers of language packs)</li>
+<li>CHG Swiss Ephemerides 1.70 in use</li>
+<li>CHG Default colors and selections changed</li>
+<li>FIX position of IC is now saved correctly in *_pos files</li>
+<li>ADD default macro file loaded on start from file macro.dat placed in miscellaneous directory (if exists)</li>
+<li>ADD #DisableMacroShortcuts switch (for developers of language packs)</li>
+<li>ADD common ephemeris files</li>
+</ul>
+
+<br>
+<br>
+
+
+<big><big><big><span
+ style="font-weight: bold; text-decoration: underline;">Disclaimer<br>
+<br>
+</span></big></big></big><span
+ style="font-size: 10pt; font-family: &quot;Times New Roman&quot;;" lang="EN-IE"><big><big>This
+software is provided "as is", without
+warranty of any kind, either express or implied. In no event shall
+the authors or copyright holders be liable for any claim, damages
+or other liability, arising from the use or performance of this
+software.<br>
+<br>
+<br>
+<br>
+</big></big><br>
+</span>
+</body>
+</html>

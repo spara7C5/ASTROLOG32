@@ -1,0 +1,34 @@
+body {font-size:16px; color:#D2B48C; background-color:#4B0082; margin:6px;
+overflow:auto; }
+
+body,p,h1,h2,h3,h4,table,td,th,ul,ol,textarea,input
+{font-family:"trebuchet ms","tahoma", sans-serif }
+
+f1 {color:#7FFFD4 ; A32 files & folders}
+f2 {color:#7FFF00 ; discrete categories in Atlases }
+f3 {color:#FF00FF; part headings - purple, lines in A.dat}
+f4 {color:#BDB76B; font-style:italic; font-weight:bold; command switches, f.a.q bronze. done=Zomertijd link only}
+f5 {color:#FF0080 ; config file}
+f6 {color:#9ACD32 ; switches}
+f7 {font-size:80%; }
+f8 {color:#FFFFFF ;}
+
+h1 {font-size:200%;margin-top:0px;font-weight:normal}
+h2 {font-size:160%;margin-top:10px;margin-bottom:10px;font-weight:normal}
+h3 {font-size:110%;font-weight:bold; color:#FF00FF; }
+h4 {font-size:100%; color:#FF00FF; }
+h5 {font-size:90%;margin-bottom:10px;font-weight:normal}
+h6 {font-size:80%;}
+
+img:arrow_up1.png { width:"18", height:"18"  title:"Return to MENU" border:"0" align:""}
+
+img:asterisk_orA.png { width:"18", height:"18"  title:"" border:"0" align:""}
+
+img:asterisk_yeL.png { width:"18", height:"18"  title:"" border:"0" align:""}
+
+img:arrow_up1.png {width:"18", height:"18"  title:"" alt:"Return" title:"Return to MENU" border:"0" align:"right"; }
+
+
+a:link {color:#FF8C00 ;}
+a:visited {color:#FF8C00 ;}
+/div

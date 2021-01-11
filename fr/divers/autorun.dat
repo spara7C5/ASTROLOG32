@@ -1,0 +1,81 @@
+@0309
+
+; le point virgule permet de désactiver une ligne ou d'inscrire une remarque.
+
+; Force de l'aspect pour qu'il soit solide
+; avec le menu EXTRA --> Modifier affichage
+; 8.0 par défaut
+-YPp 0.1
+
+; Theme mandala
+;-w
+
+; Affiche les configurations planétaires (par exemple le carré en T)
+; à la suite de la grille des aspects, en mode texte.
+-a0
+
+; (-g0) - Affiche les figurations planétaires (par exemple le carré en T)
+;         à la suite de la grille des aspects et mi-points, en mode texte.
+;       - Affiche également les mi-points au lieu des aspects dans le thème de synastrie, en mode texte.
+;         Pour revenir à l'affichage des aspects en synastrie utiliser la macro 17
+;         ou taper la commande -g0 -g
+;         ou décocher dans REGLAGES --> REGLAGE TEXTE DETAIL CARTE
+;         la case "Dessins planétaires dans liste Aspect Grille"
+; (-g)  Désactivation de l'affichage de la grille des aspects et mi-points 
+; -g0 -g
+
+; Macros
+
+-WM 1  "Mettre votre prénom (dans le fichier autorun.dat)"
+-M0 1  "-i John_Lennon.dat"
+
+-WM 2  "Mettre le prénom d'un(e) ami(e)"
+-M0 2  "-i Yoko_Ono.dat"
+
+-WM 3  "Remettre la configuration par défaut"
+-M0 3  "-i astrolog32.dat -n"
+
+-WM 4  "Recherche Révolution solaire"
+-M0 4  "-tyn _X -R0 1 RT0 1 -RA 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 -W 40230"
+
+-WM 5 "Recherche Révolution solaire 2008-2018"
+-M0 5 "_X -R0 1 -RT0 1 -tY 2008 11 -RA 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18"
+
+-WM 6  "Transits (Vénus à Plu) du mois en cours sur natal"
+-M0 6  "-tn _X -R0 1 2 3 4 5 6 7 8 9 10 -RT0 4 5 6 7 8 9 10"
+
+-WM 7  "Transits (Vénus à Plu) d'un mois choisi sur natal"
+-M0 7  "-tn _X -R0 1 2 3 4 5 6 7 8 9 10 -RT0 4 5 6 7 8 9 10 -W 40230"
+
+-WM 8  "Transits de l'année (Jup à Plu) sur natal"
+-M0 8  "-tyn _X -R0 1 2 3 4 5 6 7 8 9 10 -RT0 6 7 8 9 10"
+
+-WM 9  "Grandes conjonctions majeures sur 10 ans (Jup à Plu)"
+-M0 9  "-RA 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 -R0 6 7 8 9 10 _X -YR0 1 1 -dY 10"
+
+-WM 10  "Aspects planètes majeures sur 2 ans (Jup à Plu)"
+-M0 10  "-RA 7 10 11 12 13 14 15 16 17 18 -R0 6 7 8 9 10 _X -YR0 1 1 -dY 2"
+
+-WM 11  "Aspects du mois actuel (sauf Lune)"
+-M0 11  "-RA 10 11 12 13 14 15 16 17 18 -R0 1 3 4 5 6 7 8 9 10 _X -YR0 1 1 -dm"
+
+-WM 12  "lunaison 8 phases"
+-M0 12  "-RA 4 5 6 7 10 11 12 13 14 15 16 17 18 -R0 1 2 _X -YR0 1 1 -dm"
+
+-WM 13  "Rythme lunaire"
+-M0 13  "Zd R0 2"
+
+-WM 14  "Maitrises traditionnelles"
+-M0 14  "-ic traditionnelle.dat"
+
+-WM 15  "Maitrises modernes"
+-M0 15  "-ic moderne.dat"
+
+-WM 16  "-> Entrées signes et directions (année)"
+-M0 16  "dy RA 1 2 3 4 5 6 7 _X"
+
+-WM 17  "Bascule mi-points <-> aspects en synastrie, mode texte"
+-M0 17  "-g0 -g"
+
+-WM 18  "Tourner thème Bélier gauche"
+-M0 18  "F 100 1 0 X1 100"

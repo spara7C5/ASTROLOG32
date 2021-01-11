@@ -1,0 +1,25 @@
+@0309
+
+; carte armoniche giornaliere
+
+; orbe delle armoniche
+
+; DEFAULT ASPECT ORBS:
+
+-YAo 1 5     7.0 7.0 7.0 7.0 6.0          ; Major aspects
+-YAo 6 11    3.0 3.0 2.0 2.0 2.0 2.0      ; Minor aspects
+-YAo 12 18   1.0 1.0 1.0 1.0 1.0 1.0 1.0  ; Obscure aspects
+
+; DEFAULT PLANET ASPECT ORB ADDITIONS:
+
+-YAd 1 10    1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+-YAd 11 21   0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+-YAd 22 33   0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+-YOc 2.500000 ; Temporary decreasing of orbs in comparison charts.
+
+-1 22
+-c 2
+-R 22 25 28 31
+
+; ARMONIC.DAT

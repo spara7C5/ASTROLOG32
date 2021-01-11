@@ -1,0 +1,254 @@
+@309 
+
+;ASTROLOG32v2.04
+
+;Cast chart with specified object on Ascendant
+;Carte ulteriori riferite all'ASC
+-1 22
+
+;##############################################################
+
+-WM 1 "-> 1st THEME in Chart #1"
+-M0 1 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\CARTE\1.dat"
+-WM 2 "-> 2nd THEME in Chart #2"
+-M0 2 "-i2 C:\Astrolog\Astrolog32\miscellaneous\MACRO\CARTE\2.dat"
+-WM 3 "-> COMPOSITE in Chart #1"
+-M0 3 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\CARTE\3.dat"
+
+-WM 4 " "
+
+-WM 5 "     -> DIGNITIES: MODERN"
+-M0 5 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\DIGNITA\MODERNE.DAT"
+-WM 6 "     -> DIGNITIES: TRADITIONAL"
+-M0 6 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\DIGNITA\TRADIZIONALI.DAT"
+-WM 7 "     -> PLANETS: MODERN"
+-M0 7 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PIANETI\PIANMOD.DAT"
+-WM 8 "     -> PLANETS: TRADITIONAL"
+-M0 8 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PIANETI\PIANTRA.DAT"
+-WM 9 "     -> PLANETS: LUMINARIES"
+-M0 9 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PIANETI\PIANLUM.DAT"
+-WM 10 "     -> ASTEROIDS in RADIX"
+-M0 10 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PIANETI\PIANASTE.DAT"
+-WM 11 "     -> ORBS: TRADITIONAL  9-5-1°"
+-M0 11 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\ORBE\ORBETRAD.DAT"
+-WM 12 "     -> ORBS: MODERN  8-6-3°"
+-M0 12 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\ORBE\ORBEMOD.DAT"
+-WM 13 "     -> ORBS: LIMITED  5-3-1°"
+-M0 13 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\ORBE\ORBERIS.DAT"
+-WM 14 "     -> ORBS: FOR SYNASTRY  3°"
+-M0 14 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\ORBE\ORB3SINAS.DAT"
+-WM 15 "     -> ORBS: FOR TRANSITS  2,5°"
+-M0 15 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\ORBE\ORB25TRAN.DAT"
+-WM 16 "     -> ORBS: FOR PROGRESSIONIS  2°"
+-M0 16 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\ORBE\ORB2PROGR.DAT"
+-WM 17 "     -> ORBS: FOR DIRECTIONS  1°"
+-M0 17 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\ORBE\ORB1DIREZ.DAT"
+
+-WM 18 " "
+
+-WM 19 "-> BACK TO Chart#1 or HERE-NOW"
+-M0 19 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\DEFAULT\BACKTOMAIN.dat"
+-WM 20 "-> RESET"
+-M0 20 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\DEFAULT\RESETDEF.dat"
+
+;##############################################################
+
+-WM 21 "*****  TRANSITS FOR CHART #1  *****"
+-WM 22 "   Automatic setting for limited orbs."
+-WM 23 " Data in text format. For calling: CHART #1 "
+
+-WM 24 " "
+
+
+-WM 25 "-> TRANSITS: MONTH"
+-M0 25 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\TRANMESE.DAT"
+-WM 26 "-> TRANSITS: YEAR (Jup-Plu)"
+-M0 26 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\TRANANNO.DAT"
+-WM 27 "-> GENERAL TRANSITS"
+-M0 27 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\TRANGENE.DAT"
+-WM 28 "-> TRANSITS: SUN"
+-M0 28 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\TRA01.DAT"
+-WM 29 "-> TRANSITS: MOON"
+-M0 29 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\TRA02.DAT"
+-WM 30 "-> TRANSITS: MERCURY"
+-M0 30 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\TRA03.DAT"
+-WM 31 "-> TRANSITS: VENUS"
+-M0 31 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\TRA04.DAT"
+-WM 32 "-> TRANSITS: MARS"
+-M0 32 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\TRA05.DAT"
+-WM 33 "-> TRANSITS: JUPITER"
+-M0 33 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\TRA06.DAT"
+-WM 34 "-> TRANSITS: SATURN"
+-M0 34 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\TRA07.DAT"
+-WM 35 "-> TRANSITS: URANUS"
+-M0 35 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\TRA08.DAT"
+-WM 36 "-> TRANSITS: NEPTUNE"
+-M0 36 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\TRA09.DAT"
+-WM 37 "-> TRANSITS: PLUTO"
+-M0 37 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\TRA10.DAT"
+
+; -WM 38 " "
+
+-WM 39 "General events, conscience-experience relationships,  "
+-WM 40 "         connections between being and become . "
+
+;##############################################################
+
+-WM 41 "      *****  PLANETARY RETURNS  *****"
+-WM 42 "   Automatic setting for limited orbs."
+-WM 43 "                Data in text format."
+-WM 44 "               For calling: CHART #1"
+
+-WM 45 " "
+
+-WM 46 "-> RETURNS: SUN"
+-M0 46 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\RITOR01.DAT"
+-WM 47 "-> RETURNS: MOON"
+-M0 47 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\RITOR02.DAT"
+-WM 48 "-> RETURNS: MERCURY"
+-M0 48 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\RITOR03.DAT"
+-WM 49 "-> RETURNS: VENUS"
+-M0 49 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\RITOR04.DAT"
+-WM 50 "-> RETURNS: MARS"
+-M0 50 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\RITOR05.DAT"
+-WM 51 "-> RETURNS: JUPITER"
+-M0 51 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\RITOR06.DAT"
+-WM 52 "-> RETURNS: SATURN"
+-M0 52 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\RITOR07.DAT"
+-WM 53 "-> RETURNS: URANUS"
+-M0 53 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\RITOR08.DAT"
+-WM 54 "-> RETURNS: NEPTUNE"
+-M0 54 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\RITOR09.DAT"
+-WM 55 "-> RETURNS: PLUTO"
+-M0 55 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\TRANSITI\RITOR10.DAT"
+
+-WM 56 " "
+
+-WM 57 "SOLAR REV. Charts: yearly orientation toward the world."
+-WM 58 "LUNAR REV. Charts: monthly orientation toward the world."
+-WM 59 "SR-LR charts computed for the moment of the luminary return"
+-WM 60 "Action: from the inside world to the external one."
+
+;##############################################################
+
+-WM 61 "*****  PROGRESSIONS-DIRECTIONS FOR CHART #1  *****"
+-WM 62 "  Automatic setting for limited orbs. For calling: CHART #1   "
+
+-WM 63 " "
+
+-WM 64 "-> SEC. PROGRESSIONS (today)"
+-M0 64 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\PROGSEC.DAT"
+-WM 65 "     N. days = N. X 365.24220 days = N. years"
+
+-WM 66 "-> TER. PROGRESSIONS  (today)"
+-M0 66 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\PROGTER.DAT"
+-WM 67 "     N. days = N. X 29.530588 days = N. months"
+
+-WM 68 "-> SIMBOL. DIRECTIONS (today)"
+-M0 68 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\DIRESIM.DAT"
+-WM 69 "     N. degrees = N. X 365.24220 days = N. years"
+
+-WM 70 "-> SIMBOL. LUNAR DIRECTONS (today)"
+-M0 70 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\DIRSIMLUNA.DAT"
+-WM 71 "     N. degrees = N. X 29.530588 giorni = N. months"
+
+-WM 72 "-> SIMBOL. EQUATORIAL DIRECTIONS (today)"
+-M0 72 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\DIREQUA.DAT"
+-WM 73 "               N. gradi di Asc.Ret. = N. X 365.24220 giorni = N. anni"
+
+-WM 74 "-> SOLAR ARC DIRECTIONS (today)"
+-M0 74 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\ARCSOL.DAT"
+-WM 75 "     SA-N. = N. X 365,24220 days = N. years"
+
+-WM 76 "-> TRADITIONAL PROFECTIONS  (today)"
+-M0 76 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\PROFEZ.DAT"
+-WM 77 "     N. degrees = N. X 12.17474 days => N.signs=N.years"
+           
+-WM 78 "-> AGE HARMOCIC CHARTS (today)"
+-M0 78 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\ARMONIC.DAT"
+-WM 79 "      NOTE: NO DOUBLE CHARTS. In cmd line set H first. "
+-WM 80 "                         Enter,   -x   hh.hhhhhh,    Enter "
+
+;##############################################################
+
+-WM 81 "*****  RESTRICTIONS FOR PROGRESSIONS-DIRECTIONS  *****"
+-WM 82 "            Restrictions valid for composite charts, from menu:"  
+-WM 83 "                           Charts/Progressed And Natal"
+
+-WM 84 " "
+
+-WM 85 "-> Progressions\Directions: SUN, MOON, ASC, MC"
+-M0 85 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\S_SOL_LUN_ASC_MC.DAT"
+-WM 86 "-> Progressions\Directions: SUN"
+-M0 86 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\S_SOLE.DAT"
+-WM 87 "-> Progressions\Directions: MOON"
+-M0 87 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\S_LUNA.DAT"
+-WM 88 "-> Progressions\Directions: MERCURY"
+-M0 88 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\S_MERCURIO.DAT"
+-WM 89 "-> Progressions\Directions: VENUS"
+-M0 89 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\S_VENERE.DAT"
+-WM 90 "-> Progressions\Directions: MARS"
+-M0 90 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\S_MARTE.DAT"
+-WM 91 "-> Progressions\Directions: JUPITER"
+-M0 91 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\S_GIOVE.DAT"
+-WM 92 "-> Progressions\Directions: SATURN"
+-M0 92 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\S_SATURNO.DAT"
+-WM 93 "-> Progressions\Directions: ALL"
+-M0 93 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\S_TUTTI.DAT"
+-WM 94 "-> CUSPS OFF in CHART #2 (For Radix\double-charts only)"
+-M0 94 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\CUSPIDINO.DAT"
+-WM 95 "-> CUSPS ON in CHART #2 (For Radix\double-charts only)"
+-M0 95 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\PROGRESSIONI\CUSPIDISI.DAT"
+
+-WM 96 " "
+-WM 97 "*****              RESTRICTION FOR TRANSITS              *****"
+-WM 98 "              Always valid: Text mode and Graphics mode"
+-WM 99 "  For objects in transit: Command line...:-RT0 followed by:"
+-WM 100 " 1 for SUN, 2 for MOON, etc.  Ex: -RT0 6 7  for JUP and SAT"
+
+;##############################################################
+
+-WM 101 " *****  INTERPRETATIONS FOR CHART #1  *****"
+
+-WM 102 "-> INTERPRETATIONS: PLANETS -Original-"
+-M0 102 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\INTERPRET\IN_PIA_EN.DAT"
+-WM 103 "-> INTERPRETATIONS: ASPECTS -Original-"
+-M0 103 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\INTERPRET\IN_ASP_EN.DAT"
+-WM 104 "      For calling: MULTIPLES OFF and INTERPRETATIONS OFF"
+
+-WM 105 "-> INTERPRETATIONS: PLANETS/ASPECTS -Alternative-"
+-M0 105 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\INTERPRET\IN_PIA_IT.DAT"
+-WM 106 "-> INTERPRETATIONS: HOUSES/DISPOSITORS -Alternative-"
+-M0 106 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\INTERPRET\IN_CAS_IT.DAT"
+-WM 107 "      STARS not restricted included"
+-WM 108 "      For calling: MULTIPLES OFF"
+
+-WM 109 "-> INTERPRETIONS: TRANSITS"
+-M0 109 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\INTERPRET\IN_TRANS.DAT"
+-WM 110 "      From Lists\Transits... and from MACROS: -Original-"
+-WM 111 "      From Charts\Transits And Natal: -Alternative-"
+
+-WM 112 "-> INTERPRETATIONS OFF"
+-M0 112 "-i C:\Astrolog\Astrolog32\miscellaneous\MACRO\INTERPRET\IN_OFF.DAT"
+
+
+-WM 113 "*****  ASTRONOMICAL DATA FOR CHART #1  *****"
+
+-WM 114 "-> ASPECTS SUMMARY"
+-M0 114 "_X -g0"
+-WM 115 "-> LUNISOLAR MOVEMENTS (day)"
+-M0 115 "_X -Zd R0 sun moon "
+-WM 116 "-> PLANETARY MOVEMENTS (day)"
+-M0 116 "_X -Zd R0 3 4 5 6 7 8 9 10"
+-WM 117 "-> LUNAR PHASES (month)"
+-M0 117 "_X -RA 4 5 6 7 10 11 12 13 14 15 16 17 18 -R0 1 2 -YR0 1 1 -dm"
+-WM 118 "-> ASPECTS, except Moon (month)"
+-M0 118 "_X -RA 10 11 12 13 14 15 16 17 18 -R0 1 3 4 5 6 7 8 9 10 -YR0 1 1 -dm"
+-WM 119 "-> PLANETARY TRANSITIONS (month)"
+-M0 119 "_X -dm RA 1 2 3 4 5 6 7"
+-WM 120 "-> PLANETARY EVENTS (month)"
+-M0 120 "_X -dm"
+
+;##############################################################
+
+; MACRO_default.DAT

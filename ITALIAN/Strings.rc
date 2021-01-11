@@ -1,0 +1,429 @@
+
+#include "..\res_strings.h"
+
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+// Italian (Italia) resources
+
+STRINGTABLE 
+BEGIN
+	// Languahe pack ID and version
+	0						"ASTRLG32\x01\x01"
+
+
+//---------------------------------------------------------
+//						Tables
+//---------------------------------------------------------
+
+	tSignName				"|Ariete|Toro|Gemelli|Cancro|Leone|Vergine|Bilancia|Scorpione|Sagittario|\
+							Capricorno|Aquario|Pesci"
+
+	tSignAbbrev				"|Ar|To|Ge|Cn|Le|Ve|Bi|Sc|Sg|Cp|Aq|Pe"
+
+	// ObjNames
+	// Star names should not be translated, because they may be overwritten
+	// by names from the fixed stars catalogue, that are in English.
+
+	// the extra space after IC is necessary for house wheels in text
+	// mode to be correctly displayed
+
+	tObjName				"Terra|Sole|Luna|Mercury|Venere|Marte|\
+							Giove|Saturno|Urano|Nettuno|Plutone|\
+							Chirone|Ceres|Pallas Athena|Juno|Vesta|\
+							Nodo Nord|Nodo Sud|Lilith|Punto Fortuna|Vertex|Punto Est|\
+							Ascendente|2a Cuspide|3a Cuspide|IC |\
+							5a Cuspide|6a Cuspide|Discendente|8a Cuspide|\
+							9a Cuspide|MCoeli|11a Cuspide|12a Cuspide|\
+							Cupido|Hades|Zeus|Kronos|\
+							Apollon|Admetos|Vulkanus|Poseidon|Proserpina|\
+							Achernar|Polaris|Zeta Retic.|Alcyone|\
+							Aldebaran|Capella|Rigel|Bellatrix|\
+							Elnath|Alnilam|Betelgeuse|Menkalinan|\
+							Mirzam|Canopus|Alhena|Sirius|\
+							Adhara|Wezen|Castor|Procyon|\
+							Pollux|Suhail|Avior|Miaplacidus|\
+							Alphard|Regulus|Dubhe|Acrux|\
+							Gacrux|Mimosa|Alioth|Spica|\
+							Alkaid|Agena|Arcturus|Toliman|\
+							Antares|Shaula|Sargas|Kaus Austr.|\
+							Vega|Altair|Peacock|Deneb|\
+							Alnair|Fomalhaut|Andromeda|Alpheratz|\
+							Algenib|Schedar|Mirach|Alrischa|\
+							Almac|Algol|Mintaka|Wasat|\
+							Acubens|Merak|Vindemiatrix|Mizar|\
+							Kochab|Zuben Elgen.|Zuben Escha.|Alphecca|\
+							Unuk Alhai|Ras Alhague|Albireo|Alderamin|\
+							Nashira|Skat|Scheat|Markab|\
+							Centro.Gal|Apex|Sadalmelik"
+							
+	// The object abbreviation is used in the info bar and other places where only 
+	// three or four letters are printed. Make sure that these 3-4 letters are 
+	// meaningful and unique. 
+
+    tObjShortName			"Terra|Sole|Luna|Mercury|Venere|Marte|Giove|Saturno|Urano|\
+							Nettuno|Plutone|\
+							Chirone|Ceres|Pallas|Juno|Vesta|\
+							NNord|NSud|Lilith|Fortuna|Vertex|EaPoint|\
+							Ascendente|2a Cuspide|3a Cuspide|IC |5a Cuspide|6a Cuspide|\
+							Discendente|8a Cuspide|9a Cuspide|MC |11a Cuspide|12a Cuspide|\
+							Cupido|Hades|Zeus|Kronos|Apollon|Admetos|Vulkanus|Poseidon|Proserpina|\
+							Achernar|Polaris|Zeta Retic.|Alcyone|\
+							Aldebaran|Capella|Rigel|Bellatrix|\
+							Elnath|Alnilam|Betelgeuse|Menkalinan|\
+							Mirzam|Canopus|Alhena|Sirius|\
+							Adhara|Wezen|Castor|Procyon|\
+							Pollux|Suhail|Avior|Miaplacidus|\
+							Alphard|Regulus|Dubhe|Acrux|\
+							Gacrux|Mimosa|Alioth|Spica|\
+							Alkaid|Agena|Arcturus|Toliman|\
+							Antares|Shaula|Sargas|Kaus Austr.|\
+							Vega|Altair|Peacock|Deneb|\
+							Alnair|Fomalhaut|Andromeda|Alpheratz|\
+							Algenib|Schedar|Mirach|Alrischa|\
+							Almac|Algol|Mintaka|Wasat|\
+							Acubens|Merak|Vindemiatrix|Mizar|\
+							Kochab|Zuben Elgen.|Zuben Escha.|Alphecca|\
+							Unuk Alhai|Ras Alhague|Albireo|Alderamin|\
+							Nashira|Skat|Scheat|Markab|\
+							Gal.Center|Apex|Sadalmelik"
+
+	tAspectName				"|Congiunzione|Opposizione|Quadratura|Trigono|Sestile|\
+							Quinconce|Semisestile|Semiquadrato|Sesquiquadrato|\
+							Quintile|Biquintile|Semiquintile|Ettagono|Novile|\
+							Binovile|Biettagono|Triettagono|Quadrinovile"
+
+	tAspectAbbrev			"|Con|Opp|Qua|Tri|Ses|Qui|SmS|SmQ|SsQ|Qut|BQt|\
+                            SQt|Ett|Nov|BNv|BEt|TEt|QNv"
+
+	tAspectConfig		    "|Stellium|Grande Trigono|Doppio Quadrato|Iod|Grande Croce|\
+    					    Culla|Rettangolo Mistico|Aquilone"
+
+	tHouseSystem			"Placido|Koch|Uguale(Asc)|Campano|Meridiano|\
+							Regiomontano|Porfirio|Morino|Topocentrico|Alcabizio|\
+							Uguale(MC)|Neo-Porfirio|Totale|Vedico|Nullo|Indiano"
+
+	tElement				"Fuoco|Terra|Aria|Acqua"
+
+	tMode					"Cardinale|Fisso|Mobile";
+
+	tAyanamshaAbbrev		"Fagan/Bradley|Lahiri|De Luce|Raman|Ushashashi|Krishnamurti|Djwhal Khul|\
+							Yukteshwar|J. N. Bhasin|Babyl. (Kugler 1)|Babyl. (Kugler 2)|\
+							Babyl. (Kugler 3)|Babyl. (Huber)|Babyl. (Eta Piscium)|Babyl. (Ald. 15 Tau)|\
+							Hipparchos|Sassanian|Centro Galat. 0 Sag"
+
+	tAyanamshaName			"Fagan/Bradley|Lahiri|De Luce|Raman|Ushashashi|Krishnamurti|Djwhal Khul|\
+							Yukteshwar|J. N. Bhasin|Babylonian (Kugler 1)|Babylonian (Kugler 2)|\
+							Babylonian (Kugler 3)|Babylonian (Huber)|Babylonian (Eta Piscium)|\
+							Babylonian (Aldebaran a 15° Toro)|Hipparchos|Sassanian|\
+							Centro galattico a 0° Sagittario"
+
+	tMonth					"|Gennaio|Febbraio|Marzo|Aprile|Maggio|Giugno|\
+							Luglio|Agosto|Settembre|Ottobre|Novembre|Dicembre"
+
+	tDay					"Domenica|Lunedi|Martedi|Mercoledi|Giovedi|Venerdi|Sabato"
+
+
+	tSuffix					"|a |a |a |a |a |a |a |a |a |a |a |a "
+
+// colour names must be unambiguous to the extent of the length 
+// of the shorter colour name
+
+	tColor					"Nero|Marrone|VeScuro|Arancio|BlScuro|Porpora|CiScuro|GrChiaro|\
+							Grigio|Rosso|Verde|Giallo|Blu|Magenta|Ciano|Bianco"
+
+// Help strings
+
+	tSignMeaning			"|Ram|Bull|Twins|Crab|Lion|Virgin|Scales|Scorpion|Archer|Sea Goat|\
+							Water Bearer|Fishes"
+
+	tHouseMeaning			"|Casa della Vita|Casa delle Finanze|Casa dei Fratelli|\
+							Casa dei Genitori|Casa dei Figli|Casa della Salute|Casa del Matrimonio|\
+							Casa della Morte|Casa dei Lunghi Viaggi|Casa del Lavoro|\
+							Casa degli Amici|Casa degli Affanni"
+
+
+	tAspectGlyph			"|Cerchio con asta|Due cerchi contrapposti|\
+							Quadrilatero|Triangolo|Asterisco a sei punte|\
+							'K' ruotato a destra|'K' ruotato a sinistra|Angolo acuto|\
+							Quadrato con aste|Lettera 'Q'|'+' su '-'|\
+							'-' su '+'|Numbero '7'|Numbero '9'|'9' sotto 'II' Romano|\
+							'7' sotto 'II' Romano|'7' sotto 'III' Romano|'9' sotto 'IV' Romano"
+
+// end of helps
+
+	tDir					"Nord|Est|Sud|Ovest"
+
+	tArabicPart				"Fortuna|Spirito|Vittoria|Valore e Coraggio|Mente e Amministratori|\
+							Proprietà e Beni|Fratelli|Morte dei Fratelli|Morte dei Genitori|\
+							Nonni|Beni Immobili|Bambini e Vita|Nascita Attesa|\
+							Malattie e Imperfez.(1)|Malattie e Imperfez.(2)|Prigionia|Servitori|\
+							Soci|Lutto|Malattia e Omicidio|Peric. Violenza Debiti|\
+							Viaggi|Viaggi per Acqua|Fede, Fiducia, Opinioni|Riflessioni Profonde|\
+							Comprensione e Saggezza|Fama e Riconoscimenti|Dominatori e Dissociaz.|\
+							Padre, Destino e Karma|Progressi Improvvisi|Celebrità di Rango|\
+							Ospedali e Incidenti|Mercanti e Loro Lavoro|Mercanzia (Scambi)|\
+							Madre|Gloria e Costanza|Conoscenze Onorevoli|Successo|\
+							Mondanità|Conoscenza|Violenza|Libertà di Persona|\
+							Lode e Accettazione|Inimicizia|Sfortuna|Corpi Debilitati|\
+							Audacia e Violenza|Astuzia e Falsità|Necessità|\
+							Soddisfaz. dei Bisogni|Ciò che ti Spetta|Bambini (Maschi)|\
+							Bambine (Femmine)|Giochi e Diversità|Stabilità|Congetture|Arte|\
+							Attrazione Sessuale|Impulsi Sessuali|Passione|Sentimento e Affetto|\
+							Anno più Rischioso|Pericolo|Occultismo|Commercio|Contratti Nuziali|\
+							Viaggi per Terra|Viaggi per Aria|Destino|Vocazione e Status|\
+							Onore, Nobiltà (Giorno)|Onore, Nobiltà (Notte)|Organizzazione|Divorzio|\
+							Ostracismo e Perdite|Amici|Tragedie e Fratelli|Corsa (Consapevolezza)|\
+							Sottomiss. e Schiavismo|Prigionia e Pene|Perversione|Autodistruzione|\
+							Tradimenti e Trappole|Privazioni|Suicidio (Yang)|Suicidio (Yin)|\
+							Depressione|Assassinio (Yang)|Assassinio (Yin)|\
+							Cancro (Malattia)|Catastrofe|Temerarietà|Liberazione e Fortuna|\
+							Benevolenza e Sicurezza|Speranza ed Emotività|Opportunità e Distacco|\
+							Fascino e Personalità|Fede e Buone Maniere|Temperamento|\
+							Sicurezza e Ricchezze|Originalità|Eccentricità,Astrologia|Divinazione|\
+							Intrusione|Trattative|Discordia, Controversia|Coincidenza|\
+							Impreparazione|Popolarità|Malintesi|Sentimento e Matrimonio|\
+							Solitudine|Investimenti Positivi|Parsimonia e Lavoro|Sprechi|\
+							Vanità|Corruzione|Intraprendenza|Memoria|Amore, Bellezza e Pace|\
+							Disinteresse e Noia|Realizzazioni|Influenza e Potere|\
+							Accresci. e Impressioni|Prudenza|Timidezza|Intrattenimenti|Eredità|\
+							Genio|Rivelazione|Delusione|Errata Interpretazione|Intellettualità|Terra|\
+							Acqua|Aria e Vento|Fuoco|Nuvole|Pioggia|Freddo|Frumento|Orzo e Carne|\
+							Riso e Miglio|Granturco|Lenticchie, Ferro, Acro|Cipolle e Fagioli|\
+							Ceci|Sesamo e Uva|Zucchero e Legumi|Miele|Olio|\
+							Noci e Lino|Olive|Albicocche e Pesche|Meloni|Sale|Dolci|\
+							Astringenti e Purganti|Seta e Cotone|Purganti (Amari)|\
+							Purganti (Acidi)|Segreti|Informazioni Vere/False|\
+							Danni negli Affari|Liberti e Servitori|Datore di Lavoro|Matrimonio|\
+							Tempo x Azione/Successo|Tempo speso ad Agire|\
+							Congedo e Dimissioni|Vita/Morte Assenteista|\
+							Animale Perduto(Chiaro)|Animale Perduto (Scuro)|Processo|Decapitazione|\
+							Tortura|Oggetti Perduti"
+
+	tDirNames				"Principale|Effemeridi|Carte|Interpretazioni|Miscellanea|Atlante USA|Atlante mondiale"
+	tDirPaths				"principale|effemeridi|carte|interpretazioni|miscellanea|atlante\\USA|atlante\\mondo"
+
+
+
+
+
+//
+
+//---------------------------------------------------------
+//						Strings
+//---------------------------------------------------------
+
+	sYES								"Si"
+	sNO									"No"
+	sAM									"AM"
+	sPM									"PM"
+	sST									"ST"
+	sDT									"DT"
+	sDegSign							"°:° \370"
+	
+	// DrawInfo() strings
+
+	sHOUSE1								"casa"
+	sHOUSES1							"Case: %s"
+	sHouseCusp							"Cuspi Casa"	//must be 10 chars
+	sTROPICAL							"Tropicale"
+	sSIDEREAL							"Sidereale"
+	sSIDEREAL_TIME						"Tempo Siderale: %s"
+	sHELIOCENTRIC						"Eliocentrico"
+	sGEOCENTRIC							"Geocentrico"
+	sJULIAN_DAY							"G.Giuliano: "
+	sHARMONIC							"Armonico"
+	sOBLIQUITY							"Obliquità"
+	sBONUS_MODE							"Aspetto modificato"
+	sINNER_RING							"Cerchio interno:"
+	sOUTER_RING							"Cerchio esterno:"
+	sNO_TIME_OR_SPACE					"No tempo e spazio"
+	sTIME_SPACE_MIDPOINT				"Carta media Spazio/Tempo"
+	sCOMPOSITE_CHART					"Carta Composita"
+	sSYNASTRY_HOUSES					"Synastria.  Case:"
+	sOUTER_RING_TRANSIT					"C. esterno - Transiti:"
+
+	sDEGREE_PER_YEAR_MONTH				"Gradi per Anno/Mese -"
+	sSOLAR_ARC							"Arco Solare -"
+
+	// the following two lines continue the two lines above 
+
+	sOUTER_RING_DIRECTED_TO				"Cerchio ext diretto a:"	
+	sCHART_DIRECTED_TO					"Carta diretta a:"
+
+	sOUTER_RING_PROGRESSED_TO			"Cerchio ext progresso a:"
+	sSECOND_RING						"Secondo cerchio:"
+	sCHART_PROGRESSED_TO				"Carta progressa a:"
+	sPLANETS							"Pianeti:"
+	sBRUSSELS							"Bruxelles, Belgio"
+
+	// aspect info
+	sHARM								"Armo= "
+	sCONJ								"Cong= "
+	sTENS								"Disa= "
+	sTOTAL								"Tot.= "
+	sSUMM								"Somma= "
+	sAspectAbbrevCon					"Con"
+	sAspectAbbrevOpp					"Opp"
+
+	sHouseDispositorWheel				"Grafico dispositori Case."
+	sHouseDispositorHierarchy			"Gerarchia dispositori Case."
+	sSignDispositorWheel				"Grafico dispositori Segni."
+	sSignDispositorHierarchy			"Gerarchia dispositori Segni."
+
+	sFIRE_EARTH							"Fuoco: %d, Terra: %d"
+	sAIR_WATER							"Aria : %d, Acqua: %d"
+	sCAR_FIX_MUT						"Car: %d, Fis: %d, Mob: %d"
+	sYANG_YIN							"Yang: %d, Yin: %d"
+	sM_N_A_D							"S: %d, N: %d, E: %d, O: %d"
+	sANG_SUC_CAD						"Ang: %d, Suc: %d, Cad: %d"
+	sLEARN_SHARE						"Ari-Ver: %d, Bil-Pes: %d"
+
+// Common dialogs
+	sOPEN_MAIN_CHART					"Apri Carta"
+	sOPEN_CHART							"Apri Carta #%d"
+	sSAVE_MAIN_CHART_DATA				"Salva dati Carta"
+	sSAVE_CHART_POSITIONS				"Salva posizioni Carta"
+	sSAVE_CHART_AS_TEXT_FILE			"Salva Carta come File Testo"
+	sSAVE_CHART_AS_BITMAP				"Salva Carta come Bitmap"
+	sSAVE_CHART_AS_WMF					"Salva Carta come WMF"
+	sSAVE_CHART_AS_POSTSCRIPT			"Salva Carta come PostScript"
+	sSAVE_CURRENT_SETTINGS				"Salva Impostazioni correnti"
+	sOPEN_COMMAND_FILE				    "Apri File di Comando"
+	sDAT_MASK					        "Files Dati (*.dat)\000*.dat\000Tutti i files (*.*)\000*.*\000\001"
+	sTXT_MASK					        "Files Testo (*.txt)\000*.txt\000Tutti i files (*.*)\000*.*\000\001"
+	sBMP_MASK					        "Files Windows Bitmap (*.bmp)\000*.bmp\000Tutti i files (*.*)\000*.*\000\001"
+	sWMF_MASK					        "Files WMF (*.wmf)\000*.wmf\000Tutti i files (*.*)\000*.*\000\001"
+	sPS_MASK					        "Files PostScript (*.ps)\000*.ps\000Tutti i files (*.*)\000*.*\000\001"
+
+// Various windows
+
+	sTRANSIT_OBJECT_RESTRICTIONS		"Selezione Transiti"
+	sPROGRESSED_OBJECT_RESTRICTIONS		"Selezione Progressioni"
+	sENTER_CHART_INFO					"Imposta/modifica Carta #%d" 
+	sWINDOW_NAME						"%s versione %s per MS Windows (32 bits) con Effemeridi Svizzere v. %s"
+	sAPP_VER							"%s versione %s"
+	sRFED								"RFed"
+	sABOUT
+"By Walter D. Pullen (Astara@msn.com)\r\n\
+Astrolog Homepage: http://www.magitech.com/~cruiser1/astrolog.htm\r\n\
+Astrolog Homepage #2: http://www.astrolog.org/astrolog.htm\r\n\
+\r\n\
+Formule principali di calcolo per le posizioni planetarie adattate da \
+James Neely, come illustrato in 'Manual of Computer Programming for \
+Astrologers' di Michael Erlewine, distribuito da Matrix Software.\r\n\
+\r\n\
+Routines PostScript grafiche curate da Brian D. Willoughby.\r\n\
+\r\n\
+Cacoli estesi Effemeridi e formule di Astrodienst AG, \
+conformi alle librerie SWISS EPHEMERIS, distribuite da Astrodienst AG.\r\n\
+\r\n\
+IMPORTANTE: Astrolog è freeware, ma coperto da copyright e non in \
+pubblico dominio. Si autorizza la distribuzione ed il libero uso di queste \
+routines, ma ne è vietata la vendita, la riduzione e l'utilizzo \
+finalizzato a trarne ogni forma di profitto. E' consentito altresì apportarne \
+modifiche, a condizione che queste note rimangano inalterate in qualunque \
+versione modificata o revisionata del programma. Questi vincoli \
+si intedono validi per il programma nella sua interezza e per ogni \
+singola parte curata da ciascun autore. Le violazioni saranno perseguibili \
+civilmente e penalmente, e severamente punite da un punto di vista karmico.\r\n\
+\r\n\
+Sentiti ringraziamenti per tutti coloro, conosciuti o meno, che hanno \
+evidenziato problemi, fornito suggerimenti e indotto vibrazioni positive! :)\r\n\
+\r\n\
+   ______________________________________________________\r\n\
+\r\n\
+Walter Pullen ha completato lo sviluppo di Astrolog 5.40 per Windows 16-bits \
+il 20 Dicembre 1998.\r\n\
+\r\n\
+Alois Treindl ha aggiunto il supporto per le Effemeridi Svizzere alla versione 5.41.\r\n\
+\r\n\
+Valentin Abramov ha apportato perfezionamenti alle versioni Windows 16-bits, \
+dalla 5.30a alla 5.41g, lavorando fino al 26 Aprile 2002.\r\n\
+\r\n\
+António Ramos ha creato Astrolog32 (Windows 32-bits version) sulla base \
+5.41g. La versione 1.0 è stata rilasciata il 5 Marzo 2004. Le versioni seguenti \
+hanno visto perfezionamenti per l'interfaccia utente, il supporto multilingua, \
+l'atlante, ecc.\r\n\r\n\
+Le versioni 2.00-2.02 sono state sviluppate da Tomas Kubec.\r\n\
+Le versioni 2.03 e seguenti sono state sviluppate e aggiornate da Roberto Luporini.\r\n\
+\r\n\
+Editato il %s da Roberto Luporini.\r\n\
+\r\n\
+   ______________________________________________________\r\n\
+\r\n\
+Astrolog32 V2.00-2.02 Home Page: http://www.orionsoft.cz/astrolog32/\r\n\
+Astrolog32 V2.03-2.04 Home Page: http://www.astrolog32.altervista.org/\r\n\
+\r\n\
+Questo softwarwe è fornito 'così come è', senza alcuna forma di garanzia, \
+implicita o esplicita. In nessun caso gli autori e/o i detentori del copyright \
+potranno essere ritenti responsabili per danni o inconvenienti \
+derivanti da qualunque forma d'uso del programma."
+	
+
+// Warnings and messages
+	sINCOMPATIBLE_CONFIG_FILE			"File di configuraz. incompatibile:\nver. file %d, ver. richiesta %d"
+	sINCOMPATIBLE_FILE					"File incompatibile '%s' (richiesta versione '%s')"
+	sINVALID_FILE						"File invalido '%s' (non si avvia con '@%s')"
+	sFILE_NOT_FOUND						"File '%s' non trovato in cartella '%s'"
+	sDIRECTORIES_NOT_FOUND_OR_CREATED	"Le seguenti cartelle non sono state trovate o create:\n\n%s"
+	sCONFIGURATION_FILE_NOT_FOUND		"Il file di configurazione non é stato trovato.\nVuoi configurare il programma adesso?"
+	sINT_VALUE_NOT_VALID_SETTING		"Il valore %d non è una impostazione valida per %s"
+	sFLOAT_VALUE_NOT_VALID_SETTING		"Il valore %f non è una impostazione valida per %s"
+	sEXIT								"Vuoi uscire dal programma?"
+	sPRINT_BACKROUND					"Lo sfondo non é bianco. Continuare la stampa?"
+
+	sHelpForumInternationalUrl			"http://groups.yahoo.com/group/Astrolog_List/"
+	sHelpForumUrl						"http://groups.yahoo.com/group/Astrolog_List/"
+	sReadMe								"companion.html"
+	sHelp								"helpfile.txt"
+	sUsersGuide							"A32_Ita_Man.pdf"
+	sWAtlas								"watlas.url"
+
+// Headings
+	sChart								"\n%s Carta "
+	sDualChart							"\n%s Carta doppia "
+	sSynastryChart						"\n%s Carta sinastrica, case "
+	sComposite							"composita\n"
+	sTimeSpaceMidpoint					"media Spazio/Tempo\n"
+	sFor								"per %s:\n"
+	sTransits							"\nTransiti per:\n"
+
+	sChartHdr							"Oggetto      Posizione Ret. %s Dig. Casa Dig.  Velocità\n"							
+	sChartHdrSeconds					"Oggetto     Posiz. Ret. %s. Dig. Casa   Dig. Veloc.    Domificazione %s.\n"
+	sCFMT								"     Car Fis Mob TOT"
+	sHorizonHdr							"Oggetto%s%s Ampiezza%s %s%sPrm-Vrt%s%s  Vettore Azi.%s    "
+	sHorizonHdr2						"Oggetto %s%s Altezza%s %s%sAzimuth%s%s  Vettore Azi.%s    "
+	sArabicHdr							"ELENCO PARTI ARABE\n\nNum.                    Nome Posizio."
+	sArabicHdr2							"Casa  Formula              Inv. Tipo\n\n"
+
+	sAspectHdr							" Orbe        Potenza\n\n"
+	sInfluenceHdr						"    Pianeta:   Posizione    Aspetti       Parallelo    Totale      Percento\n"
+
+	// Wizard
+	sWELCOME_WIZ_TITLE1					"Scelte regionali"
+	sWELCOME_WIZ_SUBTITLE1				"La scelta di una regione setterà automaticamente alcuni parametri. Potrai modificarli in seguito dal menù Impostazioni."
+	sWELCOME_WIZ_TITLE2					"Località e Fuso Orario predefiniti"
+	sWELCOME_WIZ_SUBTITLE2				"Scegli adesso un Luogo e un Fuso Orario. Ti suggeriamo di scegliere la tua città di residenza. AVVISO: Per località aventi il fuso orario di Greenwich (ad es. Inghilterra, Irlanda, ...) settare il relativo campo a 0:00 o selezionare GMT."
+	sWELCOME_WIZ_TITLE3					"Cartelle"
+	sWELCOME_WIZ_SUBTITLE3				"Astrolog32 ha molti files, raccolti con ordine in cartelle. Per il momento ti suggeriamo di conservare le cartelle di default: se necessario potrai cambiarle in seguito."
+	sWELCOME_WIZ_TITLE4					"Modalità"
+	sWELCOME_WIZ_SUBTITLE4				"Astrolog32 può lavorare in modalità semplificata o in modalità avanzata per i più esperti."
+
+//Atlas
+	sWARNING_NOT_ALL_PLACES_SHOWN		">> ATTENZIONE: NON TUTTI I LUOGHI SONO MOSTRATI. TI SUGGERIAMO DI RESTRINGERE LA TUA SCELTA. <<" 
+	sNO_PLACE_MATCHING_REQUIREMENTS		">> Nessun luogo trovato in base alla richiesta. <<"
+	sNEED_CHOOSE_ATLAS_BEFORE_SEARCH	"Devi scegliere un atlante prima della ricerca"
+	sCOUNTRY_LIST						"country_list.atl"
+	sSTATE_LIST							"states_list.atl"
+//Search
+	sIN_FILE							" nel file %s"
+	sCHOOSE_DIRECTORY					"Scegli la cartella per i files delle Carte"
+	sANY_ASPECT							"Ogni aspetto"
+	sANY_OBJECT							"Ogni oggetto"
+	sANY_SIGN							"Ogni segno"
+	sSPEED_ABBREVIATION					"Velocità"
+	sGAUQUELIN_SECTOR					"Sett. Gauq."
+
+END
+

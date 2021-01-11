@@ -1,0 +1,26 @@
+@0309
+
+; transiti di giove
+
+; DEFAULT ASPECT ORBS:
+
+-YAo 1 5     2.5 2.5 2.5 2.5 2.5          ; Major aspects
+-YAo 6 11    1.3 1.3 1.3 1.3 1.0 1.0      ; Minor aspects
+-YAo 12 18   1.0 1.0 1.0 1.0 1.0 1.0 1.0  ; Obscure aspects
+
+; DEFAULT PLANET ASPECT ORB ADDITIONS:
+
+-YAd 1 10    0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+-YAd 11 21   0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+-YAd 22 33   0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+
+-YOc 2.00000 ; Temporary decreasing of orbs in comparison charts.
+             ; Default 2.5 times.
+
+-tn
+_X
+-R0 1 2 3 4 5 6 7 8 9 10 16 18 22 23 24 25 26 27 28 29 30 31 32 33
+-RT0 6
+-W 40230
+
+; TRA06.DAT

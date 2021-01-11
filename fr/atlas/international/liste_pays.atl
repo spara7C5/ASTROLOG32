@@ -1,0 +1,259 @@
+@0400
+
+; Liste GNS des pays
+
+; Ce fichier a ete cree par Antonio Ramos le 20 Septembre 2004 a partir des sources
+; fournies par le NGA GEOnet Names Server sur http://earth-info.nga.mil/gns/html,
+; et a ete traduit par Philippe Epaud. Il peut etre copie sans restriction.
+
+; Ce fichier est fourni "tel quel", sans garantie d'aucune sorte, explicite ou
+; implicite. En aucun cas les auteurs ou détenteurs de droit ne pourront être
+; tenus responsables des dommages directs ou indirects résultant de l'utilisation
+; de ce fichier.
+
+af Afghanistan
+sf Afrique du Sud
+al Albanie
+ag Algerie
+gm Allemagne
+an Andorre
+ao Angola
+av Anguilla
+ac Antigua et Barbuda
+nt Antilles neerlandaises
+sa Arabie Saoudite
+ar Argentine
+am Armenie
+aa Aruba
+as Australie
+au Austriche
+aj Azerbaidjan
+bf Bahamas
+ba Bahrein
+gz Bande de Gaza
+bg Bangladesh
+bb Barbades
+bs Bassas Da India
+be Belgique
+bh Belize
+bn Benin
+bd Bermudes
+bt Bhoutan
+bo Bielorussie
+bl Bolivie
+bk Bosnie Herzegovine
+bc Botswana
+br Bresil
+bx Brunei
+bu Bulgarie
+uv Burkina Faso
+bm Burma
+by Burundi
+cb Cambodge
+cm Cameroun
+ca Canada
+cv Cap Vert
+ci Chili
+ch Chine
+cy Chypre
+we Cisjordanie
+co Colombie
+cn Comores
+cf Congo
+cg Congo, Republique Democratique du 
+kn Coree du Nord, Republique populaire democratique
+ks Coree du Sud, Republique de
+cs Costa Rica
+iv Cote D'ivoire
+hr Croatie
+cu Cuba
+da Danemark
+dj Djibouti
+do Dominique
+eg Egypte
+ae Emirats Arabes Unis
+ec Equateur
+er Eritree
+sp Espagne
+en Estonie
+et Ethiopie
+fk Falklands (Malouines)
+fj Fidji
+fi Finlande
+fr France
+gb Gabon
+ga Gambie
+gg Georgie
+sx Georgie du Sud et les Iles Sandwich du Sud
+gh Ghana
+gi Gibraltar
+gr Grece
+gj Grenade
+gl Groenland
+gp Guadeloupe
+gt Guatemala
+gk Guernsey
+gv Guinee
+pu Guinee-bissau
+ek Guinee Equatoriale
+fg Guinee Francaise
+gy Guyane
+ha Haiti
+nl Hollande
+ho Honduras
+hk Hong Kong
+hu Hongrie
+bv Ile Bouvet 
+kt Ile Christmas
+ip Ile Clipperton
+im Ile de Man
+eu Ile Europa
+ju Ile Juan De Nova
+mp Ile Maurice
+nf Ile Norfolk
+te Ile Tromelin
+cj Iles Caiman
+ck Iles Cocos 
+cw Iles Cook
+at Iles d'Ashmore et Cartier
+cr Iles de la mer de Corail
+pg Iles de Spratly
+fo Iles Faroe
+go Iles Glorieuses
+hm Iles Heard et McDonald
+rm Iles Marshall
+pc Iles Pitcairn
+bp Iles Salomon
+tk Iles Turques et Caicos
+vi Iles Vierges Britanniques
+in Inde
+id Indonesie
+ir Iran
+iz Iraq
+ei Irlande
+ic Islande
+is Israel
+it Italie
+jm Jamaique
+jn Jan Mayen
+ja Japon
+je Jersey
+jo Jordanie
+kz Kazakhstan
+ke Kenya
+kg Kirgisistan
+kr Kiribati
+ku Koweit
+la Laos
+lt Lesotho
+lg Lettonie
+le Liban
+li Liberia
+ly Libye
+ls Liechtenstein
+lh Lituanie
+lu Luxembourg
+mc Macao
+mk Macedoine, Ancienne Republique Yougoslave de
+ma Madagascar
+my Malaisie
+mi Malawi
+mv Maldives
+ml Mali
+mt Malte
+mo Maroc
+mb Martinique
+mr Mauritanie
+mf Mayotte
+mx Mexique
+fm Micronesie, Etats Federaux de la
+md Moldavie
+mn Monaco
+mg Mongolie
+mh Montserrat
+mz Mozambique
+wa Namibie
+nr Nauru
+np Nepal
+nu Nicaragua
+ng Niger
+ni Nigeria
+ne Niue
+nm No Man's Land
+no Norvege
+nc Nouvelle-Caledonie
+nz Nouvelle-Zelande
+mu Oman
+ug Ouganda
+uz Ouzbekistan
+pk Pakistan
+ps Palau
+pm Panama
+pp Papouasie-Nouvelle Guinee
+pa Paraguay
+pe Perou
+rp Philippines
+pl Pologne
+fp Polynesie Francaise
+po Portugal
+qa Qatar
+ct Republique d'Afrique Centrale
+dr Republique Dominicaine
+ez Republique Tcheque
+re Reunion
+ro Roumanie
+uk Royaume-Uni
+rs Russie
+rw Rwanda
+wi Sahara occidental
+sc Saint Kitts et Nevis
+sm Saint Marin
+sb Saint Pierre et Miquelon
+vc Saint Vincent et les Grenadines
+sh Sainte Helene
+st Sainte Lucie
+es Salvador
+ws Samoa
+tp Sao Tome et Principe
+sg Senegal
+yi Serbie et Montenegro
+se Seychelles
+sl Sierra Leone
+sn Singapour
+lo Slovaquie
+si Slovenie
+so Somalie
+su Soudan
+ce Sri Lanka
+sw Suede
+sz Suisse
+ns Suriname
+sv Svalbard
+wz Swaziland
+sy Syrie
+ti Tadjikistan
+tw Taiwan
+tz Tanzanie
+cd Tchad
+fs Terres Australes et Antarctiques Francaises
+io Territoire britannique de l'ocean Indien
+th Thailande
+tt Timor oriental
+to Togo
+tl Tokelau
+tn Tonga
+td Trinite et Tobago
+ts Tunisie
+tx Turkmenistan
+tu Turquie
+tv Tuvalu
+up Ukraine
+uy Uruguay
+nh Vanuatu
+vt Vatican
+ve Venezuela
+vm Vietnam
+wf Wallis et Futuna
+ym Yemen
+za Zambie
+zi Zimbabwe

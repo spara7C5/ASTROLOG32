@@ -1,0 +1,6 @@
+@0102  ; Astrolog32 chart info.
+
+; Date is in American format: month day year.
+
+/qb 10 9 1940 18:30:00 ST -1:00   2:15'00W 53:30'00N
+/zi "John Lennon" "Liverpool, England"

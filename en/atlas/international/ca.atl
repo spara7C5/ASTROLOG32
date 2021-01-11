@@ -1,0 +1,5545 @@
+@0500
+
+; Astrolog32 country file for Canada
+
+; This file was created by Antonio Ramos on 27 July 2004 using source data
+; provided by NGA GEOnet Names Server at http://earth-info.nga.mil/gns/html.
+; It can be copied without restriction.
+
+; This file is provided "as is", without warranty of any kind, either express
+; or implied. In no event shall the authors or data providers be liable for
+; any claim, damages or other liability, arising from the use of this file.
+
+01 Alberta
+02 British Columbia
+03 Manitoba
+04 New Brunswick
+05 Newfoundland
+07 Nova Scotia
+08 Ontario
+09 Prince Edward Island
+10 Quebec
+11 Saskatchewan
+12 Yukon
+13 Northwest Territories
+14 Nunavut
+
+%%
+
+N-- - 108w45 50n44 0 11 Abbey
+N-- - 122w18 49n03 0 02 Abbotsford
+V-- - 72w53 45n26 0 10 Abbotsford
+V-- - 122w18 49n03 0 02 Abbottsford
+N-- - 113w01 54n14 0 01 Abee
+N-- - 106w17 52n19 0 11 Aberdeen
+V-- - 73w44 45n33 0 10 Abord a Plouffe
+N-- - 58w54 48n31 0 05 Abrahams Cove
+N-- - 110w12 51n09 0 01 Acadia Valley
+N-- - 113w30 51n30 0 01 Acme
+N-- - 77w20 44n33 0 08 Actinolite
+N-- - 80w02 43n38 0 08 Acton
+N-- - 72w34 45n38 0 10 Acton Vale
+N-- - 115w07 58n23 0 01 Adams Landing
+N-- - 53w55 48n05 0 05 Adeytown
+N-- - 108w01 49n43 0 11 Admiral
+N-- - 53w37 47n01 0 05 Admirals Beach
+N-- - 64w47 45n20 0 07 Advocate Harbour
+N-- - 121w46 49n14 0 02 Agassiz
+N-- - 79w16 43n47 0 08 Agincourt
+N-- - 62w05 50n13 0 10 Aguanish
+N-- - 126w03 49n17 0 02 Ahousat
+N-- - 59w13 55n11 0 05 Aillik
+N-- - 114w01 51n16 0 01 Airdrie
+N-- - 137w30 61n34 0 12 Aishihik
+N-- - 129w05 55n15 0 02 Aiyansh
+N-- - 79w01 43n51 0 08 Ajax
+N-- - 135w00 68n13 0 13 Aklavik
+V-- - 135w00 68n13 0 13 Aklavika
+V-- 500 89w49 68n32 0 14 Akviligjuaq
+N-- - 102w17 49n16 0 11 Alameda
+N-- - 72w25 48n52 0 10 Albanel
+V-- - 65w03 44n48 0 07 Albany
+V-- - 81w37 52n15 0 08 Albany
+V-- - 65w03 44n48 0 07 Albany Station
+N-- - 61w01 45n56 0 07 Alba Station
+N-- - 124w48 49n16 0 02 Alberni
+N-- - 117w52 51n08 0 02 Albert Canyon
+N-- - 64w04 46n48 0 09 Alberton
+N-- - 105w32 53n25 0 11 Albertville
+N-- - 119w09 52n38 0 02 Albreda
+N-- - 119w30 55n16 0 01 Albright
+N-- - 91w45 50n04 0 08 Alcona
+N-- - 111w21 50n17 0 01 Alderson
+N-- - 65w03 46n37 0 04 Aldouane
+N-- - 62w15 82n29 0 14 Alert
+N-- - 126w55 50n35 0 02 Alert Bay
+N-- - 100w18 49n49 0 03 Alexander
+N-- - 54w07 48n41 0 05 Alexander Bay
+V-- - 54w07 48n41 0 05 Alexander Bay Station
+N-- - 122w27 52n38 0 02 Alexandria
+N-- - 74w38 45n18 0 08 Alexandria
+N-- - 123w17 52n05 0 02 Alexis Creek
+N-- - 115w47 52n28 0 01 Alexo
+N-- - 122w04 54n07 0 02 Aleza Lake
+N-- - 74w52 45n33 0 08 Alfred
+N-- - 78w36 45n33 0 08 Algonquin Park
+N-- - 129w29 55n27 0 02 Alice Arm
+N-- - 101w52 49n23 0 11 Alida
+N-- - 113w11 52n24 0 01 Alix
+N-- - 122w18 51n46 0 02 Alkali Lake
+N-- - 106w04 51n54 0 11 Allan
+N-- - 90w12 50n14 0 08 Allan Water
+N-- - 81w10 44n32 0 08 Allenford
+N-- - 111w47 52n26 0 01 Alliance
+N-- - 131w59 53n12 0 02 Alliford Bay
+N-- - 127w31 51n02 0 02 Allison Harbour
+N-- - 79w52 44n09 0 08 Alliston
+N-- - 122w50 49n06 0 02 Alluvia
+N-- - 64w57 45n36 0 04 Alma
+N-- - 71w39 48n33 0 10 Alma
+N-- - 72w45 46n31 0 10 Almaville
+V-- - 72w45 46n32 0 10 Almaville
+N-- - 76w12 45n13 0 08 Almonte
+N-- - 98w59 50n48 0 03 Alonsa
+N-- - 112w55.25 54n25.34 0 01 Alpen
+N-- - 112w57.17 54n25.39 0 01 Alpen Siding
+N-- - 109w59 51n22 0 11 Alsask
+N-- - 122w59 50n07 0 02 Alta Lake
+N-- - 102w29 52n54 0 11 Alticane
+N-- - 97w34 49n06 0 03 Altona
+N-- - 106w01 52n31 0 11 Alvena
+NQ- - 72w39 64n02 0 14 Amadjuak
+N-- - 98w44 50n36 0 03 Amaranth
+N-- - 105w28 51n33 0 11 Amazon
+N-- - 112w55.51 54n44 0 01 Amber Valley
+N-- - 112w29.48 55n04.55 0 01 Amesbury
+N-- - 92w56 50n01 0 08 Amesdale
+N-- - 64w12 45n50 0 07 Amherst
+N-- - 83w06 42n06 0 08 Amherstburg
+N-- - 78w07 48n34 0 10 Amos
+V-- - 76w22 45n26 0 08 Amprior
+N-- - 67w26 48n28 0 10 Amqui
+N-- - 104w45 49n37 0 11 Amulet
+N-- - 84w57 48n29 0 08 Amyot
+N-- - 125w18 52n27 0 02 Anahim Lake
+V-- - 71w23 46n47 0 10 Ancienne Lorette
+NQ- - 128w57 69n44 0 13 Anderson River
+N-- - 112w20 53n53 0 01 Andrew
+N-- - 79w14 47n33 0 10 Angliers
+N-- - 79w53 44n19 0 08 Angus
+N-- - 73w32 45n36 0 10 Anjou
+V-- - 65w31 44n44 0 07 Annapolis
+N-- - 65w31 44n44 0 07 Annapolis Royal
+N-- - 72w26 46n13 0 10 Annaville
+V-- - 64w18 48n56 0 10 Anse au Griffon
+V-- - 56w50 51n31 0 05 Anse au Loup
+V-- - 68w09 49n13 0 10 Anse Comeau
+N-- - 77w36 44n18 0 08 Anson
+N-- - 80w41 48n45 0 08 Ansonville
+V-- - 73w45 45n37 0 10 Anteuil
+N-- - 61w58 45n37 0 07 Antigonish
+V-- - 61w58 45n37 0 07 Antigonishe
+NQ- - 129w50 55n25 0 02 Anyox
+N-- - 68w27 63n43 0 14 Apex
+V-- - 68w27 63n43 0 14 Apex Hill
+N-- - 64w47 45n28 0 07 Apple River
+N-- - 78w05 44n45 0 08 Apsley
+N-- - 103w39 53n07 0 11 Arborfield
+N-- - 97w13 50n54 0 03 Arborg
+N-- - 105w37 50n17 0 11 Archive
+N-- - 102w29 49n38 0 11 Arcola
+N-- - 85w10 73n02 0 14 Arctic Bay
+V-- 145 133w45 67n26 0 13 Arctic Red River
+N-- - 80w05 45n38 0 08 Ardbeg
+N-- - 110w28.38 54n19.56 0 01 Ardmore
+N-- - 113w08 53n33 0 01 Ardrossan
+N-- - 107w30 52n15 0 11 Arelee
+N-- - 109w16 49n07 0 11 Arena
+N-- - 116w56 50n11 0 02 Argenta
+N-- - 54w00 47n18 0 05 Argentia
+N-- - 65w51 43n48 0 07 Argyle
+N-- - 61w01 45n31 0 07 Arichat
+V-- - 62w26 46n25 0 09 Armadale
+N-- - 70w35 46n45 0 10 Armagh
+N-- - 101w51 52n50 0 11 Armit
+N-- - 104w02 53n07 0 11 Armley
+N-- - 119w11 50n27 0 02 Armstrong
+V-- - 89w02 50n18 0 08 Armstrong
+N-- - 89w02 50n18 0 08 Armstrong Station
+N-- - 96w42 55n46 0 03 Arnot
+N-- - 76w22 45n26 0 08 Arnprior
+N-- - 79w15 48n12 0 10 Arntfield
+N-- - 86w57 50n14 0 08 Aroland
+N-- - 67w43 46n48 0 04 Aroostook
+V-- - 67w43 46n48 0 04 Aroostook Junction
+N-- - 130w00 54n58 0 02 Arrandale
+N-- - 117w55 50n42 0 02 Arrowhead
+N-- - 100w46 50n08 0 03 Arrow River
+N-- - 71w55 46n02 0 10 Arthabaska
+N-- - 80w32 43n50 0 08 Arthur
+N-- 1800 94w03 61n07 0 14 Arviat
+N-- - 71w11 48n26 0 10 Arvida
+N-- - 71w56 45n47 0 10 Asbestos
+N-- - 71w46 45n27 0 10 Ascot Corner
+N-- - 121w16 50n43 0 02 Ashcroft
+N-- - 98w20 51n11 0 03 Ashern
+N-- - 111w34.05 54n07.47 0 01 Ashmont
+N-- - 100w17 51n10 0 03 Ashville
+V-- - 111w42 49n56 0 01 Askow
+N-- - 120w38 49n53 0 02 Aspen Grove
+N-- - 107w13 52n07 0 11 Asquith
+N-- - 105w59 49n37 0 11 Assiniboia
+N-- - 72w14 46n10 0 10 Aston Junction
+N-- - 113w16 54n43 0 01 Athabasca
+V-- - 113w16 54n43 0 01 Athabaska
+V-- - 116w02 50n31 0 02 Athalmer
+V-- - 116w02 50n31 0 02 Athelmer
+N-- - 79w22 44n36 0 08 Atherley
+N-- - 64w13 45n41 0 07 Athol
+N-- - 115w39 55n55 0 01 Atikameg
+N-- - 91w37 48n45 0 08 Atikokan
+N-- - 90w47 52n46 0 08 Atikup
+N-- - 110w57 50n51 0 01 Atlee
+N-- - 133w43 59n35 0 02 Atlin
+N-- - 112w32.53 54n49.10 0 01 Atmore
+N-- - 125w49 52n23 0 02 Atnarko
+N-- - 121w26 56n13 0 02 Attachie
+N-- - 82w26 52n55 0 08 Attawapiskat
+V-- - 71w10 46n48 0 10 Aubigny
+N-- - 87w54 50n15 0 08 Auden
+N-- - 79w28 44n00 0 08 Aurora
+N-- - 98w56 49n57 0 03 Austin
+N-- - 73w45 45n37 0 10 Auteuil
+N-- - 78w52 48n43 0 10 Authier
+N-- - 78w52 48n50 0 10 Authier-Nord
+N-- - 112w16.47 55n02.16 0 01 Avenir
+N-- - 56w49 47n35 0 05 Aviron Bay
+N-- - 119w19 51n47 0 02 Avola
+N-- - 105w04 50n01 0 11 Avonlea
+N-- - 64w15 45n06 0 07 Avonport
+N-- - 72w02 45n10 0 10 Ayers Cliff
+N-- - 74w22 45n38 0 10 Ayersville
+N-- - 105w42 50n56 0 11 Aylesbury
+N-- - 64w50 45n02 0 07 Aylesford
+N-- - 80w59 42n47 0 08 Aylmer
+N-- - 75w51 45n24 0 10 Aylmer
+N-- - 103w48 53n12 0 11 Aylsham
+N-- - 80w27 43n17 0 08 Ayr
+N-- - 80w56 44n03 0 08 Ayton
+N-- - 126w37 55n19 0 02 Babine
+N-- - 125w11 54n31 0 02 Babine Portage
+V-- - 70w53 48n21 0 10 Bacotville
+N-- - 60w45 46n06 0 07 Baddeck
+N-- - 80w40 43n24 0 08 Baden
+N-- - 95w58 49n11 0 03 Badger
+N-- - 56w02 48n58 0 05 Badger
+V-- - 57w02 50n50 0 05 Bad Harbour
+N-- - 70w53 48n21 0 10 Bagotville
+N-- - 68w09 49n13 0 10 Baie-Comeau
+N-- - 67w19 49n25 0 10 Baie-de-la-Trinite
+V-- - 58w01 51n19 0 10 Baie des Rochers
+N-- - 67w52 48n43 0 10 Baie-des-Sables
+N-- - 73w52 50n25 0 10 Baie-du-Poste
+N-- - 73w55 45n24 0 10 Baie-d'Urfe
+N-- - 69w44 48n06 0 10 Baie-Sainte-Catherine
+N-- - 64w29 49n53 0 10 Baie-Sainte-Claire
+N-- - 70w30 47n26 0 10 Baie-Saint-Paul
+N-- - 56w11 49n55 0 05 Baie Verte
+N-- - 66w35 45n38 0 04 Bailey
+N-- - 124w51 49n19 0 02 Bainbridge
+N-- - 54w55 47n22 0 05 Baine Harbour
+N-- - 96w01 64n19 0 14 Baker Lake
+N-- - 79w37 45n01 0 08 Bala
+N-- - 103w33 50n48 0 11 Balcarres
+N-- - 120w41 56n13 0 02 Baldonnel
+N-- - 99w14 49n23 0 03 Baldur
+N-- - 116w58 49n38 0 02 Balfour
+N-- - 107w53 52n32 0 11 Baljennie
+N-- - 114w01 51n13 0 01 Balzac
+N-- - 123w31 48n35 0 02 Bamberton
+N-- - 125w09 48n50 0 02 Bamfield
+N-- - 77w51 45n03 0 08 Bancroft
+N-- - 115w34 51n10 0 01 Banff
+N-- - 77w33 44n39 0 08 Bannockburn
+N-- - 64w16 48n37 0 10 Barachois
+V-- - 64w16 48n37 0 10 Barachois de Malbaie
+N-- - 92w42 49n46 0 08 Barclay
+N-- - 54w14 47n42 0 05 Bar Haven
+N-- - 112w37.37 54n10.51 0 01 Barich
+N-- - 121w31 53n04 0 08 Barkerville
+N-- - 137w39 63n44 0 12 Barlow
+V-- - 65w31 46n53 0 04 Barnaby
+N-- - 65w31 46n53 0 04 Barnaby River
+N-- - 122w56 49n17 0 02 Barnet
+N-- - 113w05 49n59 0 01 Barons
+V-- - 55w07 47n29 0 05 Barrasway de Plate
+N-- - 77w40 48n30 0 10 Barraute
+N-- - 77w38 48n26 0 10 Barraute
+N-- - 57w02 50n50 0 05 Barr'd Harbour
+N-- - 126w45 54n26 0 02 Barrett
+V-- - 126w45 54n26 0 02 Barrett Lake
+N-- - 114w24 54n07 0 01 Barrhead
+N-- - 79w42 44n23 0 08 Barrie
+N-- - 120w08 51n11 0 02 Barriere
+N-- - 76w42 47n30 0 10 Barriere
+N-- - 65w34 43n34 0 07 Barrington
+N-- - 65w36 43n31 0 07 Barrington Passage
+N-- - 55w07 47n29 0 05 Barrisway de Plate
+N-- - 101w26 52n49 0 03 Barrows
+V-- - 77w41 45n29 0 08 Barry Bay
+N-- - 77w41 45n29 0 08 Barrys Bay
+V-- - 65w37 47n17 0 04 Bartibog
+N-- - 65w37 47n17 0 04 Bartibog Station
+V-- - 65w37 47n17 0 04 Bartibogue
+V-- - 65w37 47n17 0 04 Bartibogue Station
+N-- - 56w59 50n56 0 05 Bartletts Harbour
+N-- - 102w06 51n12 0 11 Barvas
+N-- - 93w59 48n39 0 08 Barwick
+N-- - 112w58 52n35 0 01 Bashaw
+N-- - 112w28 50n47 0 01 Bassano
+N-- - 84w36 46n54 0 08 Batchawana
+N-- - 106w44 50n01 0 11 Bateman
+N-- - 76w46 44n11 0 08 Bath
+N-- - 65w39 47n36 0 04 Bathurst
+N-- - 108w02 66n50 0 14 Bathurst Inlet
+N-- - 72w15 46n30 0 10 Batiscan
+N-- - 55w47 53n24 0 05 Batteau
+N-- - 109w50 49n26 0 11 Battle Creek
+N-- - 108w18 52n46 0 11 Battleford
+V-- - 55w35 52n16 0 05 Battle Harbor
+N-- - 55w35 52n16 0 05 Battle Harbour
+N-- - 52w50 47n43 0 05 Bauline
+N-- - 52w50 47n20 0 05 Bay Bulls
+N-- - 52w56 48n04 0 05 Bay de Verde
+N-- - 81w42 43n34 0 08 Bayfield
+N-- - 53w18 47n35 0 05 Bay Roberts
+N-- - 60w28 47n00 0 07 Bay Saint Lawrence
+N-- - 105w08 52n07 0 11 Bay Trail
+V-- - 76w51 45n44 0 08 Beachberg
+N-- - 76w51 45n44 0 08 Beachburg
+N-- - 62w29 46n01 0 09 Beach Point
+N-- - 111w09.05 54n10.53 0 01 Beacon Corner
+N-- - 109w39.08 54n21.20 0 11 Beacon Hill
+N-- - 96w34 50n26 0 03 Beaconia
+N-- - 73w50 45n26 0 10 Beaconsfield
+N-- - 127w23 55n09 0 02 Beament
+N-- - 79w28 43n10 0 08 Beamsville
+N-- - 137w41 60n49 0 12 Bear Creek
+N-- - 87w57 49n36 0 08 Beardmore
+N-- - 121w14 56n17 0 02 Bear Flat
+N-- - 126w51 56n12 0 02 Bear Lake
+N-- - 79w20 47n17 0 10 Bearn
+N-- - 65w38 44n34 0 07 Bear River
+N-- - 90w59 53n56 0 08 Bearskin Lake
+N-- - 117w44 50n44 0 02 Beaton
+N-- - 104w47 52n54 0 11 Beatty
+V-- - 107w37 55n09 0 11 Beaual
+N-- - 70w46 46n12 0 10 Beauceville
+N-- - 70w46 46n12 0 10 Beauceville-Est
+N-- - 79w01 46n38 0 10 Beauchene
+V-- - 71w11 46n51 0 10 Beaufort
+N-- - 73w52 45n19 0 10 Beauharnois
+N-- - 55w41 49n36 0 05 Beaumont
+N-- - 71w11 46n51 0 10 Beauport
+N-- - 70w53 47n03 0 10 Beaupre
+N-- - 96w31 50n04 0 03 Beausejour
+N-- - 107w37 55n09 0 11 Beauval
+V-- - 74w22 45n01 0 10 Beaver
+V-- - 117w25 51n31 0 02 Beaver
+N-- - 65w36 47n07 0 04 Beaver Brook Station
+N-- - 126w52 50n32 0 02 Beaver Cove
+N-- - 74w22 45n01 0 10 Beaver Crossing
+N-- - 110w12.21 54n21.43 0 01 Beaver Crossing
+N-- - 110w18.24 54n12.13 0 01 Beaverdam
+N-- - 62w25 44n54 0 07 Beaver Harbour
+N-- - 111w54.45 54n45.35 0 01 Beaver Lake
+N-- - 122w52 53n49 0 02 Beaverley
+N-- - 119w27 55n12 0 01 Beaverlodge
+N-- - 117w25 51n31 0 02 Beavermouth
+N-- - 110w16.15 54n22.12 0 01 Beaver River
+N-- - 79w09 44n26 0 08 Beaverton
+V-- - 74w22 45n01 0 10 Beaver Tower
+N-- - 72w26 46n20 0 10 Becancour
+N-- - 64w04 49n43 0 10 Becscie
+N-- - 100w58 49n23 0 03 Bede
+N-- - 63w39.52 44n43.44 0 07 Bedford
+N-- - 72w59 45n07 0 10 Bedford
+N-- - 123w05 53n52 0 02 Bednesti
+V-- - 92w42 49n46 0 08 Bedworth
+N-- - 72w09 45n01 0 10 Beebe
+V-- - 72w09 45n01 0 10 Beebe Plain
+N-- - 107w23 50n53 0 11 Beechy
+N-- - 113w32 51n23 0 01 Beiseker
+N-- - 106w13 55n47 0 11 Belanger
+N-- - 107w49 53n22 0 11 Belbutte
+N-- - 94w12 57n56 0 03 Belcher
+NQ- - 78w52 56n12 0 14 Belcher Islands
+N-- - 77w21 48n24 0 10 Belcourt
+N-- - 128w08 52n09 0 02 Bella Bella
+N-- - 126w45 52n22 0 02 Bella Coola
+V-- - 126w45 52n22 0 02 Bellakula
+N-- - 57w32 50n21 0 05 Bellburns
+N-- - 73w05 46n35 0 10 Belleau
+N-- - 55w27 47n31 0 05 Belleoram
+N-- - 105w09 50n24 0 11 Belle Plaine
+N-- - 82w43 42n18 0 08 Belle River
+N-- - 77w23 44n10 0 08 Belleville
+N-- - 114w22 49n35 0 01 Bellevue
+N-- - 53w45 47n38 0 05 Bellevue
+N-- - 70w02 60n01 0 10 Bellin
+N-- - 112w09.04 54n08.35 0 01 Bellis
+V-- - 52w56 47n39 0 05 Bell Island
+N-- - 118w14 55n45 0 01 Belloy
+N-- - 112w06 60n01 0 13 Bell Rock
+N-- - 101w03 52n35 0 03 Bellsite
+V-- - 53w45 47n38 0 05 Bellvue
+N-- - 99w27 49n25 0 03 Belmont
+N-- - 63w23 45n25 0 07 Belmont
+V-- - 73w12 45n34 0 10 Beloeil
+N-- - 73w12 45n34 0 10 Beloeil Village
+N-- - 137w03 60n22 0 12 Beloud Post
+N-- - 114w17 52n18 0 01 Benalto
+N-- - 121w04 53n46 0 02 Bend
+N-- - 105w07 49n24 0 11 Bengough
+N-- - 101w33 51n55 0 03 Benito
+N-- - 134w28 59n25 0 02 Ben-My-Chree
+N-- - 134w59 59n51 0 02 Bennett
+N-- - 114w03 52n28 0 01 Bentley
+V-- - 110w20 51n21 0 01 Benton
+N-- - 67w36 45n59 0 04 Benton
+N-- - 54w26 48n54 0 05 Benton
+V-- - 54w26 48n54 0 05 Benton Station
+N-- - 110w20 51n21 0 01 Benton Station
+N-- - 97w02 52n22 0 03 Berens River
+NQ- - 95w15 50n52 0 03 Beresford Lake
+N-- - 114w38 51n42 0 01 Bergen
+N-- - 94w23 48n56 0 08 Bergland
+V-- - 114w47 68n47 0 14 Bernard
+V-- - 64w57 46n07 0 04 Berry Mill
+N-- - 64w57 46n07 0 04 Berry Mills
+V-- - 64w57 46n07 0 04 Berrys Mills
+V-- - 68w39 48n57 0 10 Bersimis
+V-- - 70w44 46n56 0 10 Berthier
+V-- - 70w44 46n56 0 10 Berthier-en-Bas
+N-- - 70w44 46n56 0 10 Berthier-sur-Mer
+N-- - 73w10 46n05 0 10 Berthierville
+V-- - 73w10 46n05 0 10 Bervierville
+N-- - 64w44 45n02 0 07 Berwick
+N-- - 117w45 56n09 0 01 Berwyn
+N-- - 78w34 44n11 0 08 Bethany
+N-- - 105w13 50n42 0 11 Bethune
+N-- - 68w39 48n57 0 10 Betsiamites
+N-- - 101w02 50n16 0 03 Beulah
+N-- - 113w24 53n34 0 01 Beverly
+N-- - 68w42 48n22 0 10 Bic
+N-- - 116w38 53n33 0 01 Bickerdike
+N-- - 101w09 51n13 0 03 Bield
+N-- - 102w48 49n09 0 11 Bienfait
+V-- - 54w04 47n08 0 05 Big Barachois
+N-- - 105w10 49n06 0 11 Big Beaver
+N-- - 89w53 52n57 0 08 Big Beaverhouse
+N-- - 56w08 51n31 0 05 Big Brook
+N-- - 123w01 51n43 0 02 Big Creek
+N-- - 107w59 52n03 0 11 Biggar
+N-- - 110w39.14 54n23.44 0 01 Big Meadow
+V-- - 58w26 54n10 0 05 Bigolet
+N-- - 107w02 53n50 0 11 Big River
+N-- - 134w56 61n52 0 12 Big Salmon
+V-- - 77w21 43n57 0 08 Big Sandy
+N-- - 112w45 52n02 0 01 Big Valley
+N-- - 80w36 46n02 0 08 Bigwood
+N-- - 114w06 53n42 0 01 Bilby
+N-- - 72w10 48n20 0 10 Bilodeau
+N-- - 110w16 50n53 0 01 Bindloss
+N-- - 101w17 50n37 0 03 Binscarth
+N-- - 105w26 52n59 0 11 Birch Hills
+N-- - 81w47 46n03 0 08 Birch Island
+N-- - 101w06 52n23 0 03 Birch River
+N-- - 54w44 49n20 0 05 Birchy Bay
+V-- - 77w52 45n07 0 08 Bird Creek
+N-- - 95w41 50n24 0 03 Bird River
+N-- - 77w52 45n07 0 08 Birds Creek
+N-- - 122w36 50n29 0 02 Birken
+N-- - 106w59 51n06 0 11 Birsay
+N-- - 101w03 50n26 0 03 Birtle
+N-- - 82w06 47n18 0 08 Biscotasing
+N-- - 55w31 49n01 0 05 Bishops Falls
+N-- - 78w04 46n13 0 08 Bissett
+N-- - 95w40 51n01 0 03 Bissett
+V-- - 78w04 46n13 0 08 Bissett Creek
+N-- - 113w03 53n00 0 01 Bittern Lake
+N-- - 111w38 57n23 0 01 Bitumount
+N-- - 103w38 52n43 0 11 Bjorkdale
+N-- - 55w57 53n18 0 05 Black Bear Bay
+N-- - 65w49 48n08 0 10 Black Cape
+N-- - 121w07 52n18 0 02 Black Creek
+N-- - 114w14 50n42 0 01 Black Diamond
+V-- - 58w55 48n42 0 05 Black Duck Bank
+N-- - 58w55 48n42 0 05 Black Duck Brook
+N-- - 113w48 52n23 0 01 Blackfalds
+N-- - 93w59 48n48 0 08 Black Hawk
+N-- - 138w50 63n29 0 12 Black Hills
+N-- - 113w37 50n36 0 01 Blackie
+N-- - 71w22 46n02 0 10 Black Lake
+N-- - 120w15 50n58 0 02 Black Pines
+N-- - 120w07 51n35 0 02 Black Pool
+N-- - 65w50 46n44 0 04 Blackville
+N-- - 79w03 44n14 0 08 Blackwater
+N-- - 106w08 51n22 0 11 Bladworth
+N-- - 117w03 51n26 0 02 Blaeberry
+N-- - 106w53 52n50 0 11 Blaine Lake
+N-- - 114w26 49n36 0 01 Blairmore
+N-- - 57w07 51n26 0 10 Blanc-Sablon
+N-- - 81w15 43n17 0 08 Blanshard
+N-- - 82w00 42n20 0 08 Blenheim
+N-- - 125w31 50n25 0 02 Blind Channel
+N-- - 82w57 46n11 0 08 Blind River
+N-- - 124w49 50n02 0 02 Bliss Landing
+V-- - 66w35 45n38 0 04 Blissville
+N-- - 125w22 50n07 0 02 Bloedel
+N-- - 124w37 49n48 0 02 Blubber Bay
+N-- - 106w13 52n01 0 11 Blucher
+N-- - 120w01 51n06 0 02 Blucher Hall
+N-- - 112w31.21 54n52.47 0 01 Blue Jay
+N-- - 115w23 54n07 0 01 Blue Ridge
+N-- - 119w18 52n06 0 02 Blue River
+N-- - 64w15 44n21 0 07 Blue Rock
+V-- - 64w15 44n21 0 07 Blue Rocks
+N-- - 118w15 56n04 0 01 Bluesky
+N-- - 114w17 52n45 0 01 Bluffton
+N-- - 126w24 49n29 0 02 Boat Basin
+N-- - 78w33 44n32 0 08 Bobcaygeon
+N-- - 106w58 53n45 0 11 Bodmin
+N-- - 110w05 52n09 0 01 Bodo
+V-- - 76w56 44n03 0 08 Bogard
+N-- - 105w43 50n24 0 11 Boharm
+N-- - 66w24 46n27 0 04 Boiestown
+V-- - 71w08 46n54 0 10 Boischatel
+N-- - 60w30 46n06 0 07 Boisdale
+N-- - 73w46 45n39 0 10 Bois-des-Filion
+N-- - 100w03 49n14 0 03 Boissevain
+N-- - 125w09 50n11 0 02 Bold Point
+N-- - 83w55 48n06 0 08 Bolkow
+V-- - 73w12 45n34 0 10 Boloeil
+V-- - 60w30 46n06 0 07 Bolsdale
+N-- - 79w44 43n53 0 08 Bolton
+N-- - 113w25 53n50 0 01 Bon Accord
+N-- - 67w35 46n39 0 04 Bon Accord
+N-- - 77w37 44n26 0 08 Bonarlaw
+N-- - 65w28 48n03 0 10 Bonaventure
+N-- - 53w06 48n38 0 05 Bonavista
+N-- - 112w42.07 54n35.43 0 01 Bondiss
+N-- - 76w56 44n03 0 08 Bongard
+V-- - 76w56 44n03 0 08 Bongards
+N-- - 57w56 49n30 0 05 Bonne Bay
+N-- - 110w45.03 54n16.04 0 01 Bonnyville
+N-- - 110w51.46 54n13.47 0 01 Bonnyville Beach
+N-- - 73w42 45n32 0 10 Bordeaux
+N-- - 83w11 47n54 0 08 Borden
+N-- - 79w55 44n17 0 08 Borden
+NX- - 63w42 46n15 0 09 Borden
+N-- - 102w14 52n24 0 11 Borden
+N-- - 63w40 46n15 0 09 Borden-Carleton
+N-- - 111w25.48 54n09.10 0 01 Boscombe
+N-- - 79w57 48n01 0 08 Boston Creek
+N-- - 58w49 48n34 0 05 Boswarlos
+N-- - 116w46 49n28 0 02 Boswell
+N-- - 55w22 49n09 0 05 Botwood
+N-- - 70w23 47n29 0 10 Bouchard
+N-- - 131w49 56n41 0 02 Boundary
+NQ- - 140w59 64n41 0 12 Boundary
+N-- - 80w14 48n17 0 08 Bourkes
+N-- - 77w46 48n06 0 10 Bourlamaque
+N-- - 114w02 51n55 0 01 Bowden
+N-- - 111w22 49n52 0 01 Bow Island
+N-- - 78w41 43n54 0 08 Bowmanville
+N-- - 114w10 51n05 0 01 Bowness
+N-- - 111w42 49n56 0 01 Bow River
+N-- - 124w41 49n26 0 02 Bowser
+N-- - 54w40 49n26 0 05 Boyds Cove
+N-- - 112w48.33 54n35.27 0 01 Boyle
+V-- - 133w04 69n27 0 13 Brabant
+N-- - 79w18 45n02 0 08 Bracebridge
+N-- - 108w05 49n11 0 11 Bracken
+N-- - 123w09 49n46 0 02 Brackendale
+N-- - 79w34 44n07 0 08 Bradford
+N-- - 135w50 61n31 0 12 Braeburn
+N-- - 76w24 45n28 0 08 Braeside
+N-- - 122w49 50n47 0 02 Bralorne
+N-- - 79w46 43n41 0 08 Brampton
+N-- - 105w15 53n00 0 11 Brancepeth
+N-- - 53w58 46n53 0 05 Branch
+N-- - 99w57 49n50 0 03 Brandon
+N-- - 80w16 43n08 0 08 Brantford
+N-- - 116w05 52n28 0 01 Brazeau
+V-- - 116w05 52n28 0 01 Brazeou
+N-- - 66w01 43n59 0 07 Brazil Lake
+N-- - 79w11 44n33 0 08 Brechin
+N-- - 102w02 50n56 0 11 Bredenbury
+N-- - 78w28 46n02 0 08 Brent
+N-- - 123w28 48n35 0 02 Brentwood Bay
+N-- - 114w29 53n07 0 01 Breton
+N-- - 113w20 53n26 0 01 Bretona
+N-- - 112w29.37 55n08.28 0 01 Breynat
+N-- - 120w42 51n29 0 02 Bridge Lake
+N-- - 80w29 43n29 0 08 Bridgeport
+V-- - 122w14 50n44 0 02 Bridge River
+N-- - 65w09 44n51 0 07 Bridgetown
+N-- - 64w31 44n22 0 07 Bridgewater
+N-- - 105w16 50n10 0 11 Briercrest
+N-- - 111w46.26 54n28.22 0 01 Briereville
+N-- - 56w55 51n03 0 05 Brig Bay
+N-- - 77w44 44n02 0 08 Brighton
+N-- - 53w13 47n31 0 05 Brigus
+N-- - 79w15 43n44 0 08 Brimley
+N-- - 116w17 50n49 0 02 Brisco
+N-- - 67w34 46n28 0 04 Bristol
+V-- - 64w11 46n09 0 04 Bristol
+NX- - 75w48 45n22 0 08 Britannia
+N-- - 123w11 49n38 0 02 Britannia Beach
+N-- - 80w32 45n47 0 08 Britt
+N-- - 108w58 52n03 0 11 Broadacres
+N-- - 66w46 48n00 0 10 Broadlands
+N-- - 102w34 50n23 0 11 Broadview
+N-- - 101w40 57n53 0 03 Brochet
+N-- - 113w46 49n33 0 01 Brocket
+N-- - 75w41 44n35 0 08 Brockville
+N-- - 106w56 51n29 0 11 Broderick
+N-- - 103w40 49n11 0 11 Bromhead
+N-- - 71w56 45n28 0 10 Bromptonville
+N-- - 63w17 45n15 0 07 Brookfield
+N-- - 97w11 49n55 0 03 Brooklands
+N-- - 111w54 50n34 0 01 Brooks
+N-- - 104w18 53n00 0 11 Brooksby
+N-- - 73w29 45n27 0 10 Brossard
+V-- - 64w02 67n33 0 14 Broughton Island
+N-- - 80w50 49n01 0 08 Brower
+N-- - 81w31 49n41 0 08 Brownrigg
+N-- - 74w24 45n41 0 10 Brownsburg
+N-- - 53w07 48n02 0 05 Brownsdale
+N-- - 117w54 56n07 0 01 Brownvale
+N-- - 83w47 46n17 0 08 Bruce Mines
+N-- - 77w24 45n13 0 08 Bruceton
+N-- - 112w55 53n48 0 01 Bruederheim
+N-- - 78w49 45n38 0 08 Brule Lake
+V-- - 78w49 45n38 0 08 Brule Lake Station
+N-- - 105w31 52n16 0 11 Bruno
+N-- - 76w37 45n41 0 10 Bryson
+N-- - 102w45 51n42 0 11 Buchanan
+N-- - 56w52 48n49 0 05 Buchans
+N-- - 56w28 48n51 0 05 Buchans Junction
+N-- - 78w20 44n33 0 08 Buckhorn
+N-- - 75w25 45n35 0 10 Buckingham
+N-- - 64w44 46n28 0 04 Buctouche
+N-- - 110w41 50n48 0 01 Buffalo
+V-- - 108w56.20 55n55.39 0 11 Buffalo
+N-- - 108w29.03 55n51.15 0 11 Buffalo Narrows
+NL- - 115w02 60n53 0 13 Buffalo River
+N-- - 127w29 55n14 0 02 Bulkley Canyon
+N-- - 115w27 49n28 0 02 Bull River
+N-- - 104w51 50n59 0 11 Bulyea
+V-- - 76w01 46n14 0 10 Burbidge
+N-- - 57w38 47n36 0 05 Burgeo
+N-- - 102w26 51n33 0 11 Burgis
+N-- - 53w43 48n10 0 05 Burgoyne Cove
+V-- - 53w43 48n10 0 05 Burgoynes Cove
+N-- - 55w11 47n03 0 05 Burin
+N-- - 78w48 44n03 0 08 Burketon Station
+N-- - 79w25 45n37 0 08 Burks Falls
+N-- - 56w02 49n45 0 05 Burlington
+N-- - 79w48 43n19 0 08 Burlington
+N-- - 122w57 49n15 0 02 Burnaby
+N-- - 53w48 48n42 0 05 Burnside
+V-- - 108w02 66n50 0 14 Burnside Harbour
+N-- - 125w46 54n13 0 02 Burns Lake
+N-- - 65w10 47n42 0 04 Burnsville
+N-- - 65w09 47n12 0 04 Burnt Church
+N-- - 63w47 45n19 0 07 Burntcoat
+N-- - 66w53 54n49 0 10 Burnt Creek
+N-- - 105w08 52n03 0 11 Burr
+N-- - 93w39 48n41 0 08 Burriss
+N-- - 109w55 50n39 0 11 Burstall
+N-- - 80w52 46n14 0 08 Burwash
+V-- - 80w48 46n18 0 08 Burwash
+V-- - 139w00 61n21 0 12 Burwash
+N-- - 139w00 61n21 0 12 Burwash Landing
+V-- - 80w52 46n14 0 08 Burwash Station
+VQ- - 64w49 60n25 0 14 Burwell
+N-- - 113w54 53n57 0 01 Busby
+V-- - 139w00 61n21 0 12 Buswash Landing
+N-- - 128w41 53n09 0 02 Butedale
+V-- - 65w19 46n00 0 04 Butternut Ridge
+N-- - 80w33 45n46 0 08 Byng Inlet
+N-- - 108w15.12 54n04.42 0 11 Cabana
+N-- - 68w53 47n41 0 10 Cabano
+N-- - 108w27 50n37 0 11 Cabri
+N-- - 127w09 49n59 0 02 Cachalot
+N-- - 121w19 50n48 0 02 Cache Creek
+V-- - 69w30 47n55 0 10 Cacouna
+N-- - 78w23 48n13 0 10 Cadillac
+N-- - 107w44 49n43 0 11 Cadillac
+N-- - 76w43 45n18 0 08 Calabogie
+N-- - 101w45 51n09 0 11 Calder
+N-- - 80w00 43n52 0 08 Caledon
+N-- - 79w52 43n52 0 08 Caledon East
+N-- - 65w02 44n22 0 07 Caledonia
+N-- - 79w57 43n04 0 08 Caledonia
+N-- - 114w05 51n05 0 01 Calgary
+N-- - 79w22 46n13 0 08 Callander
+N-- - 113w12 55n15 0 01 Calling Lake
+N-- - 112w53.16 55n05.30 0 01 Calling River
+N-- - 113w47 53n15 0 01 Calmar
+N-- - 64w07 45n12 0 07 Cambridge
+N-- - 80w19 43n23 0 08 Cambridge
+N-- 1350 105w02 69n07 0 14 Cambridge Bay
+N-- - 64w38 45n04 0 07 Cambridge Station
+NL- - 117w53 66n03 0 13 Cameron Bay
+N-- - 88w20 49n08 0 08 Cameron Falls
+N-- - 113w12 62n59 0 13 Camlaren
+N-- - 78w22 44n04 0 08 Campbellcroft
+N-- - 77w48 44n18 0 08 Campbellford
+N-- - 128w08 52n10 0 02 Campbell Island
+N-- - 125w15 50n01 0 02 Campbell River
+N-- - 76w36 45n44 0 10 Campbells Bay
+N-- - 66w40 48n00 0 04 Campbellton
+N-- - 54w56 49n17 0 05 Campbellton
+V-- - 66w40 48n00 0 04 Campbell-town
+N-- - 79w53 44n16 0 08 Camp Borden
+VL- - 127w05 65n14 0 13 Camp Canol
+N-- - 64w36 44n16 0 07 Camperdown
+N-- - 100w09 52n01 0 03 Camperville
+V-- - 66w57 44n53 0 04 Campo Bello
+N-- - 112w49 53n01 0 01 Camrose
+N-- - 109w13 59n37 0 11 Camsell Portage
+N-- - 65w04 46n15 0 04 Canaan Station
+N-- - 115w50 50n09 0 02 Canal Flats
+N-- - 73w31 45n23 0 10 Candiac
+N-- - 108w13 52n22 0 11 Cando
+N-- - 79w45 42n58 0 08 Canfield
+N-- - 120w54 51n46 0 02 Canim Lake
+N-- - 115w21 51n06 0 01 Canmore
+N-- - 73w53 47n54 0 10 Cann
+N-- - 79w02 44n21 0 08 Cannington
+N-- - 108w19.24 55n05.53 0 11 Canoe Lake
+N-- - 108w09.12 55n10.03 0 11 Canoe Narrows
+NL- - 127w05 65n14 0 13 Canol
+VL- - 127w05 65n14 0 13 Canol Camp
+N-- - 102w26 51n38 0 11 Canora
+N-- - 61w00 45n21 0 07 Canso
+N-- - 67w28 45n53 0 04 Canterbury Station
+N-- - 71w22 48n41 0 10 Canton-Begin
+N-- - 108w24 49n12 0 11 Canuck
+N-- - 106w36 53n22 0 11 Canwood
+N-- - 137w02 60n52 0 12 Canyon
+N-- - 140w47 61n49 0 12 Canyon City
+V-- - 129w13 55n12 0 02 Canyon City
+N-- - 107w23 53n36 0 11 Capasin
+N-- - 61w52 47n23 0 10 Cap-aux-Meules
+N-- - 66w41 49n05 0 10 Cap-Chat
+V-- - 66w41 49n05 0 10 Cap-de-Chate
+N-- - 72w30 46n22 0 10 Cap-de-la-Madeleine
+N-- - 64w12 48n52 0 10 Cap-des-Rosiers
+N-- - 61w02 45n29 0 07 Cape Auget
+N-- - 52w57 47n05 0 05 Cape Broyle
+V-- - 66w41 49n05 0 10 Cape Chatte
+N-- - 64w20 48n26 0 10 Cape Cove
+N-- 1200 76w33 64n14 0 14 Cape Dorset
+N-- - 61w22 66n40 0 14 Cape Dyer
+N-- - 64w47 45n37 0 04 Cape Enrage
+N-- - 53w31 49n14 0 05 Cape Freels
+N-- - 55w38 51n36 0 05 Cape Onion
+NL- - 124w40 70n10 0 13 Cape Parry
+N-- - 53w32 46n37 0 05 Cape Pine
+N-- - 53w05 46n40 0 05 Cape Race
+N-- - 59w14 47n37 0 05 Cape Ray
+N-- - 55w38 52n13 0 05 Cape Saint Charles
+N-- - 128w21 50n46 0 02 Cape Scott
+N-- - 78w29 60n44 0 14 Cape Smith
+V-- - 60w31 47n00 0 07 Capestick
+N-- - 63w47 46n07 0 04 Cape Tormentine
+N-- - 65w41 48n06 0 10 Caplan
+N-- - 52w59 48n02 0 05 Caplin Cove
+N-- - 80w55 46n42 0 08 Capreol
+N-- - 71w21 46n45 0 10 Cap-Rouge
+N-- - 60w31 47n00 0 07 Capstick
+N-- - 86w09 49n37 0 08 Caramat
+N-- - 64w57 47n47 0 04 Caraquet
+V-- - 64w57 47n47 0 04 Caraquette
+N-- - 99w21 49n52 0 03 Carberry
+N-- - 113w32 53n45 0 01 Carbondale
+N-- - 53w15 47n44 0 05 Carbonear
+N-- - 134w43 60n11 0 12 Carcross
+N-- - 79w02 44n39 0 08 Carden
+N-- - 62w37 46n14 0 09 Cardigan
+N-- - 75w22 44n47 0 08 Cardinal
+N-- - 105w37 49n49 0 11 Cardross
+N-- - 113w19 49n12 0 01 Cardston
+N-- - 81w14 44n12 0 08 Cargill
+V-- - 134w43 60n11 0 12 Caribou
+N-- - 97w45 59n25 0 03 Caribou
+V-- - 134w43 60n11 0 12 Caribou Crossing
+N-- - 127w33 57n26 0 02 Caribou Hide
+N-- - 62w44 45n45 0 07 Caribou Island
+VX- - 63w40 46n15 0 09 Carleton
+N-- - 66w06 48n06 0 10 Carleton Centre
+N-- - 76w08 45n08 0 08 Carleton Place
+NX- - 63w40 46n15 0 09 Carleton Siding
+N-- - 106w30 52n49 0 11 Carlton
+N-- - 102w16 49n38 0 11 Carlyle
+N-- - 136w19 62n06 0 12 Carmacks
+N-- - 98w00 49n30 0 03 Carman
+N-- - 54w16 49n22 0 05 Carmanville
+N-- - 72w23 45n58 0 10 Carmel
+N-- - 119w08 49n30 0 02 Carmi
+N-- - 127w45 55n09 0 02 Carnaby
+N-- - 101w47 49n10 0 11 Carnduff
+N-- - 100w06 49n58 0 03 Carnegie
+N-- - 114w45 52n05 0 01 Caroline
+N-- - 105w49 50n27 0 11 Caronport
+N-- - 76w02 45n21 0 08 Carp
+N-- - 96w03 49n15 0 03 Carrick
+N-- - 103w35 53n17 0 11 Carrot River
+N-- - 109w16 52n52 0 11 Carruthers
+N-- - 113w28 50n51 0 01 Carseland
+N-- - 114w06 51n32 0 01 Carstairs
+N-- - 81w33 46n42 0 08 Cartier
+N-- - 73w43 45n32 0 10 Cartierville
+N-- - 99w20 49n05 0 03 Cartwright
+N-- - 57w01 53n42 0 05 Cartwright
+N-- - 58w49 48n14 0 05 Cartyville
+N-- - 113w23 49n01 0 01 Carway
+N-- - 118w13 49n01 0 02 Cascade
+N-- - 65w54 48n15 0 10 Cascapedia
+N-- - 74w11 47n53 0 10 Casey
+N-- - 112w30.42 54n37.54 0 01 Caslan
+N-- - 75w05 45n18 0 08 Casselman
+N-- - 123w52 49n04 0 02 Cassidy
+V-- - 123w52 49n04 0 02 Cassidy's
+V-- - 123w52 49n04 0 02 Cassidy Siding
+N-- - 112w03 50n35 0 01 Cassils
+N-- - 117w40 49n19 0 02 Castlegar
+N-- - 115w55 51n16 0 01 Castle Junction
+N-- - 111w54 52n13 0 01 Castor
+N-- - 92w21 51n28 0 08 Casummit Lake
+N-- - 53w05 48n31 0 05 Catalina
+N-- - 108w03 53n22 0 11 Cater
+N-- - 91w48 51n43 0 08 Cat Lake
+N-- - 73w41 45n25 0 10 Caughnawaga
+N-- - 67w13 48n21 0 10 Causapscal
+N-- - 110w28 50n49 0 01 Cavendish
+N-- - 53w30 47n43 0 05 Cavendish
+N-- - 87w41 48n54 0 08 Cavers
+N-- - 113w51 50n27 0 01 Cayley
+V-- - 121w56 50n41 0 02 Cayoosh Flat
+N-- - 120w32 56n18 0 02 Cecil Lake
+N-- - 74w03 45n19 0 10 Cedars
+N-- - 128w20 55n01 0 02 Cedarvale
+N-- - 103w52 49n53 0 11 Cedoux
+N-- - 126w42 49n52 0 02 Ceepeecee
+V-- - 67w43 46n26 0 04 Centerville
+V-- - 66w35 45n38 0 04 Central Blissville
+N-- - 81w28 43n17 0 08 Centralia
+N-- - 90w09 51n29 0 08 Central Patricia
+N-- - 126w56 49n50 0 02 Centre Island
+N-- - 129w25 59n16 0 02 Centreville
+N-- - 67w43 46n26 0 04 Centreville
+N-- - 66w01 44n32 0 07 Centreville
+N-- - 64w32 45n07 0 07 Centreville
+N-- - 110w48 51n25 0 01 Cereal
+N-- - 104w36 49n27 0 11 Ceylon
+V-- - 104w36 49n27 0 11 Ceylon Station
+V-- - 73w52 50n25 0 10 Chabatok
+N-- - 77w27 46n01 0 08 Chalk River
+V-- - 92w05 55n51 0 03 Chamatawa
+N-- - 105w34 50n51 0 11 Chamberlain
+N-- - 73w18 45n27 0 10 Chambly
+V-- - 73w16 45n27 0 10 Chambly Fort
+N-- - 72w03 48n26 0 10 Chambord
+N-- - 136w29 60n48 0 12 Champagne
+N-- - 77w38 48n40 0 10 Champcoeur
+N-- - 113w09 50n13 0 01 Champion
+N-- - 72w21 46n26 0 10 Champlain
+V-- - 139w26 64n02 0 12 Chandik
+V-- - 139w26 64n02 0 12 Chandike
+V-- - 139w26 64n02 0 12 Chandindu
+N-- - 64w40 48n20 0 10 Chandler
+V-- - 54w23 49n39 0 05 Change Island
+N-- - 54w23 49n39 0 05 Change Islands
+V-- - 59w09 47n34 0 05 Channel
+N-- - 59w09 47n34 0 05 Channel-Port aux Basques
+N-- - 101w51 54n45 0 03 Channing
+N-- - 74w52 49n47 0 10 Chapais
+N-- - 53w40 47n31 0 05 Chapel Arm
+V-- - 68w24 58n06 0 10 Chapel Hill
+N-- - 83w24 47n50 0 08 Chapleau
+N-- - 106w40 50n28 0 11 Chaplin
+N-- - 110w54.26 55n50.46 0 01 Chard
+N-- - 73w29 45n43 0 10 Charlemagne
+N-- - 71w16 46n52 0 10 Charlesbourg
+N-- - 120w57 56n16 0 02 Charlie Lake
+N-- - 54w01 48n26 0 05 Charlottetown
+NA- - 63w08 46n14 0 09 Charlottetown
+N-- - 80w00 47n49 0 08 Charlton
+NQ- - 79w19 51n58 0 14 Charlton Depot
+N-- - 71w16 46n43 0 10 Charny
+N-- - 119w41 50n49 0 02 Chase
+N-- - 71w22 46n52 0 10 Chateau-d'Eau
+N-- - 73w45 45n23 0 10 Chateauguay
+N-- - 73w45 45n22 0 10 Chateauguay-Centre
+N-- - 73w45 45n23 0 10 Chateauguay Heights
+N-- - 71w01 46n58 0 10 Chateau Richer
+N-- - 99w55 49n52 0 03 Chater
+N-- - 97w34 50n47 0 03 Chatfield
+N-- - 65w26 47n02 0 04 Chatham
+N-- - 82w11 42n24 0 08 Chatham
+N-- - 80w53 44n27 0 08 Chatsworth
+N-- - 71w16 46n44 0 10 Chaudiere-Bassin
+N-- - 110w08 52n41 0 01 Chauvin
+N-- - 113w32 51n01 0 01 Cheadle
+N-- - 66w07 43n45 0 07 Chebogue Point
+NQ- - 127w37 59n09 0 02 Chee House
+N-- - 103w23 52n37 0 11 Chelan
+N-- - 81w12 46n35 0 08 Chelmsford
+N-- - 123w42 48n55 0 02 Chemainus
+N-- - 79w32 48n10 0 08 Cheminis
+N-- - 114w40 53n49 0 01 Cherhill
+N-- - 110w04.48 54n21.18 0 01 Cherry Grove
+N-- - 119w57 56n11 0 01 Cherry Point
+N-- - 62w55 46n10 0 09 Cherry Valley
+N-- - 118w37 50n14 0 02 Cherryville
+N-- - 81w06 44n18 0 08 Chesley
+N-- - 64w14 44n32 0 07 Chester
+V-- - 90w42 63n20 0 14 Chesterfield
+N-- - 90w42 63n20 0 14 Chesterfield Inlet
+N-- - 75w13 45n06 0 08 Chesterville
+N-- - 71w49 45n58 0 10 Chesterville
+V-- - 61w01 46n37 0 07 Chetacan
+N-- - 61w01 46n37 0 07 Cheticamp
+V-- - 61w01 46n37 0 07 Chetican
+N-- - 64w10 45n09 0 07 Cheverie
+N-- - 74w21 49n52 0 10 Chibougamau
+N-- - 63w03 49n13 0 10 Chicotte
+N-- - 71w04 48n26 0 10 Chicoutimi
+V-- - 71w13 48n27 0 10 Chicoutimi
+N-- - 71w04 48n27 0 10 Chicoutimi-Nord
+N-- - 123w01 54n06 0 02 Chief Lake
+N-- - 64w13 45n44 0 07 Chignecto
+N-- - 121w57 49n10 0 02 Chilliwack
+N-- - 61w09 46n24 0 07 Chimney Corner
+V-- - 68w24 58n06 0 10 Chimo
+N-- - 112w27 49n46 0 01 Chin
+V-- - 128w32 52n35 0 02 China Hat
+N-- - 117w36 56n26 0 01 Chinook Valley
+V-- - 111w09 58n43 0 01 Chipewyan
+N-- - 115w27 53n37 0 01 Chip Lake
+N-- - 65w53 46n10 0 04 Chipman
+N-- - 112w38 53n42 0 01 Chipman
+N-- - 79w03 43n05 0 08 Chippawa
+V-- - 79w03 43n05 0 08 Chippewa
+N-- - 114w10 54n55 0 01 Chisholm
+V-- - 114w10 54n55 0 01 Chisholm Mills
+N-- - 107w45 53n47 0 11 Chitek
+V-- - 64w10 45n09 0 07 Chiverie
+N-- - 73w44 45n33 0 10 Chomedey
+N-- - 125w05 50n19 0 02 Church House
+N-- - 94w10 58n46 0 03 Churchill
+N-- - 79w35 44n15 0 08 Churchill
+N-- - 66w07 44n20 0 07 Church Point
+N-- - 68w23 49n07 0 10 Chute-aux-Outardes
+N-- - 71w14 48n28 0 10 Chute-Shipshaw
+N-- - 131w35 57n40 0 02 Chutine Landing
+N-- - 122w31 53n11 0 02 Cinema
+N-- - 104w04 52n01 0 11 Clair
+N-- - 118w48 55n16 0 01 Clairmont
+N-- - 110w43 53n35 0 01 Clandonald
+V-- - 66w07 44n20 0 07 Clare
+N-- - 53w58 48n09 0 05 Clarenville
+N-- - 113w35 50n02 0 01 Claresholm
+V-- - 66w38 50n11 0 10 Clark City
+N-- - 66w38 50n11 0 10 Clarke City
+N-- - 53w18 47n32 0 05 Clarkes Beach
+N-- - 65w38 43n27 0 07 Clarkes Harbour
+NX- - 79w37 43n31 0 08 Clarkson
+N-- - 130w06 54n04 0 02 Claxton
+N-- - 120w01 56n10 0 02 Clayhurst
+N-- - 125w55 49n09 0 02 Clayoquot
+N-- - 137w18 63n47 0 12 Clear Creek
+N-- - 117w53 56n32 0 01 Clear Hills
+N-- - 119w30 56n35 0 01 Clear Prairie
+N-- - 120w02 51n39 0 02 Clearwater
+N-- - 120w02 51n38 0 02 Clearwater Station
+N-- - 102w32 52n40 0 11 Clemenceau
+N-- - 78w52 48n22 0 10 Clericy
+N-- - 70w14 47n41 0 10 Clermont
+N-- - 123w38 48n37 0 02 Cliffside
+N-- - 108w23 49n12 0 11 Climax
+N-- - 121w36 51n06 0 02 Clinton
+N-- - 81w32 43n36 0 08 Clinton
+N-- - 113w27 52n29 0 01 Clive
+N-- - 108w47 52n36 0 11 Cloan
+V-- - 139w26 64n02 0 12 Clondyke
+N-- - 124w49 48n39 0 02 Clo-oose
+N-- - 64w55 49n10 0 10 Cloridorme
+N-- - 75w22 48n07 0 10 Clova
+N-- - 122w44 49n06 0 02 Cloverdale
+N-- - 81w04 49n11 0 08 Clute
+V-- 800 68w34 70n27 0 14 Clyde
+N-- - 65w29 43n38 0 07 Clyde River
+N-- 800 68w34 70n27 0 14 Clyde River
+N-- - 114w59 49n29 0 02 Coal Creek
+N-- - 112w37 49n44 0 01 Coaldale
+N-- - 127w35 50n36 0 02 Coal Harbour
+V-- - 117w01 53n11 0 01 Coalspar
+N-- - 117w01 53n11 0 01 Coalspur
+N-- - 71w48 45n08 0 10 Coaticook
+N-- - 79w41 47n23 0 08 Cobalt
+N-- - 123w36 48n41 0 02 Cobble Hill
+N-- - 76w53 45n37 0 08 Cobden
+N-- - 78w48 44n40 0 08 Coboconk
+N-- - 78w10 43n58 0 08 Cobourg
+N-- - 114w27 51n12 0 01 Cochrane
+N-- - 81w01 49n04 0 08 Cochrane
+N-- - 62w01 45n15 0 07 Cochrane Hill
+N-- - 106w23 50n08 0 11 Coderre
+N-- - 104w01 53n17 0 11 Codette
+N-- - 59w22 47n52 0 05 Codroy
+N-- - 58w52 48n04 0 05 Codroy Pond
+V-- - 65w49 45n52 0 04 Cody
+N-- - 65w49 45n52 0 04 Codys
+N-- - 77w50 44n51 0 08 Coe Hill
+V-- - 77w50 44n51 0 08 Coe Hill Mines
+N-- - 77w53 44n01 0 08 Colborne
+N-- - 82w56 41n59 0 08 Colchester
+N-- - 110w10.59 54n27.54 0 01 Cold Lake
+N-- - 79w49 44n43 0 08 Coldwater
+N-- - 108w20.36 55n05.50 0 11 Cole Bay
+N-- - 122w52 49n06 0 02 Colebrook
+N-- - 64w11 46n41 0 09 Coleman
+N-- - 114w30 49n38 0 01 Coleman
+N-- - 109w14 51n42 0 11 Coleville
+N-- - 53w34 47n13 0 05 Colinet
+N-- - 126w09 54n02 0 02 Colleymount
+N-- - 53w14 47n27 0 05 Colliers
+N-- - 80w13 44n30 0 08 Collingwood
+N-- - 89w27 50n17 0 08 Collins
+N-- - 76w37 44n14 0 08 Collins Bay
+VQ- - 117w57 71n37 0 13 Collinson
+N-- - 105w52 51n58 0 11 Colonsay
+N-- - 64w51 44n27 0 07 Colpton
+N-- - 126w07 67n02 0 13 Colville Lake
+V-- - 123w55 49n09 0 02 Colvilletown
+N-- - 79w47 44n21 0 08 Colwell
+V-- - 124w56 49n41 0 02 Comax
+N-- - 82w33 42n14 0 08 Comber
+N-- - 77w37 45n22 0 08 Combermere
+V-- - 68w09 49n13 0 10 Comeau Bay
+N-- - 53w59 47n51 0 05 Come By Chance
+N-- - 79w36 45n57 0 08 Commanda
+N-- - 74w07 45n27 0 10 Como
+N-- - 124w56 49n41 0 02 Comox
+N-- - 110w01 51n52 0 01 Compeer
+V-- - 124w56 49n41 0 02 Comuck
+N-- - 53w13 47n26 0 05 Conception Harbour
+N-- - 55w54 50n54 0 05 Conche
+N-- - 80w51 46n29 0 08 Coniston
+N-- - 111w04.58 55n37.57 0 01 Conklin
+N-- - 80w56 48n37 0 08 Connaught
+V-- - 80w56 48n37 0 08 Connaught Station
+V-- - 110w47 53n11 0 01 Connelly
+N-- - 110w47 53n11 0 01 Connolly
+N-- - 68w50 47n12 0 04 Connors
+N-- - 107w15 51n32 0 11 Conquest
+N-- - 134w35 60n04 0 12 Conrad
+V-- - 134w35 60n04 0 12 Conrad City
+N-- - 110w48 52n01 0 01 Consort
+N-- - 73w14 45n51 0 10 Contrecoeur
+N-- - 55w52 51n36 0 05 Cook Harbour
+N-- - 71w37 45n25 0 10 Cookshire
+N-- - 106w19 53n32 0 11 Cookson
+N-- - 83w50 49n32 0 08 Coppell
+V-- - 128w29 54n32 0 02 Copper City
+N-- - 81w04 46n28 0 08 Copper Cliff
+N-- - 120w47 50n47 0 02 Copper Creek
+V-- 1200 115w05 67n50 0 14 Coppermine
+N-- - 120w32 49n19 0 02 Copper Mountain
+N-- - 128w29 54n32 0 02 Copper River
+V-- - 122w47 49n16 0 02 Coquitlam
+N-- 721 83w10 64n08 0 14 Coral Harbour
+N-- - 81w40 50n12 0 08 Coral Rapids
+N-- - 114w39 49n31 0 02 Corbin
+N-- - 77w22 44n13 0 08 Corbyville
+N-- - 77w47 44n32 0 08 Cordova Mines
+N-- - 104w38 50n03 0 11 Corinne
+V-- - 66w55 45n41 0 04 Cork
+N-- - 66w55 45n41 0 04 Cork Station
+N-- - 100w36 54n13 0 03 Cormorant
+N-- - 57w56 48n57 0 05 Corner Brook
+N-- - 74w44 45n01 0 08 Cornwall
+N-- - 65w38 44n39 0 07 Cornwallis
+N-- - 111w27 52n05 0 01 Coronation
+V-- 1200 115w05 67n50 0 14 Coronation
+N-- - 124w56 50n04 0 02 Cortes Bay
+N-- - 101w48 51n31 0 11 Cote
+N-- - 74w14 45n16 0 10 Coteau-Landing
+V-- - 74w14 45n16 0 10 Coteau Station
+N-- - 73w35 45n24 0 10 Cote-Sainte-Catherine
+N-- - 73w40 45n27 0 10 Cote-Saint-Luc
+V-- - 73w37 45n34 0 10 Cote Saint Michel
+N-- - 82w45 42n08 0 08 Cottam
+N-- - 122w09 53n03 0 02 Cottonwood
+N-- - 55w17 49n29 0 05 Cottrells Cove
+N-- - 100w59 49n05 0 03 Coulter
+N-- - 125w00 49n41 0 02 Courtenay
+N-- - 82w28 42n49 0 08 Courtright
+N-- - 71w09 46n53 0 10 Courville
+N-- - 111w57 49n00 0 01 Coutts
+V-- - 66w37 46n14 0 04 Covered Bridge
+V-- - 66w37 46n14 0 04 Covered Bridge Station
+N-- - 72w45 45n12 0 10 Cowansville
+V-- - 59w53 46n08 0 07 Cow Bay
+V-- - 79w47 44n21 0 08 Cowell
+V-- - 57w54 49n55 0 05 Cow Head
+N-- - 57w54 49n55 0 05 Cow Head Harbour
+N-- - 123w37 48n44 0 02 Cowichan Bay
+N-- - 114w04 49n34 0 01 Cowley
+N-- - 134w55 60n31 0 12 Cowley
+N-- - 58w04 49n07 0 05 Cox Cove
+N-- - 60w14 46n07 0 07 Coxheath
+N-- - 120w53 50n09 0 02 Coyle
+N-- - 73w28 45n58 0 10 Crabtree
+N-- - 126w16 50n34 0 02 Cracroft
+N-- - 111w55.16 54n35.45 0 01 Craigend
+NQ- - 81w01 76n12 0 14 Craig Harbour
+N-- - 112w14 51n40 0 01 Craigmyle
+N-- - 101w23 54n35 0 03 Cranberry Portage
+N-- - 115w46 49n31 0 02 Cranbrook
+N-- - 81w33 43n18 0 08 Crediton
+N-- - 106w50 57n22 0 11 Cree Lake
+N-- - 80w06 44n19 0 08 Creemore
+N-- - 81w10 46n27 0 08 Creighton
+V-- - 81w10 46n27 0 08 Creighton Mine
+N-- - 114w28 51n33 0 01 Cremona
+N-- - 117w33 49n26 0 02 Crescent Valley
+N-- - 116w31 49n06 0 02 Creston
+N-- - 105w42 50n06 0 11 Crestwynd
+N-- - 92w17 48n45 0 08 Crilly
+N-- - 120w44 51n02 0 02 Criss Creek
+N-- - 55w50 51n02 0 05 Croc
+N-- - 123w39 48n52 0 02 Crofton
+N-- - 101w14 49n44 0 03 Cromer
+N-- - 103w43 52n51 0 11 Crooked River
+N-- - 77w27 44n26 0 08 Crookston
+N-- - 76w15 44n39 0 08 Crosby
+N-- - 66w38 46n16 0 04 Cross Creek Station
+N-- - 114w02 51n26 0 01 Crossfield
+N-- - 97w47 54n37 0 03 Cross Lake
+N-- - 112w40 50n49 0 01 Crowfoot
+N-- - 119w45 53n04 0 02 Croydon Station
+N-- - 93w32 48n37 0 08 Crozier
+N-- - 106w04 53n13 0 11 Crutwell
+N-- - 79w24 45n03 0 08 Crystal Beach
+N-- - 98w57 49n08 0 03 Crystal City
+N-- - 79w53 46n27 0 08 Crystal Falls
+N-- - 105w43 52n29 0 11 Cudworth
+N-- - 117w32 55n47 0 01 Culp
+N-- - 125w01 49n37 0 02 Cumberland
+N-- - 65w52 46n02 0 04 Cumberland Bay
+N-- - 102w16 53n57 0 11 Cumberland House
+NL- - 112w08 60n02 0 13 Cunningham Landing
+N-- - 67w07 48n38 0 10 Cuoq
+N-- - 104w12 50n57 0 11 Cupar
+N-- - 58w00 48n58 0 05 Curling
+N-- - 56w50 51n11 0 05 Current Island
+N-- - 109w01 52n45 0 11 Cut Knife
+N-- - 99w05 49n33 0 03 Cypress River
+N-- - 110w50 52n27 0 01 Czar
+N-- - 76w59 45n22 0 08 Dacre
+N-- - 104w32 51n45 0 11 Dafoe
+N-- - 112w34.24 54n47.57 0 01 Dakin
+N-- - 66w22 48n04 0 04 Dalhousie
+N-- - 64w48 44n43 0 07 Dalhousie East
+N-- - 66w29 48n02 0 04 Dalhousie Junction
+N-- - 64w42 44n44 0 07 Dalhousie Road
+N-- - 63w00 45n34 0 07 Dalhousie Settlement
+N-- - 65w13 44n43 0 07 Dalhousie West
+N-- - 97w29 51n23 0 03 Dallas
+N-- - 106w47 52n20 0 11 Dalmeny
+N-- - 84w02 48n09 0 08 Dalton
+N-- - 84w04 48n07 0 08 Dalton Mills
+NQ- - 137w01 60n08 0 12 Dalton Post
+N-- - 80w01 48n04 0 08 Dane
+V-- - 57w35 50n14 0 05 Daniels Cove
+N-- - 57w35 50n14 0 05 Daniels Harbour
+N-- - 72w01 45n47 0 10 Danville
+N-- - 113w55 54n21 0 01 Dapp
+N-- - 63w34 44n40 0 07 Dartmouth
+N-- - 79w25 48n12 0 10 Dasserat
+N-- - 100w03 51n09 0 03 Dauphin
+N-- - 78w53 48n27 0 10 Davangus
+N-- - 105w58 51n16 0 11 Davidson
+N-- - 60w52 55n51 0 05 Davis Inlet
+N-- - 139w25 64n04 0 12 Dawson
+V-- - 139w25 64n04 0 12 Dawson City
+N-- - 120w14 55n46 0 02 Dawson Creek
+N-- - 104w54 52n30 0 11 Daylesford
+N-- - 112w15 52n52 0 01 Daysland
+N-- - 83w20 46n14 0 08 Dayton
+N-- - 117w31 56n44 0 01 Deadwood
+N-- - 83w09 46n12 0 08 Dean Lake
+N-- - 130w02 58n27 0 02 Dease Lake
+N-- - 106w52 53n31 0 11 Debden
+N-- - 67w41 46n04 0 04 Debec
+V-- - 63w28 45n26 0 07 Debert
+N-- - 63w28 45n26 0 07 Debert Station
+N-- - 95w25 49n53 0 03 Decimal
+N-- - 125w50 54n17 0 02 Decker Lake
+N-- - 65w39 44n38 0 07 Deep Brook
+N-- - 101w26 51n19 0 03 Deepdale
+V-- - 77w34 46n10 0 08 Deep River
+N-- - 77w30 46n06 0 08 Deep River
+N-- - 77w34 46n10 0 08 Deep River Depot
+N-- - 55w39 52n22 0 05 Deepwater Creek
+V-- - 139w26 64n02 0 12 Deer
+V-- - 98w46 49n58 0 03 Deer
+N-- - 53w35 48n08 0 05 Deer Harbour
+N-- - 57w26 49n11 0 05 Deer Lake
+N-- - 94w04 52n37 0 08 Deer Lake
+N-- - 130w26 58n54 0 02 Defot
+N-- - 64w27 48n49 0 07 Delaire
+V-- - 80w42 46n10 0 08 Delamare
+N-- - 80w42 46n10 0 08 Delamere
+N-- - 113w14 52n12 0 01 Delburne
+V-- - 73w49 45n20 0 10 De Lery
+N-- - 80w30 42n51 0 08 Delhi
+N-- 550 123w25 65n11 0 13 Deline
+N-- - 107w07 51n55 0 11 Delisle
+V-- - 71w42 48n38 0 10 Delisle
+N-- - 100w30 49n11 0 03 Deloraine
+N-- - 77w37 44n31 0 10 Deloro
+N-- - 112w40.44 54n00.26 0 01 Delph
+N-- - 73w33 45n22 0 10 Delson
+V-- - 73w33 45n22 0 10 Delson Village
+N-- - 98w19 50n11 0 03 Delta
+V-- - 98w19 50n11 0 03 Delta Station
+N-- - 119w54 55n27 0 01 Demmitt
+N-- - 102w05 54n40 0 11 Denare Beach
+N-- - 77w15 45n09 0 08 Denbigh
+N-- - 107w06 50n07 0 11 Dendron
+N-- - 81w26 43n07 0 08 Denfield
+N-- - 108w01 52n39 0 11 Denholm
+N-- - 124w49 49n32 0 02 Denman Island
+N-- - 109w39 52n14 0 11 Denzil
+N-- - 80w05 45n19 0 08 Depot Harbour
+V-- - 72w10 48n20 0 10 Dequen
+N-- - 65w36 46n57 0 04 Junction Derby
+N-- - 122w04 49n11 0 02 Deroche
+V-- - 73w45 45n27 0 10 Derval
+N-- - 83w56 46n20 0 08 Desbarats
+N-- - 71w57 48n25 0 10 Desbiens
+N-- - 72w06 46n33 0 10 Deschaillons
+N-- - 72w07 46n33 0 10 Deschaillons-sur-Saint-Laurent
+N-- - 71w55 46n38 0 10 Deschambault
+N-- - 75w48 45n23 0 10 Deschenes
+N-- - 60w58 45n35 0 07 D'Escousse
+N-- - 77w02 44n12 0 08 Deseronto
+N-- - 79w29 48n57 0 10 Desmeloizes
+N-- - 138w48 61n15 0 12 Destruction Bay
+V-- - 73w53 45n32 0 10 Deux-Montagnes
+N-- - 78w17 46n15 0 08 Deux Rivieres
+N-- - 111w11.48 55n32.05 0 01 Devenish
+N-- - 113w44 53n22 0 01 Devon
+N-- - 80w49 48n49 0 08 Devonshire
+N-- - 134w50 60n23 0 12 DeWette
+V-- - 137w03 60n22 0 12 Dezadeash
+NQ- - 69w50 60n47 0 10 Diana Bay
+N-- - 114w08 51n40 0 01 Didsbury
+N-- - 72w40 48n53 0 10 Didyme
+N-- - 64w45 46n06 0 04 Dieppe
+N-- - 65w45 44n36 0 07 Digby
+N-- - 53w33 47n33 0 05 Dildo
+N-- - 105w15 50n52 0 11 Dilke
+N-- - 108w56.20 55n55.39 0 11 Dillon
+N-- - 110w05 52n56 0 01 Dina
+N-- - 60w28 46n54 0 07 Dingwall
+N-- - 92w30 49n42 0 08 Dinorwic
+V-- - 92w30 49n42 0 08 Dinorwick
+N-- - 107w27 51n20 0 11 Dinsmore
+N-- - 66w25 45n05 0 04 Dipper Harbour
+VQ- - 64w43 81n43 0 14 Discovery Harbor
+N-- - 71w21 45n54 0 10 Disraeli
+N-- - 117w40 56n32 0 01 Dixonville
+N-- - 66w07 46n33 0 04 Doaktown
+N-- - 53w57 49n26 0 05 Doating Cove
+N-- - 108w50 51n48 0 11 Dodsland
+N-- - 120w05 56n01 0 02 Doe River
+N-- - 122w15 51n35 0 02 Dog Creek
+N-- - 114w23 51n28 0 01 Dogpound
+N-- - 72w14 48n52 0 10 Dolbeau
+N-- - 73w51 45n27 0 10 Dollard-des-Ormeaux
+N-- - 97w19 49n36 0 03 Domain
+N-- - 60w01 46n13 0 07 Dominion
+N-- - 97w09 49n08 0 03 Dominion City
+V-- - 59w52 46n11 0 07 Dominion Number Six
+N-- - 55w46 53n28 0 05 Domino Harbour
+N-- - 105w44 52n47 0 11 Domremy
+N-- - 112w34 52n35 0 01 Donalda
+N-- - 125w40 54n29 0 02 Donald Landing
+N-- - 112w48.15 54n44.53 0 01 Donatville
+N-- - 140w05 62n41 0 12 Donjek
+N-- - 59w52 46n11 0 07 Donkin
+N-- - 79w20 43n44 0 08 Don Mills
+N-- - 71w44 46n40 0 10 Donnacona
+V-- - 71w44 46n40 0 10 Donnaconna
+N-- - 117w07 55n44 0 01 Donnelly
+V-- - 64w34 46n10 0 04 Dorchester Crossing
+N-- - 107w07 54n40 0 11 Dore Lake
+N-- - 108w37.42 54n21.19 0 11 Dorintosh
+N-- - 74w01 45n23 0 10 Dorion
+V-- - 74w01 45n23 0 10 Dorion-Vaudreuil
+N-- - 112w19 51n17 0 01 Dorothy
+N-- - 128w20 54n51 0 02 Dorreen
+N-- - 78w53 45n14 0 08 Dorset
+V-- 1200 76w33 64n14 0 14 Dorset
+N-- - 73w45 45n27 0 10 Dorval
+N-- - 71w31 46n28 0 10 Dosquet
+N-- - 121w06 50n14 0 02 Dot
+V-- - 53w57 49n26 0 05 Doting Cove
+V-- - 76w35 48n14 0 10 Doucet
+N-- - 127w19 54n57 0 02 Doughty
+N-- - 120w11 50n09 0 02 Douglas Lake
+N-- - 99w42 49n53 0 03 Douglas Station
+N-- - 64w23 48n46 0 10 Douglastown
+N-- - 78w12 44n23 0 08 Douro
+V-- - 116w50 55n37 0 01 Doussal
+V-- - 53w59 48n51 0 05 Dover
+N-- - 112w00 51n46 0 01 Dowling
+N-- - 81w03 43n20 0 08 Downie
+N-- - 79w29 43n43 0 08 Downsview
+N-- - 59w09 47n51 0 05 Doyles
+N-- - 114w59 53n13 0 01 Drayton Valley
+N-- - 82w10 42n35 0 08 Dresden
+N-- - 115w46 55n21 0 01 Driftpile
+N-- - 81w23 49n08 0 08 Driftwood
+N-- - 105w08 50n18 0 11 Drinkwater
+V-- - 81w01 48n35 0 08 Drinkwater
+N-- - 117w32 53n26 0 01 Drinnan
+N-- - 80w33 43n14 0 08 Drumbo
+N-- - 112w42 51n28 0 01 Drumheller
+N-- - 72w29 45n53 0 10 Drummondville
+V-- - 72w29 45n53 0 10 Drummondville East
+N-- - 72w31 45n54 0 10 Drummondville-Ouest
+N-- - 92w50 49n47 0 08 Dryden
+V-- - 78w56 48n01 0 10 Dubois
+V-- - 101w40 57n53 0 03 Du Brochet
+N-- - 77w54 48n06 0 10 Dubuisson
+N-- - 111w54 50n44 0 01 Duchess
+N-- - 100w10 52n12 0 03 Duck Bay
+N-- - 106w13 52n48 0 11 Duck Lake
+N-- - 114w20 53n31 0 01 Duffield
+N-- - 96w44 49n43 0 03 Dufresne
+N-- - 97w03 49n21 0 03 Dufrost
+N-- - 81w01 48n35 0 08 Dugwal
+N-- - 106w52 51n12 0 11 Dunblane
+N-- - 123w42 48n47 0 02 Duncan
+N-- - 125w17 50n04 0 02 Duncan Bay
+N-- - 80w23 44n10 0 08 Dundalk
+N-- - 79w56 43n16 0 08 Dundas
+NL- - 82w24 74n31 0 14 Dundas Harbour
+N-- - 106w30 51n48 0 11 Dundurn
+N-- - 107w49 50n11 0 11 Dunelm
+N-- - 107w03 52n08 0 11 Dunfermline
+N-- - 110w35 49n58 0 01 Dunmore
+N-- - 79w37 42n54 0 08 Dunnville
+N-- - 78w38 44n27 0 08 Dunsford
+N-- - 119w50 53n07 0 02 Dunster
+N-- - 53w53 47n17 0 05 Dunville
+N-- - 79w13 48n31 0 10 Duparquet
+N-- - 79w22 48n50 0 10 Dupuy
+V-- - 66w36 46n08 0 04 Durham
+N-- - 80w49 44n11 0 08 Durham
+N-- - 66w36 46n08 0 04 Durham Bridge
+N-- - 110w38.58 54n17.03 0 01 Durlingville
+N-- - 73w51 45n34 0 10 Duvernay
+N-- - 111w41 53n47 0 01 Duvernay
+N-- - 81w20 45n10 0 08 Dyer Bay
+V-- - 81w20 45n10 0 08 Dyers Bay
+N-- - 92w19 49n37 0 08 Dyment
+N-- - 123w16 49n21 0 02 Eagle Harbour
+N-- - 114w22 51n49 0 01 Eagle Hill
+N-- - 93w11 49n47 0 08 Eagle River
+N-- - 117w54 55n47 0 01 Eaglesham
+N-- - 79w49 47n43 0 08 Earlton
+V-- - 79w49 47n43 0 08 Earlton Junction
+N-- - 64w46 45n20 0 07 East Advocate
+N-- - 71w40 45n29 0 10 East Angus
+N-- - 95w37 49n37 0 03 East Braintree
+N-- - 71w05 46n13 0 10 East Broughton Station
+N-- - 63w14 44n43 0 07 East Chezzetcook
+N-- - 112w29 51n20 0 01 East Coulee
+N-- - 108w49 49n31 0 11 Eastend
+V-- - 61w01 46n37 0 07 Eastern
+N-- - 63w29 44n37 0 07 Eastern Passage
+N-- - 119w24 49n52 0 02 East Kelowna
+N-- - 97w05 49n55 0 03 East Kildonan
+N-- - 64w22 44n18 0 07 East LaHave
+N-- - 69w41 47n20 0 10 East Lake
+V-- - 64w22 44n18 0 07 East Lehave
+N-- - 78w31 52n14 0 10 Eastmain
+N-- - 72w19 45n18 0 10 Eastman
+V-- - 61w04 46n23 0 07 East Margaree
+N-- - 63w31 45n26 0 07 East Mines
+N-- - 121w11 55n43 0 02 East Pine
+N-- - 105w23 49n04 0 11 East Poplar
+N-- - 53w46 48n39 0 05 Eastport
+N-- - 62w11 45n24 0 07 East River Saint Marys
+V-- - 62w15 46n21 0 09 East Souris
+N-- - 75w39 45n26 0 08 Eastview
+V-- - 75w39 45n26 0 08 Eastview Centre
+NX- - 82w59 42n19 0 08 East Windsor
+N-- - 84w04 46n29 0 08 Echo Bay
+N-- - 118w02 66n05 0 13 Echo Bay
+N-- - 63w55 45n23 0 07 Economy
+V-- - 129w06 54n24 0 02 Ecstew
+N-- - 62w07 44n58 0 07 Ecum Secum
+N-- - 108w46 53n11 0 11 Edam
+N-- - 56w25 51n24 0 05 Eddies Cove
+N-- - 57w10 50n45 0 05 Eddies Cove West
+N-- - 99w28 50n22 0 03 Eden
+N-- - 79w37 44n31 0 08 Edgar
+N-- - 110w27 52n45 0 01 Edgerton
+N-- - 118w08 49n47 0 02 Edgewood
+N-- - 104w57 49n44 0 11 Edgeworth
+N-- - 79w47 45n23 0 08 Edgington
+NA- - 113w30 53n33 0 01 Edmonton
+N-- - 68w20 47n22 0 04 Edmundston
+N-- - 116w25 53n35 0 01 Edson
+N-- - 112w16.33 54n08.38 0 01 Edwand
+N-- - 60w14 46n10 0 07 Edwardsville
+N-- - 116w02 62n47 0 13 Edzo
+N-- - 77w06 45n32 0 08 Eganville
+VQ- - 94w49 59n55 0 03 Egg Island
+V-- - 131w48 58n16 0 02 Egnell
+V-- - 131w48 58n16 0 02 Egnelle
+V-- - 131w48 58n16 0 02 Egnell's
+N-- - 113w07 54n02 0 01 Egremont
+N-- - 118w34 49n09 0 02 Eholt
+V-- - 115w55 51n16 0 01 Eisenhower Junction
+N-- - 106w36 51n07 0 11 Elbow
+N-- - 108w30 59n33 0 11 Eldorado
+N-- - 100w16 49n26 0 03 Elgin
+N-- - 65w07 45n48 0 04 Elgin
+N-- - 101w15 49n58 0 03 Elkhorn
+N-- - 80w20 47n43 0 08 Elk Lake
+N-- - 115w07 49n18 0 02 Elko
+N-- - 110w54 53n54 0 01 Elk Point
+N-- - 82w39 46n23 0 08 Elliot Lake
+V-- - 53w55 48n08 0 05 Elliots Cove
+N-- - 53w55 48n08 0 05 Elliotts Cove
+N-- - 53w02 48n37 0 05 Elliston
+N-- - 53w06 48n34 0 05 Elliston Station
+N-- - 112w54.03 54n30.13 0 01 Ellscott
+N-- - 95w55 49n52 0 03 Elma
+N-- - 98w00 49n40 0 03 Elm Creek
+N-- - 80w33 43n36 0 08 Elmira
+N-- - 62w04 46n26 0 09 Elmira
+N-- - 63w31 44n58 0 07 Elmsdale
+N-- - 79w52 44n35 0 08 Elmvale
+N-- - 75w58 44n41 0 08 Eloida
+N-- - 80w26 43n41 0 08 Elora
+N-- - 100w19 50n32 0 03 Elphinstone
+N-- - 108w02 51n12 0 11 Elrose
+N-- - 135w29 63n55 0 12 Elsa
+N-- - 82w55 48n31 0 08 Elsas
+N-- - 77w17 44n38 0 08 Elzevir
+N-- - 77w20 44n40 0 08 Elzevir
+N-- - 111w30 58n27 0 01 Embarras Portage
+N-- - 76w46 44n09 0 08 Emerald
+N-- - 63w33 46n22 0 09 Emerald
+N-- - 97w12 49n00 0 03 Emerson
+N-- - 93w50 48n37 0 08 Emo
+N-- - 110w01 50n58 0 01 Empress
+N-- - 79w19 45n32 0 08 Emsdale
+N-- - 112w25 50n10 0 01 Enchant
+N-- - 125w01 54n05 0 02 Endako
+N-- - 119w08 50n33 0 02 Enderby
+N-- - 112w09 51n58 0 01 Endiang
+N-- - 124w17 54n01 0 02 Engen
+N-- - 134w15 59n30 0 02 Engineer
+N-- - 56w06 50n44 0 05 Englee
+N-- - 79w52 47n49 0 08 Englehart
+N-- - 126w53 50n33 0 02 Englewood
+N-- - 96w12 51n08 0 03 English Brook
+N-- - 54w56 47n39 0 05 English Harbour East
+N-- - 55w32 47n28 0 05 English Harbour West
+N-- - 117w19 55n25 0 01 Enilda
+N-- - 100w53 61n08 0 14 Ennadai
+N-- - 113w26 50n28 0 01 Ensign
+N-- - 76w53 44n28 0 08 Enterprise
+N-- - 116w08 60n33 0 13 Enterprise
+N-- - 117w42 53n22 0 01 Entrance
+N-- - 114w58 53n31 0 01 Entwistle
+N-- - 81w55 42n15 0 08 Erieau
+N-- - 98w06 50n52 0 03 Eriksdale
+N-- - 80w04 43n46 0 08 Erin
+N-- - 79w39 43n32 0 08 Erindale
+N-- - 116w41 53n25 0 01 Erith
+N-- - 106w54 50n27 0 11 Ernfold
+N-- - 102w12 52n51 0 11 Erwood
+V-- - 69w25 48n21 0 10 Escoumins
+V-- 1800 94w03 61n07 0 14 Eskimo Point
+N-- - 81w46 46n15 0 08 Espanola
+N-- - 123w25 48n26 0 02 Esquimalt
+N-- - 82w49 42n10 0 08 Essex
+N-- - 80w48 46n18 0 08 Estaire
+N-- - 69w13 47n27 0 10 Estcourt
+N-- - 74w02 46n02 0 10 Esterel
+N-- - 102w05 50n39 0 11 Esterhazy
+N-- - 103w00 49n09 0 11 Estevan
+N-- - 110w15 51n41 0 01 Esther
+N-- - 108w45 51n09 0 11 Eston
+N-- - 109w54 50n56 0 11 Estuary
+N-- - 61w56 47n22 0 10 Etang-du-Nord
+N-- - 100w24 51n31 0 03 Ethelbert
+N-- - 79w34 43n42 0 08 Etobicoke
+N-- - 111w06 49n29 0 01 Etzikom
+N-- - 80w32 44n19 0 08 Eugenia
+N-- - 86w11 80n13 0 14 Eureka
+N-- - 61w14 45n37 0 07 Evanston
+N-- - 82w35 45n49 0 08 Evansville
+N-- - 127w16 54n53 0 02 Evelyn
+N-- - 88w21 48n54 0 08 Everard
+N-- - 109w50 52n24 0 11 Evesham
+N-- - 110w34 51n23 0 01 Excel
+N-- - 81w29 43n21 0 08 Exeter
+N-- - 129w06 54n24 0 02 Exstew
+N-- - 123w58 49n06 0 02 Extension
+N-- - 106w09 50n48 0 11 Eyebrow
+N-- - 79w22 47n12 0 10 Fabre
+N-- - 79w19 47n11 0 10 Fabre-Station
+N-- - 73w39 45n34 0 10 Fabreville
+V-- - 78w43 52n36 0 10 Factory River
+N-- - 98w42 51n36 0 03 Fairford
+N-- - 53w42 48n59 0 05 Fair Island
+N-- - 115w52 50n19 0 02 Fairmont Hot Springs
+N-- - 118w24 56n04 0 01 Fairview
+N-- - 80w49 46n34 0 08 Falconbridge
+N-- - 121w33 50n04 0 02 Falls Creek
+V-- - 124w21 49n29 0 02 False Bay
+N-- - 74w35 49n34 0 10 Fancamp Township
+N-- - 72w58 45n17 0 10 Farnham
+N-- - 121w35 56n11 0 02 Farrell Creek
+N-- - 92w50 48n46 0 08 Farrington
+V-- - 68w28 48n31 0 10 Father Point
+N-- - 82w02 49n18 0 08 Fauquier
+N-- - 118w05 49n53 0 02 Fauquier
+N-- - 115w43 55n19 0 01 Faust
+N-- - 93w38 52n50 0 08 Favourable Lake
+N-- - 114w05 54n32 0 01 Fawcett
+N-- - 89w46 50n15 0 08 Fee Spur
+N-- - 120w33 55n36 0 02 Fellers Heights
+N-- - 78w45 44n32 0 08 Fenelon Falls
+N-- - 112w45 52n08 0 01 Fenn
+N-- - 80w22 43n42 0 08 Fergus
+N-- - 117w29 50n41 0 02 Ferguson
+N-- - 112w58 52n46 0 01 Ferintosh
+N-- - 88w25 50n19 0 08 Ferland
+N-- - 75w27 46n42 0 10 Ferme-Neuve
+N-- - 52w58 46n58 0 05 Fermeuse
+N-- - 115w04 49n30 0 02 Fernie
+N-- - 57w06 51n01 0 05 Ferolle Point
+N-- - 115w04 52n22 0 01 Ferrier
+N-- - 52w55 47n01 0 05 Ferryland
+N-- - 107w36 51n53 0 11 Feudal
+N-- - 55w42 51n10 0 05 Fichot Island
+N-- - 77w40 48n23 0 10 Fiedmont
+N-- - 116w29 51n24 0 02 Field
+N-- - 80w02 46n31 0 08 Field
+N-- - 107w32 52n31 0 11 Fielding
+N-- - 78w04 48n28 0 10 Figuery
+N-- - 103w26 49n53 0 11 Fillmore
+N-- - 75w05 45n08 0 08 Finch
+N-- - 81w18 42n43 0 08 Fingal
+N-- - 93w55 48n51 0 08 Finland
+V-- - 123w50 55n59 0 02 Finlay
+N-- - 123w50 55n59 0 02 Finlay Forks
+V-- - 123w50 55n59 0 02 Finlay Junction
+N-- - 123w36 53n59 0 02 Finmoore
+N-- - 112w05 51n08 0 01 Finnegan
+N-- - 83w36 48n46 0 08 Fire River
+N-- - 126w14 52n26 0 02 Firvale
+N-- - 58w41 48n19 0 05 Fishels
+N-- - 77w48 48n29 0 10 Fisher
+N-- - 123w17 49n21 0 02 Fishermans Cove
+N-- - 55w46 52n36 0 05 Fishing Ship Harbour
+N-- - 139w37 65n55 0 12 Fishing Station
+N-- - 108w24 51n29 0 11 Fiske
+V-- - 111w36 59n52 0 01 Fitgerald
+V-- - 111w36 59n52 0 01 Fitzgerald
+N-- - 64w02 45n25 0 07 Five Islands
+N-- - 115w11 49n04 0 02 Flagstone
+N-- - 92w05 48n44 0 08 Flanders
+N-- - 58w35 48n23 0 05 Flat Bay
+N-- - 114w09 54n41 0 01 Flatbush
+N-- - 54w55 47n16 0 05 Flat Island
+N-- - 55w44 53n16 0 05 Flat Islands
+N-- - 111w09.06 54n07.49 0 01 Flat Lake
+N-- - 62w53 46n01 0 09 Flat River
+N-- - 52w43 47n43 0 05 Flat Rock
+N-- - 109w13.38 54n17.49 0 11 Flat Valley
+N-- - 109w36 51n28 0 11 Flaxcombe
+N-- - 111w44 52n09 0 01 Fleet
+N-- - 101w31 50n04 0 11 Fleming
+N-- - 80w33 44n15 0 08 Flesherton
+V-- - 56w06 50n08 0 05 Fleur de Lis Harbour
+N-- - 56w06 50n08 0 05 Fleur de Lys
+V-- - 56w06 50n08 0 05 Fleur-de Lys Harbour
+N-- - 101w53 54n46 0 03 Flin Flon
+N-- - 106w21 49n28 0 11 Flintoft
+N-- - 80w35 43n37 0 08 Floradale
+V-- - 56w44 51n17 0 05 Flower Cove
+N-- - 56w44 51n17 0 05 Flowers Cove
+N-- - 103w32 51n39 0 11 Foam Lake
+N-- - 124w31 50n07 0 02 Foch
+N-- - 54w17 49n42 0 05 Fogo
+N-- - 82w26 48n15 0 08 Foleyet
+N-- - 63w33 45n33 0 07 Folly Lake
+N-- - 107w11 59n19 0 11 Fond-du-Lac
+N-- - 121w43 58n17 0 02 Fontas
+N-- - 64w33 48n53 0 10 Fontenelle
+N-- - 79w17 43n02 0 08 Fonthill
+N-- - 116w47 53n04 0 01 Foothills
+N-- - 111w26 49n29 0 01 Foremost
+N-- - 82w00 43n06 0 08 Forest
+N-- - 112w04 52n35 0 01 Forestburg
+N-- - 126w12 54n25 0 02 Forestdale
+N-- - 79w25 43n42 0 08 Forest Hill
+N-- - 113w58 51n02 0 01 Forest Lawn
+N-- - 69w04 48n44 0 10 Forestville
+N-- - 111w37.04 54n28.08 0 01 Fork Lake
+N-- - 65w33 46n03 0 04 Forks
+N-- - 99w57 49n58 0 03 Forrest Station
+V-- - 69w04 48n44 0 10 Forrestville
+N-- - 81w37 52n15 0 08 Fort Albany
+N-- - 114w46 54n20 0 01 Fort Assiniboine
+V-- - 126w37 55n19 0 02 Fort Babine
+N-- - 73w16 45n27 0 10 Fort-Chambly
+V-- - 68w24 58n06 0 10 Fort-Chimo
+N-- - 111w09 58n43 0 01 Fort Chipewyan
+NQ- - 117w57 71n37 0 13 Fort Collinson
+NQ- - 64w43 81n43 0 14 Fort Conger
+V-- - 126w51 56n12 0 02 Fort Connelly
+N-- - 76w45 45n51 0 10 Fort Coulonge
+V-- - 101w40 57n53 0 03 Fort du Brochet
+N-- - 56w57 51n27 0 05 Forteau Bay
+NQ- - 113w10 64n29 0 13 Fort Enterprise
+N-- - 78w56 42n54 0 08 Fort Erie
+N-- - 111w36 59n52 0 01 Fort Fitzgerald
+N-- - 93w25 48n37 0 08 Fort Frances
+V-- 550 123w25 65n11 0 13 Fort Franklin
+N-- - 124w32 54n03 0 02 Fort Fraser
+N-- - 79w01 53n50 0 10 Fort-George
+N-- - 128w38 66n16 0 13 Fort Good Hope
+V-- - 124w38 56n36 0 02 Fort Graham
+N-- - 124w38 56n36 0 02 Fort Grahame
+NQ- - 126w29 59n33 0 02 Fort Halkett
+NQ- - 101w20 59n23 0 03 Fort Hall
+N-- - 87w59 51n33 0 08 Fort Hope
+NQ- - 86w43 66n32 0 14 Fort Hope
+N-- - 72w02 46n29 0 10 Fortierville
+V-- - 124w15 54n26 0 02 Fort James
+N-- - 110w36.14 54n18.47 0 01 Fort Kent
+N-- - 123w29 60n14 0 13 Fort Liard
+N-- - 111w37 57n11 0 01 Fort MacKay
+N-- - 68w59 56n53 0 10 Fort-Mackenzie
+N-- - 113w24 49n44 0 01 Fort Macleod
+V-- - 68w59 56n53 0 10 Fort McKenzie
+V-- - 123w02 55n00 0 02 Fort McLeod
+N-- - 111w23 56n44 0 01 Fort McMurray
+N-- - 134w52 67n26 0 13 Fort McPherson
+N-- - 122w32 58n49 0 02 Fort Nelson
+V-- - 125w35 64n54 0 13 Fort Norman
+N-- - 117w39 61n22 0 13 Fort Providence
+N-- - 103w47 50n46 0 11 Fort Qu'Appelle
+VL- - 117w53 66n03 0 13 Fort Radium
+V-- - 116w03 62n50 0 13 Fort Rae
+V-- - 109w08 62n42 0 13 Fort Reliance
+N-- - 113w41 61n10 0 13 Fort Resolution
+NQ- - 94w15 72n01 0 14 Fort Ross
+N-- - 78w46 51n29 0 10 Fort-Rupert
+N-- - 124w15 54n26 0 02 Fort Saint James
+N-- - 120w50 56n15 0 02 Fort Saint John
+N-- - 113w12 53n43 0 01 Fort Saskatchewan
+N-- - 137w23 62n46 0 12 Fort Selkirk
+N-- - 87w39 55n59 0 08 Fort Severn
+N-- - 121w20 61n51 0 13 Fort Simpson
+N-- - 111w53 60n00 0 13 Fort Smith
+N-- - 115w38 49n37 0 02 Fort Steele
+V-- - 114w47 68n47 0 14 Fort Thomson
+N-- - 55w52 47n04 0 05 Fortune
+V-- - 55w15 49n30 0 05 Fortune Harbor
+N-- - 55w15 49n30 0 05 Fortune Harbour
+N-- - 116w00 58n24 0 01 Fort Vermilion
+V-- - 114w51 58n22 0 01 Fort Vermilion Chutes
+V-- - 116w00 58n24 0 01 Fort Vermillion
+V-- - 125w37 57n25 0 02 Fort Ware
+V-- - 89w14 48n24 0 08 Fort William
+V-- - 123w36 63n16 0 13 Fort Wrigley
+N-- - 140w33 64n27 0 12 Forty Mile
+N-- - 104w28 49n38 0 11 Forward
+N-- - 79w07 46n04 0 08 Fossmill
+N-- - 103w48 52n12 0 11 Fosston
+N-- - 60w15 45n43 0 07 Fourchu
+N-- - 108w37.41 54n10.49 0 11 Four Corners
+N-- - 131w46 56n50 0 02 Fowler
+N-- - 61w51 49n16 0 10 Fox Bay
+N-- - 105w07 53n28 0 11 Foxford
+N-- - 53w55 47n19 0 05 Fox Harbour
+N-- - 55w41 52n21 0 05 Fox Harbour
+N-- - 57w16 47n35 0 05 Fox Island Harbour
+N-- - 64w23 48n59 0 10 Fox River
+N-- - 52w58 47n31 0 05 Foxtrap
+N-- - 109w29 50n28 0 11 Fox Valley
+N-- - 77w19 45n27 0 08 Foymount
+N-- - 112w36.07 54n45.16 0 01 Frains
+NQ- - 129w17 61n16 0 12 Frances Lake
+N-- - 111w01.45 54n16.10 0 01 Franchere
+N-- - 103w52 50n06 0 11 Francis
+N-- - 55w44 52n33 0 05 Francis Harbour
+VQ- - 129w17 61n16 0 12 Francis Lake
+N-- - 56w45 47n34 0 05 Francois
+N-- - 77w36 44n12 0 08 Frankford
+V-- - 61w31 45n39 0 07 Frankville
+N-- - 84w25 48n28 0 08 Franz
+N-- - 135w03 59n43 0 02 Fraser
+N-- - 81w37 49n51 0 08 Fraserdale
+N-- - 124w47 54n03 0 02 Fraser Lake
+N-- - 84w33 47n20 0 08 Frater
+N-- - 76w52 44n13 0 08 Fredericksburg
+N-- - 54w22 49n25 0 05 Frederickton
+NA- - 66w38 45n57 0 04 Fredericton
+N-- - 66w37 45n40 0 04 Fredericton Junction
+N-- - 114w14 54n09 0 01 Freedom
+N-- - 66w19 44n16 0 07 Freeport
+N-- - 109w37 53n35 0 11 Frenchman Butte
+N-- - 58w11 49n03 0 05 Frenchman Cove
+N-- - 63w53 44n42 0 07 French Village
+N-- - 53w12 47n45 0 05 Freshwater
+N-- - 110w48.15 54n14.26 0 01 Fresnoy
+N-- - 102w25 49n12 0 11 Frobisher
+VA- 3500 68w30 63n44 0 14 Frobisher
+VA- 3500 68w30 63n44 0 14 Frobisher Bay
+NS- - 75w57 44n26 0 08 Front of Escott
+N-- - 117w33 49n07 0 02 Fruitvale
+N-- - 83w20 49n37 0 08 Fryatt
+V-- - 123w29 48n47 0 02 Fulford
+N-- - 123w29 48n47 0 02 Fulford Harbour
+N-- - 126w08 54n49 0 02 Fulton River
+N-- - 109w58 53n07 0 11 Furness
+N-- - 109w46 51n51 0 11 Fusilier
+V-- - 60w08 45n50 0 07 Gabarouse Barachois
+N-- - 60w08 45n50 0 07 Gabarus
+V-- - 60w08 45n50 0 07 Gabarus Barachois
+N-- - 123w51 49n11 0 02 Gabriola
+N-- - 57w53 49n30 0 05 Gadds Harbour
+N-- - 112w21 52n18 0 01 Gadsby
+N-- - 118w30 56n08 0 01 Gage
+N-- - 66w09 45n46 0 04 Gagetown
+N-- - 68w10 51n48 0 10 Gagnon
+N-- - 101w27 49n10 0 11 Gainsborough
+N-- - 111w55 52n31 0 01 Galahad
+N-- - 132w05 59n32 0 02 Galbraith
+V-- - 116w22 50n54 0 02 Galena
+N-- - 63w13 49n16 0 10 Galiote
+V-- - 54w47 47n23 0 05 Gallows
+N-- - 80w18 43n21 0 08 Galt
+N-- - 54w13 48n47 0 05 Gambo
+N-- - 76w10 44n20 0 08 Gananoque
+N-- - 54w33 48n57 0 05 Gander
+N-- - 54w30 49n16 0 05 Gander Bay
+N-- - 123w31 48n51 0 02 Ganges
+N-- - 122w19 51n33 0 02 Gang Ranch
+N-- - 84w09 46n33 0 08 Garden River
+N-- - 96w42 49n05 0 03 Gardenton
+N-- - 81w02 49n19 0 08 Gardiner
+N-- - 123w09 49n58 0 02 Garibaldi
+N-- - 55w22 47n14 0 05 Garnish
+N-- - 104w20 53n29 0 11 Garrick
+V-- - 80w52 46n34 0 08 Garson
+N-- - 80w52 46n34 0 08 Garson Mine
+N-- - 110w59 54n32 0 01 Garth
+V-- - 71w23 45n50 0 10 Garthby
+N-- - 71w23 45n50 0 10 Garthby Station
+V-- - 53w37 46n52 0 05 Gascoigne
+V-- - 53w37 46n52 0 05 Gascolgne
+N-- - 64w52 48n12 0 10 Gascons
+N-- - 53w37 46n52 0 05 Gaskiers
+N-- - 64w29 48n50 0 10 Gaspe
+N-- - 75w39 45n29 0 10 Gatineau
+V-- - 75w42 45n28 0 10 Gatineau Point
+N-- - 55w55 47n36 0 05 Gaultois
+N-- - 118w16 52n52 0 01 Geikie
+N-- - 112w11 50n57 0 01 Gem
+V-- - 65w53 58n32 0 10 George River
+N-- - 53w58 48n14 0 05 Georges Brook
+N-- - 55w52 52n41 0 05 Georges Cove
+V-- - 65w53 58n32 0 10 Georges River
+N-- - 79w56 43n39 0 08 Georgetown
+N-- - 62w32 46n11 0 09 Georgetown
+N-- - 86w58 49n43 0 08 Geraldton
+N-- - 124w42 55n47 0 02 Germansen Landing
+N-- - 117w17 50n31 0 02 Gerrard
+N-- - 60w43 50n13 0 10 Gethsemani
+N-- - 91w27 50n10 0 08 Ghost River
+N-- - 123w30 49n24 0 02 Gibsons
+V-- - 123w30 49n24 0 02 Gibson's Landing
+N-- - 100w29 51n08 0 03 Gilbert Plains
+N-- - 94w42 56n21 0 03 Gillam
+NS- - 79w43 47n17 0 08 Gillies Limit
+N-- - 77w37 44n49 0 08 Gilmour
+N-- - 97w00 50n38 0 03 Gimli
+N-- - 72w33 49n00 0 10 Girardville Centre
+N-- - 117w20 55n45 0 01 Girouxville
+N-- - 105w56 51n10 0 11 Girvin
+N-- - 129w13 55n12 0 02 Gitwinksihlkw
+N-- 900 95w55 68n38 0 14 Gjoa Haven
+N-- - 59w58 46n12 0 07 Glace Bay
+N-- - 117w31 51n16 0 02 Glacier
+N-- - 140w50 64n01 0 12 Glacier Creek
+N-- - 104w28 49n05 0 11 Gladmar
+N-- - 98w57 50n14 0 03 Gladstone
+N-- - 108w21 53n21 0 11 Glaslyn
+N-- - 105w03 49n33 0 11 Glasnevin
+N-- - 67w25 46n29 0 04 Glassville
+N-- - 113w03 50n52 0 01 Gleichen
+N-- - 81w15 43n56 0 08 Glenannan
+N-- - 99w17 49n33 0 03 Glenboro
+N-- - 75w51 44n38 0 08 Glen Buell
+N-- - 57w54 49n27 0 05 Glenburnie
+N-- - 108w00 53n15 0 11 Glenbush
+N-- - 81w42 42n45 0 08 Glencoe
+V-- - 125w42 50n41 0 02 Glendale Cove
+N-- - 111w09.05 54n15.04 0 01 Glendon
+N-- - 62w04 45n16 0 07 Glenelg
+N-- - 107w01 50n36 0 11 Glen Kerr
+N-- - 131w24 57n50 0 02 Glenora
+N-- - 74w30 45n21 0 08 Glen Robertson
+N-- - 106w41 49n25 0 11 Glentworth
+V-- - 113w31 49n22 0 01 Glenwood
+N-- - 54w53 49n00 0 05 Glenwood
+N-- - 113w31 49n22 0 01 Glenwoodville
+N-- - 109w10 51n14 0 11 Glidden
+N-- - 54w03 48n40 0 05 Glovertown
+V-- - 111w42 49n56 0 01 Goat
+N-- - 120w35 53n32 0 02 Goat River
+N-- - 67w36 49n19 0 10 Godbout
+N-- - 81w42 43n44 0 08 Goderich
+N-- - 94w08 54n40 0 03 Gods Lake
+N-- - 81w43 47n40 0 08 Gogama
+N-- - 122w45 56n05 0 02 Gold Bar
+N-- - 61w39 45n11 0 07 Goldboro
+N-- - 122w51 50n51 0 02 Gold Bridge
+N-- - 116w58 51n18 0 02 Golden
+N-- - 77w15 45n35 0 08 Golden Lake
+N-- - 109w37 50n13 0 11 Golden Prairie
+N-- - 109w06.01 54n19.35 0 11 Golden Ridge
+N-- - 62w01 45n07 0 07 Goldenville
+N-- - 108w29 59n27 0 11 Goldfields
+N-- - 93w10 50n38 0 08 Goldpines
+V-- - 123w32 48n27 0 02 Goldstream
+N-- - 123w32 48n27 0 02 Goldstream Station
+N-- - 78w23 44n54 0 08 Gooderham
+N-- - 111w48.14 54n17.49 0 01 Goodfish Lake
+V-- - 128w38 66n16 0 13 Good Hope
+N-- - 100w36 49n06 0 03 Goodlands
+N-- - 111w21.08 54n23.08 0 01 Goodridge
+N-- - 109w13.34 54n23.59 0 11 Goodsoil
+N-- - 103w42 49n24 0 11 Goodwater
+V-- - 60w25 53n20 0 05 Goose
+N-- - 60w25 53n20 0 05 Goose Bay
+N-- - 55w37 51n18 0 05 Goose Cove
+N-- - 135w27 63n38 0 12 Gordon Landing
+N-- - 82w28 45n55 0 08 Gore Bay
+N-- - 102w26 51n27 0 11 Gorlitz
+N-- - 61w59 45n23 0 07 Goshen
+N-- - 84w32 48n15 0 08 Goudreau
+N-- - 112w28 52n03 0 01 Gough Lake
+N-- - 105w00 51n19 0 11 Govan
+N-- - 109w48 49n13 0 11 Govenlock
+N-- - 80w47 47n39 0 08 Gowganda
+N-- - 76w03 46n05 0 10 Gracefield
+N-- - 90w34 49n15 0 08 Graham
+N-- - 113w20 51n30 0 01 Grainger
+N-- - 106w33 50n59 0 11 Grainland
+N-- - 72w44 45n23 0 00 Granby
+N-- - 70w51 48n18 0 10 Grand-Baie
+N-- - 55w47 47n06 0 05 Grand Bank
+N-- - 66w12 45n18 0 04 Grand Bay
+N-- - 55w32 47n08 0 05 Grand Beach
+N-- - 96w38 50n33 0 03 Grand Beach
+N-- - 81w45 43n19 0 08 Grand Bend
+N-- - 58w14 47n40 0 05 Grand Bruit
+N-- - 110w12.55 54n25 0 01 Grand Centre
+N-- - 104w49 50n26 0 11 Grand Coulee
+N-- - 65w11 47n49 0 04 Grande Anse
+N-- - 61w34 47n33 0 10 Grande-Entree
+V-- - 61w02 46n33 0 07 Grande Etang
+N-- - 73w18 45n13 0 10 Grande-Ligne
+N-- - 118w48 55n10 0 01 Grande Prairie
+N-- - 64w30 48n23 0 10 Grande-Riviere
+N-- - 69w33 48n15 0 10 Grandes-Bergeronnes
+N-- - 72w43 46n41 0 10 Grandes-Piles
+N-- - 64w45 49n08 0 10 Grand Etang
+N-- - 61w02 46n33 0 07 Grand-Etang
+N-- - 65w08 49n13 0 10 Grande-Vallee
+N-- - 55w39 48n56 0 05 Grand Falls
+N-- - 67w44 47n03 0 04 Grand Falls
+N-- - 118w28 49n03 0 02 Grand Forks
+N-- - 72w41 46n38 0 10 Grand'Mere
+N-- - 60w47 45n57 0 07 Grand Narrows
+N-- - 107w00 52n06 0 11 Grandora
+N-- - 99w17 53n10 0 03 Grand Rapids
+N-- - 60w40 45n38 0 07 Grand River
+N-- - 67w44 47n03 0 04 Grand-Sault
+N-- - 80w19 43n54 0 08 Grand Valley
+N-- - 100w42 51n10 0 03 Grand View
+N-- - 125w17 50n14 0 02 Granite Bay
+N-- - 123w30 49n25 0 02 Granthams Landing
+N-- - 61w14 45n39 0 07 Granville
+N-- - 138w37 63n40 0 12 Granville
+N-- - 65w31 44n45 0 07 Granville Ferry
+N-- - 112w41.09 54n49.14 0 01 Grassland
+N-- - 111w42 49n50 0 01 Grassy Lake
+N-- - 125w53 53n57 0 02 Grassy Plains
+N-- - 52w56 48n10 0 05 Grates Cove
+N-- - 106w33 49n53 0 11 Gravelbourg
+N-- - 79w22 44n55 0 08 Gravenhurst
+N-- - 116w48 49n37 0 02 Gray Creek
+N-- - 54w04 47n08 0 05 Great Barasway
+N-- - 55w31 51n26 0 05 Great Brehat
+V-- - 55w31 51n26 0 05 Great Brehat Bay
+N-- - 54w09 47n39 0 05 Great Brule
+N-- - 124w59 49n19 0 02 Great Central
+N-- - 96w01 50n27 0 03 Great Falls
+V-- - 64w11 46n09 0 04 Great Shemogue
+N-- - 63w36 45n25 0 07 Great Village
+V-- - 77w47 55n16 0 10 Great Whale River
+N-- - 115w14 54n01 0 01 Green Court
+V-- - 66w08 43n58 0 07 Green Cove
+N-- - 73w29 45n30 0 10 Greenfield Park
+N-- - 107w47 54n16 0 11 Green Lake
+V-- - 65w46 47n51 0 04 Green Point
+N-- - 53w30 47n38 0 05 Greens Harbour
+N-- - 118w06 50n53 0 02 Greenslide
+N-- - 53w35 49n03 0 05 Greenspond
+N-- - 99w07 49n22 0 03 Greenway
+N-- - 118w41 49n08 0 02 Greenwood
+N-- - 64w54 44n59 0 07 Greenwood
+N-- - 102w55 50n25 0 11 Grenfell
+N-- - 74w36 45n38 0 10 Grenville
+N-- - 97w33 49n00 0 03 Gretna
+N-- - 55w36 50n43 0 05 Grey Islands Harbour
+N-- - 103w26 49n40 0 11 Griffin
+V-- - 64w18 48n56 0 10 Griffin
+N-- - 64w18 48n56 0 10 Griffin Cove
+V-- - 64w18 48n56 0 10 Griffins
+V-- - 64w18 48n56 0 10 Griffon
+V-- - 64w18 48n56 0 10 Grifon
+N-- - 55w29 51n31 0 05 Griguet
+N-- - 79w33 43n12 0 08 Grimsby
+N-- - 117w36 56n11 0 01 Grimshaw
+N-- - 119w07 50n38 0 02 Grindrod
+V-- - 61w52 47n23 0 10 Grindstone Island
+N-- - 82w57 76n25 0 14 Grise Fiord
+N-- - 100w28 49n46 0 03 Griswold
+N-- - 104w28 53n05 0 11 Gronlid
+N-- - 65w34 49n15 0 10 Gros-Morne
+N-- - 97w27 50n04 0 03 Grosse Isle
+N-- - 67w10 48n56 0 10 Grosses-Roches
+N-- - 120w55 55n47 0 02 Groundbirch
+N-- - 82w16 48n08 0 08 Groundhog River
+N-- - 80w15 43n33 0 08 Guelph
+N-- - 79w26 47n27 0 10 Guigues
+N-- - 108w29 50n06 0 11 Gull Lake
+N-- - 108w09 51n20 0 11 Gunworth
+N-- - 110w45.15 54n08.28 0 01 Gurneyville
+N-- - 99w07 51n22 0 03 Guynemer
+V-- - 61w30 45n24 0 07 Guysboro
+N-- - 61w30 45n24 0 07 Guysborough
+N-- - 98w37 51n46 0 03 Gypsumville
+N-- - 112w25 52n13 0 01 Hackett
+N-- - 107w21 52n43 0 11 Hafford
+N-- - 126w34 52n23 0 02 Hagensborg
+N-- - 80w03 42n57 0 08 Hagersville
+N-- - 106w25 52n30 0 11 Hague
+N-- - 131w57 53n20 0 02 Haida
+N-- - 79w38 47n26 0 08 Haileybury
+N-- - 137w30 60n45 0 12 Haines Junction
+V-- - 117w54 50n31 0 02 Halcyon
+N-- - 117w54 50n31 0 02 Halcyon Hot Springs
+N-- - 134w18 59n36 0 02 Hale
+V-- - 76w46 45n34 0 08 Haley
+V-- - 76w46 45n34 0 08 Haleys
+N-- - 76w46 45n34 0 08 Haley Station
+N-- - 123w55 49n31 0 02 Halfmoon Bay
+N-- - 78w31 45n02 0 08 Haliburton
+NA- - 63w36 44n39 0 07 Halifax
+N-- - 112w09 52n17 0 01 Halkirk
+N-- 650 81w12 68n46 0 14 Hall Beach
+N-- - 99w27 50n09 0 03 Hallboro
+V-- - 78w20 44n33 0 08 Hall Bridge
+N-- - 83w31 49n40 0 08 Hallebourg
+V-- - 79w38 47n26 0 08 Halleybury
+V-- - 64w37 45n12 0 07 Hall Harbour
+N-- - 77w14 44n00 0 08 Hallowell
+V-- - 78w20 44n33 0 08 Hall's Bridge
+N-- - 64w37 45n12 0 07 Halls Harbour
+N-- - 106w42 50n37 0 11 Halvorgate
+N-- - 71w40 45n50 0 10 Ham
+N-- - 79w50 43n15 0 08 Hamilton
+N-- - 100w36 50n11 0 03 Hamiota
+N-- - 108w18 52n52 0 11 Hamlin
+N-- - 71w39 45n54 0 10 Ham Nord
+N-- - 56w52 49n32 0 05 Hampden
+N-- - 65w50 45n32 0 04 Hampton
+N-- - 63w28 46n13 0 09 Hampton
+N-- - 66w05 45n37 0 04 Hamstead
+N-- - 123w02 51n55 0 02 Hanceville
+N-- - 108w42 52n04 0 11 Handel
+N-- - 102w57 49n51 0 11 Handsworth
+N-- - 106w26 51n37 0 11 Hanley
+N-- - 111w55 51n38 0 01 Hanna
+N-- - 81w02 44n09 0 08 Hanover
+N-- - 53w16 48n01 0 05 Hants Harbour
+N-- - 64w11 45n04 0 07 Hantsport
+N-- - 110w33.30 54n30.04 0 01 Happy Hollow
+N-- - 60w18 53n18 0 05 Happy Valley
+V-- - 53w15 47n41 0 05 Harbor Grace
+N-- - 55w50 47n29 0 05 Harbour Breton
+V-- - 54w06 47n32 0 05 Harbour Buffet
+N-- - 54w06 47n32 0 05 Harbour Buffett
+N-- - 56w32 50n22 0 05 Harbour Deep
+N-- - 53w15 47n41 0 05 Harbour Grace
+N-- - 53w10 47n26 0 05 Harbour Main
+N-- - 65w15 46n28 0 04 Harcourt
+N-- - 98w52 50n42 0 03 Harcus
+N-- - 100w32 49n59 0 03 Harding
+N-- - 111w18 52n41 0 01 Hardisty
+N-- - 54w01 48n51 0 05 Hare Bay
+N-- - 56w48 53n44 0 05 Hare Harbour
+V-- - 56w48 53n44 0 05 Hare Island
+N-- - 101w05 49n55 0 03 Hargrave
+N-- - 123w51 49n08 0 02 Harmac
+N-- - 116w50 56n06 0 01 Harmon Valley
+N-- - 64w03 46n32 0 00 Harmony
+N-- - 62w16 46n25 0 09 Harmony Junction
+N-- - 105w25 49n18 0 11 Harptree
+N-- - 78w08 48n28 0 10 Harricanaw Ouest
+N-- - 59w29 50n31 0 10 Harrington Harbour
+N-- - 80w53 43n55 0 08 Harriston
+N-- - 82w55 42n02 0 08 Harrow
+N-- - 101w26 50n45 0 03 Harrowby
+N-- - 58w15 48n39 0 05 Harrys Brook
+N-- - 105w36 49n11 0 11 Hart
+N-- - 113w58 50n43 0 01 Hartell
+N-- - 67w31 46n18 0 04 Hartland
+N-- - 129w16 53n26 0 02 Hartley Bay
+N-- - 100w31 49n29 0 03 Hartney
+V-- - 82w41 49n28 0 08 Harty
+N-- - 82w41 49n28 0 08 Harty Station
+V-- - 67w00 45n43 0 04 Harvey
+N-- - 67w00 45n43 0 04 Harvey Station
+N-- - 78w11 44n08 0 08 Harwood
+N-- - 77w57 44n18 0 08 Hastings
+N-- - 105w01 51n25 0 11 Hatfield
+N-- - 109w50 50n02 0 11 Hatton
+N-- - 68w16 49n11 0 10 Hauterive
+N-- - 74w35 49n42 0 10 Hauy Township
+N-- - 65w19 46n00 0 04 Havelock
+N-- - 77w53 44n26 0 08 Havelock
+V-- - 76w37 45n41 0 10 Havelock
+N-- - 61w51 47n14 0 10 Havre-Aubert
+V-- - 61w31 45n39 0 07 Havre Bouche
+N-- - 61w31 45n39 0 07 Havre Boucher
+N-- - 63w35 50n15 0 10 Havre-Saint-Pierre
+N-- - 106w36 51n25 0 11 Hawarden
+N-- - 55w50 53n01 0 05 Hawke Harbour
+N-- - 74w36 45n37 0 08 Hawkesbury
+N-- - 79w28 44n30 0 08 Hawkestone
+N-- - 106w58 53n18 0 11 Hawkeye
+N-- - 84w33 48n05 0 08 Hawk Junction
+N-- - 93w59 49n48 0 08 Hawk Lake
+N-- - 118w45 58n49 0 01 Hay Lake
+N-- - 113w03 53n12 0 01 Hay Lakes
+N-- - 115w42 60n51 0 13 Hay River
+N-- - 130w01 54n11 0 02 Haysport
+N-- - 110w07 52n21 0 01 Hayter
+N-- - 75w53 45n18 0 08 Hazeldean
+N-- - 127w40 55n15 0 02 Hazelton
+N-- - 78w56 44n43 0 08 Head Lake
+N-- - 125w06 49n46 0 02 Headquarters
+N-- - 83w40 49n42 0 08 Hearst
+N-- - 53w22 47n52 0 05 Heart's Content
+N-- - 53w29 47n47 0 05 Hearts Delight
+N-- - 53w27 47n49 0 05 Heart's Desire
+N-- - 79w49 47n48 0 08 Heaslip
+N-- - 71w41 48n24 0 10 Hebertville
+N-- - 62w38 58n12 0 05 Hebron
+N-- - 66w05 43n53 0 07 Hebron
+N-- - 126w45 49n51 0 02 Hecate
+N-- - 66w02 44n05 0 07 Hectanooga
+N-- - 120w05 49n21 0 02 Hedley
+N-- - 110w31 53n46 0 01 Heinsburg
+N-- - 112w12 52n40 0 01 Heisler
+N-- - 111w29.30 54n29.14 0 01 Helina
+N-- - 99w06 50n08 0 03 Helston
+N-- - 111w05 51n47 0 01 Hemaruka
+N-- - 73w36 45n03 0 10 Hemmingford
+N-- - 103w50 52n05 0 11 Hendon
+N-- - 55w50 52n01 0 05 Henley Harbour
+N-- - 105w37 53n24 0 11 Henribourg
+N-- - 81w30 43n26 0 08 Hensall
+N-- - 107w13 50n26 0 11 Herbert
+N-- - 99w47 54n47 0 03 Herb Lake
+V-- - 113w20 53n26 0 01 Hercules
+N-- - 55w56 47n33 0 05 Hermitage
+N-- - 86w17 48n39 0 08 Heron Bay
+N-- - 54w35 49n37 0 05 Herring Neck
+N-- - 108w21 51n38 0 11 Herschel
+N-- - 138w54 69n34 0 12 Herschel
+V-- - 138w54 69n34 0 12 Herschel Island
+N-- - 72w27 46n51 0 10 Hervey
+V-- - 72w27 46n51 0 10 Hervey Junction
+N-- - 112w58 51n28 0 01 Hesketh
+N-- - 80w19 43n26 0 08 Hespeler
+N-- - 53w45 48n06 0 05 Hickmans Harbour
+N-- - 108w27 52n52 0 11 Highgate
+N-- - 78w05 45n04 0 08 Highland Grove
+N-- - 118w51 56n07 0 01 Highland Park
+N-- - 117w08 58n31 0 01 High Level
+N-- - 116w29 55n26 0 01 High Prairie
+N-- - 114w08 54n02 0 01 Highridge
+N-- - 113w52 50n35 0 01 High River
+N-- - 100w23 55n49 0 03 Highrock
+N-- - 110w01 50n29 0 01 Hilda
+V-- - 124w29 49n18 0 02 Hillier
+N-- - 124w29 49n18 0 02 Hilliers
+N-- - 109w42 53n26 0 11 Hillmond
+N-- - 64w39 45n55 0 04 Hillsborough
+N-- - 83w53 46n15 0 08 Hilton Beach
+N-- - 102w39 52n04 0 11 Hinchliffe
+N-- - 78w54 45n04 0 08 Hindon
+N-- - 78w48 45n03 0 08 Hindon Hill
+N-- - 118w36 56n14 0 01 Hines Creek
+N-- - 117w35 53n24 0 01 Hinton
+N-- - 122w34 53n24 0 02 Hixon
+N-- - 114w22 52n51 0 01 Hoadley
+N-- - 113w27 52n50 0 01 Hobbema
+N-- - 106w59 50n07 0 11 Hodgeville
+N-- - 97w34 51n12 0 03 Hodgson
+N-- - 105w47 52n52 0 11 Hoey
+N-- - 128w01 50n39 0 02 Holberg
+N-- - 112w14 53n14 0 01 Holden
+V-- - 80w51 48n52 0 08 Holland
+N-- - 112w46.36 54n14.19 0 01 Hollow Lake
+N-- - 123w10 49n20 0 02 Hollyburn
+N-- - 117w45 70n44 0 13 Holman
+V-- - 117w45 70n44 0 13 Holman Island
+N-- - 99w28 49n08 0 03 Holmfield
+N-- - 57w16 54n34 0 05 Holton Harbour
+N-- - 110w35.29 54n07.29 0 01 Holyoke
+N-- - 53w08 47n23 0 05 Holyrood
+N-- - 59w56 46n05 0 07 Homeville
+N-- - 114w02 55n04 0 01 Hondo
+N-- - 71w51 48n44 0 10 Honfleur
+N-- - 56w12 50n36 0 05 Hooping Harbour
+N-- - 109w44 51n37 0 11 Hoosier
+V-- - 134w55 61n35 0 12 Hootalingua
+N-- - 134w55 61n35 0 12 Hootalinqua
+N-- - 121w26 49n23 0 02 Hope
+N-- - 60w13 55n27 0 05 Hopedale
+N-- - 62w42 45n28 0 07 Hopewell
+N-- - 123w29 49n26 0 02 Hopkins Landing
+N-- - 115w17 52n25 0 01 Horburg
+N-- - 84w47 49n13 0 08 Hornepayne
+N-- - 121w25 52n20 0 02 Horsefly
+N-- - 55w44 50n12 0 05 Horse Islands
+V-- - 123w42 48n55 0 02 Horse Shoe
+N-- - 109w53 50n25 0 11 Horsham
+N-- - 110w54.11 54n10.56 0 01 Hoselaw
+N-- - 114w58 49n35 0 02 Hosmer
+N-- - 117w33 57n04 0 01 Hotchkiss
+N-- - 126w39 54n24 0 02 Houston
+N-- - 73w51 45n11 0 10 Howick
+N-- - 57w07 49n10 0 05 Howley
+N-- - 116w57 50n19 0 02 Howser
+N-- - 64w03 44n38 0 07 Hubbards
+V-- - 64w03 44n38 0 07 Hubbards Cove
+N-- - 92w10 50n05 0 08 Hudson
+N-- - 74w09 45n27 0 10 Hudson
+N-- - 102w23 52n51 0 11 Hudson Bay
+V-- - 102w23 52n51 0 11 Hudson Bay Junction
+N-- - 74w10 45n27 0 10 Hudson Heights
+N-- - 121w55 56n02 0 02 Hudson Hope
+N-- - 75w44 45n26 0 10 Hull
+N-- - 57w55 48n58 0 05 Humbermouth
+N-- - 105w07 52n12 0 11 Humboldt
+N-- - 67w35 48n18 0 10 Lac Humqui
+N-- - 63w21 46n21 0 09 Hunter River
+N-- - 74w11 45n05 0 10 Huntingdon
+N-- - 130w27 54n04 0 02 Hunts Inlet
+N-- - 79w13 45n20 0 08 Huntsville
+N-- - 88w29 48n51 0 08 Hurkett
+N-- - 90w44 48n43 0 08 Huronian
+N-- - 97w00 50n34 0 03 Husavick
+N-- - 112w41 51n02 0 01 Hussar
+N-- - 136w32 61n09 0 12 Hutshi
+N-- - 121w37 53n59 0 02 Hutton
+N-- - 121w42 52n37 0 02 Hydraulic
+N-- - 79w30 44n51 0 08 Hydro Glen
+N-- - 128w12 57n39 0 02 Hyland Post
+V-- - 128w12 57n39 0 02 Hylands Post
+N-- - 112w12.55 54n40.45 0 01 Hylo
+N-- - 119w34 55n19 0 01 Hythe
+N-- - 73w14 45n19 0 10 Iberville
+N-- - 111w18 50n44 0 01 Iddesleigh
+N-- - 81w48 69n24 0 14 Igloolik
+V-- - 90w42 63n20 0 14 Igluligaarjuk
+NL- - 67w09 66n16 0 14 Iglunga
+VL- - 67w09 66n16 0 14 Iglungayut
+N-- - 91w40 49n25 0 08 Ignace
+V-- 1350 105w02 69n07 0 14 Ikaluktutiak
+N-- - 107w54 55n26 0 11 Ile-a-la-Crosse
+N-- - 73w17 45n08 0 10 Ile-aux-Noix
+N-- - 73w56 45n24 0 10 Ile-Perrot
+V-- - 69w20 48n01 0 10 Ile Verte
+N-- - 95w38 56n04 0 03 Ilford
+N-- - 111w44.09 54n59.42 0 01 Imperial Mills
+N-- - 56w54 53n52 0 05 Independent Harbour
+N-- - 53w52 49n02 0 05 Indian Bay
+N-- - 60w31 46n22 0 07 Indian Brook
+N-- - 57w13 54n27 0 05 Indian Harbour
+N-- - 57w01 53n48 0 05 Indian Harbour
+N-- - 54w12 47n29 0 05 Indian Harbour
+N-- - 103w40 50n32 0 11 Indian Head
+N-- - 53w05 47n28 0 05 Indian Pond
+V-- - 60w22 46n41 0 07 Inganish
+N-- - 80w53 43n02 0 08 Ingersoll
+N-- - 75w00 45n00 0 08 Ingleside
+N-- - 79w56 43n47 0 08 Inglewood
+V-- - 79w56 43n47 0 08 Inglewood Junction
+N-- - 101w14 50n57 0 03 Inglis
+N-- - 95w07 49n48 0 08 Ingolf
+N-- - 60w22 46n41 0 07 Ingonish
+N-- - 63w57 44n40 0 07 Ingramport
+N-- - 64w50 47n40 0 04 Inkerman
+N-- - 133w08 58n54 0 02 Inklin
+N-- - 113w57 52n02 0 01 Innisfail
+N-- - 78w09 58n27 0 10 Inoucdjouac
+N-- - 133w42 68n21 0 13 Inuvik
+N-- - 116w02 50n30 0 02 Invermere
+N-- - 61w17 46n14 0 07 Inverness
+N-- - 71w31 46n15 0 10 Inverness
+N-- - 97w30 50n30 0 03 Inwood
+N-- - 122w52 49n18 0 02 Ioco
+N-- - 60w49 45n58 0 07 Iona
+V-- - 85w10 73n02 0 14 Ipiarjuk
+NA- 3500 68w30 63n44 0 14 Iqaluit
+N-- - 111w14 52n55 0 01 Irma
+N-- - 110w54.43 54n26.37 0 01 Iron River
+N-- - 75w19 44n51 0 08 Iroquois
+N-- - 80w40 48n46 0 08 Iroquois Falls
+N-- - 113w37 51n19 0 01 Irricana
+N-- - 110w16 49n57 0 01 Irvine
+N-- - 124w02 49n37 0 02 Irvines Landing
+N-- - 61w40 45n11 0 07 Isaacs Harbour
+N-- - 103w32 78n47 0 14 Isachsen
+N-- - 81w22 49n34 0 08 Island Falls
+N-- - 102w20 55n32 0 11 Island Falls
+V-- - 81w21 49n33 0 08 Island Falls Junction
+N-- - 81w21 49n33 0 08 Island Falls Station
+N-- - 54w18 49n36 0 05 Island Harbour
+N-- - 94w46 53n58 0 03 Island Lake
+N-- - 59w01 47n36 0 05 Isle aux Morts
+N-- - 71w38 48n34 0 10 Isle-Maligne
+V-- - 71w38 48n34 0 10 Isle Maligny
+V-- - 59w01 47n36 0 05 Isle-Morte
+V-- - 73w56 45n24 0 10 Isle-Perrot
+N-- - 123w16 53n57 0 02 Isle Pierre
+V-- - 69w20 48n01 0 10 Isle-Verte
+N-- - 122w16 52n03 0 02 Isnardy
+N-- - 71w37 46n35 0 10 Issoudun
+N-- - 64w33 44n15 0 07 Italy Cross
+N-- - 103w30 51n10 0 11 Ituna
+N-- - 53w32 48n11 0 05 Ivanhoe
+N-- - 77w54 62n25 0 10 Ivugivik
+N-- - 86w58 48n48 0 08 Jackfish
+N-- - 56w49 49n52 0 05 Jackson Arm
+N-- - 125w45 50n31 0 02 Jackson Bay
+N-- - 92w45 51n06 0 08 Jackson Manion
+N-- - 131w41 57n37 0 02 Jacksons Landing
+N-- - 73w29 45n32 0 10 Jacques-Cartier
+N-- - 66w00 47n55 0 04 Jacquet River
+N-- - 53w48 48n26 0 05 Jamestown
+N-- - 65w26 47n41 0 04 Janeville
+N-- - 108w07.37 55n08.55 0 11 Jans Bay
+N-- - 104w43 51n47 0 11 Jansen
+V-- - 130w27 54n04 0 02 Jap Inlet
+N-- - 113w59 54n27 0 01 Jarvie
+N-- - 118w05 52n53 0 01 Jasper
+N-- - 120w38 61n31 0 13 Jean Marie River
+N-- - 131w13 52n18 0 02 Jedway
+N-- - 87w31 49n41 0 08 Jellicoe
+N-- - 111w11 50n45 0 01 Jenner
+N-- - 55w47 47n30 0 05 Jersey Harbour
+N-- - 127w29 50n26 0 02 Jeune Landing
+N-- - 54w10 49n44 0 05 Joe Batt's Arm
+N-- - 113w32 52n20 0 01 Joffre
+V-- - 64w26 45n42 0 07 Joggin Mines
+N-- - 64w26 45n42 0 07 Joggins
+N-- - 133w17 60n29 0 12 Johnsons Crossing
+N-- - 73w26 46n02 0 10 Joliette
+N-- - 71w15 48n25 0 10 Jonquiere
+N-- - 103w28 53n09 0 11 Jordan River
+N-- - 113w05 53n43 0 01 Josephburg
+N-- - 115w56 55n22 0 01 Joussard
+N-- - 117w19 56n08 0 01 Judah
+N-- - 61w30 45n53 0 07 Judique
+N-- - 114w33 51n04 0 01 Jumping Pound
+N-- - 67w10 46n32 0 04 Juniper Station
+N-- - 107w52 53n33 0 11 Junor
+N-- - 90w15 48n40 0 08 Kabaigon
+N-- - 82w15 45n54 0 08 Kagawong
+N-- - 112w19.58 54n00.25 0 01 Kahwin
+N-- - 59w36 55n04 0 05 Kaipokok
+V-- - 59w36 55n04 0 05 Kaipotok
+N-- - 89w37 48n25 0 08 Kakabeka Falls
+N-- - 125w55 49n11 0 02 Kakawis
+N-- - 117w25 60n56 0 13 Kakisa
+N-- - 77w07 44n39 0 08 Kaladar
+V-- - 77w07 44n39 0 08 Kaladar Station
+N-- - 89w35 48n32 0 08 Kaministikwia
+N-- - 120w20 50n40 0 02 Kamloops
+N-- - 101w54 51n34 0 11 Kamsack
+N-- - 76w32 54n01 0 10 Kanaaupscow
+N-- - 75w54 45n20 0 08 Kanata
+V-- - 96w01 64n19 0 14 Kangerjuaq
+V-- - 65w53 58n32 0 10 Kangerthialuksoak
+V-- - 92w05 62n49 0 14 Kangiqtiniq
+V-- - 89w35 48n32 0 08 Kanimistiquia
+V-- - 82w00 52n45 0 08 Kapiscau
+N-- - 82w00 52n45 0 08 Kapiskau
+N-- - 82w26 49n25 0 08 Kapuskasing
+N-- - 90w26 48n39 0 08 Kashabowie
+N-- - 116w55 49n55 0 12 Kaslo
+N-- - 116w50 55n37 0 01 Kathleen
+N-- - 113w31 53n11 0 01 Kavanagh
+N-- - 91w12 48n45 0 08 Kawene
+N-- - 117w27 53n05 0 01 Kaydee
+N-- - 107w28 52n48 0 11 Keatley
+N-- - 67w20 47n38 0 04 Kedgwick
+N-- - 105w53 50n41 0 11 Keeler
+N-- - 53w24 48n36 0 05 Keels
+N-- - 78w10 44n15 0 08 Keene
+N-- - 94w33 49n46 0 08 Keewatin
+V-- - 61w17 50n11 0 10 Kegashka
+N-- - 61w17 50n11 0 10 Kegaska
+N-- - 117w52 57n48 0 01 Keg River
+N-- - 121w25 52n45 0 02 Keithley Creek
+NL- - 63w45 67n32 0 14 Kekertuk
+VL- - 63w45 67n32 0 14 Kekertukdjuak
+N-- - 108w37 51n57 0 11 Kelfield
+N-- - 53w01 47n30 0 05 Kelligrews
+N-- - 103w44 51n16 0 11 Kelliher
+N-- - 121w47 51n01 0 02 Kelly Lake
+N-- - 119w29 49n54 0 02 Kelowna
+N-- - 125w58 50n24 0 02 Kelsey Bay
+N-- - 80w44 48n41 0 08 Kelso
+N-- - 101w58 49n58 0 11 Kelso Station
+N-- - 103w31 52n10 0 11 Kelvington
+N-- - 100w08 49n50 0 03 Kemnay
+N-- - 75w38 45n01 0 08 Kemptville
+N-- - 80w00 47n38 0 08 Kenabeek
+N-- - 106w17 51n30 0 11 Kenaston
+N-- - 102w21 50n01 0 11 Kennedy
+N-- - 63w43 45n11 0 07 Kennetcook
+N-- - 79w35 46n49 0 08 Kenney
+V-- - 79w35 46n49 0 08 Kenny
+V-- - 135w18 63n54 0 12 Keno
+N-- - 71w15 48n26 0 10 Kenogami
+N-- - 135w18 63n54 0 12 Keno Hill
+N-- - 94w28 49n46 0 08 Kenora
+N-- - 102w17 49n50 0 11 Kenosee Park
+N-- - 63w39 46n26 0 09 Kensington
+N-- - 65w20 46n35 0 04 Kent Junction
+N-- - 64w30 45n04 0 07 Kentville
+N-- - 113w39 51n13 0 01 Keoma
+N-- - 107w42 52n01 0 11 Keppel
+N-- - 119w49 49n12 0 02 Keremeos
+V-- - 53w28 48n17 0 05 Kerley Harbour
+N-- - 53w28 48n17 0 05 Kerleys Harbour
+N-- - 109w08 51n55 0 11 Kerrobert
+N-- - 102w00 51n13 0 11 Kessock
+V-- - 66w50 46n01 0 04 Keswick
+N-- - 79w28 44n15 0 08 Keswick
+V-- - 66w50 46n01 0 04 Keswick Station
+N-- - 80w44 45n53 0 08 Key Harbour
+N-- - 80w43 45n59 0 08 Key Junction
+N-- - 77w07 45n15 0 08 Khartum
+N-- - 75w22 46n25 0 10 Kiamika
+N-- - 112w05.53 54n26.43 0 01 Kikino
+N-- - 125w00 49n01 0 02 Kildonan
+N-- - 97w06 49n57 0 03 Kildonan
+V-- - 97w05 49n55 0 03 Kildonan
+N-- - 77w25 45n33 0 08 Killaloe Station
+N-- - 111w51 52n47 0 01 Killam
+N-- - 99w40 49n11 0 03 Killarney
+N-- - 106w22 49n06 0 11 Killdeer
+N-- - 106w04 53n05 0 11 Kilwinning
+N-- - 115w59 49n41 0 02 Kimberley
+V-- - 115w59 49n41 0 02 Kimberly
+N-- 480 69w53 62n51 0 14 Kimmirut
+N-- - 107w00 49n40 0 11 Kincaid
+N-- - 81w38 44n10 0 08 Kincardine
+N-- - 129w57 55n00 0 02 Kincolith
+N-- - 109w08 51n28 0 11 Kindersley
+V-- 1200 76w33 64n14 0 14 Kingait
+N-- - 79w32 43n56 0 08 King City
+N-- - 126w12 50n57 0 02 Kingcome Inlet
+N-- - 79w57 48n09 0 08 King Kirkland
+N-- - 112w34 53n13 0 01 Kingman
+N-- - 66w54 45n53 0 04 Kingsclear
+N-- - 53w20 48n33 0 05 Kings Cove
+N-- - 56w11 49n35 0 05 Kings Point
+N-- - 64w22 45n10 0 07 Kingsport
+V-- - 64w52 46n38 0 04 Kingston
+N-- - 76w34 44n18 0 08 Kingston
+N-- - 76w29 44n14 0 08 Kingston
+N-- - 82w45 42n02 0 08 Kingsville
+N-- - 105w02 52n57 0 11 Kinistino
+N-- - 107w26 52n04 0 11 Kinley
+N-- - 78w39 44n47 0 08 Kinmount
+N-- - 117w39 49n17 0 02 Kinnaird
+N-- - 71w23 46n13 0 10 Kinnears Mills
+N-- - 115w25 55n20 0 01 Kinuso
+V-- - 125w42 50n41 0 02 Kiokh
+N-- - 78w53 46n05 0 08 Kiosk
+N-- - 78w59 46n46 0 10 Kipawa
+N-- - 102w38 50n06 0 11 Kipling Station
+N-- - 101w22 50n01 0 03 Kirkella
+N-- - 80w02 48n09 0 08 Kirkland Lake
+N-- - 110w18 51n55 0 01 Kirriemuir
+N-- - 102w40 49n38 0 11 Kisbey
+N-- - 127w34 55n42 0 02 Kisgegas
+N-- - 127w41 55n21 0 02 Kispiox
+V-- - 128w42 54n00 0 02 Kitamaat
+V-- - 116w20 49n09 0 02 Kitchener
+N-- - 80w30 43n27 0 08 Kitchener
+V-- - 116w20 49n09 0 02 Kitchener McConnel
+N-- - 128w42 54n00 0 02 Kitimat
+N-- - 128w39 53n58 0 02 Kitimat Mission
+N-- - 110w20 53n20 0 01 Kitscoty
+VQ- - 133w43 69n21 0 13 Kittigagzyt
+VQ- - 133w43 69n21 0 13 Kittigaruit
+VQ- - 133w43 69n21 0 13 Kittigaryuit
+NQ- - 133w43 69n21 0 13 Kittigazuit
+N-- - 128w04 55n06 0 02 Kitwanga
+NL- - 64w55 67n57 0 14 Kivitoo
+N-- - 124w59 51n58 0 02 Kleena Kleene
+V-- - 128w32 52n35 0 02 Klemtoo
+N-- - 128w32 52n35 0 02 Klemtu
+N-- - 139w26 64n02 0 12 Klondike
+V-- - 139w26 64n02 0 12 Klondyke
+V-- - 138w23 61n02 0 12 Kluahne
+N-- - 138w23 61n02 0 12 Kluane
+V-- - 138w23 61n02 0 12 Kluane Junction
+N-- - 137w00 60n18 0 12 Klukshu
+N-- - 125w42 50n41 0 02 Knight Inlet
+V-- - 66w49 54n48 0 10 Knob Lake
+N-- - 72w31 45n13 0 10 Knowlton
+N-- - 69w37 61n02 0 10 Koartac
+V-- 1200 115w05 67n50 0 14 Kogluktok
+V-- - 124w56 49n41 0 02 Komoux
+V-- - 116w41 49n15 0 02 Kootenay Junction
+N-- - 116w41 49n15 0 02 Kootenay Landing
+N-- - 87w13 50n15 0 08 Kowkash
+N-- - 112w26 53n45 0 01 Krakow
+N-- - 107w04 52n47 0 11 Krydor
+N-- 500 89w49 68n32 0 14 Kugaaruk
+N-- 1200 115w05 67n50 0 14 Kugluktuk
+N-- - 127w53 55n56 0 02 Kuldo
+N-- - 68w24 58n06 0 10 Kuujjuaq
+N-- - 135w59 61n15 0 12 Kynocks
+N-- - 70w52 48n20 0 10 La Baie
+N-- - 74w44 46n17 0 10 Labelle
+N-- - 69w35 49n18 0 10 Labrieville
+N-- - 67w20 48n25 0 10 Lac-au-Saumon
+N-- - 72w23 46n52 0 10 Lac-aux-Sables
+N-- - 68w40 47n20 0 04 Lac Baker
+N-- - 72w10 48n16 0 10 Lac-Bouchette
+N-- - 117w49 56n16 0 01 Lac Cardinal
+N-- - 77w44 48n42 0 10 Lac-Castagnier
+N-- - 74w53 46n22 0 10 Lac-Castor
+N-- - 72w38 47n10 0 10 Lac-Chat
+V-- - 69w41 47n20 0 10 Lac del'Est
+N-- - 72w13 48n09 0 10 Lac des Commissaires
+V-- - 72w13 48n09 0 10 Lac-des-Commissaires Station
+N-- - 96w03 50n16 0 03 Lac du Bonnet
+N-- - 72w16 47n40 0 10 Lac Edouard
+V-- - 70w30 46n24 0 10 Lac Etchemin
+N-- - 70w01 46n41 0 10 Lac Frontiere
+V-- - 79w48 47n20 0 08 Lachford
+N-- - 73w40 45n25 0 10 Lachine
+N-- - 74w20 45n39 0 10 Lachute
+N-- - 111w57.53 54n46.19 0 01 Lac La Biche
+V-- - 117w16 63n08 0 13 Lac la Martre
+V-- - 107w37 55n09 0 11 Lac-la-Plonge
+V-- - 105w18 55n06 0 11 Lac La Ronge
+N-- - 78w50 48n34 0 10 Lac-Lois
+N-- - 75w52 45n31 0 10 Lac-Meach
+N-- - 70w53 45n35 0 10 Lac-Megantic
+V-- - 74w38 46n12 0 10 Lac Mercier
+N-- - 72w46 46n37 0 10 Lac-Mondor
+N-- - 73w22 45n05 0 10 Lacolle
+N-- - 113w44 52n28 0 01 Lacombe
+N-- - 110w45.42 54n26.38 0 01 La Corey
+N-- - 77w59 48n21 0 10 Lacorne
+N-- - 75w57 45n57 0 10 Lac Sainte-Marie
+N-- - 83w39 49n47 0 08 Lac-Sainte-Therese
+N-- - 75w18 46n44 0 10 Lac-Saint-Paul
+V-- - 92w17 50n19 0 08 Lac Seul
+N-- - 92w17 50n19 0 08 Lac Seul Post
+N-- - 54w03 49n27 0 05 Ladle Cove
+N-- - 123w05 49n05 0 02 Ladner
+N-- - 70w51 46n50 0 10 La Durantaye
+N-- - 123w49 48n59 0 02 Ladysmith
+N-- - 73w29 45n30 0 10 Lafleche
+N-- - 106w34 49n42 0 11 Lafleche
+N-- - 74w01 45n48 0 10 Lafontaine
+N-- - 70w57 45n58 0 10 La Guadeloupe
+N-- - 64w22 44n17 0 07 La Have
+N-- - 56w53 47n33 0 05 La Hune
+N-- - 106w35 52n43 0 11 Laird
+N-- - 104w11 49n08 0 11 Lake Alma
+N-- - 64w40 46n06 0 04 Lakeburn
+N-- - 124w02 48n49 0 02 Lake Cowichan
+N-- - 78w16 44n26 0 08 Lakefield
+V-- - 70w01 46n41 0 10 Lake Frontier
+V-- 480 69w53 62n51 0 14 Lake Harbor
+V-- 480 69w53 62n51 0 14 Lake Harbour
+N-- - 104w59 52n24 0 11 Lake Lenore
+N-- - 116w11 51n26 0 01 Lake Louise
+N-- - 128w33 54n22 0 02 Lakelse
+N-- - 82w32 54n22 0 08 Lake River
+N-- - 78w02 45n18 0 08 Lake Saint Peter
+N-- - 130w06 58n42 0 02 Laketon
+N-- - 106w02 50n38 0 11 Lake Valley
+N-- - 116w02 50n31 0 02 Lake Windermere
+V-- - 115w58 50n28 0 02 Lake Windermere
+N-- - 109w26 56n29 0 11 La Loche
+N-- - 109w38 56n29 0 11 La Loche West
+N-- - 74w46 46n22 0 10 La Macaza
+N-- - 70w10 47n39 0 10 La Malbaie
+N-- - 55w49 46n52 0 05 Lamaline
+N-- - 64w38 47n47 0 02 Lameque
+N-- - 112w47 53n45 0 01 Lamont
+N-- - 77w38 48n37 0 10 Lamorandiere
+N-- - 78w07 48n20 0 10 La Motte
+N-- - 102w45 49n23 0 11 Lampman
+N-- - 66w06 45n15 0 04 Lancaster
+N-- - 74w30 45n08 0 08 Lancaster
+N-- - 113w29 53n40 0 01 Lancaster Park
+V-- - 71w23 46n47 0 10 L'Ancienne Lorette
+N-- - 108w27 52n12 0 11 Landis
+N-- - 77w57 48n33 0 10 Landrienne
+N-- - 104w22 49n55 0 11 Lang
+N-- - 102w17 50n03 0 11 Langbank
+N-- - 101w42 50n50 0 11 Langenburg
+N-- - 123w30 48n27 0 02 Langford Station
+N-- - 106w58 52n22 0 11 Langham
+V-- - 71w40 48n41 0 10 Langlais
+N-- - 122w39 49n06 0 02 Langley
+N-- - 98w40 50n23 0 03 Langruth
+N-- - 79w16 47n02 0 10 Laniel
+N-- - 105w02 51n51 0 11 Lanigan
+N-- - 74w52 46n24 0 10 L'Annonciation
+N-- - 73w13 45n58 0 10 Lanoraie
+N-- - 134w17 60n16 0 12 Lansdowne
+N-- - 87w53 52n13 0 08 Lansdowne House
+N-- - 56w50 51n31 0 05 L'Anse au Loup
+N-- - 55w32 51n36 0 05 L'Anse au Meadow
+N-- - 70w11 48n14 0 10 L'Anse-Saint-Jean
+N-- - 133w39 63n44 0 12 Lansing
+N-- - 72w11 46n35 0 10 La Perade
+N-- - 71w19 46n48 0 10 La Petite-Riviere
+V-- - 70w34 47n19 0 10 La Petite-Riviere-Saint-Francois
+V-- - 107w37 55n09 0 11 La Plonge
+N-- - 109w30 51n13 0 11 Laporte
+N-- - 73w30 45n25 0 10 Laprairie
+N-- - 72w57 45n37 0 10 La Providence
+N-- - 116w59 50n09 0 02 Lardeau
+N-- - 79w43 48n06 0 08 Larder Lake
+V-- - 116w59 50n09 0 02 Lardo
+N-- - 79w30 48n52 0 10 La Reine
+N-- - 58w22 49n06 0 05 Lark Harbour
+N-- - 105w18 55n06 0 11 La Ronge
+V-- - 61w22 45n13 0 07 Larry River
+N-- - 61w22 45n13 0 07 Larrys River
+N-- - 90w17 49n05 0 08 Larson
+N-- - 97w16 49n41 0 03 La Salle
+V-- - 73w39 45n25 0 10 La Salle
+N-- - 79w12 48n48 0 10 La Sarre
+N-- - 71w40 48n41 0 10 L'Ascension
+N-- - 55w35 49n58 0 05 La Scie
+N-- - 109w37 53n07 0 11 Lashburn
+N-- - 124w21 49n29 0 02 Lasqueti
+N-- - 73w26 45n49 0 10 L'Assomption
+N-- - 74w14 45n17 0 10 La Station-du-Coteau
+N-- - 139w06 64n01 0 12 Last Chance
+N-- - 117w58 56n14 0 01 Last Lake
+N-- - 58w57 50n50 0 10 La Tabatiere
+N-- - 79w48 47n20 0 08 Latchford
+V-- - 64w01 45n13 0 07 La Tete
+N-- - 76w31 44n22 0 08 Latimer
+N-- - 74w02 45n30 0 10 La Trappe
+N-- - 72w47 47n27 0 10 La Tuque
+N-- - 100w40 49n23 0 03 Lauder
+N-- - 73w46 45n51 0 10 Laurentides
+N-- - 71w10 46n50 0 10 Lauzon
+N-- - 73w44 45n36 0 10 Laval
+N-- - 73w42 45n33 0 10 Laval-des-Rapides
+N-- - 73w52 45n33 0 10 Laval-Ouest
+N-- - 73w17 45n53 0 10 Lavaltrie
+N-- - 76w42 45n02 0 08 Lavant Station
+N-- - 79w17 47n25 0 10 Laverlochere
+N-- - 111w52 53n28 0 01 Lavoy
+N-- - 55w33 46n56 0 05 Lawn
+N-- - 131w55 53n24 0 02 Lawnhill
+V-- - 131w55 53n24 0 02 Lawn Hill Post Office
+N-- - 67w11 45n25 0 04 Lawrence Station
+N-- - 65w10 44n53 0 07 Lawrencetown
+N-- - 63w21 44n38 0 07 Lawrencetown
+V-- - 101w18 50n27 0 03 Lazare
+N-- - 109w33 50n53 0 11 Leader
+N-- - 55w24 49n30 0 05 Leading Tickles
+N-- - 69w07 58n46 0 10 Leaf River
+N-- - 82w35 42n03 0 08 Leamington
+N-- - 116w37 51n13 0 02 Leanchoil
+N-- - 79w22 43n42 0 08 Leaside
+V-- - 64w29 49n03 0 10 L'Echourie
+N-- - 72w00 46n34 0 00 Leclercville
+N-- - 113w32 53n16 0 01 Leduc
+N-- - 80w10 47n39 0 08 Leeville
+N-- - 79w33 44n16 0 08 Lefroy
+N-- - 113w38 53n57 0 01 Legal
+V-- - 110w16.15 54n22.12 0 01 Le Goff
+V-- - 64w22 44n17 0 07 Le Havre
+N-- - 107w46 50n30 0 11 Leinan
+N-- - 111w02.29 55n45.21 0 01 Leismer
+N-- - 75w36 45n20 0 08 Leitrim
+N-- - 103w12 50n44 0 11 Lemberg
+N-- - 133w07 59n55 0 02 Lemieux
+N-- - 73w30 45n30 0 10 Le Moyne
+N-- - 119w08 52n27 0 02 Lempriere
+N-- - 109w07 50n51 0 11 Lemsford
+N-- - 107w33 52n02 0 11 Leney
+N-- - 71w52 45n22 0 10 Lennoxville
+N-- - 100w45 49n57 0 03 Lenore
+N-- - 112w21 52n03 0 01 Leo
+V-- - 117w54 50n26 0 02 Leon
+N-- - 107w33 53n38 0 11 Leoville
+V-- - 101w14 53n49 0 03 Le Pas
+N-- - 73w29 45n51 0 10 L'Epiphanie
+N-- - 73w49 45n20 0 10 Lery
+N-- - 71w43 46n41 0 10 Les Ecureuils
+V-- - 69w25 48n21 0 10 Les Escoumains
+N-- - 69w25 48n21 0 10 Les Escoumins
+N-- - 68w54 47n23 0 10 Les Etroits
+N-- - 114w36 52n23 0 01 Leslieville
+N-- - 66w59 48n59 0 10 Les Mechins
+N-- - 110w38.07 54n25.44 0 01 Lessard
+N-- - 71w19 46n48 0 10 Les Saules
+N-- - 76w05 49n30 0 10 Lesueur
+N-- - 66w54 45n03 0 04 L'Etete
+N-- - 112w50 49n42 0 01 Lethbridge
+N-- - 53w52 48n22 0 05 Lethbridge
+V-- - 66w54 45n03 0 04 Letite
+N-- - 95w58 50n21 0 03 Lettonia
+NQ- - 124w26 69n51 0 13 Letty Harbour
+N-- - 81w23 46n38 0 08 Levack
+N-- - 71w10 46n48 0 10 Levis
+N-- - 74w50 49n50 0 10 Levy
+N-- - 96w04 49n53 0 03 Lewis
+N-- - 55w04 49n14 0 05 Lewisporte
+N-- - 117w19 53n02 0 01 Leyland
+V-- - 123w29 60n14 0 13 Liard
+N-- - 105w53 50n16 0 11 Lillestrom
+N-- - 121w56 50n41 0 02 Lillooet
+N-- - 124w34 53n53 0 02 Lily Lake
+N-- - 106w16 49n39 0 11 Limerick
+N-- - 71w37 45n37 0 10 Lime Ridge
+N-- - 75w15 45n20 0 08 Limoges
+N-- - 110w40 53n53 0 01 Lindbergh
+N-- - 67w41 46n15 0 04 Lindsay
+N-- - 78w44 44n21 0 08 Lindsay
+N-- - 70w31 46n03 0 10 Liniere
+N-- - 103w15 52n04 0 11 Lintlaw
+N-- - 72w15 47n15 0 10 Linton
+V-- - 72w15 47n15 0 10 Linton Junction
+V-- - 81w15 44n59 0 08 Lionhead
+N-- - 81w15 44n59 0 08 Lions Head
+N-- - 103w51 50n54 0 11 Lipton
+N-- - 62w00 45n02 0 07 Liscomb
+V-- - 62w00 45n02 0 07 Liscombe
+N-- - 70w20 47n07 0 10 L'Isletville
+N-- - 69w20 48n01 0 10 L'Isle-Verte
+N-- - 62w16 45n42 0 07 Lismore
+N-- - 80w58 43n44 0 08 Listowel
+N-- - 54w03 47n11 0 05 Little Barasway
+N-- - 55w58 49n36 0 05 Little Bay
+N-- - 55w08 47n09 0 05 Little Bay
+N-- - 55w48 49n38 0 05 Little Bay Island
+N-- - 60w17 46n14 0 07 Little Bras d'Or
+N-- - 96w50 51n40 0 03 Little Bullhead
+N-- - 55w05 49n20 0 05 Little Burnt Bay
+N-- - 81w56 45n58 0 08 Little Current
+N-- - 120w12 51n26 0 02 Little Fort
+N-- - 95w29 52n03 0 03 Little Grand Rapids
+N-- - 53w58 47n39 0 05 Little Harbour
+N-- - 56w30 50n15 0 05 Little Harbour Deep
+N-- - 86w57 49n42 0 08 Little Longlac
+N-- - 60w59 45n59 0 07 Little Narrows
+N-- - 121w37 55n42 0 02 Little Prairie
+N-- - 114w45 58n24 0 01 Little Red River
+N-- - 135w47 61n01 0 12 Little River
+NQ- - 135w41 62n03 0 12 Little Salmon
+N-- - 54w15 49n34 0 05 Little Seldom
+N-- - 108w42 53n27 0 11 Livelong
+N-- - 81w09 46n26 0 08 Lively
+N-- - 64w43 44n02 0 07 Liverpool
+N-- - 61w58 45n52 0 07 Livingstone Cove
+N-- - 134w21 61n20 0 12 Livingstone Creek
+N-- - 72w11 48n06 0 10 Lizotte
+N-- - 110w00 53n17 0 11 Lloydminster
+N-- - 81w28 43n02 0 08 Lobo Township
+N-- - 57w57 49n37 0 05 Lobster Cove
+N-- - 84w16 48n21 0 08 Lochalsh
+V-- - 65w07 43n42 0 07 Lockepor
+N-- - 65w07 43n42 0 07 Lockeport
+N-- - 131w50 52n43 0 02 Lockeport
+N-- - 105w01 51n38 0 11 Lockwood
+N-- - 55w50 52n14 0 05 Lodge
+N-- - 81w10 43n31 0 08 Logan
+N-- - 134w59 59n51 0 02 Log Cabin
+N-- - 65w23 47n04 0 04 Loggieville
+N-- - 52w41 47n38 0 05 Logy Bay
+N-- - 57w46 49n27 0 05 Lomond
+N-- - 112w38 50n21 0 01 Lomond
+N-- - 81w15 42n59 0 08 London
+N-- - 63w36 45n28 0 07 Londonderry
+N-- - 117w39 56n42 0 01 Lone Star
+V-- - 102w17 50n03 0 11 Longbank
+N-- - 79w32 43n35 0 08 Long Branch
+N-- - 53w48 47n26 0 05 Long Harbour
+N-- - 86w33 49n47 0 08 Longlac
+N-- - 61w29 45n48 0 07 Long Point
+V-- - 73w31 45n35 0 10 Long Point
+N-- - 74w54 45n02 0 08 Long Sault
+N-- - 73w31 45n35 0 10 Longue-Pointe
+N-- - 64w09 50n16 0 10 Longue-Pointe-de-Mingan
+N-- - 73w31 45n32 0 10 Longueuil
+V-- - 73w29 45n32 0 10 Longueuil Annex
+V-- - 73w29 45n32 0 10 Longueuil Annexe
+N-- - 121w28 53n56 0 02 Longworth
+N-- - 113w15 53n21 0 01 Looma
+N-- - 108w44 49n12 0 11 Loomis
+N-- - 88w46 48n38 0 08 Loon
+N-- - 54w50 49n16 0 05 Loon Bay
+N-- - 109w09.38 54n01.31 0 11 Loon Lake
+N-- - 109w01.35 54n07.20 0 11 Loon River
+N-- - 120w43 53n36 0 02 Loos
+N-- - 71w22 46n51 0 10 Loretteville
+V-- - 74w41 45n37 0 08 L'Original
+N-- - 74w41 45n37 0 08 L'Orignal
+N-- - 79w00 44n25 0 08 Lorneville
+N-- - 71w56 46n37 0 10 Lotbiniere
+N-- - 111w33 52n44 0 01 Lougheed
+N-- - 59w59 45n55 0 07 Louisbourg
+N-- - 60w00 45n56 0 07 Louisbourg Road
+V-- - 59w59 45n55 0 07 Louisburg
+V-- - 60w00 45n56 0 07 Louisburg Road
+N-- - 72w56 46n15 0 10 Louiseville
+N-- - 58w59 48n39 0 05 Lourdes
+N-- - 57w12 51n25 0 10 Lourdes-des-Blanc-Sablon
+N-- - 113w12 52n07 0 01 Lousana
+N-- - 109w59 51n40 0 11 Loverna
+V-- - 116w41 53n02 0 01 Lovett
+N-- - 116w41 53n02 0 01 Lovettville
+N-- - 75w57 45n48 0 10 Low
+N-- - 80w08 48n55 0 08 Low Bush
+N-- - 53w00 48n00 0 05 Lower Island Cove
+V-- - 135w13 61n24 0 12 Lower La Barge
+N-- - 135w13 61n24 0 12 Lower Laberge
+V-- - 120w53 50n09 0 02 Lower Nicola
+N-- - 128w30 59n55 0 02 Lower Post
+V-- - 67w14 45n58 0 04 Lower Southampton
+V-- - 65w44 43n31 0 07 Lower Wood Harbour
+N-- - 65w44 43n31 0 07 Lower Woods Harbour
+N-- - 83w01 49n33 0 08 Lowther
+N-- - 81w24 43n11 0 08 Lucan
+N-- - 118w33 52n52 0 02 Lucerne
+N-- - 68w20 48n31 0 10 Luceville
+N-- - 81w31 43n57 0 08 Lucknow
+N-- - 107w08 50n59 0 11 Lucky Lake
+N-- - 80w32 45n53 0 08 Ludgate
+N-- - 118w58 50n15 0 02 Lumby
+N-- - 53w37 49n17 0 05 Lumsden
+N-- - 104w52 50n39 0 11 Lumsden
+N-- - 124w46 49n59 0 02 Lund
+N-- - 64w19 44n22 0 07 Lunenburg
+N-- - 117w24 53n04 0 01 Luscar
+N-- - 109w26 52n05 0 11 Luseland
+N-- - 76w00 45n31 0 10 Luskville
+N-- 300 110w44 62n24 0 13 Lutselk'e
+N-- - 101w10 49n03 0 03 Lyleton
+N-- - 119w47 55n21 0 01 Lymburn
+N-- - 123w02 49n21 0 02 Lynn Creek
+N-- - 101w03 56n51 0 03 Lynn Lake
+N-- - 71w37 46n22 0 10 Lyster
+N-- - 71w37 46n22 0 10 Lyster Station
+N-- - 121w34 50n14 0 02 Lytton
+N-- - 89w59 48n36 0 08 Mabella
+N-- - 118w47 50n23 0 02 Mabel Lake
+N-- - 61w22 46n04 0 07 Mabou
+N-- - 61w25 46n05 0 07 Mabou Harbour
+V-- - 67w20 45n35 0 04 Macadam
+N-- - 122w25 52n27 0 02 Macalister
+N-- - 79w00 48n46 0 10 Macamic
+V-- - 78w52 48n50 0 10 Macamic-Nord
+V-- - 79w00 48n46 0 10 Macamik
+N-- - 64w15 45n43 0 07 Maccan
+N-- - 88w07 49n26 0 08 Macdiarmid
+N-- - 98w27 50n04 0 03 Macdonald
+N-- - 106w00 53n01 0 11 Macdowall
+N-- - 98w46 49n58 0 03 Macgregor
+V-- - 111w37 57n11 0 01 MacKay
+N-- - 115w35 53n39 0 01 Mackay
+N-- - 88w58 48n33 0 08 Mackenzie
+N-- - 109w57 52n20 0 11 Macklin
+N-- - 80w45 46n40 0 08 Maclennan Township
+V-- - 113w24 49n44 0 01 Macleod
+N-- - 103w15 49n19 0 11 Macoun
+N-- - 134w59 60n38 0 12 MacRae
+N-- - 79w46 45n08 0 08 MacTier
+N-- - 78w00 45n30 0 08 Madawaska
+N-- - 109w01 51n13 0 11 Madison
+N-- - 77w29 44n31 0 08 Madoc
+N-- - 93w55 50n58 0 08 Madsen
+N-- - 101w06 52n41 0 03 Mafeking
+N-- - 67w11 45n41 0 04 Magaguadavic
+N-- - 99w30 51n19 0 03 Magnet
+N-- - 79w38 45n40 0 08 Magnetawan
+N-- - 72w09 45n16 0 10 Magog
+N-- - 64w30 50n19 0 10 Magpie
+N-- - 112w53 49n25 0 01 Magrath
+N-- - 64w22 44n26 0 07 Mahone Bay
+N-- - 109w18 53n05 0 11 Maidstone
+N-- - 59w51 46n00 0 07 Main-a-Dieu
+N-- - 107w21 50n35 0 11 Main Centre
+N-- - 101w47 49n44 0 11 Mair
+V-- - 66w08 43n58 0 07 Maitland
+N-- - 63w31 45n19 0 07 Maitland
+NQ- - 112w42 50n38 0 01 Majorville
+V-- - 79w00 48n46 0 10 Makamik
+N-- - 59w11 55n05 0 05 Makkovik
+N-- - 108w54.24 54n00.23 0 11 Makwa
+N-- - 94w59 49n56 0 08 Malachi
+N-- - 123w33 48n32 0 02 Malahat
+N-- - 118w47 50n56 0 02 Malakwa
+N-- - 78w07 48n08 0 10 Malartic
+N-- - 111w21.58 54n12.43 0 01 Mallaig
+N-- - 97w13 50n34 0 03 Malonton
+N-- - 79w38 43n42 0 08 Malton
+N-- - 120w49 50n25 0 02 Mamette Lake
+N-- - 84w22 50n25 0 08 Mammamattawa
+V-- - 84w22 50n25 0 08 Mammawemattawa
+N-- - 96w18 51n06 0 03 Manigotagan
+N-- - 98w32 49n14 0 03 Manitou
+V-- - 81w48 45n44 0 08 Manitouaning
+N-- - 85w48 49n08 0 08 Manitouwadge
+N-- - 81w48 45n44 0 08 Manitowaning
+V-- - 75w58 46n22 0 10 Maniwac
+N-- - 75w58 46n22 0 10 Maniwaki
+N-- - 107w04 49n25 0 11 Mankota
+N-- - 111w10 53n20 0 01 Mannville
+N-- - 114w14 54n05 0 01 Manola
+N-- - 102w05 49n36 0 11 Manor
+N-- - 74w22 47n13 0 10 Manouane
+V-- - 74w22 47n13 0 10 Manowan
+N-- - 72w01 46n22 0 10 Manseau
+N-- - 124w30 55n40 0 02 Manson Creek
+N-- - 124w59 50n04 0 02 Mansons Landing
+V-- - 113w46 50n21 0 01 Manton Alta
+V-- - 74w22 47n13 0 10 Manuan
+N-- - 78w40 44n08 0 08 Manvers
+N-- - 110w42 49n24 0 01 Manyberries
+N-- - 123w54 53n52 0 02 Mapes
+N-- - 109w28 49n55 0 11 Maple Creek
+N-- - 73w51 45n19 0 10 Maple Grove
+N-- - 122w30 49n15 0 02 Maple Ridge District Municipality
+N-- - 86w22 48n45 0 08 Marathon
+N-- - 106w47 52n56 0 11 Marcelin
+N-- - 96w23 49n26 0 03 Marchand
+N-- - 59w07 48n30 0 05 Marches Point
+V-- - 59w07 48n30 0 05 March Point
+N-- - 61w04 46n23 0 07 Margaree
+V-- - 61w06 46n26 0 07 Margaree
+N-- - 61w06 46n26 0 07 Margaree Harbour
+N-- - 127w30 51n19 0 02 Margaret Bay
+N-- - 65w04 45n02 0 07 Margaretsville
+N-- - 71w57 61n36 0 10 Maricourt
+N-- - 73w10 45n26 0 10 Marieville
+N-- - 125w50 53n41 0 02 Marilla
+N-- - 119w12 56n30 0 01 Marina
+N-- - 80w39 44n19 0 08 Markdale
+N-- - 79w16 43n52 0 08 Markham
+N-- - 80w32 46n29 0 08 Markstay
+N-- - 116w46 53n33 0 01 Marlboro
+N-- - 77w41 44n29 0 08 Marmora
+V-- - 65w16 44n57 0 07 Marshall Cove
+V-- - 55w05 49n20 0 05 Marshallville
+N-- - 62w11 45n35 0 07 Marshy Hope
+V-- - 71w05 48n32 0 10 Martel
+V-- - 133w04 66n30 0 13 Marten House
+N-- - 133w04 66n30 0 13 Martin House
+N-- - 66w10 49n12 0 10 Martin River
+N-- - 110w20 53n31 0 01 Marwayne
+N-- - 101w32 49n50 0 11 Maryfield
+N-- - 55w50 52n18 0 05 Mary's Harbour
+N-- - 55w10 47n10 0 05 Marystown
+N-- - 115w57 49n38 0 02 Marysville
+N-- - 66w35 45n58 0 04 Marysville
+N-- - 107w48 49n09 0 11 Masefield
+N-- - 73w01 46n13 0 10 Maskinonge
+N-- - 134w38 61n26 0 12 Mason Landing
+N-- - 132w09 54n01 0 02 Masset
+V-- - 132w09 54n01 0 02 Massett
+N-- - 82w05 46n12 0 08 Massey
+N-- - 75w25 45n33 0 10 Masson
+N-- - 80w39 48n00 0 08 Matachewan
+N-- - 107w57 50n48 0 11 Matador
+N-- - 77w38 49n45 0 10 Matagami
+N-- - 67w31 48n51 0 10 Matane
+N-- - 66w56 47n58 0 04 Matapedia
+N-- - 80w28 48n32 0 08 Matheson
+N-- - 96w55 51n44 0 03 Matheson Island
+V-- - 80w28 48n32 0 08 Matheson Station
+N-- - 78w42 46n19 0 08 Mattawa
+N-- - 78w50 46n20 0 08 Mattawan
+N-- - 83w16 49n37 0 08 Mattice
+V-- - 72w32 46n28 0 10 Mauricie
+V-- - 59w49 50n21 0 10 Point au Maurier
+N-- - 106w24 50n45 0 11 Mawer
+N-- - 106w01 49n29 0 11 Maxstone
+N-- - 74w51 45n17 0 08 Maxville
+N-- - 107w35 52n59 0 11 Mayfair
+N-- - 107w43 52n34 0 11 Maymont
+N-- - 123w18 48n51 0 02 Mayne
+N-- - 77w56 45n14 0 08 Maynooth
+N-- - 135w55 63n36 0 12 Mayo
+V-- - 135w55 63n36 0 12 Mayo Landing
+N-- - 120w08 49n43 0 02 Mazama
+N-- - 106w13 49n52 0 11 Mazenod
+N-- - 67w20 45n35 0 04 McAdam
+V-- - 67w20 45n35 0 04 McAdam Junction
+N-- - 120w10 53n18 0 02 McBride
+N-- - 134w33 60n32 0 12 McClintock
+N-- - 116w20 49n09 0 02 McConnel
+N-- - 126w30 56n53 0 02 McConnell Creek
+N-- - 99w29 50n47 0 03 McCreary
+N-- - 129w14 59n11 0 02 McDame
+V-- - 129w14 59n11 0 02 McDame Creek
+V-- - 129w14 59n11 0 02 McDames Creek
+N-- - 91w32 50n10 0 08 McDougall Mills
+N-- - 108w15 51n30 0 11 McGee
+N-- - 122w26 50n37 0 02 McGillivray
+V-- - 122w26 50n37 0 02 McGillivray Falls
+N-- - 66w34 46n22 0 04 McGivney
+N-- - 82w58 42n09 0 08 McGregor
+N-- - 93w37 49n59 0 08 McIntosh
+N-- - 80w52 48n38 0 08 McIntosh Springs
+N-- - 103w55 52n37 0 11 McKague
+N-- - 93w50 51n05 0 08 McKenzie Island
+V-- - 60w54 45n57 0 07 McKinnon Harbour
+N-- - 60w54 45n57 0 07 McKinnons Harbour
+N-- - 116w54 55n42 0 01 McLennan
+N-- - 123w02 55n00 0 02 McLeod Lake
+V-- - 134w33 60n32 0 12 M'Clintock
+N-- - 73w14 45n33 0 10 McMasterville
+N-- - 108w45 51n19 0 11 McMorran
+N-- - 95w43 49n38 0 03 McMunn
+N-- - 116w46 51n09 0 02 McMurdo
+N-- - 119w31 51n40 0 02 McMurphy
+V-- - 111w23 56n44 0 01 McMurray
+N-- - 66w16 46n31 0 04 McNamee
+V-- - 134w52 67n26 0 13 McPherson
+N-- - 137w27 63n34 0 12 McQuesten
+N-- - 111w42.50 54n21.24 0 01 McRae
+N-- - 78w55 48n13 0 10 McWatters
+N-- - 105w45 52n06 0 11 Meacham
+N-- - 75w52 45n31 0 10 Meach Lake
+N-- - 108w26.05 54n07.47 0 11 Meadow Lake
+N-- - 80w35 44n36 0 08 Meaford
+V-- - 63w14 44n55 0 07 Meagher Grant
+N-- - 63w14 44n55 0 07 Meaghers Grant
+V-- - 117w41 59n02 0 01 Meander River
+N-- - 113w19 54n35 0 01 Meanook
+N-- - 105w22 53n27 0 11 Meath Park
+N-- - 110w41 50n02 0 01 Medicine Hat
+N-- - 117w01 53n32 0 01 Medicine Lodge
+N-- - 110w16 54n25 0 01 Medley
+N-- - 100w45 49n15 0 03 Medora
+N-- - 108w05 53n18 0 11 Medstead
+N-- - 67w28 46n00 0 04 Meductic
+V-- - 75w52 45n31 0 10 Meech Lake
+V-- - 70w53 45n35 0 10 Megantic
+N-- - 102w26 51n18 0 11 Mehan
+N-- - 83w07 45n55 0 08 Meldrum Bay
+N-- - 104w36 52n52 0 11 Melfort
+N-- - 100w59 49n16 0 03 Melita
+N-- - 73w56 45n19 0 10 Melocheville
+N-- - 63w56 46n06 0 04 Melrose
+N-- - 102w48 50n56 0 11 Melville
+N-- - 64w33 46n00 0 04 Memramcook
+N-- - 136w01 60n46 0 12 Mendenhall Landing
+N-- - 109w40 50n46 0 11 Mendham
+N-- - 96w08 49n05 0 03 Menisino
+N-- - 54w20 47n24 0 05 Merasheen
+N-- - 71w56 46n25 0 10 Merbleue
+N-- - 117w06 53n10 0 01 Mercoal
+N-- - 109w53 51n26 0 11 Merid
+N-- - 62w25 45n37 0 07 Merigomish
+V-- - 62w25 45n37 0 07 Merigomishe
+N-- - 75w50 44n55 0 08 Merrickville
+V-- - 120w47 50n07 0 02 Merrit
+N-- - 120w47 50n07 0 02 Merritt
+N-- - 125w04 49n47 0 02 Merville
+N-- - 105w05 52n47 0 11 Meskanaw
+N-- - 76w01 46n14 0 10 Messines
+V-- - 71w52 48n26 0 10 Metabechuoan
+N-- - 71w52 48n26 0 10 Metabetchouan
+N-- - 81w56 47n06 0 08 Metagama
+V-- - 66w09 44n11 0 07 Metaghan
+N-- - 123w32 48n22 0 02 Metchosin
+N-- - 66w09 44n11 0 07 Meteghan
+V-- - 130w27 54n20 0 02 Methlakahtla
+N-- - 67w59 48n40 0 10 Metis Beach
+V-- - 130w27 54n20 0 02 Metla Catla
+V-- - 130w27 54n20 0 02 Metla Catlah
+V-- - 130w27 54n20 0 02 Metlah Catlah
+V-- - 130w27 54n20 0 02 Metla-Kathla
+N-- - 130w27 54n20 0 02 Metlakatla
+N-- - 77w49 44n15 0 08 Meyersburg
+N-- - 106w51 49n40 0 11 Meyronne
+N-- - 98w15 49n22 0 03 Miami
+N-- - 109w05.44 55n59.17 0 11 Michel
+V-- - 105w42 49n56 0 11 Michellton
+N-- - 112w32 51n35 0 01 Michichi
+N-- - 84w55 47n57 0 08 Michipicoten
+V-- - 84w55 47n57 0 08 Michipicoten Harbor
+V-- - 84w55 47n57 0 08 Michipicoten Harbour
+V-- - 84w55 47n57 0 08 Michipicoton
+N-- - 103w24 49n24 0 11 Midale
+N-- - 56w09 49n42 0 05 Middle Arm
+N-- - 56w26 49n51 0 05 Middle Arm
+N-- - 95w26 49n01 0 03 Middlebro
+N-- - 63w08 45n03 0 07 Middle Musquodoboit
+N-- - 125w08 54n52 0 02 Middle River Village
+N-- - 65w04 44n57 0 07 Middleton
+N-- - 79w44 44n27 0 08 Midhurst
+N-- - 79w54 44n45 0 08 Midland
+N-- - 114w04 50n55 0 01 Midnapore
+N-- - 118w47 49n01 0 02 Midway
+N-- - 107w31 51n29 0 11 Milden
+N-- - 81w07 44n02 0 08 Mildmay
+N-- - 107w20 53n21 0 11 Mildred
+N-- - 112w05 49n08 0 01 Milk River
+N-- - 78w27 44n09 0 08 Millbrook
+N-- - 64w04 44n35 0 07 Mill Cove
+N-- - 65w38 46n54 0 04 Millerton
+N-- - 56w19 49n01 0 05 Millerton Junction
+N-- - 56w32 48n49 0 05 Millertown
+V-- - 56w19 49n01 0 05 Millertown Junction
+N-- - 113w28 53n05 0 01 Millet
+N-- - 76w45 44n12 0 08 Millhaven
+NL- - 118w40 61n18 0 13 Mills Lake
+N-- - 67w05 48n03 0 10 Millstream
+N-- - 67w18 45n10 0 04 Milltown
+N-- - 64w39 44n08 0 07 Mill Village
+N-- - 67w11 46n08 0 04 Millville
+N-- - 96w14 50n10 0 03 Milner Ridge
+N-- - 80w57 46n49 0 08 Milnet
+N-- - 112w53 50n34 0 01 Milo
+N-- - 64w45 44n03 0 07 Milton
+N-- - 79w53 43n31 0 08 Milton
+V-- - 63w13 46n18 0 09 Milton
+N-- - 63w13 46n18 0 09 Milton Station
+V-- - 79w53 43n31 0 08 Milton West
+N-- - 80w56 43n34 0 08 Milverton
+N-- - 79w30 43n36 0 08 Mimico
+N-- - 94w39 49n59 0 08 Minaki
+N-- - 88w03 50n14 0 08 Minataree
+N-- - 78w44 44n56 0 08 Minden
+N-- - 92w37 48n46 0 08 Mine Centre
+N-- - 64w01 50n18 0 10 Mingan
+N-- - 101w02 50n08 0 03 Miniota
+N-- - 101w03 52n05 0 03 Minitonas
+N-- - 99w50 50n15 0 03 Minnedosa
+V-- - 93w05 49n48 0 08 Minnietakie
+N-- - 93w05 49n48 0 08 Minnitaki
+N-- - 126w19 50n37 0 02 Minstrel Island
+N-- - 100w01 49n24 0 03 Minto
+N-- - 136w50 62n35 0 12 Minto
+N-- - 135w52 63n42 0 12 Minto Bridge
+N-- - 104w35 49n10 0 11 Minton
+N-- - 121w41 52n16 0 02 Miocene
+N-- - 59w59 46n02 0 07 Mira
+N-- - 74w06 45n39 0 10 Mirabel
+N-- - 65w11 47n02 0 04 Miramichi
+V-- - 114w02 55n10 0 01 Mirror Landing
+N-- - 63w52 46n26 0 09 Miscouche
+N-- - 84w05 48n18 0 08 Missanabie
+N-- - 122w18 49n08 0 02 Mission
+V-- - 122w18 49n08 0 02 Mission City
+N-- - 79w30 43n09 0 08 Mississauga
+N-- - 76w41 44n56 0 08 Mississippi Station
+V-- - 73w52 50n25 0 10 Mistassini
+N-- - 72w12 48n54 0 10 Mistassini
+V-- - 73w52 50n25 0 10 Mistassini Post
+N-- - 103w22 52n52 0 11 Mistatim
+N-- - 81w11 43n28 0 08 Mitchell
+N-- - 105w42 49n56 0 11 Mitchellton
+V-- 1200 78w00 72n42 0 14 Mitimatilik
+N-- - 121w44 55n50 0 02 Moberly Lake
+N-- - 85w39 48n41 0 08 Mobert
+N-- - 52w51 47n15 0 05 Mobile
+N-- - 122w11 50n52 0 02 Moha
+V-- - 77w02 44n14 0 08 Mohawk
+N-- - 66w06 50n11 0 10 Moisie
+V-- - 59w11 55n05 0 05 Mokkovik
+N-- - 96w19 50n01 0 03 Molson
+N-- - 113w07 49n48 0 01 Monarch
+N-- - 64w46 46n05 0 04 Moncton
+N-- - 75w38 48n10 0 10 Monet
+N-- - 110w34 51n58 0 01 Monitor
+N-- - 69w59 47n06 0 10 Monk
+N-- - 62w39 46n10 0 09 Montague
+NQ- - 136w03 61n47 0 12 Montague
+V-- - 62w39 46n10 0 09 Montague Bridge
+N-- - 72w05 48n15 0 10 Mont-Alverne
+N-- - 71w26 47n59 0 10 Mont-Apica
+N-- - 79w25 48n22 0 10 Montbray Township
+N-- - 72w40 46n29 0 10 Mont-Carmel
+N-- - 69w53 47n26 0 10 Mont-Carmel
+N-- - 76w02 46n32 0 10 Montcerf
+N-- - 74w56 45n39 0 10 Montebello
+N-- - 119w57 50n39 0 02 Monte Creek
+N-- - 80w41 48n39 0 08 Monteith
+N-- - 114w10 51n04 0 01 Montgomery
+V-- - 85w39 48n41 0 08 Montizambert
+N-- - 68w11 48n35 0 10 Mont-Joli
+V-- - 68w11 48n35 0 10 Mont Jolie
+N-- - 75w30 46n33 0 10 Mont-Laurier
+N-- - 65w45 49n13 0 10 Mont-Louis
+N-- - 70w33 46n58 0 10 Montmagny
+N-- - 103w27 50n13 0 11 Montmartre
+N-- - 71w09 46n53 0 10 Montmorency
+V-- - 71w09 46n53 0 10 Montmorency Village
+N-- - 120w55 56n27 0 02 Montney
+N-- - 73w35 45n30 0 10 Montreal
+N-- - 73w31 45n38 0 10 Montreal-Est
+N-- - 105w47 54n03 0 11 Montreal Lake
+N-- - 73w37 45n36 0 10 Montreal-Nord
+N-- - 73w39 45n27 0 10 Montreal-Ouest
+N-- - 73w39 45n31 0 10 Mont-Royal
+N-- - 73w10 45n32 0 10 Mont-Saint-Hilaire
+N-- - 74w38 46n12 0 10 Mont-Tremblant
+N-- - 82w09 49n21 0 08 Moonbeam
+N-- - 67w16 45n17 0 04 Moores Mills
+N-- - 82w28 42n51 0 08 Mooretown
+N-- - 77w42 46n08 0 08 Moor Lake Station
+N-- - 80w36 51n15 0 08 Moose Factory
+V-- - 80w39 51n16 0 08 Moose Harbor
+N-- - 139w26 64n06 0 12 Moosehide
+N-- - 98w25 51n17 0 03 Moosehorn
+V-- - 98w25 51n17 0 03 Moosehorn Bay
+V-- - 80w36 51n15 0 08 Moose Island
+N-- - 105w33 50n24 0 11 Moose Jaw
+N-- - 100w18 53n42 0 03 Moose Lake
+N-- - 62w15 44n58 0 07 Moose River
+N-- - 101w40 50n09 0 11 Moosomin
+N-- - 80w39 51n16 0 08 Moosonee
+V-- - 115w50 49n17 0 02 Mooyie
+N-- - 98w06 49n11 0 03 Morden
+N-- - 64w56 45n06 0 07 Morden
+N-- - 104w36 49n43 0 11 Moreland
+N-- - 62w42 46n25 0 09 Morell
+N-- - 54w51 49n34 0 05 Moretons Harbour
+N-- - 127w20 55n02 0 02 Moricetown
+V-- - 59w53 46n08 0 07 Morien Bay
+N-- - 108w44 54n02.07 0 11 Morin Creek
+N-- - 113w39 53n48 0 01 Morinville
+N-- - 114w51 51n10 0 01 Morley
+V-- - 127w20 55n02 0 02 Morricetown
+N-- - 112w46 51n40 0 01 Morrin
+N-- - 97w22 49n21 0 03 Morris
+N-- - 75w11 44n54 0 08 Morrisburg
+N-- - 94w19 49n06 0 08 Morson
+N-- - 106w04 50n27 0 11 Mortlach
+N-- - 63w57 45n04 0 07 Mosherville
+N-- - 53w42 46n58 0 05 Mosquito
+N-- - 105w58 49n56 0 11 Mossbank
+N-- - 113w19 50n43 0 01 Mossleigh
+N-- - 119w20 76n14 0 13 Mould Bay
+N-- - 76w51 44n44 0 08 Mountain Grove
+N-- - 117w17 52n56 0 01 Mountain Park
+N-- - 113w36 49n08 0 01 Mountain View
+N-- - 77w22 44n05 0 08 Mountain View
+N-- - 53w30 47n08 0 05 Mount Carmel
+V-- - 118w06 50n53 0 02 Mount Cartier
+N-- - 80w44 43n58 0 08 Mount Forest
+N-- - 72w16 45n18 0 10 Mount Orford
+V-- - 52w47 47n31 0 05 Mount Pearl
+N-- - 52w47 47n31 0 05 Mount Pearl Park
+N-- - 67w29 46n24 0 04 Mount Pleasant
+N-- - 77w02 44n14 0 08 Mount Pleasant
+N-- - 119w14 53n01 0 02 Mount Robson
+V-- - 73w39 45n31 0 10 Mount-Royal
+N-- - 62w52 46n22 0 09 Mount Stewart
+N-- - 63w50 44n53 0 07 Mount Uniacke
+N-- - 66w50 46n01 0 04 Mouth of Keswick
+N-- - 115w50 49n17 0 02 Moyie
+N-- - 57w03 53n39 0 05 Muddy Bay
+N-- - 109w46.35 54n10.57 0 11 Mudie Lake
+N-- - 123w03 53n46 0 02 Mud River
+N-- - 104w59 52n12 0 11 Muenster
+N-- - 61w24 45n37 0 07 Mulgrave
+N-- - 107w40 53n05 0 11 Mullingar
+N-- - 98w11 50n58 0 03 Mulvihill
+N-- - 81w26 42n49 0 10 Muncey
+N-- - 112w20 53n36 0 01 Mundare
+N-- - 112w45 51n34 0 01 Munson
+N-- - 121w00 56n32 0 02 Murdale
+N-- - 65w31 48n58 0 10 Murdochville
+N-- - 110w36.12 54n12.42 0 01 Muriel Lake
+V-- - 70w10 47n39 0 10 Murray Bay
+N-- - 62w32 46n01 0 09 Murray Harbour
+N-- - 55w41 52n27 0 05 Murray Harbour
+N-- - 53w53 48n25 0 05 Musgrave Town
+V-- - 79w18 45n00 0 08 Muskoka
+N-- - 79w18 45n00 0 08 Muskoka Falls
+N-- - 122w40 58n48 0 02 Muskwa
+N-- - 66w20 45n11 0 04 Musquash
+V-- - 63w08 45n03 0 07 Musquodoboit
+N-- - 63w09 44n47 0 07 Musquodoboit Harbour
+N-- - 59w01 50n47 0 10 Mutton Bay
+N-- - 111w14 53n40 0 01 Myrnam
+N-- - 78w58 44n01 0 08 Myrtle Station
+NQ- - 63w53 59n04 0 05 Nachvak
+N-- - 110w48 51n42 0 01 Naco
+N-- - 126w31 53n58 0 02 Nadina River
+N-- - 132w07 53n51 0 02 Nadu
+V-- - 132w07 53n51 0 02 Nadu River
+N-- - 123w22 61n03 0 13 Nahanni Butte
+N-- - 131w45 58n53 0 02 Nahlin
+N-- - 104w30 52n25 0 11 Naicam
+N-- - 61w41 56n33 0 05 Nain
+N-- - 104w28 52n52 0 11 Naisberry
+N-- - 86w42 50n11 0 08 Nakina
+N-- - 132w48 59n12 0 02 Nakina
+N-- - 117w48 50n14 0 02 Nakusp
+N-- - 113w29 53n43 0 01 Namao
+N-- - 117w07 56n02 0 01 Nampa
+N-- - 127w52 51n52 0 02 Namu
+N-- - 123w55 49n09 0 02 Nanaimo
+N-- - 125w05 54n36 0 02 Nancut
+N-- - 124w11 49n15 0 02 Nanoose Bay
+N-- - 80w04 42n48 0 08 Nanticoke
+N-- - 113w46 50n21 0 01 Nanton
+V-- - 123w55 49n09 0 02 Nanymo
+N-- - 66w55 46n24 0 04 Napadogan
+N-- - 76w57 44n15 0 08 Napanee
+N-- - 73w24 45n11 0 10 Napierville
+N-- - 100w51 49n19 0 03 Napinka
+N-- - 97w32 50n41 0 03 Narcisse
+N-- - 92w47 51n13 0 08 Narrow Lake
+N-- - 66w37 46n14 0 04 Nashwaak Bridge
+N-- - 129w56 54n56 0 02 Nass Harbour
+N-- - 114w51 49n44 0 02 Natal
+V-- - 61w49 50n11 0 10 Natashkwan
+N-- - 61w49 50n11 0 10 Natashquan
+N-- - 71w39 48n34 0 10 Naudville
+N-- - 81w10 46n24 0 08 Naughton
+V-- - 86w14 66n31 0 14 Naujat
+N-- - 65w53 45n28 0 04 Nauwigewauk
+N-- - 123w37 53n00 0 02 Nazko
+N-- - 124w10 53n55 0 02 Nechacco
+N-- - 57w52 49n32 0 05 Neddy Harbour
+NL- - 71w18 66n34 0 14 Nedlung
+N-- - 118w07 49n53 0 02 Needles
+N-- - 99w20 49n13 0 03 Neelin
+N-- - 99w27 50n14 0 03 Neepawa
+N-- - 65w03 47n14 0 04 Neguac
+N-- - 107w15 50n14 0 11 Neidpath
+N-- - 109w38 52n50 0 11 Neilburg
+N-- - 117w17 49n29 0 02 Nelson
+V-- - 92w35 57n04 0 03 Nelson
+N-- - 124w01 59n29 0 02 Nelson Forks
+N-- - 98w51 55n48 0 03 Nelson House
+N-- - 83w12 47n43 0 08 Nemegos
+N-- - 76w54 51n19 0 10 Nemiscau
+N-- - 74w17 51n53 0 10 Neoskweskau
+N-- - 104w04 49n22 0 11 Neptune
+V-- - 61w49 50n11 0 10 Netashquan
+N-- - 108w51 51n28 0 11 Netherhill
+N-- - 103w00 50n43 0 11 Neudorf
+N-- - 71w35 46n42 0 10 Neuville
+N-- - 65w03 44n48 0 07 New Albany
+V-- - 79w04 43n15 0 08 Newark
+N-- - 128w08 52n10 0 02 New Bella Bella
+N-- - 76w19 44n39 0 08 Newboro
+N-- - 112w57.11 54n19.46 0 01 Newbrook
+N-- - 76w52 44n20 0 08 Newburgh
+N-- - 65w20 48n00 0 10 New Carlisle
+N-- - 65w34 46n59 0 04 Newcastle
+N-- - 78w35 43n55 0 08 Newcastle
+N-- - 66w03 46n05 0 04 Newcastle Bridge
+N-- - 100w12 50n21 0 03 Newdale
+N-- - 112w23 49n25 0 01 New Dayton
+N-- - 117w22 49n59 0 02 New Denver
+N-- - 115w10 49n00 0 02 Newgate
+N-- - 64w43 44n33 0 07 New Germany
+N-- - 62w38 45n35 0 07 New Glasgow
+N-- - 80w43 43n23 0 08 New Hamburg
+N-- - 53w33 47n35 0 05 New Harbour
+N-- - 127w35 55n15 0 02 New Hazelton
+V-- - 127w35 55n15 0 02 New Hazelton Station
+N-- - 122w13 54n07 0 02 Newlands Station
+N-- - 79w40 47n30 0 08 New Liskeard
+N-- - 71w16 46n45 0 00 New-Liverpool
+N-- - 53w12 48n35 0 05 Newmans Cove
+N-- - 79w27 44n03 0 08 Newmarket
+N-- - 103w48 52n59 0 11 New Osgoode
+N-- - 53w22 47n55 0 05 New Perlican
+N-- - 80w14 43n06 0 08 Newport
+N-- - 64w45 48n16 0 10 Newport
+V-- - 63w58 44n58 0 07 New Port Conner
+V-- - 63w58 44n58 0 07 New Port Connor
+N-- - 63w58 44n58 0 07 Newport Corner
+N-- - 65w50 48n10 0 10 New Richmond
+N-- - 64w27 44n44 0 07 New Ross
+N-- - 79w30 43n36 0 08 New Toronto
+N-- - 53w32 49n11 0 05 Newtown
+N-- - 64w20 45n31 0 07 Newville
+N-- - 60w05 46n15 0 07 New Waterford
+N-- - 122w55 49n13 0 02 New Westminster
+N-- - 87w39 49n40 0 08 Nezah
+V-- - 79w04 43n15 0 08 Niagara
+N-- - 79w03 43n06 0 08 Niagara Falls
+N-- - 79w04 43n15 0 08 Niagara-on-the-Lake
+V-- - 68w27 63n43 0 14 Niaqunnguut
+V-- - 70w55 53n12 0 10 Nichikun
+N-- - 83w47 47n57 0 08 Nicholson
+V-- - 65w43 47n44 0 04 Nickadow
+N-- - 72w36 46n13 0 10 Nicolet
+V-- - 65w43 47n44 0 04 Nigado
+N-- - 65w43 47n44 0 04 Nigadoo
+V-- - 65w43 47n44 0 04 Nigadu
+V-- - 60w22 46n41 0 07 Niganishe
+N-- - 121w18 57n08 0 02 Nig Creek
+N-- - 113w20 51n09 0 01 Nightingale
+N-- - 99w38 49n24 0 03 Ninette
+N-- - 99w53 49n13 0 03 Ninga
+N-- - 104w01 53n22 0 11 Nipawin
+N-- - 88w15 49n01 0 08 Nipigon
+N-- - 89w06 49n49 0 08 Nipigon House
+N-- - 55w52 49n47 0 05 Nippers Harbour
+N-- - 113w32 53n20 0 01 Nisku
+N-- - 70w55 53n12 0 10 Nitchequon
+N-- - 124w58 53n59 0 02 Nithi River
+V-- - 128w04 55n06 0 02 Nitwanga
+N-- - 80w06 45n25 0 08 Nobel
+N-- - 113w03 49n53 0 01 Nobleford
+N-- - 125w19 50n22 0 02 Nodales
+N-- - 80w26 46n08 0 08 Noelville
+N-- - 105w01 51n31 0 11 Nokomis
+N-- - 75w01 46n23 0 10 Nominingue
+N-- - 126w38 49n36 0 02 Nootka
+N-- - 103w50 52n22 0 11 Nora
+N-- - 112w21.48 54n39.13 0 01 Noral
+N-- - 126w26 53n59 0 02 Noralee
+N-- - 79w01 48n15 0 10 Noranda
+V-- - 116w05 52n28 0 01 Nordegg
+N-- - 80w43 48n59 0 08 Norembega
+N-- - 99w28 50n41 0 03 Norgate
+V-- - 125w35 64n54 0 13 Norman
+N-- - 55w54 51n38 0 05 Cape Norman
+N-- - 111w43.54 54n34.50 0 01 Normandeau
+N-- - 72w31 48n50 0 10 Normandin
+N-- - 117w22 55n52 0 01 Normandville
+N-- - 53w40 47n33 0 05 Normans Cove
+N-- - 126w51 65n17 0 13 Norman Wells
+N-- - 79w22 49n00 0 10 Normetal
+N-- - 55w16 49n05 0 05 Norris Arm
+N-- - 112w33.19 54n02.12 0 01 Northbank
+N-- - 108w17 52n46 0 11 North Battleford
+N-- - 79w27 46n18 0 08 North Bay
+N-- - 121w28 49n53 0 02 North Bend
+N-- - 58w57 48n01 0 05 North Branch
+N-- - 94w10 48n52 0 08 North Branch
+V-- - 122w57 49n15 0 02 North Burnaby
+NQ- - 61w29 45n42 0 07 North Canso
+N-- - 112w57 53n28 0 01 North Cooking Lake
+N-- - 66w38 45n58 0 04 North Devon
+N-- - 54w01 48n01 0 05 Northern Bight
+N-- - 102w16 49n00 0 11 Northgate
+N-- - 73w52 45n12 0 10 North Georgetown
+N-- - 66w45 44n46 0 04 North Head
+N-- - 120w22 50n41 0 02 North Kamloops
+N-- - 84w08 46n43 0 08 Northland Station
+N-- - 106w38 52n07 0 11 North Park
+N-- - 120w47 56n26 0 02 North Pine
+N-- - 102w33 49n00 0 11 North Portal
+N-- - 57w08 53n49 0 05 North River
+N-- - 60w37 46n18 0 07 North River Bridge
+N-- - 117w38 56n51 0 01 North Star
+N-- - 122w51 49n12 0 02 North Surrey
+N-- - 60w15 46n12 0 07 North Sydney
+N-- - 123w04 49n19 0 02 North Vancouver
+N-- - 116w02 58n24 0 01 North Vermilion
+N-- - 60w17 46n09 0 07 North West Arm
+N-- - 60w09 53n32 0 05 North West River
+V-- - 97w50 53n58 0 03 Norway
+N-- - 76w25 45n31 0 10 Norway Bay
+N-- - 97w50 53n58 0 03 Norway House
+N-- - 80w36 42n59 0 08 Norwich
+N-- - 77w59 44n23 0 08 Norwood
+N-- - 117w38 56n59 0 01 Notikewin
+N-- - 64w43 46n18 0 04 Notre Dame
+V-- - 69w37 61n02 0 10 Notre-Dame-de-Koartac
+N-- - 75w35 45n46 0 10 Notre-Dame-de-la-Salette
+N-- - 71w23 46n47 0 10 Notre-Dame-de-Lorette
+N-- - 98w33 49n32 0 03 Notre-Dame-de-Lourdes
+V-- - 68w35 48n26 0 10 Notre-Dame-de-Rimouski
+N-- - 70w23 47n40 0 10 Notre-Dame-des-Monts
+N-- - 71w41 48n23 0 10 Notre-Dame-d'Hebertville
+V-- - 77w54 62n25 0 10 Notre-Dame-d'Ivugivic
+N-- - 68w48 47n36 0 10 Notre-Dame-du-Lac
+N-- - 75w37 46n05 0 10 Notre-Dame-du-Laus
+N-- - 79w39 47n36 0 10 Notre-Dame-du-Nord
+N-- - 69w37 47n46 0 10 Notre-Dame-du-Portage
+N-- - 55w05 49n07 0 05 Notre Dame Junction
+N-- - 101w43 49n23 0 11 Nottingham
+NL- - 77w56 63n07 0 14 Nottingham Island
+N-- - 78w49 53n00 0 10 Nouveau-Comptoir
+N-- - 66w18 48n08 0 10 Nouvelle
+N-- - 79w15 45n27 0 08 Novar
+N-- - 101w04 52n32 0 03 Novra
+NQ- - 94w49 59n55 0 03 Nunalla
+VQ- - 94w49 59n55 0 03 Nunnulla
+N-- - 61w50 57n28 0 05 Nutak
+N-- - 77w38 65n08 0 14 Nuwata
+N-- - 66w37 48n03 0 10 Oak Bay
+N-- - 123w19 48n26 0 02 Oak Bay
+N-- - 100w35 50n34 0 03 Oakburn
+N-- - 100w38 49n46 0 03 Oak Lake
+N-- - 98w02 50n30 0 03 Oak Point
+N-- - 79w40 43n26 0 08 Oakville
+N-- - 84w06 49n04 0 08 Oba
+N-- - 108w08 52n07 0 11 Oban
+N-- - 117w13 53n33 0 01 Obed
+N-- - 74w57 48n40 0 10 Obiduan
+V-- - 74w57 48n40 0 10 Obijuan
+V-- - 126w52 50n55 0 02 O'Brian Bay
+N-- - 80w44 47n41 0 08 O'Brien
+N-- - 127w42 52n21 0 02 Ocean Falls
+V-- - 62w49 46n04 0 09 Ocean View
+N-- - 121w48 52n14 0 02 Ochiltree
+N-- - 99w47 51n03 0 03 Ochre River
+N-- - 54w49 47n17 0 05 Oderin
+N-- - 104w55 49n34 0 11 Ogema
+N-- - 139w44 63n34 0 12 Ogilvie
+N-- - 85w56 51n37 0 08 Ogoki
+N-- - 74w05 45n28 0 10 Oka
+NQ- - 119w21 50n22 0 02 Okanagan
+N-- - 119w22 50n14 0 02 Okanagan Landing
+VQ- - 119w21 50n22 0 02 Okanogan
+N-- - 113w58 50n43 0 01 Okotoks
+V-- - 60w01 46n13 0 07 Old Bridgeport
+N-- - 75w49 45n30 0 10 Old Chelsea
+N-- - 139w48 67n34 0 12 Old Crow
+V-- - 78w43 52n36 0 10 Old Factory
+N-- - 78w43 52n36 0 10 Old Factory River
+N-- - 126w19 55n03 0 02 Old Fort
+N-- - 57w49 51n25 0 10 Old Fort Bay
+N-- - 125w57 55n46 0 02 Old Hogem
+N-- - 53w01 48n05 0 05 Old Perlican
+N-- - 114w06 51n47 0 01 Olds
+N-- - 106w00 50n12 0 11 Old Wives
+N-- - 64w13 46n42 0 09 O'Leary
+N-- - 119w33 49n11 0 02 Oliver
+N-- - 78w33 44n18 0 08 Omemee
+N-- - 72w07 45n17 0 10 Omerville
+N-- - 76w50 45n01 0 08 Ompah
+N-- - 110w27 49n04 0 01 Onefour
+N-- - 121w56 52n07 0 02 One Hundred Fifty Mile House
+N-- - 121w17 51n39 0 02 One Hundred Mile House
+N-- - 110w00 53n43 0 11 Onion Lake
+N-- - 114w11 53n42 0 01 Onoway
+N-- - 130w15 53n57 0 02 Oona River
+N-- - 117w37 49n17 0 02 Ootischenia
+N-- - 126w02 53n47 0 02 Ootsa Lake
+N-- - 82w52 49n32 0 08 Opasatika
+N-- - 93w34 53n16 0 08 Opasquia
+V-- - 82w52 49n32 0 08 Opastika
+N-- - 53w29 48n33 0 05 Open Hall
+V-- - 53w29 48n33 0 05 Open Hole
+N-- - 61w06 45n54 0 07 Orangedale
+N-- - 80w05 43n55 0 08 Orangeville
+N-- - 106w42 53n16 0 11 Ordale
+N-- - 88w08 49n22 0 08 Orient Bay
+N-- - 79w25 44n36 0 08 Orillia
+N-- - 75w31 45n28 0 08 Orleans
+N-- - 74w00 45n08 0 10 Ormstown
+N-- - 66w28 45n51 0 04 Oromocto
+V-- - 66w28 45n51 0 04 Oronocto
+V-- - 79w47 45n23 0 08 Orrville
+N-- - 71w17 46n53 0 10 Orsainville
+N-- - 97w22 49n32 0 03 Osborne
+N-- - 78w52 43n54 0 08 Oshawa
+N-- - 75w13 48n07 0 10 Oskelaneo
+N-- - 130w10 54n08 0 02 Osland
+V-- - 90w16 51n08 0 08 Osnaburgh
+N-- - 90w16 51n08 0 08 Osnaburgh House
+N-- - 119w28 49n02 0 02 Osoyoos
+N-- - 67w14 45n58 0 04 Otis
+NC- - 75w42 45n25 0 08 Ottawa
+N-- - 63w48 49n37 0 10 Otter
+N-- - 97w03 49n30 0 03 Otterburne
+N-- - 73w13 45n32 0 10 Otterburn Park
+N-- - 81w08 44n05 0 08 Otter Creek
+N-- - 79w56 45n18 0 08 Otter Lake
+N-- - 88w35 48n45 0 08 Ouimet
+N-- - 103w48 49n08 0 11 Oungre
+N-- - 107w03 51n30 0 11 Outlook
+N-- - 103w19 49n08 0 11 Outram Station
+N-- - 73w37 45n31 0 10 Outremont
+N-- - 66w09 43n51 0 07 Overton
+N-- - 80w51 44n34 0 08 Owen Sound
+N-- - 111w53.12 54n53.14 0 01 Owl River
+N-- - 111w26.10 54n04.09 0 01 Owlseye
+V-- - 111w26.10 54n04.09 0 01 Owlseye Lake
+N-- - 102w10 49n13 0 11 Oxbow
+N-- - 92w59 49n49 0 08 Oxdrift
+N-- - 63w52 45n44 0 07 Oxford
+N-- - 95w16 54n57 0 03 Oxford House
+N-- - 63w53 45n11 0 07 Oxford Junction
+N-- - 119w23 50n07 0 02 Oyama
+N-- - 128w17 54n46 0 02 Pacific
+N-- - 57w00 53n52 0 05 Packs Harbour
+N-- - 131w53 52n51 0 02 Pacofi
+N-- - 55w52 50n00 0 05 Pacquet
+N-- - 105w34 53n30 0 11 Paddockwood
+NL- - 96w39 61n56 0 14 Padlei
+N-- - 85w13 50n01 0 08 Pagwa River
+V-- - 78w49 53n00 0 10 Paint Hills
+N-- - 81w17 44n18 0 08 Paisley
+N-- - 112w24.18 54n00.17 0 01 Pakan
+N-- - 76w17 45n20 0 08 Pakenham
+N-- - 125w55 54n21 0 02 Palling
+V-- - 79w12 48n40 0 10 Palmarol
+N-- - 79w12 48n40 0 10 Palmarolle
+N-- - 80w51 43n50 0 08 Palmerston
+N-- - 107w27 49n56 0 11 Pambrun
+V-- - 107w27 49n56 0 11 Pamburn
+N-- - 65w45 66n08 0 14 Pangnirtung
+N-- - 75w01 45n37 0 10 Papineauville
+N-- - 76w35 48n14 0 10 Paradis
+V-- - 55w20 49n22 0 05 Paradise
+N-- - 55w20 49n22 0 05 Paradise Cove
+N-- - 109w27 53n32 0 11 Paradise Hill
+N-- - 110w20 53n02 0 01 Paradise Valley
+N-- - 74w37 47n55 0 10 Parent
+N-- - 76w43 44n39 0 08 Parham
+N-- - 80w23 43n12 0 08 Paris
+N-- - 138w40 63n49 0 12 Paris
+N-- - 106w16 50n27 0 11 Parkbeg
+N-- - 63w07 46n15 0 09 Parkdale
+N-- - 65w31 44n49 0 00 Parkers Cove
+N-- - 81w08 44n36 0 08 Park Head
+N-- - 81w41 43n10 0 08 Parkhill
+N-- - 113w40 50n15 0 01 Parkland
+N-- - 124w19 49n18 0 02 Parksville
+N-- - 103w14 51n21 0 11 Parkview
+N-- - 64w19 45n24 0 07 Parrsboro
+V-- - 64w19 45n24 0 07 Parrsborough
+N-- - 80w02 45n20 0 08 Parry Sound
+N-- - 116w39 51n04 0 02 Parson
+N-- - 57w43 50n02 0 05 Parsons Pond
+N-- - 83w10 49n36 0 08 Parthia
+N-- - 107w08 53n31 0 11 Pascal
+N-- - 77w29 48n09 0 10 Pascalis
+N-- - 65w15 48n02 0 10 Paspebiac
+N-- - 105w23 50n22 0 11 Pasqua
+N-- - 88w44 48n34 0 08 Pass Lake
+N-- - 111w41 50n42 0 01 Patricia
+N-- - 123w59 69n23 0 13 Paulatuk
+N-- - 121w50 50n52 0 02 Pavilion
+V-- - 70w02 60n01 0 10 Payne
+V-- - 70w02 60n01 0 10 Payne Bay
+N-- - 108w57 53n01 0 11 Paynton
+N-- - 117w17 56n14 0 01 Peace River
+V-- - 117w17 56n14 0 01 Peace River Crossing
+N-- - 119w45 49n46 0 02 Peachland
+V-- - 62w47 46n18 0 09 Peake
+N-- - 62w47 46n18 0 09 Peakes
+V-- - 62w47 46n18 0 09 Peake Station
+N-- - 102w56 50n09 0 11 Peebles
+N-- - 109w13.36 54n20.51 0 11 Peerless
+N-- - 115w59 53n40 0 01 Peers
+N-- - 79w12 44n19 0 08 Pefferlaw
+N-- - 102w57 55n10 0 11 Pelican Narrows
+N-- - 112w38.20 55n47.59 0 01 Pelican Portage
+N-- - 100w44 52n37 0 03 Pelican Rapids
+N-- - 69w25 47n33 0 10 Pelletier Station
+N-- - 101w55 51n52 0 11 Pelly
+V-- 500 89w49 68n32 0 14 Pelly Bay
+N-- - 136w35 62n50 0 12 Pelly Crossing
+N-- - 122w49 50n19 0 02 Pemberton
+N-- - 122w55 50n25 0 02 Pemberton Meadows
+N-- - 77w07 45n49 0 08 Pembroke
+N-- - 110w52 49n12 0 01 Pendant d'Oreille
+N-- - 75w04 45n27 0 08 Pendleton
+V-- - 67w10 49n47 0 10 Penecost
+N-- - 79w56 44n46 0 08 Penetanguishene
+N-- - 113w52 52n08 0 01 Penhold
+N-- - 86w23 48n43 0 08 Peninsula
+N-- - 107w42 53n41 0 11 Penn
+V-- - 66w41 45n07 0 04 Pennfield
+N-- - 66w41 45n07 0 04 Pennfield Ridge
+N-- - 134w54 59n58 0 02 Pennington
+N-- - 121w16 53n50 0 02 Penny
+N-- - 119w35 49n30 0 02 Penticton
+V-- - 78w38 44n06 0 08 Pentypool
+N-- - 105w26 51n04 0 11 Penzance
+N-- - 107w33 52n03 0 11 Perdue
+N-- - 126w26 54n31 0 02 Perow
+N-- - 77w33 48n10 0 10 Perron
+NL- - 102w22 67n47 0 14 Perry River
+N-- - 53w10 47n48 0 05 Perrys Cove
+N-- - 113w23 54n28 0 01 Perryvale
+N-- - 67w42 46n44 0 04 Perth
+N-- - 76w14 44n53 0 08 Perth
+N-- - 77w17 45n54 0 08 Petawawa
+N-- - 83w21 48n36 0 08 Peterbell
+N-- - 78w20 44n18 0 08 Peterborough
+V-- 900 95w55 68n38 0 14 Peterson Bay
+V-- - 77w17 45n54 0 08 Petewahweh
+V-- - 77w17 45n54 0 08 Petewawa
+N-- - 65w10 45n56 0 04 Petitcodiac
+V-- - 64w01 45n13 0 07 Petite
+N-- - 64w53 49n11 0 10 Petite-Anse
+N-- - 67w27 48n52 0 10 Petite-Matane
+N-- - 70w34 47n19 0 10 Petite-Riviere
+N-- - 64w27 44n14 0 07 Petite Riviere Bridge
+N-- - 60w58 46n39 0 07 Petit-Etang
+V-- - 70w34 47n19 0 10 Petit-Riviere
+N-- - 82w09 42n53 0 08 Petrolia
+N-- - 52w43 47n27 0 05 Petty Harbour
+N-- - 111w37.24 55n10.32 0 01 Philomena
+N-- - 109w07 49n59 0 11 Piapot
+N-- - 113w52 54n16 0 01 Pibroch
+N-- - 58w55 48n33 0 05 Piccadilly
+N-- - 100w34 56n14 0 03 Pickerel Narrows
+N-- - 79w02 43n52 0 08 Pickering
+N-- - 90w03 51n30 0 08 Pickle Crow
+N-- - 77w09 44n01 0 08 Picton
+N-- - 62w42 45n40 0 07 Pictou
+N-- - 69w00 47n28 0 10 Pied-du-Lac
+N-- - 109w46.37 54n20.25 0 11 Pierceland
+N-- - 73w53 45n28 0 10 Pierrefonds
+N-- - 72w48 46n04 0 10 Pierreville
+N-- - 101w15 49n11 0 03 Pierson
+N-- - 94w00 51n49 0 08 Pikangikum
+N-- - 133w37 59n20 0 02 Pike
+N-- - 97w09 55n35 0 03 Pikwitonei
+N-- - 105w17 52n26 0 11 Pilger
+V-- - 55w43 49n30 0 05 Pilleys
+N-- - 55w43 49n30 0 05 Pilley's Island
+N-- - 104w25 50n28 0 11 Pilot Butte
+N-- - 98w54 49n12 0 03 Pilot Mound
+N-- - 119w58 50n44 0 02 Pinantan
+N-- - 95w53 50n09 0 03 Pinawa
+V-- - 113w57 49n29 0 01 Pincher
+N-- - 113w57 49n29 0 01 Pincher Creek
+N-- - 113w57 49n31 0 01 Pincher Station
+N-- - 124w29 54n34 0 02 Pinchi
+N-- - 73w59 45n22 0 10 Pincourt
+N-- - 102w49 54n06 0 11 Pinebluff
+N-- - 96w14 50n33 0 03 Pine Falls
+N-- - 114w28 60n50 0 13 Pine Point
+N-- - 100w32 51n47 0 03 Pine River
+N-- - 120w37 56n01 0 02 Pine Valley
+N-- - 94w18 48n42 0 08 Pinewood
+N-- - 95w58 49n04 0 03 Piney
+N-- - 109w27 51n26 0 11 Pinkham
+N-- - 100w57 49n33 0 03 Pipestone
+V-- - 98w15 54n50 0 03 Pipoon
+N-- - 98w15 54n50 0 03 Pipun
+V-- - 97w09 55n35 0 03 Piquitona
+V-- - 97w09 55n35 0 03 Piquitonay
+N-- - 122w41 49n14 0 02 Pitt Meadows
+N-- - 76w20 44n20 0 08 Pittsburgh
+N-- - 53w58 47n14 0 05 Placentia
+NX- - 71w12 46n49 0 10 Place Royal
+N-- - 112w20.38 54n50.55 0 01 Plamondon
+N-- - 67w23 46n54 0 04 Plaster Rock
+N-- - 53w30 48n30 0 05 Plate Cove
+N-- - 71w46 46n13 0 10 Plessisville
+N-- - 99w05 50n23 0 03 Plumas
+N-- - 97w46 49n11 0 03 Plum Coulee
+N-- - 105w27 51n54 0 11 Plunkett
+N-- - 117w55 53n12 0 01 Pocahontas
+N-- - 66w35 45n08 0 04 Pocologan
+V-- - 58w39 48n39 0 05 Point-a-Mal
+N-- - 58w39 48n39 0 05 Point au Mal
+V-- - 58w39 48n39 0 05 Point au Mall
+V-- - 73w45 45n26 0 10 Point Claire
+N-- - 55w59 46n57 0 05 Point Crewe
+V-- - 75w42 45n28 0 10 Pointe-a-Gatineau
+N-- - 59w49 50n21 0 10 Pointe-a-Maurier
+N-- - 80w22 45n36 0 08 Pointe au Baril Station
+N-- - 68w28 48n31 0 10 Pointe-au-Pere
+N-- - 70w09 47n38 0 10 Pointe-au-Pic
+N-- - 67w10 49n40 0 10 Pointe-aux-Anglais
+N-- - 73w29 45n39 0 10 Pointe-aux-Trembles
+N-- - 72w15 48n34 0 10 Pointe-Bleue
+N-- - 73w58 45n30 0 10 Pointe-Calumet
+N-- - 64w42 47n50 0 04 Pointe-Canot
+N-- - 73w45 45n26 0 10 Pointe-Claire
+V-- - 64w32 46n14 0 04 Pointe de Chene
+V-- - 66w07 44n20 0 07 Pointe-de-l'Eglise
+N-- - 95w33 50n18 0 03 Pointe du Bois
+N-- - 64w32 46n14 0 04 Pointe-du-Chene
+N-- - 72w41 46n17 0 10 Pointe-du-Lac
+N-- - 82w24 43n00 0 08 Point Edward
+N-- - 75w42 45n28 0 10 Pointe-Gatineau
+N-- - 68w12 49n09 0 10 Pointe-Lebel
+N-- - 65w46 47n51 0 04 Pointe Verte
+N-- - 54w04 46n48 0 05 Point Lance
+N-- - 55w24 49n19 0 05 Point Leamington
+N-- - 55w58 46n54 0 05 Point May
+N-- - 82w32 41n58 0 08 Point Pelee
+V-- - 64w11 48n38 0 10 Point Peter
+N-- - 64w11 48n38 0 10 Point Saint Peter
+N-- - 61w22 45n36 0 07 Point Tupper
+N-- - 111w35 51n06 0 01 Pollockville
+N-- - 106w44 53n26 0 11 Polwarth
+V-- - 81w47 46n03 0 08 Poncet
+N-- - 56w48 51n08 0 05 Pond Cove
+N-- 1200 78w00 72n42 0 14 Pond Inlet
+V-- 1200 78w00 72n42 0 14 Ponds
+N-- - 113w34 52n41 0 01 Ponoka
+N-- - 107w29 49n45 0 11 Ponteix
+N-- - 71w42 46n45 0 10 Pont-Rouge
+N-- - 73w40 45n33 0 10 Pont-Viau
+N-- - 78w38 44n06 0 08 Pontypool
+N-- - 55w28 47n41 0 05 Pools Cove
+V-- - 53w35 49n06 0 05 Pools Harbor
+N-- - 53w35 49n06 0 05 Pool's Island
+N-- - 117w08 50n25 0 02 Poplar Creek
+N-- - 94w18 52n06 0 08 Poplar Hill
+N-- - 103w15 52n36 0 11 Porcupine Plain
+N-- - 80w47 48n42 0 08 Porquis Junction
+N-- - 64w04 46n40 0 09 Portage
+N-- - 98w18 49n58 0 03 Portage La Prairie
+V-- - 109w26 56n29 0 11 Portage La Roche
+N-- - 124w48 49n14 0 02 Port Alberni
+N-- - 54w32 49n31 0 05 Port Albert
+N-- - 70w53 48n20 0 10 Port-Alfred
+N-- - 127w26 50n23 0 02 Port Alice
+N-- - 55w50 49n32 0 05 Port Anson
+N-- - 63w42 45n24 0 07 Portapique
+V-- - 89w14 48n24 0 08 Port Arthur
+N-- - 57w22 50n43 0 05 Port au Choix
+N-- - 58w44 48n33 0 05 Port au Port
+N-- - 69w57 47n46 0 10 Port-au-Saumon
+V-- - 59w09 47n34 0 05 Port aux Basques
+N-- - 57w22 50n43 0 10 Port aux Choix
+V-- - 128w54 53n02 0 02 Port Belmont
+N-- - 54w10 48n21 0 05 Port Blandford
+VX- - 63w42 46n15 0 09 Port Borden
+V-- - 133w04 69n27 0 13 Port Brabant
+N-- - 80w49 42n39 0 08 Port Burwell
+NQ- - 64w49 60n25 0 14 Port Burwell
+N-- - 66w52 50n01 0 10 Port-Cariter-Ouest
+N-- - 66w52 50n01 0 10 Port-Cartier
+N-- - 132w10 53n41 0 02 Port Clements
+N-- - 65w28 43n36 0 07 Port Clyde
+N-- - 79w14 42n53 0 08 Port Colborne
+N-- - 122w47 49n16 0 02 Port Coquitlam
+N-- - 79w35 43n33 0 08 Port Credit
+N-- - 79w16 43n12 0 08 Port Dalhousie
+N-- - 64w59 48n11 0 10 Port-Daniel
+V-- - 64w59 48n11 0 10 Port Daniel East
+V-- - 64w59 48n11 0 10 Port-Daniel-Est
+N-- - 80w12 42n47 0 08 Port Dover
+N-- - 62w23 44n55 0 07 Port Dufferin
+N-- - 130w17 54n14 0 02 Port Edward
+N-- - 81w23 44n26 0 08 Port Elgin
+N-- - 64w06 46n03 0 04 Port Elgin
+N-- - 130w06 58n48 0 02 Porter
+V-- - 130w06 58n48 0 02 Porter Landing
+V-- - 130w06 58n48 0 02 Porter's
+N-- - 129w57 54n09 0 02 Port Essington
+N-- - 65w10 45n01 0 07 Port George
+N-- - 64w33 45n25 0 07 Port Greville
+N-- - 127w30 50n43 0 02 Port Hardy
+V-- - 78w09 58n27 0 10 Port Harrison
+N-- - 61w24 45n38 0 07 Port Hastings
+N-- - 61w21 45n36 0 07 Port Hawkesbury
+N-- - 61w32 46n02 0 07 Port Hood
+N-- - 78w18 43n57 0 08 Port Hope
+N-- - 56w18 52n32 0 05 Port Hope Simpson
+V-- - 57w36 50n11 0 05 Portland Cove
+N-- - 57w36 50n11 0 05 Portland Creek
+N-- - 79w59 45n55 0 08 Port Loring
+N-- - 65w16 44n57 0 07 Port Lorne
+N-- - 79w34 42n52 0 08 Port Maitland
+N-- - 66w08 43n58 0 07 Port Maitland
+N-- - 122w49 49n13 0 02 Port Mann
+V-- - 64w51 43n56 0 07 Port Matoon
+N-- - 127w06 50n35 0 02 Port McNeill
+N-- - 79w49 44n45 0 08 Port McNicoll
+N-- - 123w29 49n31 0 02 Port Mellon
+N-- - 64w21 49n49 0 10 Port-Menier
+N-- - 122w51 49n17 0 02 Port Moody
+N-- - 59w53 46n08 0 07 Port Morien
+N-- - 64w51 43n56 0 07 Port Mouton
+V-- - 61w24 45n37 0 07 Port Mulgrave
+N-- - 92w35 57n04 0 03 Port Nelson
+N-- - 71w53 46n41 0 10 Portneuf
+N-- - 126w05 50n29 0 02 Port Neville
+N-- - 65w53 58n32 0 10 Port-Nouveau-Quebec
+N-- - 78w56 44n06 0 08 Port Perry
+N-- - 127w17 50n55 0 02 Port Progress
+VL- - 117w53 66n03 0 13 Port Radium
+N-- - 124w25 48n33 0 02 Port Renfrew
+N-- - 53w21 48n24 0 05 Port Rexton
+N-- - 80w27 42n38 0 08 Port Rowan
+V-- - 64w59 48n11 0 10 Port Saint Martin
+V-- - 58w01 51n19 0 10 Port Saint Servain
+N-- - 58w01 51n19 0 10 Port-Saint-Servan
+N-- - 57w16 50n39 0 05 Port Saunders
+N-- - 79w43 44n48 0 08 Port Severn
+N-- - 130w25 54n33 0 02 Port Simpson
+NX- - 76w32 44n13 0 08 Portsmouth
+N-- - 81w13 42n40 0 08 Port Stanley
+N-- - 52w51 47n38 0 05 Portugal Cove
+N-- - 53w16 46n43 0 05 Portugal Cove South
+N-- - 53w06 48n29 0 05 Port Union
+N-- - 79w13 43n13 0 08 Port Weller
+V-- - 65w16 44n57 0 07 Port Williams
+N-- - 64w24 45n05 0 07 Port Williams
+N-- - 77w47 55n16 0 10 Poste-de-la-Baleine
+V-- - 73w52 50n25 0 10 Poste-de-Mistassini
+N-- - 80w51 48n52 0 08 Potter
+N-- - 120w08 55n43 0 02 Pouce Coupe
+N-- - 52w46 47n46 0 05 Pouch Cove
+N-- - 78w59 48n40 0 10 Poularies
+V-- - 56w48 51n08 0 05 Pound Cove
+V-- - 77w17 60n02 0 10 Povungnetuk
+V-- - 77w17 60n02 0 10 Povungnituc
+V-- - 77w17 60n02 0 10 Povungnituk
+N-- - 79w21 46n04 0 08 Powassan
+N-- - 124w33 49n53 0 02 Powell River
+N-- - 102w59 52n52 0 11 Prairie River
+N-- - 102w40 51n57 0 11 Preeceville
+N-- - 130w01 56n03 0 02 Premier
+N-- - 75w31 44n43 0 08 Prescott
+N-- - 54w31 47n24 0 05 Presque
+N-- - 80w21 43n24 0 08 Preston
+N-- - 73w28 45n28 0 10 Preville
+N-- - 68w07 48n36 0 10 Price
+V-- - 68w07 48n36 0 10 Priceville
+N-- - 108w23 52n58 0 11 Prince
+N-- - 105w45 53n12 0 11 Prince Albert
+N-- - 122w46 53n55 0 02 Prince George
+N-- - 130w20 54n19 0 02 Prince Rupert
+V-- - 78w05 45n24 0 08 Princes Lake
+N-- - 120w30 49n27 0 02 Princeton
+N-- - 53w36 48n25 0 05 Princeton
+N-- - 63w41 46n32 0 09 Princetown
+N-- - 71w53 46n10 0 10 Princeville
+V-- - 67w02 45n55 0 04 Prince William
+N-- - 119w49 50n41 0 02 Pritchard
+N-- - 116w57 49n37 0 02 Procter
+V-- - 116w57 49n37 0 02 Proctor
+N-- - 112w52.43 54n49.14 0 01 Properity
+N-- - 63w48 44n28 0 07 Prospect
+V-- - 117w39 61n22 0 13 Providence
+N-- - 127w37 51n33 0 02 Provincial Cannery
+N-- - 110w16 52n21 0 01 Provost
+N-- - 65w47 43n42 0 07 Pubnico
+N-- - 63w39 45n51 0 07 Pugwash
+N-- - 63w38 45n47 0 07 Pugwash Junction
+N-- - 101w19 55n44 0 03 Pukatawagan
+N-- - 123w13 53n27 0 02 Punchaw
+N-- - 111w54 49n49 0 01 Purple Springs
+N-- - 77w17 60n02 0 10 Puvirnituq
+N-- - 57w33 49n05 0 05 Pynns Brook
+V-- 200 94w54 74n41 0 14 Qausuittuq
+N-- - 64w02 67n33 0 14 Qikiqtarjuaq
+V-- - 65w32 45n21 0 04 Quaco
+N-- - 124w27 49n21 0 02 Qualicum Beach
+N-- - 103w52 50n32 0 11 Qu'Appelle
+N-- - 65w47 46n50 0 04 Quarryville
+N-- - 125w11 50n03 0 02 Quathiaski Cove
+N-- - 127w36 50n32 0 02 Quatsino
+NA- - 71w15 46n48 0 10 Quebec
+N-- - 71w15 46n49 0 10 Quebec-Ouest
+N-- - 132w05 53n15 0 02 Queen Charlotte
+N-- - 61w15 45n21 0 07 Queensport
+N-- - 79w03 43n10 0 08 Queenston
+N-- - 66w06 45n41 0 04 Queenstown
+N-- - 122w29 52n59 0 02 Quesnel
+N-- - 90w56 48n44 0 08 Quetico
+N-- - 93w25 49n57 0 08 Quibell
+N-- - 120w30 50n09 0 02 Quilchena
+N-- - 104w15 52n04 0 11 Quill Lake
+N-- - 125w26 49n59 0 02 Quinsam
+N-- - 90w55 49n25 0 08 Quorn
+N-- - 76w14 45n31 0 10 Quyon
+N-- - 107w46 53n08 0 11 Rabbit Lake
+N-- - 107w24 52n28 0 11 Radisson
+N-- - 77w37 53n47 0 10 Radisson
+N-- - 116w06 50n37 0 02 Radium Hot Springs
+N-- - 104w17 49n28 0 11 Radville
+N-- - 112w56.43 54n03.34 0 01 Radway
+N-- - 116w03 62n50 0 13 Rae
+V-- - 65w07 43n42 0 07 Ragged Island
+V-- - 79w30 44n51 0 08 Ragged Rapids
+N-- - 94w34 48n43 0 08 Rainy River
+N-- - 89w55 48n50 0 08 Raith
+N-- - 55w44 51n33 0 05 Raleigh
+N-- - 113w11 49n17 0 01 Raley
+N-- - 111w11 50n15 0 01 Ralston
+N-- - 63w15 58n52 0 05 Ramah
+N-- - 57w25 47n31 0 05 Ramea
+N-- - 80w19 48n25 0 08 Ramore
+N-- - 140w59 67n25 0 12 Rampart House
+V-- - 82w20 47n26 0 08 Ramsay
+N-- - 82w20 47n26 0 08 Ramsey
+N-- - 130w36 60n05 0 12 Rancheria
+N-- - 111w41 53n25 0 01 Ranfurly
+N-- - 68w52 47n24 0 10 Rang-Saint-David
+N-- - 92w05 62n49 0 14 Rankin Inlet
+V-- - 53w53 47n41 0 05 Rantem
+N-- - 53w53 47n41 0 05 Rantem Station
+N-- - 100w02 50n07 0 03 Rapid City
+N-- - 73w03 47n41 0 10 Rapide-Blanc
+N-- - 108w48.35 54n09.02 0 11 Rapid View
+N-- - 79w16 44n39 0 08 Rathburn
+N-- - 90w13 51n11 0 08 Rat Rapids
+NL- - 112w35 61n07 0 13 Rat River
+N-- - 56w11 49n37 0 05 Rattling Brook
+N-- - 103w25 53n33 0 11 Ravendale
+N-- - 79w06 45n36 0 08 Ravensworth
+N-- - 73w42 46n02 0 10 Rawdon
+N-- - 112w40 49n28 0 01 Raymond
+N-- - 104w32 51n24 0 11 Raymore
+N-- - 97w52 50n05 0 03 Reaburn
+N-- - 139w06 63n46 0 12 Readford
+N-- - 125w05 50n11 0 02 Read Island
+NL- - 114w32 69n12 0 14 Read Island
+V-- - 55w14 47n39 0 05 Recontre East
+N-- - 56w25 51n44 0 05 Red Bay
+N-- - 53w29 48n33 0 05 Red Cliff
+N-- - 110w47 50n05 0 01 Redcliff
+N-- - 113w48 52n16 0 01 Red Deer
+N-- - 105w48 53n01 0 11 Red Deer Hill
+N-- - 54w10 47n23 0 05 Red Island
+V-- - 54w10 47n23 0 05 Red Island Harbour
+N-- - 93w50 51n02 0 08 Red Lake
+N-- - 124w58 50n15 0 02 Redonda Bay
+V-- - 119w31 52n59 0 02 Red Pass
+N-- - 119w31 52n59 0 02 Red Pass Junction
+N-- - 108w16 52n27 0 11 Red Pheasant
+N-- - 55w54 53n29 0 05 Red Point
+N-- - 67w30 46n47 0 04 Red Rapids
+V-- - 114w45 58n24 0 01 Red River
+V-- - 114w45 58n24 0 01 Red River Post
+N-- - 122w39 53n40 0 02 Red Rock
+N-- - 88w17 48n57 0 08 Red Rock
+N-- - 59w19 47n41 0 05 Red Rocks
+N-- - 123w55 49n30 0 02 Redroofs
+N-- - 123w42 52n08 0 02 Redstone
+N-- - 101w42 49n34 0 11 Redvers
+N-- - 79w38 46n54 0 08 Redwater
+V-- - 79w38 46n54 0 08 Redwater Station
+N-- - 112w34 52n27 0 01 Red Willow
+N-- - 130w36 54n01 0 02 Refuge Bay
+N-- - 124w51 50n07 0 02 Refuge Cove
+NA- - 104w37 50n27 0 11 Regina
+V-- - 139w26 64n02 0 12 Reindeer
+N-- - 109w08 62n42 0 13 Reliance
+N-- - 55w14 47n37 0 05 Rencontre East
+N-- - 52w58 46n56 0 05 Renews
+N-- - 76w41 45n28 0 08 Renfrew
+N-- - 95w33 49n51 0 03 Rennie
+N-- - 65w48 46n49 0 04 Renous
+N-- - 100w48 52n05 0 03 Renwer
+N-- - 73w27 45n44 0 10 Repentigny
+N-- - 86w14 66n31 0 14 Repulse Bay
+N-- - 102w39 52n28 0 11 Reserve
+N-- 200 94w54 74n41 0 14 Resolute
+V-- - 113w41 61n10 0 13 Resolution
+N-- - 101w05 49n33 0 03 Reston
+N-- - 112w15 50n04 0 01 Retlaw
+N-- - 118w11 51n00 0 02 Revelstoke
+N-- - 108w54 52n16 0 11 Revenue
+N-- - 109w22 52n18 0 11 Reward
+N-- - 79w34 43n43 0 08 Rexdale
+N-- - 122w26 50n51 0 02 Rexmount
+N-- - 55w53 52n35 0 05 Rexons Cove
+N-- - 64w52 46n38 0 04 Rexton
+N-- - 105w27 52n38 0 11 Reynaud
+N-- - 95w54 49n40 0 03 Reynolds
+N-- - 102w12 51n21 0 11 Rhein
+N-- - 104w19 50n06 0 11 Riceton
+N-- - 92w18 49n59 0 08 Richan
+N-- - 107w42 52n42 0 11 Richard
+N-- - 56w25 47n36 0 05 Richards Harbour
+N-- - 84w02 46n17 0 08 Richards Landing
+N-- - 66w56 45n00 0 04 Richardson
+N-- - 75w15 45n27 0 10 Richelieu
+N-- - 96w27 49n39 0 03 Richer
+N-- - 64w52 46n41 0 04 Richibucto
+N-- - 111w37.05 54n30.33 0 01 Rich Lake
+N-- - 122w58 49n10 0 02 Richmond
+N-- - 75w50 45n11 0 08 Richmond
+N-- - 72w09 45n40 0 10 Richmond
+V-- - 65w50 48n10 0 10 Richmond
+N-- - 79w26 43n52 0 08 Richmond Hill
+N-- - 81w53 42n26 0 08 Ridgetown
+N-- - 97w01 49n04 0 03 Ridgeville
+N-- - 111w01.39 54n10.53 0 01 Rife
+N-- - 74w18 45n28 0 10 Rigaud
+N-- - 58w26 54n10 0 05 Rigolet
+V-- - 58w26 54n10 0 05 Rigoulette
+N-- - 114w13 52n38 0 01 Rimbey
+N-- - 68w31 48n26 0 10 Rimouski
+N-- - 116w51 49n46 0 02 Riondel
+N-- - 81w35 44n04 0 08 Ripley
+N-- - 75w06 45n47 0 10 Ripon
+N-- - 66w12 45n59 0 04 Ripples
+N-- - 122w31 51n58 0 02 Riske Creek
+N-- - 71w39 48n33 0 10 Riverbend
+N-- - 66w17 47n58 0 04 River Charlo
+V-- 800 68w34 70n27 0 14 River Clyde
+N-- - 67w44 46n36 0 04 River de Chute
+N-- - 64w23 45n41 0 07 River Hebert
+N-- - 106w51 50n55 0 11 Riverhurst
+N-- - 63w03 45n44 0 07 River John
+N-- - 57w23 50n32 0 05 River of Ponds
+N-- - 100w13 50n02 0 03 Rivers
+N-- - 63w02 45n25 0 07 Riversdale
+N-- - 64w43 45n45 0 04 Riverside
+N-- - 82w57 42n20 0 08 Riverside
+N-- - 127w15 51n41 0 02 Rivers Inlet
+N-- - 97w00 51n00 0 03 Riverton
+N-- - 80w11 46n35 0 08 River Valley
+N-- - 65w55 49n13 0 10 Riviere-a-Claude
+N-- - 72w11 46n59 0 10 Riviere-a-Pierre
+N-- - 72w39 48n42 0 10 Riviere-au-Dore
+V-- - 64w23 48n59 0 10 Riviere-au-Renard
+N-- - 64w46 50n16 0 10 Riviere-au-Tonnerre
+N-- - 65w12 50n17 0 10 Riviere-aux-Graines
+V-- - 58w01 51n19 0 10 Riviere Baie des Rochers
+N-- - 67w42 48n47 0 10 Riviere-Blanche
+N-- - 69w02 47n26 0 10 Riviere-Bleue
+N-- - 71w50 46n34 0 10 Riviere-Bois-Clair
+V-- - 67w44 46n36 0 04 Riviere des Chutes
+N-- - 73w34 45n40 0 10 Riviere-des-Prairies
+N-- - 69w32 47n50 0 10 Riviere-du-Loup
+V-- - 69w32 47n50 0 10 Riviere-du-Loup-en-Bas
+N-- - 71w02 48n26 0 10 Riviere-du-Moulin
+N-- - 65w19 49n14 0 10 Riviere-la-Madeleine
+V-- - 65w19 49n14 0 10 Riviere Madeleine
+N-- - 67w20 48n40 0 10 Riviere-Matane
+N-- - 67w10 49n47 0 10 Riviere-Pentecote
+N-- - 65w35 50n17 0 10 Riviere-Pigou
+N-- - 64w20 50n17 0 10 Riviere-Saint-Jean
+N-- - 123w37 49n25 0 02 Roberts Creek
+V-- - 71w13 46n08 0 10 Robertson
+N-- - 71w13 46n08 0 10 Robertsonville
+N-- - 72w13 48n31 0 10 Roberval
+N-- - 134w51 60n27 0 12 Robinson
+V-- - 58w46 48n15 0 05 Robinsons
+N-- - 58w46 48n15 0 05 Robinsons Station
+N-- - 101w21 51n14 0 03 Roblin
+N-- - 77w01 44n23 0 08 Roblin
+N-- - 109w16 49n22 0 11 Robsart
+N-- - 101w42 50n23 0 11 Rocanville
+N-- - 77w28 48n40 0 10 Rochebaucourt
+N-- - 112w45 61n23 0 13 Rocher River
+N-- - 115w02 53n55 0 01 Rochfort Bridge
+N-- - 125w29 50n20 0 02 Rock Bay
+N-- - 75w41 45n27 0 08 Rockcliffe Park
+N-- - 118w59 49n04 0 02 Rock Creek
+N-- - 105w57 49n11 0 11 Rockglen
+N-- - 55w03 47n11 0 05 Rock Harbour
+N-- - 72w06 45n00 0 10 Rock Island
+N-- - 75w17 45n32 0 08 Rockland
+V-- - 75w41 45n27 0 08 Rockliffe
+V-- - 77w53 46n13 0 08 Rockliffe
+N-- - 75w56 44n22 0 08 Rockport
+V-- - 58w01 51n19 0 10 Rocky Bay
+N-- - 114w55 52n22 0 01 Rocky Mountain House
+N-- - 123w33 48n19 0 02 Rocky Point
+N-- - 56w07 50n51 0 05 Roddickton
+N-- - 81w41 42n34 0 08 Rodney
+N-- - 117w29 51n29 0 02 Rogers
+N-- - 65w25 46n43 0 04 Rogersville
+N-- - 79w27 54n24 0 10 Roggan River
+N-- - 97w57 49n22 0 03 Roland
+N-- - 120w08 55n54 0 02 Rolla
+N-- - 120w07 56n06 0 02 Rolla Landing
+N-- - 79w15 47n56 0 10 Rollet
+N-- - 117w25 56n12 0 01 Roma
+V-- - 60w43 50n13 0 10 Romaine
+N-- - 91w23 50n56 0 08 Root Portage
+N-- - 99w36 51n23 0 03 Rorketon
+N-- - 112w27 52n47 0 01 Rosalind
+N-- - 67w02 45n55 0 04 Rosborough
+N-- - 58w43 47n37 0 05 Rose Blanche
+N-- - 112w57 51n18 0 01 Rosebud
+N-- - 112w38 51n25 0 01 Rosedale
+N-- - 131w05 52n09 0 02 Rose Harbour
+N-- - 126w02 54n24 0 02 Rose Lake
+N-- - 111w41 51n25 0 01 Rose Lynn
+N-- - 112w05 50n46 0 01 Rosemary
+N-- - 73w49 45n38 0 10 Rosemere
+N-- - 97w33 49n12 0 03 Rosenfeld
+N-- - 120w47 56n31 0 02 Rose Prairie
+N-- - 108w27 50n27 0 11 Roseray
+V-- - 106w20 52n39 0 11 Rosethern
+N-- - 107w59 51n33 0 11 Rosetown
+N-- - 116w10 53n40 0 01 Rosevear
+N-- - 65w21 43n38 0 07 Roseway
+V-- - 96w26 49n45 0 03 Ross
+N-- - 100w49 50n40 0 03 Rossburn
+N-- - 117w49 49n05 0 02 Rossland
+N-- - 87w31 48n50 0 08 Rossport
+V-- - 132w27 61n59 0 12 Ross Post
+N-- - 132w27 61n59 0 12 Ross River
+N-- - 128w46 54n49 0 02 Rosswood
+N-- - 106w20 52n39 0 11 Rosthern
+N-- - 111w13 52n38 0 01 Rosyth
+N-- - 66w00 45n23 0 04 Rothesay
+N-- - 104w54 50n11 0 11 Rouleau
+N-- - 55w40 49n52 0 05 Round Harbour
+N-- - 112w37 53n10 0 01 Round Hill
+N-- - 91w20 52n57 0 08 Round Lake
+N-- - 67w09 48n10 0 10 Routhierville
+N-- - 79w02 48n15 0 10 Rouyn
+N-- - 73w49 45n30 0 10 Roxboro
+N-- - 125w32 50n31 0 02 Roy
+N-- - 118w50 56n13 0 01 Royce
+N-- - 137w55 61n05 0 12 Ruby Camp
+N-- - 81w28 47n15 0 08 Ruel
+V-- - 65w07 43n42 0 07 Rugged Island
+N-- - 112w51 51n51 0 01 Rumsey
+V-- - 78w46 51n29 0 10 Rupert House
+N-- - 101w17 50n47 0 03 Russell
+N-- - 63w18 46n25 0 09 Rustico
+N-- - 79w02 46n16 0 08 Rutherglen
+N-- - 118w43 55n46 0 01 Rycroft
+N-- - 101w40 49n47 0 11 Ryerson
+V-- - 65w04 43n50 0 07 Sabie River
+N-- - 65w04 43n50 0 07 Sable River
+N-- - 125w12 71n59 0 13 Sachs Harbour
+N-- - 64w21 45n53 0 04 Sackville
+N-- - 68w35 48n26 0 10 Sacre-Coeur
+N-- - 69w49 48n14 0 10 Sacre-Coeur-Saguenay
+N-- - 93w40 53n44 0 03 Sagawitchewan
+N-- - 75w38 62n12 0 10 Saglouc
+N-- - 69w54 46n51 0 10 Saint-Adalbert
+N-- - 71w26 46n34 0 10 Saint-Agapit
+V-- - 71w26 46n34 0 10 Saint-Agapitville
+N-- - 72w05 46n42 0 10 Saint-Alban
+N-- - 55w51 47n52 0 05 Saint Albans
+N-- - 113w38 53n38 0 01 Saint Albert
+V-- - 69w38 47n41 0 10 Saint-Alexandre
+N-- - 69w38 47n41 0 10 Saint-Alexandre-de-Kamouraska
+N-- - 71w19 48n33 0 10 Saint-Ambroise
+N-- - 68w26 48n29 0 10 Saint-Anaclet
+N-- - 69w44 47n40 0 10 Saint-Andre
+N-- - 75w03 45n43 0 10 Saint-Andre-Avellin
+V-- - 69w44 47n40 0 10 Saint-Andre-de-Kamouraska
+N-- - 67w02 45n04 0 04 Saint Andrews
+N-- - 59w14 47n47 0 05 Saint Andrews
+N-- - 74w21 45n08 0 10 Saint-Anicet
+V-- - 60w37 46n15 0 07 Saint Ann
+V-- - 71w04 48n27 0 10 Saint Anne De Chicoutimi
+N-- - 60w37 46n15 0 07 Saint Anns
+N-- - 70w58 46n37 0 10 Saint-Anselme
+N-- - 64w45 46n22 0 04 Saint Anthony
+N-- - 55w36 51n23 0 05 Saint Anthony
+V-- - 55w36 51n23 0 05 Saint Anthony Harbour
+V-- - 71w34 46n39 0 10 Saint Antione
+V-- - 71w34 46n39 0 10 Saint Antoine
+V-- - 65w34 49n15 0 10 Saint Antoine
+N-- - 73w59 45n46 0 10 Saint-Antoine-des-Laurentides
+N-- - 72w21 49n04 0 10 Saint-Antoine-du-Lac-Saint-Jean
+N-- - 71w34 46n39 0 10 Saint-Antoine-Lotbiniere
+N-- - 69w29 47n46 0 10 Saint-Antonin
+N-- - 69w25 47n26 0 10 Saint-Athanase
+N-- - 58w39 51n14 0 10 Saint-Augustin
+V-- - 55w44 50n12 0 05 Saint Barbe Islands
+N-- - 73w07 46n11 0 10 Saint-Barthelemi
+V-- - 73w07 46n11 0 10 Saint-Barthelemy
+V-- - 73w07 46n11 0 10 Saint-Barthelemy-de-Dusable
+N-- - 71w49 46n45 0 10 Saint-Basile
+V-- - 71w49 46n45 0 10 Saint-Basile-de-Portneuf
+N-- - 54w58 47n32 0 05 Saint Bernards
+V-- - 77w41 48n31 0 10 Saint Blaise de Barraute
+N-- - 97w06 49n54 0 03 Saint Boniface
+N-- - 53w41 48n51 0 05 Saint Brendans
+N-- - 54w11 46n55 0 05 Saint Bride's
+N-- - 104w53 52n38 0 11 Saint Brieux
+V-- - 79w26 47n28 0 10 Saint Bruno
+N-- - 79w26 47n28 0 10 Saint-Bruno-de-Guigues
+N-- - 69w45 47n27 0 10 Saint-Bruno-de-Kamouraska
+N-- - 73w21 45n32 0 10 Saint-Bruno-de-Montarville
+N-- - 71w40 48n28 0 10 Saint-Bruno-Lac-Saint-Jean
+N-- - 70w12 46n29 0 10 Saint-Camille
+V-- - 70w12 46n29 0 10 Saint-Camille-de-Bellechasse
+N-- - 72w08 46n40 0 10 Saint-Casimir
+N-- - 79w14 43n10 0 08 Saint Catharines
+V-- - 79w14 43n10 0 08 Saint Catherines
+N-- - 73w00 45n24 0 10 Saint-Cesaire
+N-- - 80w25 46n21 0 08 Saint-Charles
+N-- - 70w57 46n46 0 10 Saint-Charles
+V-- - 70w57 46n46 0 10 Saint-Charles-de-Bellechasse
+N-- - 72w03 46n35 0 10 Saint-Charles-des-Grondines
+N-- - 73w11 45n41 0 10 Saint-Charles-sur-Richelieu
+N-- - 73w45 45n06 0 10 Saint-Chrysostome
+N-- - 82w51 42n19 0 08 Saint Clair Beach
+N-- - 69w06 47n55 0 10 Saint-Clement
+N-- - 71w42 48n38 0 10 Saint-Coeur-de-Marie
+V-- - 70w31 46n03 0 10 Saint Come
+N-- - 72w26 45n56 0 10 Saint-Cyrille
+N-- - 108w03.07 54n12.59 0 11 Saint Cyr Lake
+V-- - 72w26 45n56 0 10 Saint-Cyrville-de-Wendover
+V-- - 68w52 47n24 0 10 Saint David
+N-- - 71w12 46n47 0 10 Saint-David-de-l'Auberiviere
+V-- - 69w09 47n27 0 10 Saint-David-d'Estcourt
+N-- - 58w52 48n12 0 05 Saint Davids
+N-- - 73w09 45n47 0 10 Saint-Denis
+N-- - 69w56 47n30 0 10 Saint-Denis
+V-- - 69w56 47n30 0 10 Saint-Denis-de-la-Bouteillerie
+V-- - 73w09 45n47 0 10 Saint-Denis-Riviere-Richelieu
+V-- - 74w13 46n19 0 10 Saint Donat
+N-- - 74w13 46n19 0 10 Saint-Donat-de-Montcalm
+N-- - 64w37 48n21 0 10 Sainte-Adelaide
+V-- - 64w37 48n21 0 10 Sainte-Adelaide-de-Pabos
+N-- - 74w09 45n57 0 10 Sainte-Adele
+V-- - 74w17 46n02 0 10 Sainte-Agathe
+N-- - 74w17 46n02 0 10 Sainte-Agathe-des-Monts
+N-- - 74w24 45n01 0 10 Sainte-Agnes
+V-- - 74w24 45n01 0 10 Sainte-Agnes-de-Dundee
+N-- - 68w05 48n32 0 10 Sainte-Angele
+N-- - 72w31 46n19 0 10 Sainte-Angele-de-Laval
+N-- - 96w40 49n40 0 03 Sainte-Anne
+N-- - 70w56 47n01 0 10 Sainte-Anne-de-Beaupre
+N-- - 73w54 45n29 0 10 Sainte-Anne-de-Bellevue
+N-- - 71w04 48n27 0 10 Sainte-Anne-de-Chicoutimi
+N-- - 70w02 47n22 0 10 Sainte-Anne-de-la-Pocatiere
+V-- - 96w40 49n40 0 03 Sainte Anne-des-Chenes
+N-- - 66w29 49n07 0 10 Sainte-Anne-des-Monts
+N-- - 75w19 46n52 0 10 Sainte-Anne-du-Lac
+N-- - 70w12 46n48 0 10 Sainte-Apolline-de-Patton
+N-- - 68w27 48n21 0 10 Sainte-Blandine
+V-- - 70w12 46n29 0 10 Sainte Camille
+V-- - 73w35 45n24 0 10 Sainte-Catherine
+N-- - 71w37 46n51 0 10 Sainte-Catherine
+N-- - 76w02 45n39 0 10 Sainte-Cecile-de-Masham
+N-- - 70w51 46n36 0 10 Sainte-Claire
+N-- - 71w44 46n37 0 10 Sainte-Croix
+N-- - 73w49 45n32 0 10 Sainte-Dorothee
+V-- - 79w22 47n12 0 10 Saint Edouard
+N-- - 79w22 47n12 0 10 Saint-Edouard-de-Fabre
+N-- - 73w39 46n19 0 10 Sainte-Emelie
+V-- - 73w39 46n19 0 10 Sainte-Emelie-de-l'Energie
+N-- - 70w57 46n58 0 10 Sainte-Famille
+N-- - 67w20 48n54 0 10 Sainte-Felicite
+N-- - 72w44 46n37 0 10 Sainte-Flore
+N-- - 67w15 48n15 0 10 Sainte-Florence
+N-- - 71w18 46n47 0 10 Sainte-Foy
+V-- - 96w26 49n45 0 03 Sainte Genevieve
+N-- - 72w21 46n32 0 10 Sainte-Genevieve-de-Batiscan
+N-- - 73w52 45n29 0 10 Sainte-Genevieve-de-Pierrefonds
+N-- - 70w30 46n24 0 10 Sainte-Germaine-du-Lac-Etchemin
+N-- - 72w21 48n29 0 10 Sainte-Hedwidge-de-Roberval
+N-- - 69w44 47n36 0 10 Sainte-Helene-de-Kamouraska
+N-- - 70w59 46n34 0 10 Sainte-Henedine
+V-- - 73w56 45n24 0 10 Sainte Jeanne
+N-- - 73w43 45n58 0 10 Sainte-Julienne
+N-- - 63w49 46n25 0 09 Saint Eleanors
+N-- - 69w17 47n29 0 10 Saint-Eleuthere
+N-- - 72w02 45n24 0 10 Saint-Elie-d'Orford
+N-- - 69w13 48n02 0 10 Saint-Eloi
+N-- - 74w11 46n08 0 10 Sainte-Lucie-de-Doncaster
+N-- - 73w44 45n36 0 10 Saint-Elzear
+V-- - 73w44 45n36 0 10 Saint Elzear de Laval
+N-- - 74w04 46n02 0 10 Sainte-Marguerite
+N-- - 71w01 46n26 0 10 Sainte-Marie
+V-- - 71w01 46n26 0 10 Sainte Marie Beauce
+V-- - 66w10 49n12 0 10 Sainte Marthe de Gaspe
+N-- - 73w48 45n14 0 10 Sainte-Martine
+N-- - 72w30 46n11 0 10 Sainte-Monique
+V-- - 71w51 48n44 0 10 Lac-Saint-Jean Sainte-Monique
+N-- - 72w54 45n39 0 10 Sainte-Rosalie
+N-- - 73w47 45n37 0 10 Sainte-Rose
+N-- - 68w39 47n33 0 10 Sainte-Rose-du-Degele
+N-- - 99w32 51n03 0 03 Sainte-Rose-du-Lac
+V-- - 74w06 45n39 0 10 Sainte-Scholastique
+N-- - 72w30 46n48 0 10 Sainte-Thecle
+N-- - 73w51 45n38 0 10 Sainte-Therese
+V-- - 73w51 45n38 0 10 Sainte-Therese-de-Blainville
+N-- - 71w18 46n39 0 10 Saint-Etienne
+N-- - 68w55 47n32 0 10 Saint-Eusebe
+N-- - 73w54 45n34 0 10 Saint-Eustache
+N-- - 73w53 45n32 0 10 Saint-Eustache-sur-le-Lac
+V-- - 70w57 45n58 0 10 Saint Evariste Station
+N-- - 68w52 48n17 0 10 Saint-Fabien
+V-- - 72w27 48n39 0 10 Saint Felecian
+N-- - 72w27 48n39 0 10 Saint-Felicien
+N-- - 73w25 46n10 0 10 Saint-Felix-de-Valois
+N-- - 70w51 47n07 0 10 Saint-Fereol
+N-- - 69w59 47n44 0 10 Saint-Fidele-de-Mont-Murray
+N-- - 58w51 48n11 0 05 Saint Fintans
+V-- - 70w34 47n19 0 10 Saint Francis Xavier
+V-- - 72w50 46n04 0 10 Saint Francois
+N-- - 70w49 47n00 0 10 Saint-Francois
+N-- - 72w08 48n20 0 10 Saint-Francois-de-Sales
+N-- - 72w50 46n04 0 10 Saint-Francois-du-Lac
+V-- - 70w34 47n19 0 10 Saint Francois Xavier
+V-- - 70w34 47n19 0 10 Saint-Francois-Xavier-de-la-Petite-Riviere
+N-- - 70w54 48n27 0 10 Saint-Fulgence
+N-- - 73w22 46n17 0 10 Saint-Gabriel
+N-- - 68w09 48n26 0 10 Saint-Gabriel
+V-- - 73w22 46n17 0 10 Saint-Gabriel-de-Brandon
+V-- - 70w39 45n51 0 10 Saint Gedeon
+N-- - 71w47 48n29 0 10 Saint-Gedeon
+N-- - 70w39 45n51 0 10 Saint-Gedeon-de-Beauce
+N-- - 96w26 49n45 0 03 Saint Genevieve Station
+N-- - 66w49 45n08 0 04 Saint George
+V-- - 58w30 48n26 0 05 Saint George
+V-- - 64w59 48n11 0 10 Saint George Port Daniel
+N-- - 58w30 48n26 0 05 Saint George's
+N-- - 72w40 46n37 0 10 Saint-Georges
+N-- - 70w40 46n07 0 10 Saint-Georges
+V-- - 70w40 46n07 0 10 Saint Georges de Beauce
+N-- - 69w30 47n55 0 10 Saint-Georges-de-Cacouna
+N-- - 108w57.06 55n52.56 0 11 Saint George's Hill
+N-- - 70w41 46n07 0 10 Saint-Georges-Ouest
+N-- - 71w25 45n46 0 10 Saint-Gerard
+N-- - 72w34 45n50 0 10 Saint-Germain-de-Grantham
+N-- - 69w48 47n36 0 10 Saint-Germain-de-Kamouraska
+N-- - 104w50 52n11 0 11 Saint Gregor
+V-- - 72w46 45n53 0 10 Saint Guillaume
+N-- - 72w46 45n53 0 10 Saint-Guillaume-d'Upton
+V-- - 72w21 48n29 0 10 Saint Hedwidge
+V-- - 64w45 49n08 0 10 Saint Helier
+N-- - 71w04 46n41 0 10 Saint-Henri
+V-- - 71w04 46n41 0 10 Saint-Henri-de-Levis
+N-- - 71w49 48n40 0 10 Saint-Henri-de-Taillon
+N-- - 73w12 45n34 0 10 Saint-Hilaire
+V-- - 73w12 45n34 0 10 Saint Hilaire Village
+N-- - 70w24 47n34 0 10 Saint Hilarion
+N-- - 74w01 46n56 0 10 Saint-Hippolyte-de-Kilkenny
+N-- - 71w05 48n32 0 10 Saint-Honore
+N-- - 69w08 47n43 0 10 Saint-Honore
+V-- - 69w08 47n43 0 10 Saint-Honore-de-Temiscouata
+N-- - 69w09 47n48 0 10 Saint-Hubert
+V-- - 69w09 47n48 0 10 Saint-Hubert-de-Temiscouata
+N-- - 72w56 45n38 0 10 Saint-Hyacinthe
+N-- - 70w12 47n34 0 10 Saint-Irenee
+V-- - 71w31 45n16 0 10 Saint Isidore
+N-- - 71w31 45n16 0 10 Saint-Isidore d'Auckland
+N-- - 105w55 52n47 0 11 Saint-Isidore-de-Bellevue
+N-- - 55w27 47n30 0 05 Saint-Jacques
+N-- - 73w35 45n57 0 10 Saint-Jacques
+V-- - 73w35 45n57 0 10 Saint Jacques de l'Achigan
+N-- - 97w15 49n54 0 03 Saint James
+V-- - 73w56 45n24 0 10 Saint Jean
+N-- - 73w15 45n18 0 10 Saint-Jean
+N-- - 67w06 48n52 0 10 Saint-Jean
+N-- - 70w11 47n07 0 10 Saint-Jean-Baptiste
+N-- - 71w08 46n54 0 10 Saint-Jean-de-Boischatel
+V-- - 67w06 48n52 0 10 Saint Jean de Cherbourg
+N-- - 69w03 48n01 0 10 Saint-Jean-de-Dieu
+N-- - 73w32 46n13 0 10 Saint-Jean-de-Matha
+N-- - 71w08 48n26 0 10 Saint-Jean-Eudes
+N-- - 70w16 47n12 0 10 Saint-Jean-Port-Joli
+N-- - 74w00 45n46 0 10 Saint-Jerome
+N-- - 70w51 47n03 0 10 Saint-Joachim
+V-- - 70w51 47n03 0 10 Saint-Joachim-de-Montmorency
+N-- - 66w04 45n16 0 04 Saint John
+V-- - 73w15 45n18 0 10 Saint Johns
+NA- - 52w40 47n33 0 05 Saint John's
+N-- - 53w46 48n03 0 05 Saint Jones Within
+V-- - 70w52 46n18 0 10 Saint Joseph
+V-- - 71w39 48n33 0 10 Saint-Joseph-d'Alma
+N-- - 70w52 46n18 0 10 Saint-Joseph-de-Beauce
+N-- - 71w40 45n50 0 10 Saint-Joseph-de-Ham-Sud
+N-- - 69w38 47n37 0 10 Saint-Joseph-de-Kamouraska
+N-- - 69w03 47n26 0 10 Saint-Joseph-de-la-Riviere-Bleue
+N-- - 73w08 46n02 0 10 Saint-Joseph-de-Sorel
+V-- - 54w47 47n23 0 05 Saint Joseph Harbour
+N-- - 53w31 47n07 0 05 Saint Josephs
+N-- - 54w47 47n23 0 05 Saint Josephs
+N-- - 74w35 46n07 0 10 Saint-Jovite
+N-- - 72w59 45n46 0 10 Saint-Jude
+V-- - 55w47 51n05 0 05 Saint Julian's
+V-- - 55w47 51n05 0 05 Saint Julien
+N-- - 55w47 51n05 0 05 Saint Julien's
+N-- - 73w05 46n15 0 10 Saint-Justin
+N-- - 54w28 47n26 0 05 Saint Kyrans
+N-- - 73w30 45n29 0 10 Saint-Lambert
+V-- - 73w30 45n29 0 10 Saint-Lambert-Chambly
+N-- - 97w57 50n25 0 03 Saint-Laurent
+N-- - 73w40 45n31 0 10 Saint-Laurent
+N-- - 55w24 46n54 0 05 Saint Lawrence
+N-- - 101w18 50n27 0 03 Saint Lazare
+N-- - 70w48 46n39 0 10 Saint-Lazare
+N-- - 117w54 50n26 0 02 Saint Leon
+N-- - 71w31 48n40 0 10 Saint-Leon
+N-- - 67w55 47n10 0 04 Saint Leonard
+N-- - 73w36 45n35 0 10 Saint-Leonard
+N-- - 70w37 46n29 0 10 Saint-Leon-de-Standon
+N-- - 73w46 45n51 0 10 Saint-Lin
+N-- - 111w27.10 54n17.55 0 01 Saint Lina
+V-- - 64w58 46n44 0 04 Saint Louis
+N-- - 105w48 52n55 0 11 Saint Louis
+V-- - 71w09 46n53 0 10 Saint Louis-de-Courville
+N-- - 64w58 46n44 0 04 Saint Louis de Kent
+N-- - 73w47 45n42 0 10 Saint-Louis-de-Terrebonne
+N-- - 70w42 45n45 0 10 Saint-Ludger
+V-- - 64w33 48n53 0 10 Saint Majorique
+N-- - 70w46 46n32 0 10 Saint-Malachie
+N-- - 71w30 45n12 0 10 Saint-Malo
+N-- - 72w02 46n41 0 10 Saint-Marc-des-Carrieres
+V-- - 65w11 46n54 0 04 Saint Margaret Bay
+N-- - 65w11 46n54 0 04 Saint Margarets
+N-- - 65w32 45n21 0 04 Saint Martins
+N-- - 53w35 46n55 0 05 Saint Marys
+N-- - 81w08 43n15 0 08 Saint Marys
+V-- - 73w46 45n39 0 10 Saint Maurice
+N-- - 72w32 46n28 0 10 Saint-Maurice
+N-- - 64w29 49n03 0 10 Saint-Maurice
+N-- - 77w59 48n39 0 10 Saint-Maurice-de-Dalquier
+N-- - 71w04 46n31 0 10 Saint-Maxime
+N-- - 73w37 45n34 0 10 Saint-Michel
+N-- - 70w55 46n52 0 10 Saint-Michel
+N-- - 73w55 46n40 0 10 Saint-Michel-des-Saints
+N-- - 67w51 48n32 0 10 Saint-Moise
+V-- - 71w51 48n44 0 10 Saint Monique Lac Saint Jean
+N-- - 72w28 46n33 0 10 Saint-Narcisse
+N-- - 71w33 48n35 0 10 Saint-Nazaire
+N-- - 70w43 46n43 0 10 Saint-Neree
+N-- - 71w24 46n42 0 10 Saint-Nicolas
+N-- - 67w50 48n35 0 10 Saint-Noel
+N-- - 69w59 47n20 0 10 Saint-Onesime
+N-- - 73w09 45n53 0 10 Saint-Ours
+N-- - 69w57 47n25 0 10 Saint-Pacome
+N-- - 69w47 46n57 0 10 Saint-Pamphile
+N-- - 69w49 47n31 0 10 Saint-Pascal
+N-- - 111w17 53n59 0 01 Saint Paul
+NX- - 73w35 45n27 0 10 Saint Paul
+N-- - 72w53 45n26 0 10 Saint-Paul
+N-- - 57w43 51n28 0 10 Saint-Paul
+N-- - 70w22 46n44 0 10 Saint-Paul-de-Montminy
+V-- - 111w17 53n59 0 01 Saint Paul des Metis
+V-- - 57w43 51n28 0 10 Saint-Paul-du-Nord
+N-- - 69w14 48n34 0 10 Saint-Paul-du-Nord
+N-- - 73w29 45n45 0 10 Saint-Paul-l'Ermite
+N-- - 60w52 45n39 0 07 Saint Peters
+N-- - 62w34 46n25 0 09 Saint Peters
+V-- - 62w34 46n25 0 09 Saint Peters Bay
+N-- - 70w27 46n41 0 10 Saint-Philemon
+N-- - 73w28 45n21 0 10 Saint-Philippe-de-Laprairie
+N-- - 69w53 47n27 0 10 Saint-Philippe-de-Neri
+N-- - 72w54 45n30 0 10 Saint-Pie
+N-- - 73w39 45n26 0 10 Saint-Pierre
+V-- - 79w20 47n17 0 10 Saint Placide
+N-- - 79w20 47n17 0 10 Saint-Placide-de-Bearn
+N-- - 72w20 48n36 0 10 Saint-Prime
+N-- - 70w29 46n12 0 10 Saint-Prosper
+V-- - 70w29 46n12 0 10 Saint-Prosper-de-Dorchester
+N-- - 67w23 47n30 0 04 Saint Quentin
+N-- - 70w45 46n47 0 10 Saint-Raphael
+V-- - 70w45 46n47 0 10 Saint-Raphael-Bellechasse
+N-- - 71w50 46n53 0 10 Saint-Raymond
+V-- - 74w46 46n01 0 10 Saint Remi
+N-- - 73w36 45n15 0 10 Saint-Remi
+N-- - 74w46 46n01 0 10 Saint-Remi-d'Amherst
+N-- - 78w56 48n01 0 10 Saint-Roch
+N-- - 73w09 45n53 0 00 Saint-Roch-de-Richelieu
+N-- - 70w11 47n19 0 10 Saint-Roch-des-Aulnaies
+V-- - 71w14 46n45 0 10 Saint Romald
+V-- - 71w14 46n45 0 10 Saint-Romuald
+N-- - 71w14 46n45 0 10 Saint-Romuald-d'Etchemin
+V-- - 74w10 45n54 0 10 Saint-Sauveur
+N-- - 74w10 45n54 0 10 Saint-Sauveur-des-Monts
+N-- - 53w36 46n38 0 05 Saint Shotts
+N-- - 69w53 47n51 0 10 Saint-Simeon
+N-- - 65w34 48n04 0 10 Saint-Simeon
+V-- - 65w34 48n04 0 10 Saint-Simeon-de-Bonaventure
+V-- - 69w01 48n12 0 10 Saint Simon
+N-- - 69w01 48n12 0 10 Saint-Simon-de-Rimouski
+N-- - 72w10 49n00 0 10 Saint-Stanislas
+N-- - 74w08 45n10 0 10 Saint-Stanislas-de-Kostka
+N-- - 67w16 45n12 0 04 Saint Stephen
+V-- - 67w16 45n12 0 04 Saint Stephens
+N-- - 71w14 46n22 0 10 Saint-Sylvestre
+N-- - 81w11 42n47 0 08 Saint Thomas
+N-- - 74w03 45n17 0 10 Saint-Timothee
+N-- - 72w34 46n43 0 10 Saint-Tite
+N-- - 70w46 47n08 0 10 Saint-Tite-des-Caps
+N-- - 72w15 46n45 0 10 Saint-Ubald
+V-- - 67w42 48n47 0 10 Saint-Ulric
+N-- - 67w42 48n47 0 10 Saint-Ulric
+N-- - 70w49 46n53 0 10 Saint-Vallier
+N-- - 111w16.35 54n09.12 0 01 Saint Vincent
+N-- - 53w39 46n48 0 05 Saint Vincent
+N-- - 73w39 45n37 0 10 Saint-Vincent-de-Paul
+N-- - 97w08 49n49 0 03 Saint Vital
+V-- - 109w12 53n38 0 11 Saint Walberg
+N-- - 109w12 53n38 0 11 Saint Walburg
+N-- - 70w22 46n08 0 10 Saint-Zacharie
+N-- - 74w15 45n14 0 10 Saint-Zotique
+V-- - 74w08 45n15 0 10 Salaberry-de-Valleyfield
+N-- - 65w03 46n02 0 04 Salisbury
+V-- 721 83w10 64n08 0 14 Salliq
+N-- - 57w56 49n44 0 05 Sally Cove
+N-- - 117w17 49n12 0 02 Salmo
+N-- - 119w17 50n42 0 02 Salmon Arm
+N-- - 57w37 51n25 0 10 Salmon Bay
+N-- - 53w10 47n47 0 05 Salmon Cove
+N-- - 66w10 44n03 0 07 Salmon River
+N-- - 122w41 54n05 0 02 Salmon Valley
+N-- - 102w10 51n02 0 11 Saltcoats
+NL- - 112w14 60n06 0 13 Salt River
+N-- - 109w31 52n10 0 11 Salvador
+N-- - 53w39 48n40 0 05 Salvage
+N-- - 63w36 44n28 0 07 Sambro
+N-- - 108w05 50n59 0 11 Sanctuary
+N-- - 96w18 49n19 0 03 Sandilands
+N-- - 131w50 53n15 0 02 Sandspit
+NX- - 83w04 42n18 0 08 Sandwich
+N-- - 83w04 42n17 0 08 Sandwich
+N-- - 108w00 53n13 0 11 Sandwith
+N-- - 93w14 53n02 0 08 Sandy Lake
+N-- - 107w17 56n59 0 11 Sandy Lake
+N-- - 103w04 55n04 0 11 Sandy Narrows
+N-- - 58w29 48n27 0 05 Sandy Point
+N-- - 114w54 53n53 0 01 Sangudo
+N-- - 79w14 56n32 0 14 Sanikiluaq
+V-- 650 81w12 68n46 0 14 Sanirajak
+N-- - 128w05 50n40 0 02 San Josef
+N-- - 128w16 50n41 0 02 San Josef Bay
+V-- - 128w16 50n41 0 02 San Joseph Bay
+N-- - 80w57 44n38 0 08 Sarawak
+N-- - 82w24 42n58 0 08 Sarnia
+N-- - 112w41.18 54n45.45 0 01 Sarrail
+V-- - 123w41 48n23 0 02 Saseenos
+N-- - 123w41 48n23 0 02 Saseenos Station
+N-- - 106w40 52n08 0 11 Saskatoon
+NX- - 73w39 45n34 0 10 Sault-au-Recollet
+N-- - 84w20 46n30 0 08 Sault Sainte Marie
+N-- - 90w15 48n57 0 08 Savanne
+N-- - 90w43 50n14 0 08 Savant Lake
+N-- - 120w51 50n45 0 02 Savona
+N-- - 125w10 54n06 0 02 Savory
+N-- - 67w41 48n33 0 10 Sayabec
+N-- - 125w55 50n21 0 02 Sayward
+N-- - 112w02 50n16 0 01 Scandia
+N-- - 111w59 51n52 0 01 Scapa
+N-- - 79w12 43n45 0 08 Scarborough
+N-- - 79w15 43n43 0 08 Scarborough Junction
+N-- - 79w15 43n47 0 08 Scarborough Township
+N-- - 100w58 49n43 0 03 Scarth
+N-- - 66w49 54n48 0 10 Schefferville
+N-- - 101w47 54n40 0 03 Schist Lake
+N-- - 87w16 48n48 0 08 Schreiber
+N-- - 110w05 50n20 0 01 Schuler
+N-- - 81w17 48n28 0 08 Schumacher
+N-- - 79w18 45n31 0 08 Scotia
+N-- - 133w49 59n36 0 02 Scotia Bay
+N-- - 64w24 45n18 0 07 Scots Bay
+N-- - 62w51 45n39 0 07 Scotsburn
+N-- - 108w08 49n43 0 11 Scotsguard
+N-- - 71w17 45n32 0 10 Scotstown
+N-- - 118w41 56n06 0 01 Scotswood
+V-- - 67w11 45n41 0 04 Scott Mills
+V-- - 80w15 48n22 0 08 Scotty Springs
+N-- - 64w34 46n10 0 04 Scoudouc
+N-- - 138w49 63n12 0 12 Scroggie Creek
+N-- - 82w39 41n48 0 08 Scudder
+N-- - 63w16 44n39 0 07 Seaforth
+N-- - 81w23 43n33 0 08 Seaforth
+N-- - 55w40 52n27 0 05 Seal Bight
+N-- - 66w51 44n39 0 04 Seal Cove
+N-- - 56w24 49n56 0 05 Seal Cove
+N-- - 53w05 47n28 0 05 Seal Cove
+N-- - 55w43 53n14 0 05 Seal Islands
+N-- - 84w03 46n47 0 08 Searchmont
+N-- - 59w19 47n50 0 05 Searston
+N-- - 127w22 55n06 0 02 Seaton
+N-- - 114w43 53n34 0 01 Seba Beach
+V-- - 67w41 48n33 0 10 Sebec
+N-- - 123w46 49n28 0 02 Sechelt
+N-- - 110w40 51n40 0 01 Sedalia
+N-- - 115w04 51n06 0 01 Seebe
+V-- - 123w46 49n28 0 02 Seechelt
+N-- - 54w10 49n36 0 05 Seldom
+N-- - 96w53 50n09 0 03 Selkirk
+N-- - 62w26 46n25 0 09 Selkirk
+V-- - 137w23 62n46 0 12 Selkirk
+N-- - 81w01 46n51 0 08 Sellwood
+N-- - 138w17 62n47 0 12 Selwyn
+N-- - 104w44 51n24 0 11 Semans
+N-- - 109w42 52n30 0 11 Senlac
+N-- - 77w15 48n24 0 10 Senneterre
+N-- - 73w58 45n26 0 10 Senneville
+N-- - 57w26 53n37 0 05 Separation Point
+N-- - 66w23 50n12 0 10 Sept-Iles
+V-- - 122w18 50n42 0 02 Seton Lake
+N-- - 122w18 50n42 0 02 Seton Portage
+V-- - 66w23 50n12 0 10 Seven Islands
+N-- - 110w54 49n52 0 01 Sevenpersons
+N-- - 96w02 50n07 0 03 Seven Sister Falls
+V-- - 96w02 50n07 0 03 Seven Sisters Falls
+N-- - 121w24 51n18 0 02 Seventy Mile
+V-- - 87w39 55n59 0 08 Severn
+N-- - 79w20 44n46 0 08 Severn
+V-- - 79w20 44n46 0 08 Severn Bridge
+N-- - 118w47 55n21 0 01 Sexsmith
+N-- - 118w57 51n14 0 02 Seymour Arm
+V-- - 89w54 48n35 0 08 Shabagua
+N-- - 89w54 48n35 0 08 Shabaqua
+V-- - 66w49 54n48 0 10 Shafferville
+N-- - 122w14 50n44 0 02 Shalalth
+N-- - 62w32 49n08 0 10 Shallop
+N-- - 92w05 55n51 0 03 Shamattawa
+V-- - 92w05 55n51 0 03 Shamattawa River
+N-- - 76w41 44n46 0 08 Sharbot Lake
+N-- - 108w25 49n39 0 11 Shaunavon
+N-- - 80w17 45n31 0 08 Shawanaga
+N-- - 74w05 45n52 0 10 Shawbridge
+V-- - 72w44 46n33 0 10 Shawenegan
+N-- - 72w44 46n33 0 10 Shawinigan
+V-- - 72w44 46n33 0 10 Shawinigan Falls
+N-- - 72w45 46n32 0 10 Shawinigan-Sud
+N-- - 76w29 45n36 0 10 Shawville
+N-- - 120w05 56n04 0 02 Shearer Dale
+N-- - 90w04 48n38 0 08 Shebandowan
+N-- - 64w32 46n13 0 04 Shediac
+N-- - 111w41 51n30 0 01 Sheerness
+N-- - 62w32 44n56 0 07 Sheet Harbour
+N-- - 66w18 45n53 0 04 Sheffield
+N-- - 72w35 45n25 0 10 Shefford
+N-- - 103w13 51n35 0 11 Sheho
+N-- - 65w19 43n46 0 07 Shelburne
+N-- - 80w12 44n04 0 08 Shelburne
+V-- - 65w19 43n46 0 07 Shelburne Harbour
+N-- - 64w55 50n16 0 10 Sheldrake
+N-- - 106w24 53n13 0 11 Shellbrook
+N-- - 107w03 53n18 0 11 Shell Lake
+V-- - 66w52 50n01 0 10 Shelter Bay
+N-- - 64w11 46n09 0 04 Shemogue
+V-- - 60w39 46n01 0 07 Shenacadie
+V-- - 60w39 46n01 0 07 Shenacadle
+N-- - 113w55 50n57 0 01 Shepard
+N-- - 125w29 54n10 0 02 Sheraton
+V-- - 71w54 45n24 0 10 Sherbrook
+N-- - 61w59 45n08 0 07 Sherbrooke
+N-- - 71w54 45n24 0 10 Sherbrooke
+N-- - 119w35 53n01 0 02 Shere
+N-- - 101w05 55n07 0 03 Sherridon
+N-- - 63w08 46n17 0 09 Sherwood
+N-- - 113w19 53n31 0 01 Sherwood Park
+N-- - 82w50 45n54 0 08 Sheshegwaning
+N-- - 131w48 58n16 0 02 Sheslay
+V-- - 72w44 46n33 0 10 Shewanegan
+N-- - 80w41 48n32 0 08 Shillington
+N-- - 137w22 69n00 0 12 Shingle Point
+N-- - 54w04 47n06 0 05 Ship Cove
+N-- - 104w59 53n29 0 11 Shipman
+N-- - 64w42 47n44 0 04 Shippegan
+V-- - 64w42 47n44 0 04 Shippigan
+N-- - 71w13 48n27 0 10 Shipshaw
+V-- - 71w14 48n28 0 10 Shipshaw Falls
+N-- - 75w53 45n22 0 08 Shirleys Bay
+V-- - 55w58 49n36 0 05 Shoal Arm
+V-- - 125w22 50n27 0 02 Shoal Bay
+N-- - 57w02 51n01 0 05 Shoal Cove
+N-- - 56w37 51n22 0 05 Shoal Cove
+N-- - 53w59 48n11 0 05 Shoal Harbour
+N-- - 100w35 50n26 0 03 Shoal Lake
+N-- - 55w34 49n55 0 05 Shoe Cove
+V-- - 115w46 49n54 0 02 Shookumchuk
+N-- - 117w32 49n26 0 02 Shoreacres
+N-- - 112w59 50n43 0 01 Shouldice
+N-- - 63w24 45n05 0 07 Shubenacadie
+N-- - 60w39 46n01 0 07 Shunacadie
+N-- - 127w51 50n51 0 02 Shushartie
+N-- - 119w00 50n50 0 02 Sicamous
+N-- - 123w25 48n39 0 02 Sidney
+N-- - 99w04 49n54 0 03 Sidney
+V-- - 60w10 46n09 0 07 Sidney
+V-- - 126w15 49n22 0 02 Sidney Inlet
+V-- - 60w13 46n14 0 07 Sidney Mines
+N-- - 94w10 57n12 0 03 Silcox
+N-- - 71w15 46n46 0 10 Sillery
+N-- - 104w55 50n48 0 11 Silton
+N-- - 55w59 49n41 0 05 Silverdale
+N-- - 88w49 48n20 0 08 Silver Islet
+N-- - 89w53 48n15 0 08 Silver Mountain
+N-- - 104w32 52n40 0 11 Silver Park
+N-- - 80w18 42n50 0 08 Simcoe
+N-- - 108w06 49n57 0 11 Simmie
+N-- - 126w29 50n45 0 02 Simoom Sound
+V-- - 126w29 50n45 0 02 Simoon Sound
+N-- - 105w27 51n27 0 11 Simpson
+V-- - 121w20 61n51 0 13 Simpson
+N-- - 103w26 50n29 0 11 Sintaluta
+N-- - 91w55 50n06 0 08 Sioux Lookout
+V-- - 116w37 49n15 0 02 Sirdad Junction
+N-- - 116w37 49n15 0 02 Sirdar
+V-- - 117w29 51n29 0 02 Six Mile Creek
+N-- - 80w45 46n40 0 08 Skead
+N-- - 129w50 54n15 0 02 Skeena
+N-- - 132w00 53n15 0 02 Skidegate
+N-- - 111w48 49n30 0 01 Skiff
+N-- - 115w46 49n54 0 02 Skookumchuck
+V-- - 99w36 51n57 0 03 Skowman
+N-- - 99w36 51n57 0 03 Skownan
+N-- - 114w47 55n17 0 01 Slave Lake
+N-- - 117w28 49n46 0 02 Slocan
+N-- - 114w02 55n10 0 01 Smith
+N-- - 127w10 54n46 0 02 Smithers
+V-- - 61w32 46n02 0 07 Smith's
+N-- - 76w01 44n54 0 08 Smiths Falls
+N-- - 79w32 43n06 0 08 Smithville
+N-- - 57w15 54n28 0 05 Smokey
+V-- - 57w15 54n28 0 05 Smoky
+N-- - 112w28.25 54n06.47 0 01 Smoky Lake
+N-- - 81w38 49n17 0 08 Smooth Rock Falls
+N-- - 140w22 62n23 0 12 Snag
+V-- - 96w55 51n44 0 03 Snake
+N-- - 122w26 59n02 0 02 Snake River
+V-- - 114w11 64n11 0 13 Snare Lake
+V-- - 114w11 64n11 0 13 Snare Lakes
+N-- - 104w40 53n29 0 11 Snowden
+V-- 300 110w44 62n24 0 13 Snowdrift
+N-- - 111w20.47 54n38.22 0 01 Snug Cove
+N-- - 55w51 52n54 0 05 Snug Harbour
+N-- - 122w17 52n20 0 02 Soda Creek
+N-- - 127w01 50n38 0 02 Sointula
+V-- - 60w44 45n42 0 07 Soldier Cove
+N-- - 60w44 45n42 0 07 Soldiers Cove
+N-- - 82w29 42n43 0 08 Sombra
+N-- - 102w58 52n35 0 11 Somme
+V-- - 64w49 43n57 0 07 Sommerville Center
+N-- - 107w40 52n23 0 11 Sonningdale
+N-- - 61w54 45n04 0 07 Sonora
+N-- - 123w44 48n23 0 02 Sooke
+N-- - 56w55 49n46 0 05 Sops Arm
+N-- - 73w07 46n03 0 10 Sorel
+N-- - 119w28 50n52 0 02 Sorrento
+V-- - 64w34 46n10 0 04 Soudou
+N-- - 54w10 47n50 0 05 Sound Island
+N-- - 100w15 49n37 0 03 Souris
+N-- - 62w15 46n21 0 09 Souris
+N-- - 67w09 46n07 0 04 Southampton
+N-- - 81w22 44n30 0 08 Southampton
+V-- 721 83w10 64n08 0 14 Southampton Island
+N-- - 75w39 44n39 0 08 South Augusta
+N-- - 125w46 54n01 0 02 Southbank
+N-- - 82w01 45n33 0 08 South Baymouth
+N-- - 59w02 47n55 0 05 South Branch
+N-- - 57w37 49n01 0 05 South Brook
+N-- - 56w04 49n25 0 05 South Brook
+N-- - 64w58 44n23 0 07 South Brookfield
+N-- - 80w55 43n20 0 08 South Easthope
+N-- - 103w14 56n20 0 11 Southend
+N-- - 53w38 48n24 0 05 Southern Bay
+V-- - 53w38 48n24 0 05 Southern Bay Station
+N-- - 104w30 50n56 0 11 Southey
+N-- - 108w43 49n36 0 11 South Fork
+N-- - 98w56 56n47 0 03 South Indian Lake
+V-- - 64w26 45n42 0 07 South Joggings
+V-- - 64w26 45n42 0 07 South Joggins
+N-- - 95w46 49n02 0 03 South Junction
+N-- - 74w29 45n08 0 08 South Lancaster
+V-- - 63w31 45n19 0 07 South Maitland
+N-- - 63w28 45n15 0 07 South Maitland
+N-- - 75w56 45n21 0 08 South March
+V-- - 123w22 61n03 0 13 South Nahanni
+N-- - 65w33 46n59 0 04 South Nelson
+N-- - 81w12 48n28 0 08 South Porcupine
+N-- - 53w38 48n03 0 05 Southport
+N-- - 79w22 45n51 0 08 South River
+V-- - 68w59 56n53 0 10 South Road House
+N-- - 72w36 45n29 0 10 South Roxton
+N-- - 107w43 51n31 0 11 Sovereign
+N-- - 53w18 47n37 0 05 Spaniards Bay
+N-- - 82w20 46n11 0 08 Spanish
+N-- - 81w05 42n42 0 08 Sparta
+N-- - 98w21 51n19 0 03 Spearhill
+N-- - 111w43.40 54n08.31 0 01 Spedden
+V-- 500 93w32 69n32 0 14 Spence Bay
+N-- - 54w05 47n40 0 05 Spencer Cove
+N-- - 64w43 45n21 0 07 Spencer Island
+V-- - 64w43 45n21 0 07 Spencers Island
+N-- - 121w21 50n25 0 02 Spences Bridge
+N-- - 97w42 49n31 0 03 Sperling
+N-- - 116w22 50n54 0 02 Spillimacheen
+N-- - 118w50 55n47 0 01 Spirit River
+N-- - 107w31 53n22 0 11 Spiritwood
+N-- - 96w06 56n15 0 03 Split Lake
+N-- - 111w37 51n51 0 01 Spondin
+N-- - 55w47 53n30 0 05 Spotted Islands
+N-- - 82w40 46n12 0 08 Spragge
+N-- - 95w39 49n02 0 03 Sprague
+N-- - 116w55 55n56 0 01 Springburn
+N-- - 56w06 49n29 0 05 Springdale
+N-- - 64w51 44n38 0 07 Springfield
+N-- - 64w03 45n38 0 07 Springhill
+N-- - 122w06 51n55 0 02 Springhouse
+N-- - 105w24 49n57 0 11 Spring Valley
+N-- - 108w22 51n58 0 11 Springwater
+N-- - 78w24 45n37 0 08 Sproule Township
+N-- - 79w28 45n29 0 08 Sprucedale
+N-- - 112w48.02 54n10.54 0 01 Sprucefield
+N-- - 113w55 53n32 0 01 Spruce Grove
+N-- - 112w48.09 54n51.51 0 01 Spruce Valley
+V-- - 90w42 63n20 0 14 Spurell Harbour
+N-- - 114w16 55n14 0 01 Spurfield
+V-- - 96w03 49n15 0 03 Spurgrave
+V-- - 90w42 63n20 0 14 Spurrell Harbour
+N-- - 101w41 50n36 0 11 Spy Hill
+V-- - 68w44 47n52 0 10 Sqatteck
+N-- - 123w09 49n42 0 02 Squamish
+N-- - 55w50 52n44 0 05 Square Island Harbour
+N-- - 68w44 47n52 0 10 Squatteck
+N-- - 137w07 59n59 0 02 Squaw Creek
+N-- - 119w35 50n52 0 02 Squilax
+N-- - 105w26 51n14 0 11 Stalwart
+N-- - 79w06 43n08 0 08 Stamford
+N-- - 72w59 45n07 0 10 Stanbridge Station
+N-- - 112w59 51n07 0 01 Standard
+N-- - 55w04 49n16 0 05 Standhope
+V-- - 55w04 49n16 0 05 Stanhope
+N-- - 66w44 46n17 0 04 Stanley
+V-- - 104w33 55n25 0 11 Stanley
+N-- - 63w27 46n27 0 09 Stanley Bridge
+N-- - 104w33 55n25 0 11 Stanley Mission
+V-- - 66w44 46n17 0 04 Stanley Village
+N-- - 111w31 51n35 0 01 Stanmore
+V-- - 72w05 45n01 0 10 Stanstead
+N-- - 72w05 45n01 0 10 Stanstead Plain
+NL- - 128w52 69n45 0 13 Stanton
+N-- - 104w20 52n52 0 11 Star City
+N-- - 80w05 44n25 0 08 Stayner
+N-- - 57w48 48n58 0 05 Steady Brook
+V-- - 115w38 49n37 0 02 Steele
+N-- - 98w48 51n26 0 03 Steep Rock
+N-- - 91w40 48n50 0 08 Steep Rock Lake
+N-- - 96w41 49n31 0 03 Steinbach
+N-- - 62w39 45n34 0 07 Stellarton
+N-- - 102w21 51n54 0 11 Stenen
+N-- - 116w18 51n27 0 02 Stephen
+N-- - 58w34 48n33 0 05 Stephenville
+N-- - 58w25 48n31 0 05 Stephenville Crossing
+N-- - 112w41 52n20 0 01 Stettler
+N-- - 123w11 49n08 0 02 Steveston
+N-- - 130w00 55n56 0 02 Stewart
+N-- - 139w25 63n19 0 12 Stewart River
+N-- - 107w49 50n36 0 11 Stewart Valley
+N-- - 63w21 45n08 0 07 Stewiacke
+N-- - 124w19 49n46 0 02 Stillwater
+N-- - 112w31 49n31 0 01 Stirling
+N-- - 77w33 44n18 0 08 Stirling
+N-- - 75w55 45n15 0 08 Stittsville
+N-- - 99w27 49n35 0 03 Stockton
+N-- - 77w53 46n13 0 08 Stonecliffe
+N-- - 71w22 46n59 0 10 Stoneham
+N-- - 65w22 47n45 0 04 Stonehaven
+N-- - 97w19 50n08 0 03 Stonewall
+N-- - 79w45 43n13 0 08 Stoney Creek
+V-- - 104w36 52n52 0 11 Stony
+V-- - 79w45 43n13 0 08 Stony
+N-- - 97w13 50n04 0 03 Stony Mountain
+N-- - 114w00 53n32 0 01 Stony Plain
+N-- - 105w50 59n16 0 11 Stony Rapids
+N-- - 61w44 45n13 0 07 Stormont
+N-- - 79w15 43n58 0 08 Stouffville
+V-- - 79w15 43n58 0 08 Stouffville Junction
+N-- - 103w01 49n41 0 11 Stoughton
+N-- - 108w29 51n42 0 11 Stranraer
+V-- - 104w57 51n04 0 11 Strasbourg
+N-- - 104w57 51n04 0 11 Strasbourg Station
+N-- - 80w59 43n22 0 08 Stratford
+N-- - 100w24 50n24 0 03 Strathclair
+N-- - 113w10 53n35 0 01 Strathcona
+N-- - 61w16 46n11 0 07 Strathlorne
+N-- - 122w32 53n21 0 02 Strathnaver
+N-- - 81w37 42n57 0 08 Strathroy
+N-- - 126w10 53n48 0 02 Streatham
+N-- - 79w43 43n35 0 08 Streetsville
+N-- - 81w51 49n17 0 08 Strickland
+N-- - 111w51.36 54n02.13 0 01 Stry
+N-- - 125w09 50n22 0 02 Stuart Island
+V-- - 125w05 54n36 0 02 Stuart Portage
+N-- - 126w06 52n22 0 02 Stuie
+N-- - 123w19 48n53 0 02 Sturdies Bay
+N-- - 79w56 46n22 0 08 Sturgeon Falls
+N-- - 101w49 54n17 0 11 Sturgeon Landing
+N-- - 102w32 51n51 0 11 Sturgis
+N-- - 108w05 50n27 0 11 Success
+N-- - 80w58 46n30 0 08 Sudbury
+N-- - 111w10 50n13 0 01 Suffield
+N-- - 111w34.37 54n21.24 0 01 Sugden
+V-- - 75w38 62n12 0 10 Sugluk
+N-- - 126w52 50n55 0 02 Sullivan Bay
+N-- - 69w09 47n27 0 10 Sully
+N-- - 77w13 44n31 0 08 Sulphide
+N-- - 82w46 47n35 0 08 Sultan
+N-- - 54w50 49n29 0 05 Summerford
+N-- - 119w40 49n36 0 02 Summerland
+N-- - 63w47 46n24 0 09 Summerside
+N-- - 64w49 43n57 0 07 Summerville Centre
+N-- - 122w38 54n17 0 02 Summit Lake
+N-- - 96w16 49n06 0 03 Sundown
+N-- - 79w24 45n46 0 08 Sundridge
+N-- - 64w36 48n50 0 10 Sunny Bank
+N-- - 62w30 45n24 0 07 Sunnybrae
+N-- - 114w11 53n12 0 01 Sunnybrook
+N-- - 111w40 51n17 0 01 Sunnynook
+N-- - 53w56 47n52 0 05 Sunnyside
+N-- - 113w33 51n39 0 01 Sunnyslope
+N-- - 120w47 55n51 0 02 Sunset Prairie
+N-- - 109w57 51n53 0 11 Superb
+N-- - 127w15 50n38 0 02 Suquash
+N-- - 128w54 53n02 0 02 Surf Inlet
+N-- - 133w25 59n37 0 02 Surprise
+N-- - 104w36 49n10 0 11 Surprise Valley
+N-- - 62w49 46n04 0 09 Surrey
+N-- - 65w31 45n43 0 04 Sussex
+N-- - 106w36 52n08 0 11 Sutherland
+N-- - 79w22 44n18 0 08 Sutton
+N-- - 72w37 45n06 0 10 Sutton
+V-- - 79w22 44n18 0 08 Sutton West
+N-- - 92w41 51n16 0 08 Swain Post
+N-- - 98w48 49n24 0 03 Swan Lake
+N-- - 101w16 52n06 0 03 Swan River
+N-- - 79w28 43n38 0 08 Swansea
+N-- - 107w08 51n42 0 11 Swanson
+N-- - 80w06 48n06 0 08 Swastika
+N-- - 54w15 47n53 0 05 Swift Current
+N-- - 107w46 50n17 0 11 Swift Current
+N-- - 80w48 44n34 0 08 Sydenham
+V-- - 123w25 48n39 0 02 Sydney
+N-- - 60w10 46n09 0 07 Sydney
+N-- - 126w15 49n22 0 02 Sydney Inlet
+N-- - 60w13 46n14 0 07 Sydney Mines
+N-- - 60w13 46n07 0 07 Sydney River
+N-- - 114w05 52n18 0 01 Sylvan Lake
+N-- - 112w09 49n47 0 01 Taber
+N-- - 124w46 54n39 0 02 Tachie
+N-- - 54w14 47n34 0 00 Tacks Beach
+N-- - 69w43 48n09 0 10 Tadoussac
+N-- - 118w38 50n59 0 02 Taft
+N-- - 134w16 60n18 0 12 Tagish
+N-- - 126w40 49n55 0 02 Tahsis
+N-- - 135w31 60n51 0 12 Takhini
+N-- - 125w59 55n29 0 02 Takla Landing
+N-- - 133w51 59n38 0 02 Taku
+N-- - 103w40 49n47 0 11 Talmage
+N-- 500 93w32 69n32 0 14 Taloyoak
+V-- - 112w45 61n23 0 13 Talston River
+V-- - 112w45 61n23 0 13 Taltson River
+N-- - 76w59 44n28 0 08 Tamworth
+N-- - 117w41 55n48 0 01 Tangent
+N-- - 62w42 44n48 0 07 Tangier
+N-- - 91w00 49n39 0 08 Tannin
+V-- - 137w22 69n00 0 12 Tapkok Point
+N-- - 119w20 50n47 0 02 Tappen
+N-- - 78w42 48n40 0 10 Taschereau
+N-- - 87w40 50n14 0 08 Tashota
+N-- - 126w04 53n59 0 02 Tatalrose
+N-- - 63w17 45n43 0 07 Tatamagouche
+V-- - 124w23 51n39 0 02 Tatlayoka Lake
+N-- - 124w23 51n39 0 02 Tatlayoko Lake
+V-- - 72w47 47n27 0 10 Ta-Tuque
+VL- - 93w06 62n03 0 14 Tavane
+NL- - 93w06 62n03 0 14 Tavani
+N-- - 80w50 43n19 0 08 Tavistock
+N-- - 113w29 54n18 0 01 Tawatinaw
+N-- - 120w40 56n09 0 02 Taylor
+N-- - 125w43 54n06 0 02 Tchesinkut Lake
+N-- - 82w54 42n19 0 08 Tecumseh
+N-- - 134w40 59n39 0 02 Teepee
+N-- - 81w17 43n59 0 08 Teeswater
+N-- - 81w59 45n39 0 08 Tehkummah
+N-- - 126w49 50n33 0 02 Telegraph Cove
+N-- - 131w09 57n54 0 02 Telegraph Creek
+N-- - 79w05 46n43 0 10 Temiscaming
+N-- - 75w36 45n29 0 10 Templeton
+V-- - 63w52 45n16 0 07 Tenecape
+N-- - 63w52 45n16 0 07 Tennycape
+V-- - 63w52 45n16 0 07 Tenycape
+V-- - 134w40 59n39 0 02 Tepee
+N-- - 63w43 44n28 0 07 Terence Bay
+V-- - 54w43 47n41 0 05 Terenceville
+N-- - 128w35 54n30 0 02 Terrace
+N-- - 87w06 48n47 0 08 Terrace Bay
+N-- - 54w13 48n30 0 05 Terra Nova
+N-- - 73w38 45n41 0 10 Terrebonne
+N-- - 54w43 47n41 0 05 Terrenceville
+V-- - 60w25 53n20 0 05 Terrington Basin
+N-- - 132w42 60n10 0 12 Teslin
+N-- - 134w37 61n15 0 12 Teslin Crossing
+N-- - 107w25 51n48 0 11 Tessier
+N-- - 59w20 50n42 0 10 Tete-a-la-Baleine
+N-- - 119w31 52n59 0 02 Tete Jaune
+V-- - 119w31 52n59 0 02 Tete-Jaune-Cache
+N-- - 97w16 50n23 0 03 Teulon
+N-- - 120w46 49n46 0 02 Thalia
+N-- - 81w58 42n33 0 08 Thamesville
+N-- - 56w50 49n35 0 05 The Beaches
+N-- - 81w51 43n10 0 08 Thedford
+NX- - 73w50 45n26 0 10 The Grove
+N-- - 102w55 51n26 0 11 Theodore
+N-- - 101w14 53n49 0 03 The Pas
+N-- - 111w15.21 54n14.26 0 01 Therien
+N-- - 83w33 46n15 0 08 Thessalon
+V-- - 71w18 46n05 0 10 Thetford
+N-- - 71w18 46n05 0 10 Thetford Mines
+N-- - 103w10 55n45 0 11 The Two Rivers
+N-- - 97w42 55n19 0 03 Thicket Portage
+N-- - 139w29 63n04 0 12 Thistle Creek
+N-- - 97w52 55n45 0 03 Thompson
+NL- - 113w28 62n37 0 13 Thompson Lake
+N-- - 54w10 48n16 0 05 Thorburn Lake
+N-- - 113w07 54n09 0 01 Thorhild
+N-- - 80w27 44n33 0 08 Thornbury
+N-- - 79w25 43n48 0 08 Thornhill
+N-- - 79w12 43n07 0 08 Thorold
+N-- - 117w04 56n22 0 01 Three Creeks
+N-- - 113w16 51n42 0 01 Three Hills
+V-- - 70w51 45n28 0 10 Three Lakes
+V-- - 71w54 45n48 0 10 Three Lakes
+V-- - 72w33 46n21 0 10 Three Rivers
+N-- - 59w06 48n37 0 05 Three Rock Cove
+V-- - 139w26 64n02 0 12 Thron-diuck
+N-- - 89w14 48n24 0 08 Thunder Bay
+N-- - 119w13 52n14 0 02 Thunder River
+N-- - 125w22 50n27 0 02 Thurlow
+N-- - 75w14 45n35 0 10 Thurso
+N-- - 76w41 44n40 0 08 Tichborne
+N-- - 107w01 51n16 0 11 Tichfield
+N-- - 66w46 47n58 0 04 Tidehead
+N-- - 64w02 46n57 0 09 Tignish
+V-- 350 92w36 62n11 0 14 Tikiraqjuaq
+N-- - 82w26 42n15 0 08 Tilbury
+N-- - 111w39 50n27 0 01 Tilley
+N-- - 80w44 42n52 0 08 Tillsonburg
+V-- - 80w44 42n52 0 08 Tilsonburg
+N-- - 55w38 49n53 0 05 Tilt Cove
+N-- - 54w03 49n41 0 05 Tilting
+N-- - 79w47 47n04 0 08 Timagami
+N-- - 79w06 46n43 0 10 Timiskaming Station
+N-- - 81w20 48n28 0 08 Timmins
+N-- - 125w05 54n12 0 02 Tintagel
+N-- - 82w06 48n05 0 08 Tionaga
+N-- - 66w13 44n23 0 07 Tiverton
+N-- - 131w56 53n35 0 02 Tlell
+NQ- - 124w52 59n23 0 02 Toad River Post
+N-- - 81w40 45n15 0 08 Tobermory
+N-- - 112w40 53n22 0 01 Tofield
+N-- - 125w54 49n08 0 02 Tofino
+N-- - 79w25 46n34 0 08 Tomiko
+N-- - 59w12 47n49 0 05 Tompkins
+N-- - 108w48 50n04 0 11 Tompkins
+N-- - 102w15 51n13 0 11 Tonkin
+N-- - 126w18 54n31 0 02 Topley
+N-- - 52w56 47n32 0 05 Topsail
+N-- - 61w22 45n13 0 07 Tor Bay
+N-- - 52w44 47n39 0 05 Torbay
+NA- - 79w25 43n40 0 08 Toronto
+N-- - 103w29 49n08 0 11 Torquay
+N-- - 79w34 44n59 0 08 Torrance
+N-- - 113w36 51n48 0 01 Torrington
+N-- - 52w51 47n13 0 05 Tors Cove
+N-- - 79w48 44n01 0 08 Tottenham
+N-- - 105w40 52n17 0 11 Totzke
+V-- - 54w45 49n39 0 05 Toulinguet
+V-- - 69w59 47n06 0 10 Tourville
+N-- - 67w12 45n19 0 04 Tower Hill
+N-- - 131w47 54n04 0 02 Tow Hill
+N-- - 64w55 47n30 0 04 Tracadie
+N-- - 61w39 45n37 0 07 Tracadie
+N-- - 62w58 46n21 0 09 Tracadie
+N-- - 73w10 46n01 0 10 Tracy
+N-- - 117w43 49n06 0 02 Trail
+N-- - 108w57 52n08 0 11 Tramping Lake
+N-- - 97w00 49n53 0 03 Transcona
+N-- - 120w16 50n23 0 02 Trapp Lake
+N-- - 98w42 49n38 0 03 Treherne
+N-- - 62w37 45n37 0 07 Trenton
+N-- - 77w35 44n06 0 08 Trenton
+N-- - 53w22 46n44 0 05 Trepassey
+V-- - 53w22 46n44 0 05 Trespassey
+N-- - 103w49 49n15 0 11 Tribune
+N-- - 71w00 46n16 0 10 Tring-Jonction
+N-- - 53w55 48n57 0 05 Trinity
+N-- - 53w23 48n22 0 05 Trinity
+V-- - 67w19 49n25 0 10 Trinity Bay
+N-- - 113w14 51n50 0 01 Trochu
+N-- - 70w51 45n28 0 10 Trois-Lacs
+N-- - 71w54 45n48 0 10 Trois-Lacs
+N-- - 69w10 48n07 0 10 Trois-Pistoles
+N-- - 72w33 46n21 0 10 Trois-Rivieres
+N-- - 104w13 49n38 0 11 Trossachs
+N-- - 79w22 45n59 0 08 Trout Creek
+N-- - 117w32 50n38 0 02 Trout Lake
+N-- - 89w53 53n49 0 02 Trout Lake
+N-- - 121w15 60n26 0 13 Trout Lake
+N-- - 79w25 46n20 0 08 Trout Mills
+N-- - 58w07 49n29 0 05 Trout River
+N-- - 61w26 45n41 0 07 Troy
+N-- - 104w57 49n55 0 11 Truax
+N-- - 63w18 45n22 0 07 Truro
+N-- - 123w05 49n01 0 02 Tsawwassen
+N-- 145 133w45 67n26 0 13 Tsiigehtchic
+V-- - 123w22 61n03 0 13 Tthenaagoo
+N-- - 81w40 49n15 0 08 Tudhope
+V-- - 85w10 73n02 0 14 Tukik
+N-- - 133w04 69n27 0 13 Tuktoyaktuk
+V-- - 133w04 69n27 0 13 Tuktuk
+N-- - 120w45 49n33 0 02 Tulameen
+V-- - 120w45 49n33 0 02 Tulameen City
+N-- - 125w35 64n54 0 13 Tulita
+N-- - 133w32 58n38 0 02 Tulsequah
+N-- - 128w16 61n57 0 13 Tungsten
+V-- 1200 78w00 72n42 0 14 Tununiq
+NL- - 134w40 69n00 0 13 Tununuk
+N-- - 81w31 46n22 0 08 Turbine
+N-- - 112w33 49n58 0 01 Turin
+V-- - 114w16 50n41 0 01 Turner
+N-- - 58w08 54n13 0 05 Turner Bight
+N-- - 114w16 50n41 0 01 Turner Valley
+N-- - 77w44 44n59 0 08 Turriff
+N-- - 108w58 53n23 0 11 Turtleford
+N-- - 65w58 43n51 0 07 Tusket
+V-- - 65w58 43n44 0 07 Tusket Wedge
+N-- - 97w13 49n50 0 03 Tuxedo
+N-- - 105w35 50n35 0 11 Tuxford
+N-- - 105w27 52n44 0 11 Tway
+N-- - 77w18 44n28 0 08 Tweed
+N-- - 111w47.28 54n53.09 0 01 Tweedie
+N-- - 54w45 49n39 0 05 Twillingate
+N-- - 113w51 46n16 0 01 Twin Butte
+V-- - 83w04 42n17 0 08 Twin Sandwich
+N-- - 111w45 53n43 0 01 Two Hills
+N-- - 120w32 56n11 0 02 Two Rivers
+N-- - 96w40 50n05 0 03 Tyndall
+N-- - 108w26 51n01 0 11 Tyner
+N-- - 63w56 46n34 0 09 Tyne Valley
+N-- - 78w43 44n01 0 08 Tyrone
+N-- - 125w31 48n56 0 02 Ucluelet
+V-- - 117w45 70n44 0 13 Ulusaktuk
+N-- - 77w31 48n25 0 10 Uniacke
+N-- - 124w53 49n36 0 02 Union Bay
+N-- - 109w10 52n26 0 11 Unity
+N-- - 75w41 45n20 0 08 Uplands
+N-- - 65w52 46n39 0 04 Upper Blackville
+N-- - 75w04 44n57 0 08 Upper Canada Village
+VA- 3500 68w30 63n44 0 14 Upper Frobisher
+N-- - 117w41 59n02 0 01 Upper Hay River
+N-- - 53w13 47n39 0 05 Upper Island Cove
+N-- - 135w05 60n56 0 12 Upper Laberge
+N-- - 62w57 45n08 0 07 Upper Musquodoboit
+N-- - 123w19 49n53 0 02 Upper Squamish
+N-- - 90w28 49n03 0 08 Upsala
+N-- - 66w53 47n49 0 04 Upsalquitch
+N-- - 108w37 59n34 0 11 Uranium City
+N-- - 102w40 52n15 0 11 Usherville
+N-- - 128w26 54n38 0 02 Usk
+V-- - 115w39 55n55 0 01 Utikumasis Lake
+N-- - 79w20 45n13 0 08 Utterson
+N-- - 79w07 44n06 0 08 Uxbridge
+N-- - 75w21 46n31 0 10 Val-Barrette
+N-- - 67w34 48n32 0 10 Val-Brillant
+N-- - 71w31 46n53 0 10 Valcartier Station
+N-- - 71w28 46n56 0 10 Valcartier Village
+N-- - 72w19 45n29 0 10 Valcourt
+N-- - 74w12 46n02 0 10 Val-David
+N-- - 77w46 48n07 0 10 Val-d'Or
+N-- - 119w15 52n50 0 02 Valemount
+N-- - 104w52 50n45 0 11 Valeport
+N-- - 77w41 48n31 0 10 Val-Laflamme
+N-- - 70w55 46n22 0 10 Vallee-Jonction
+N-- - 107w51 51n48 0 11 Valley Centre
+N-- - 53w37 49n07 0 05 Valleyfield
+N-- - 74w08 45n15 0 10 Valleyfield
+N-- - 117w17 55n04 0 01 Valleyview
+N-- - 117w39 49n34 0 02 Vallican
+N-- - 107w44 49n14 0 11 Val Marie
+N-- - 71w26 46n52 0 10 Val-Saint-Michel
+N-- - 124w33 49n45 0 02 Vananda
+N-- - 72w10 47n57 0 10 Van Bruyssel
+N-- - 123w08 49n15 0 02 Vancouver
+N-- - 124w01 54n01 0 02 Vanderhoof
+N-- - 73w33 47n51 0 10 Vandry
+N-- - 107w18 49n54 0 11 Vanguard
+N-- - 74w39 45n31 0 08 Vankleek Hill
+N-- - 118w31 56n03 0 01 Vanrena
+N-- - 106w59 52n00 0 11 Vanscoy
+N-- - 106w02 49n50 0 11 Vantage
+N-- - 121w43 53n02 0 02 Van Winkle
+N-- - 73w26 45n41 0 10 Varennes
+N-- - 77w56 48n14 0 10 Vassan
+N-- - 95w50 49n06 0 03 Vassar
+N-- - 69w03 47n40 0 10 Vauban
+N-- - 74w02 45n24 0 10 Vaudreuil
+N-- - 64w21 48n39 0 10 Vauquelin
+N-- - 112w06 50n04 0 01 Vauxhall
+N-- - 112w03 53n30 0 01 Vegreville
+N-- - 112w08.50 54n41.53 0 01 Venice
+N-- - 55w48 52n58 0 05 Venison Tickle
+N-- - 73w21 45n46 0 10 Vercheres
+N-- - 73w34 45n27 0 10 Verdun
+N-- - 108w37 50n19 0 11 Verlo
+N-- - 110w51 53n21 0 01 Vermilion
+N-- - 93w23 49n51 0 08 Vermilion Bay
+N-- - 114w51 58n22 0 01 Vermilion Chutes
+V-- - 93w23 49n51 0 08 Vermillion
+N-- - 80w07 46n24 0 08 Verner
+N-- - 119w16 50n16 0 02 Vernon
+V-- - 62w53 46n11 0 09 Vernon
+N-- - 62w53 46n11 0 09 Vernon Bridge
+N-- - 62w50 46n12 0 09 Vernon River
+N-- - 76w41 44n29 0 08 Verona
+N-- - 105w37 49n31 0 11 Verwood
+N-- - 111w07 52n01 0 01 Veteran
+NA- - 123w21 48n26 0 02 Victoria
+N-- - 53w13 47n46 0 05 Victoria
+N-- - 63w29 46n13 0 09 Victoria
+N-- - 96w33 50n42 0 03 Victoria Beach
+N-- - 54w31 49n21 0 05 Victoria Cove
+N-- - 79w46 44n45 0 08 Victoria Harbour
+N-- - 78w56 44n36 0 08 Victoria Road
+N-- - 71w58 46n03 0 10 Victoriaville
+N-- - 111w47 53n05 0 01 Viking
+N-- - 70w09 47n19 0 10 Village-des-Aulnaies
+N-- - 71w21 46n51 0 10 Village-des-Hurons
+V-- - 73w10 46n01 0 10 Ville-de-Tracy
+N-- - 73w39 45n25 0 10 Ville-la-Salle
+N-- - 79w26 47n20 0 10 Ville-Marie
+N-- - 78w22 48n37 0 10 Villemontel
+N-- - 71w10 46n53 0 10 Villeneuve
+N-- - 71w53 46n23 0 10 Villeroy
+N-- - 72w16 46n18 0 10 Villers
+V-- - 70w40 46n07 0 10 Ville-Saint-Georges
+V-- - 73w40 45n31 0 10 Ville Saint Laurent
+V-- - 73w39 45n26 0 10 Ville Saint Pierre
+N-- - 111w55.10 54n06.58 0 01 Vilna
+N-- - 113w39 54n04 0 01 Vimy
+N-- - 80w23 48n29 0 08 Vimy Ridge
+N-- - 100w56 49n51 0 03 Virden
+N-- - 105w38 51n57 0 11 Viscount
+V-- - 96w28 49n52 0 03 Vivian
+N-- - 96w28 49n52 0 03 Vivian Station
+N-- - 106w06 52n19 0 11 Vonda
+N-- - 113w15 50n24 0 01 Vulcan
+N-- - 52w56 47n39 0 05 Wabana
+N-- - 92w36 49n43 0 08 Wabigoon
+V-- - 92w36 49n43 0 08 Wabigwunn
+N-- - 98w38 54n55 0 03 Wabowden
+N-- - 80w14 47n40 0 08 Wabun
+N-- - 66w52 52n55 0 05 Wabush
+N-- - 103w48 51n57 0 11 Wadena
+N-- - 127w31 51n31 0 02 Wadhams
+N-- - 95w20 50n54 0 03 Wadhope
+NQ- - 90w49 65n56 0 14 Wager Bay
+N-- - 114w59 55n21 0 01 Wagner
+N-- - 110w52 52n50 0 01 Wainwright
+N-- - 105w24 52n52 0 11 Waitville
+N-- - 105w44 52n39 0 11 Wakaw
+N-- - 75w56 45n38 0 10 Wakefield
+V-- - 71w57 61n36 0 10 Wakeham
+V-- - 71w57 61n36 0 10 Wakeham Bay
+V-- - 91w20 49n50 0 08 Wako
+N-- - 126w51 54n31 0 02 Walcott
+N-- - 107w35 50n22 0 11 Waldeck
+N-- - 106w39 52n37 0 11 Waldheim
+N-- - 81w09 44n08 0 08 Walkerton
+NX- - 83w00 42n19 0 08 Walkerville
+N-- - 63w28 45n48 0 07 Wallace
+N-- - 78w05 45n24 0 08 Wallace
+N-- - 63w35 45n50 0 07 Wallace Bay
+N-- - 82w22 42n35 0 08 Wallaceburg
+N-- - 101w50 49n53 0 11 Walpole
+N-- - 110w02 49n57 0 01 Walsh
+N-- - 76w55 45n55 0 10 Waltham Station
+N-- - 64w01 45n13 0 07 Walton
+N-- - 112w27.59 55n12.05 0 01 Wandering River
+N-- - 80w49 46n23 0 08 Wanup
+N-- - 101w58 50n15 0 11 Wapella
+N-- - 112w44 52n16 0 01 Warden
+VA- 3500 68w30 63n44 0 14 Ward Inlet
+N-- - 111w33 50n54 0 01 Wardlow
+N-- - 115w24 49n25 0 02 Wardner
+N-- - 125w37 57n25 0 02 Ware
+N-- - 106w34 52n19 0 11 Warman
+N-- - 112w12 49n17 0 01 Warner
+N-- - 80w18 46n26 0 08 Warren
+N-- - 97w53 53n42 0 03 Warren Landing
+N-- - 112w37.07 54n05.36 0 01 Warspite
+N-- - 71w59 45n57 0 10 Warwick
+N-- - 115w43 49n46 0 02 Wasa
+N-- - 99w58 50n39 0 03 Wasagaming
+NX- - 104w36 50n25 0 11 Wascana Centre
+N-- - 80w26 46n38 0 08 Washagami
+N-- - 79w20 44n45 0 08 Washago
+N-- - 100w48 49n06 0 03 Waskada
+N-- - 112w47.12 54n05.35 0 01 Waskatenau
+N-- - 106w05 53n55 0 11 Waskesiu Lake
+N-- - 76w29 49n39 0 10 Waswanipi
+N-- - 91w20 49n50 0 08 Watcomb
+N-- - 79w53 43n20 0 08 Waterdown
+N-- - 80w17 42n56 0 08 Waterford
+N-- - 80w32 43n28 0 08 Waterloo
+N-- - 72w31 45n21 0 10 Waterloo
+N-- - 113w55 49n03 0 01 Waterton Park
+N-- - 71w53 45n17 0 10 Waterville
+N-- - 111w19 56n42 0 01 Waterways
+N-- - 81w53 42n57 0 08 Watford
+N-- - 117w37 55n43 0 01 Watino
+N-- - 105w28 51n40 0 11 Watrous
+N-- - 104w32 52n08 0 11 Watson
+N-- - 134w50 60n05 0 12 Watson
+N-- - 130w17 54n14 0 02 Watson Island
+N-- - 128w48 60n07 0 12 Watson Lake
+N-- - 128w42 60n04 0 12 Watson Lake Wye
+N-- - 79w42 44n45 0 08 Waubaushene
+N-- - 64w51 47n42 0 04 Waugh
+N-- - 95w11 49n37 0 03 Waugh
+N-- - 80w15 48n22 0 08 Wavell
+N-- - 84w47 48n00 0 08 Wawa
+N-- - 99w41 49n31 0 03 Wawanesa
+N-- - 67w08 45n13 0 04 Waweig
+N-- - 102w01 49n54 0 11 Wawota
+N-- - 112w55.38 54n10.53 0 01 Weasel Creek
+N-- - 108w12 50n11 0 11 Webb
+N-- - 81w53 46n16 0 08 Webbwood
+N-- - 117w20 56n18 0 01 Weberville
+N-- - 118w42 55n26 0 01 Webster
+N-- - 65w58 43n44 0 07 Wedgeport
+V-- - 71w27 45n42 0 10 Weedon
+N-- - 71w27 45n42 0 10 Weedon-Centre
+V-- - 85w12 55n15 0 08 Weenusk
+N-- - 94w05 56n49 0 03 Weir River
+N-- - 114w11 64n11 0 13 Wekweti
+V-- - 66w57 44n53 0 04 Welchpool
+V-- - 64w41 45n57 0 04 Welden
+N-- - 64w41 45n57 0 04 Weldon
+N-- - 79w15 42n59 0 08 Welland
+N-- - 124w01 49n12 0 02 Wellington
+N-- - 53w59 48n51 0 05 Wellington
+N-- - 77w21 43n57 0 08 Wellington
+N-- - 64w00 46n26 0 09 Wellington
+V-- - 64w00 46n26 0 09 Wellington Station
+N-- - 66w21 45n27 0 04 Welsford
+N-- - 66w57 44n53 0 04 Welshpool
+N-- - 119w09 55n09 0 01 Wembley
+N-- - 63w33 45n41 0 07 Wentworth Centre
+N-- - 135w16 63n57 0 12 Wernecke
+N-- - 117w09 56n15 0 01 Wesley Creek
+N-- - 53w35 49n09 0 05 Wesleyville
+N-- - 64w49 45n21 0 07 West Advocate
+N-- - 57w25 54n08 0 05 West Bay
+N-- - 61w10 45n43 0 07 West Bay
+N-- - 61w15 45n43 0 07 West Bay Road
+N-- - 98w34 50n08 0 03 Westbourne
+N-- - 63w40 45n37 0 07 Westchester Station
+N-- - 139w27 64n04 0 12 West Dawson
+N-- - 53w05 47n54 0 05 Western Bay
+N-- - 66w14 45n21 0 04 Westfield Beach
+N-- - 95w12 49n44 0 03 West Hawk Lake
+V-- - 123w43 48n52 0 02 Westholm
+N-- - 123w43 48n52 0 02 Westholme
+N-- - 97w07 49n56 0 03 West Kildonan
+N-- - 64w25 44n19 0 07 West LaHave
+V-- - 64w25 44n19 0 07 West Lehave
+N-- - 113w52 54n09 0 01 Westlock
+N-- - 81w36 42n36 0 08 West Lorne
+N-- - 73w36 45n29 0 10 Westmount
+N-- - 64w48 45n04 0 07 Weston
+N-- - 79w30 43n42 0 08 Weston
+V-- - 65w36 43n31 0 07 West Passage
+N-- - 56w38 49n47 0 05 Westport
+N-- - 66w21 44n16 0 07 Westport
+N-- - 76w24 44n41 0 08 Westport
+N-- - 81w32 47n25 0 08 Westree
+N-- - 56w43 51n36 0 05 West Saint Modeste
+N-- - 124w32 49n51 0 02 Westview
+N-- - 62w43 45n33 0 07 Westville
+N-- - 113w23 52n58 0 01 Wetaskiwin
+N-- - 103w51 49n40 0 11 Weyburn
+N-- - 65w59 44n25 0 07 Weymouth
+N-- 350 92w36 62n11 0 14 Whale Cove
+NQ- - 67w41 58n05 0 10 Whale River
+N-- - 125w02 50n06 0 02 Whaletown
+N-- - 117w16 63n08 0 13 Wha Ti
+N-- - 82w27 42n06 0 08 Wheatley
+N-- - 109w28.30 54n02.08 0 11 Whelan
+V-- - 113w02 49n02 0 01 Whiskey Gap
+N-- - 113w02 49n02 0 01 Whisky Gap
+N-- - 53w32 47n25 0 05 Whitbourne
+N-- - 78w56 43n52 0 08 Whitby
+V-- - 79w15 43n58 0 08 Whitchurch-Stouffville
+N-- - 108w12 50n53 0 11 White Bear
+N-- - 67w06 47n41 0 04 White Brook
+N-- - 115w41 54n08 0 01 Whitecourt
+N-- - 81w19 46n22 0 08 Whitefish
+N-- - 81w43 46n06 0 08 Whitefish Falls
+N-- - 104w05 53n27 0 11 White Fox
+N-- - 61w12 45n14 0 07 Whitehead
+NA- - 135w03 60n43 0 12 Whitehorse
+N-- - 76w29 45n22 0 08 White Lake
+N-- - 118w05 56n06 0 01 Whitelaw
+N-- - 95w58 49n57 0 03 Whitemouth
+N-- - 135w07 59n37 0 02 White Pass
+N-- - 85w17 48n35 0 08 White River
+N-- - 122w49 49n02 0 02 White Rock
+N-- - 62w34 45n58 0 09 White Sands
+V-- - 67w06 47n41 0 04 Whites Brook
+V-- - 125w37 57n25 0 02 Whitewater
+N-- - 102w15 50n20 0 11 Whitewood
+N-- - 107w52 52n56 0 11 Whitkow
+N-- - 111w03 49n53 0 01 Whitla
+N-- - 65w44 46n58 0 04 Whitney
+N-- - 78w14 45n30 0 08 Whitney
+N-- - 69w17 47n42 0 10 Whitworth
+N-- - 61w07 45n58 0 07 Whycocomagh
+N-- - 123w16 49n22 0 02 Whytecliff
+N-- - 81w08 44n44 0 08 Wiarton
+V-- - 114w59 55n21 0 01 Widewater
+N-- - 135w00 60n39 0 12 Wigan
+N-- - 78w13 45n02 0 08 Wilberforce
+N-- - 115w15 53n37 0 01 Wildwood
+N-- - 108w42 52n25 0 11 Wilkie
+N-- - 88w32 50n18 0 08 Willet
+N-- - 55w47 52n33 0 05 Williams Harbour
+N-- - 122w09 52n07 0 02 Williams Lake
+N-- - 56w17 50n32 0 05 Williamsport
+N-- - 112w07 53n50 0 01 Willingdon
+N-- - 102w48 51n12 0 11 Willowbrook
+N-- - 105w38 49n24 0 11 Willow Bunch
+NX- - 79w25 43n47 0 08 Willowdale
+N-- - 122w29 54n05 0 02 Willow River
+N-- - 113w36 51n52 0 01 Wimborne
+N-- - 75w21 45n06 0 08 Winchester
+N-- - 115w58 50n28 0 02 Windermere
+N-- - 91w32 52n35 0 08 Windigo Lake
+N-- - 55w40 48n57 0 05 Windsor
+N-- - 64w08 44n59 0 07 Windsor
+N-- - 83w02 42n20 0 08 Windsor
+N-- - 72w00 45n35 0 10 Windsor
+N-- - 114w26 52n58 0 01 Winfield
+N-- - 106w24 52n55 0 11 Wingard
+N-- - 81w18 43n53 0 08 Wingham
+N-- - 85w12 55n15 0 08 Winisk
+N-- - 97w56 49n11 0 03 Winkler
+NA- - 97w10 49n53 0 03 Winnipeg
+N-- - 99w55 51n39 0 03 Winnipegosis
+N-- - 109w30 52n37 0 11 Winter
+N-- - 128w02 50n31 0 02 Winter Harbour
+N-- - 53w20 47n58 0 05 Winterton
+N-- - 107w39 51n19 0 11 Wiseton
+N-- - 103w58 51n33 0 11 Wishart
+N-- - 126w17 53n50 0 02 Wistaria
+N-- - 52w50 47n17 0 05 Witless Bay
+N-- - 70w52 45n23 0 10 Woburn
+N-- - 118w46 55n36 0 01 Woking
+N-- - 108w31 52n18 0 11 Wolfe
+N-- - 64w22 45n05 0 07 Wolfville
+N-- - 103w33 58n03 0 11 Wollaston Lake Post
+N-- - 103w16 50n25 0 11 Wolseley
+N-- - 77w23 62n32 0 10 Wolstenholme
+N-- - 79w36 43n47 0 08 Woodbridge
+N-- - 128w12 55n04 0 02 Woodcock
+N-- - 97w40 50n12 0 03 Woodlands
+N-- - 106w23 49n22 0 11 Wood Mountain
+V-- - 106w23 49n22 0 11 Wood Mountain Station
+N-- - 122w38 53n31 0 02 Woodpecker
+N-- - 96w09 49n17 0 03 Woodridge
+V-- - 65w44 43n31 0 07 Woods Harbour
+N-- - 64w27 45n11 0 07 Woodside
+N-- - 63w33 44n39 0 07 Woodside
+N-- - 67w34 46n09 0 04 Woodstock
+N-- - 80w45 43n08 0 08 Woodstock
+N-- - 54w13 47n46 0 05 Woody Island
+N-- - 57w56 49n30 0 05 Woody Point
+N-- - 119w04 56n31 0 01 Worsley
+V-- - 76w29 49n39 0 10 Woswonaby
+N-- - 112w11 49n31 0 01 Wrentham
+N-- - 121w40 51n52 0 02 Wright
+N-- - 123w36 63n16 0 13 Wrigley
+N-- - 106w59 53n39 0 11 Wrixon
+N-- - 101w53 51n13 0 11 Wroxton
+N-- - 125w12 50n18 0 02 Wyatt Bay
+N-- - 79w53 44n41 0 08 Wyebridge
+N-- - 107w44 50n07 0 11 Wymark
+N-- - 104w11 51n46 0 11 Wynyard
+N-- - 82w07 42n57 0 08 Wyoming
+N-- - 116w06 49n05 0 02 Yahk
+N-- - 121w26 49n34 0 02 Yale
+N-- - 72w50 46n17 0 10 Yamachiche
+N-- - 72w55 46n00 0 10 Yamaska
+N-- - 76w46 44n22 0 08 Yarker
+N-- - 66w07 43n50 0 07 Yarmouth
+N-- - 104w09 49n49 0 11 Yellow Grass
+NA- - 114w21 62n27 0 13 Yellowknife
+N-- - 109w40 52n39 0 11 Yonker
+N-- - 64w35 48n45 0 10 York
+N-- - 92w17 57n00 0 03 York Factory
+N-- - 58w23 49n03 0 05 York Harbour
+N-- - 79w25 43n45 0 08 York Mills
+V-- - 80w15 48n22 0 08 Yorkston
+N-- - 102w28 51n13 0 11 Yorkton
+N-- - 124w12 48n53 0 02 Youbou
+N-- - 105w45 51n46 0 11 Young
+N-- - 111w12 51n32 0 01 Youngstown
+N-- - 136w29 62n20 0 12 Yukon Crossing
+N-- - 107w45 51n37 0 11 Zealandia
+N-- - 126w51 49n59 0 02 Zeballos
+N-- - 104w27 50n34 0 11 Zehner
+V-- - 123w33 48n32 0 02 9zenic View
