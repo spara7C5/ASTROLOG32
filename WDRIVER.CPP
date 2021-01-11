@@ -1785,6 +1785,9 @@ int NWmCommand(WORD wCmd)
 		break;
 
 	case cmdAnimate:
+		if (wi.fAnimate==1 && is.S != stdout){		/* If we were internally directing chart display to a */
+			fclose(is.S);
+		}
 		not(wi.fAnimate);
 		WiCheckMenu(cmdAnimate, wi.fAnimate);
 		WiCheckMenu(cmdDelayScreenRedraw, TRUE);

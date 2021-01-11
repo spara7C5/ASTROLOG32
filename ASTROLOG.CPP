@@ -120,7 +120,7 @@ void Action()
 
 	if (is.szFileScreen)
 	{
-		is.S = fopen(is.szFileScreen, "w");
+		is.S = fopen(is.szFileScreen, "wb+");
 		if (is.S == NULL)
 		{
 			sprintf(sz, "File %s can not be created.", is.szFileScreen);
@@ -128,9 +128,9 @@ void Action()
 			is.S = stdout;
 		}
 	}
-	else
+	else if (wi.fAnimate==0){
 		is.S = stdout;
-
+	}
 	/* Print out any generic tables specified.        */
 	/* If nothing else to do, we can exit right away. */
 	if (!FPrintTables())			
@@ -183,7 +183,7 @@ void Action()
 			FOutputData();			/* the chart information to a file.   */
 	}
 
-	if (is.S != stdout)			/* If we were internally directing chart display to a */
+	if (is.S != stdout && wi.fAnimate==0)			/* If we were internally directing chart display to a */
 		fclose(is.S);			/* file as with the -os switch, close it here.        */
 
 	if (grid)

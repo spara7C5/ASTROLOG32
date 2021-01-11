@@ -494,7 +494,7 @@ void PrintSz(char *sz, ...)
 			is.cchCol = 0;
 		}
 
-		if (is.S == stdout)
+		if (is.S == stdout) // non selezionato file
 		{
 			if ((byte) * pch >= ' ')
 			{
@@ -505,11 +505,23 @@ void PrintSz(char *sz, ...)
 						(is.cchRow - wi.yScroll * 10) * wi.yChar, szInput, 1);
 			}
 		}
-		else
+		else if (wi.fAnimate==1) //selezionato file con animate attivo
+		{
+			fwrite(pch,1,1, is.S);
+			if ((byte) * pch >= ' ')
+			{
+				szInput[0] = *pch;
+				szInput[1] = chNull;
+				TextOut(wi.hdc,
+						(is.cchCol - 1 - wi.xScroll * 10) * wi.xChar + 4,
+						(is.cchRow - wi.yScroll * 10) * wi.yChar, szInput, 1);
+			}
+
+		}
+		else // selezionato file, animate non attivo
 		{
 			putc(*pch, is.S);
 		}
-
 		if (*pch == '\n' && is.S == stdout && wi.hdcPrint != hdcNil && is.cchRow >= us.nScrollRow)
 		{
 

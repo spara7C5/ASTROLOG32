@@ -217,12 +217,14 @@ void ChartListing()
 {
 	ET et;
 	char sz[cchSzDef];
-	int obj_left, obj_right, i, j, k, l;
+	int obj_left, obj_right, i, j, k, l,chkseek;
 	double rT;
-
+	if (is.S != stdout){
+		chkseek=fseek(is.S,0,SEEK_SET);
+	}
 	CreateElemTable(&et);
 	PrintHeader();				/* Show time and date of the chart being displayed. */
-
+	fflush(stdout);
 #ifdef INTERPRET
 	if (us.fInterpret)
 	{							/* Print an interpretation if -I in effect. */
@@ -257,7 +259,9 @@ void ChartListing()
 	}
 #endif
 
-	PrintL();
+	PrintL(); // stampa uno linea vuota
+
+	/*inzio stampa chart completa*/
 	AnsiColor(kDefault);
 	if (us.fSeconds)
 	{
@@ -275,7 +279,7 @@ void ChartListing()
 
 	/* Ok, now print out the location of each object. */
 
-	for (obj_right = 1 - us.fSeconds, obj_left = 0; obj_right <= cLastMoving; obj_right++, obj_left++)
+	for (obj_right = 1 - us.fSeconds, obj_left = 0; obj_right <= cLastMainPlanet; obj_right++, obj_left++)
 	{
 		if (us.fSeconds)
 		{
