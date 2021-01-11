@@ -44,6 +44,6 @@
 **
 */
 
-#define szVersionCore			"2.05"
-#define szAppNameCore			"Astrolog32"
+#define szVersionCore			"1.0"
+#define szAppNameCore			"Astrolog32-EXPORT"
 #define szSwissEphemerisVersion	"1.80"
